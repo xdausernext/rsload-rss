@@ -30,6 +30,6 @@ jobs:
         git add docs/feed.xml
         # Only commit if there are changes
         git diff --cached --quiet || git commit -m "Update feed"
-        git pull
+        git pull --rebase
         git push
 
