@@ -24,7 +24,7 @@ jobs:
       run: python generate_rss.py
 
     - name: Commit updated feed
-  run: |
+  run: 
     git config --global user.name "xdausernext"
     git config --global user.email "xdausernext@gmail.com"
     git add docs/feed.xml
