@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Aug 2025 18:13:56 +0000</lastBuildDate>
-    <item>
-      <title>NVIDIA App 11.0.5.245 x64</title>
-      <link>https://rsload.net/soft/manager/40783-nvidia-app.html</link>
-    </item>
-    <item>
-      <title>YT Downloader 9.16.5 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 18:45:06 +0000</lastBuildDate>
     <item>
       <title>FinePrint 12.15  + Repack</title>
       <link>https://rsload.net/soft/editor/11658-fineprint.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>Music Collection 3.9.3.1 Portable</title>
       <link>https://rsload.net/soft/manager/11424-music-collection.html</link>
+    </item>
+    <item>
+      <title>CPUID HWMonitor Pro 1.55 + 1.59 + x64 + Portable + Rus</title>
+      <link>https://rsload.net/soft/manager/8711-hwmonitor.html</link>
+    </item>
+    <item>
+      <title>Overloud TH-U Premium 2.0.6  + macOS + Slate Edition 2.0.1</title>
+      <link>https://rsload.net/soft/31449-overloud-th-u-complete.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
