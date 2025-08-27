@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Aug 2025 16:43:40 +0000</lastBuildDate>
-    <item>
-      <title>Jackett  0.22.2353</title>
-      <link>https://rsload.net/soft/manager/35884-jackett.html</link>
-    </item>
-    <item>
-      <title>DoesNotBelong 8.9.8 / Furtivex Malware Removal</title>
-      <link>https://rsload.net/soft/security/41021-furtivex-malware-removal.html</link>
-    </item>
-    <item>
-      <title>CudaText 1.226.7.0 + x64</title>
-      <link>https://rsload.net/soft/editor/20345-cudatext.html</link>
-    </item>
-    <item>
-      <title>ImTranslator 16.100 Firefox + 17.10 Google Chrome</title>
-      <link>https://rsload.net/soft/browser/22971-imtranslator.html</link>
-    </item>
-    <item>
-      <title>Bforartists 4.5.2 x64</title>
-      <link>https://rsload.net/soft/editor/37275-bforartists.html</link>
-    </item>
-    <item>
-      <title>IconSwapperGui 1.8.5</title>
-      <link>https://rsload.net/soft/desktop/40802-iconswappergui.html</link>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 17:08:38 +0000</lastBuildDate>
     <item>
       <title>BatchPatch 2025.8.21.18.38</title>
       <link>https://rsload.net/soft/manager/26597-batchpatch.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>Windows Terminal 1.23.12371.0 + x64</title>
       <link>https://rsload.net/soft/manager/35695-windows-terminal.html</link>
+    </item>
+    <item>
+      <title>YT Geek YTDL Pro 11.5.2</title>
+      <link>https://rsload.net/soft/manager/39921-yt-geek-ytdl-pro.html</link>
+    </item>
+    <item>
+      <title>Cockos REAPER 7.44 + x64 + Rus + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/8368-reaper.html</link>
+    </item>
+    <item>
+      <title>Muziza YouTube Downloader Converter 8.12.2</title>
+      <link>https://rsload.net/soft/manager/33695-muziza-youtube-downloader-converter.html</link>
+    </item>
+    <item>
+      <title>Boris FX SynthEyes Pro 2025.5 Build 3376 x64</title>
+      <link>https://rsload.net/soft/editor/40169-syntheyes-pro-2024.html</link>
+    </item>
+    <item>
+      <title>HashMyFiles 2.50 + x64 + Rus</title>
+      <link>https://rsload.net/soft/cleaner-disk/9527-hashmyfiles.html</link>
+    </item>
+    <item>
+      <title>Ghidra 11.4.2</title>
+      <link>https://rsload.net/soft/security/35362-ghidra.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
