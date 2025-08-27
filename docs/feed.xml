@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Aug 2025 07:10:01 +0000</lastBuildDate>
-    <item>
-      <title>HFS (HTTP File Server) 3 0.57.13</title>
-      <link>https://rsload.net/soft/traffic/13016-hfs.html</link>
-    </item>
-    <item>
-      <title>One Commander Pro 3.100.0 + Free + 3.11.0 macOS</title>
-      <link>https://rsload.net/soft/manager/35202-one-commander.html</link>
-    </item>
-    <item>
-      <title>GiliSoft Audio Recorder Pro 13.7  + Repack + Rus Portable</title>
-      <link>https://rsload.net/soft/editor/16134-gilisoft-audio-recorder-pro.html</link>
-    </item>
-    <item>
-      <title>MailWasher Pro 7.15.42 + Portable + Repack</title>
-      <link>https://rsload.net/soft/browser/13880-mailwasher.html</link>
-    </item>
-    <item>
-      <title>Karaosoft Karma 2026.0.8</title>
-      <link>https://rsload.net/soft/manager/38811-karaosoft-karma.html</link>
-    </item>
-    <item>
-      <title>FX Math Tools MultiDocs 25.08.25 x64</title>
-      <link>https://rsload.net/soft/editor/31744-fx-draw-tools.html</link>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 07:33:46 +0000</lastBuildDate>
     <item>
       <title>IObit Uninstaller Pro 15.0.0.5 + Portable + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/9592-iobit-uninstaller.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>MediaHuman YouTube to MP3 Converter 3.9.16 (2408)  + Portable + Repack + macOS</title>
       <link>https://rsload.net/soft/converter/26118-mediahuman-youtube-to-mp3-converter.html</link>
+    </item>
+    <item>
+      <title>pdfFactory Pro 9.15 + Repack</title>
+      <link>https://rsload.net/soft/converter/11657-pdffactory.html</link>
+    </item>
+    <item>
+      <title>FinePrint 12.15  + Repack</title>
+      <link>https://rsload.net/soft/editor/11658-fineprint.html</link>
+    </item>
+    <item>
+      <title>MassTube 2026 21.0.0.157 Ultra  + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/14449-masstube-downloader.html</link>
+    </item>
+    <item>
+      <title>HiBit Uninstaller 3.2.70 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/33950-hibit-uninstaller.html</link>
+    </item>
+    <item>
+      <title>Kalmuri 4.0.9  + Portable</title>
+      <link>https://rsload.net/soft/desktop/36223-kalmuri.html</link>
+    </item>
+    <item>
+      <title>Flyoobe (Flyby11) 1.5.219</title>
+      <link>https://rsload.net/soft/manager/40697-flyby11.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
