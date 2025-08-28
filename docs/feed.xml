@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 04:12:24 +0000</lastBuildDate>
-    <item>
-      <title>ExperienceIndexOK 4.58 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/20046-experienceindexok.html</link>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 04:40:28 +0000</lastBuildDate>
     <item>
       <title>GetWindowText 5.25  + x64</title>
       <link>https://rsload.net/soft/editor/12969-getwindowtext.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>JRiver Media Center 34.0.64 + MacOS + Repack + Portable</title>
       <link>https://rsload.net/soft/player/8632-j-river-media-center.html</link>
+    </item>
+    <item>
+      <title>pdfMachine Ultimate 20.48</title>
+      <link>https://rsload.net/soft/document/36336-pdfmachine-ultimate.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
