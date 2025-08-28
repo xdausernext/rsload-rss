@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 18:45:11 +0000</lastBuildDate>
-    <item>
-      <title>StartAllBack++ 3.9.14.5302 + 3.6.16.4729 + Repack</title>
-      <link>https://rsload.net/soft/desktop/35594-startallback.html</link>
-    </item>
-    <item>
-      <title>Perfectly Clear Complete 3.12.2.2045 / 4.8.0.2846  WorkBench + macOS</title>
-      <link>https://rsload.net/soft/graphics/23368-perfectly-clear.html</link>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 19:08:20 +0000</lastBuildDate>
     <item>
       <title>Radiant Photo 2.1.0.756 + Portable + Rus + Repack</title>
       <link>https://rsload.net/soft/graphics/38337-radiant-photo.html</link>
@@ -54,6 +46,14 @@
     <item>
       <title>FileZilla 3.69.3 + Pro + Repack + Rus + 1.11.0 Server x64 + Command Line 3.69.1</title>
       <link>https://rsload.net/soft/manager/8449-filezilla.html</link>
+    </item>
+    <item>
+      <title>Vivaldi Browser 7.5.3735.66 + x64 + Portable</title>
+      <link>https://rsload.net/soft/browser/19191-vivaldi.html</link>
+    </item>
+    <item>
+      <title>Opera 121.0 Build 5600.38 + Portable + Repack</title>
+      <link>https://rsload.net/soft/browser/8523-opera.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
