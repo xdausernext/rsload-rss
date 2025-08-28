@@ -6,7 +6,11 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 07:35:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 08:13:52 +0000</lastBuildDate>
+    <item>
+      <title>ExperienceIndexOK 4.58 + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/20046-experienceindexok.html</link>
+    </item>
     <item>
       <title>GetWindowText 5.25  + x64</title>
       <link>https://rsload.net/soft/editor/12969-getwindowtext.html</link>
@@ -56,16 +60,12 @@
       <link>https://rsload.net/soft/windows/windows-10-sborka/41280-windows-10-22h2-pro-iso-rus-2025-190456216.html</link>
     </item>
     <item>
-      <title>Windows 11 Pro 24H2 Lite сборка без TPM и телеметрии - iso 26100.4946 Ru/En</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41281-windows-11-pro-24h2-lite-iso-261004946-ru-en.html</link>
-    </item>
-    <item>
       <title>Windows 7 SP1 чистый образ iso от Августа 2025 с SSD / USB 3.0 - легкая сборка</title>
       <link>https://rsload.net/soft/windows/windows-7-sborka/41282-windows-7-sp1-iso-avgusta-2025-s-drayverami.html</link>
     </item>
     <item>
-      <title>Сбалансированная Windows 11 24H2 Лайт ОС 64-бит на Русском 2 ГБ</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41287-sbalansirovannaya-windows-11-24h2-layt-os.html</link>
+      <title>С обновлениями Windows 11 25H2 x64 на Русском - 26200.5761 без хлама и лишнего</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41288-windows-11-25h2-x64-rus-262005761.html</link>
     </item>
   </channel>
 </rss>
