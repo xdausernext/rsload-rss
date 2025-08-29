@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 06:45:42 +0000</lastBuildDate>
-    <item>
-      <title>LeafView 3.7.5</title>
-      <link>https://rsload.net/soft/graphics/36171-leafview.html</link>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 07:10:31 +0000</lastBuildDate>
     <item>
       <title>DBF Viewer 2000 8.81 + Repack</title>
       <link>https://rsload.net/soft/editor/38120-dbf-viewer-2000.html</link>
@@ -54,6 +50,10 @@
     <item>
       <title>Adobe Media Encoder 2025 25.4.1 + 2024 24.6.5 + Repack + Portable + 25.1 MacOS</title>
       <link>https://rsload.net/soft/editor/25613-adobe-media-encoder-cc.html</link>
+    </item>
+    <item>
+      <title>Office Installer 1.29 + Office Installer Plus</title>
+      <link>https://rsload.net/soft/40423-office-installer.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
