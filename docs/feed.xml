@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 00:51:56 +0000</lastBuildDate>
-    <item>
-      <title>Exportizer Enterprise 10.2.1.1356</title>
-      <link>https://rsload.net/soft/cleaner-disk/12736-exportizer.html</link>
-    </item>
-    <item>
-      <title>dBpoweramp Image Converter R2025-08-29 + macOS</title>
-      <link>https://rsload.net/soft/converter/35934-dbpoweramp-image-converter.html</link>
-    </item>
-    <item>
-      <title>DISMTools 0.7.25082 / 0.6.2 Update 2</title>
-      <link>https://rsload.net/soft/editor/40522-dismtools.html</link>
-    </item>
-    <item>
-      <title>MediaMonkey Gold 2024.2.0.3166 + Repack + Portable + Android</title>
-      <link>https://rsload.net/soft/manager/9009-mediamonkey.html</link>
-    </item>
-    <item>
-      <title>W10Privacy 5.2.0.5 + Rus</title>
-      <link>https://rsload.net/soft/20427-w10privacy.html</link>
-    </item>
+    <lastBuildDate>Sun, 31 Aug 2025 02:24:56 +0000</lastBuildDate>
     <item>
       <title>Fast Screen Recorder 2.1.0.15 + Repack + Portable</title>
       <link>https://rsload.net/soft/desktop/36146-fast-screen-recorder.html</link>
@@ -44,16 +24,36 @@
       <link>https://rsload.net/soft/manager/10773-essentialpim.html</link>
     </item>
     <item>
-      <title>Perfectly Clear Complete 3.12.2.2045 / 4.8.0.2846   WorkBench + macOS</title>
-      <link>https://rsload.net/soft/graphics/23368-perfectly-clear.html</link>
-    </item>
-    <item>
       <title>3D Youtube Downloader 1.22.12 +  x64 + Repack / Batch 2.15.12</title>
       <link>https://rsload.net/soft/manager/15603-3d-youtube-downloader.html</link>
     </item>
     <item>
       <title>iTubeGo YouTube Downloader 10.8.0 + x64 + Portable + macOS + Rus + Repack</title>
       <link>https://rsload.net/soft/manager/33698-itubego-youtube-downloader.html</link>
+    </item>
+    <item>
+      <title>CrystalDiskInfo 9.7.2 + Portable + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/8496-crystaldiskinfo.html</link>
+    </item>
+    <item>
+      <title>Perfectly Clear Complete 3.12.2.2045 / 4.8.0.2847 WorkBench + macOS</title>
+      <link>https://rsload.net/soft/graphics/23368-perfectly-clear.html</link>
+    </item>
+    <item>
+      <title>Avid Media Composer 25.6 + macOS</title>
+      <link>https://rsload.net/soft/editor/27185-avid-media-composer.html</link>
+    </item>
+    <item>
+      <title>Card Studio Deluxe 23.0.1.2 + Portable + Контент</title>
+      <link>https://rsload.net/soft/editor/25112-card-studio-2017-deluxe.html</link>
+    </item>
+    <item>
+      <title>HTML Compiler 2025.18 + x64</title>
+      <link>https://rsload.net/soft/converter/21906-html-compiler.html</link>
+    </item>
+    <item>
+      <title>Chaos  Enscape 4.10.0.464 x64 + Библиотеки</title>
+      <link>https://rsload.net/soft/editor/38628-enscape-3d.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
