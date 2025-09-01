@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Sep 2025 09:40:41 +0000</lastBuildDate>
-    <item>
-      <title>YT Downloader 9.16.7 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
-    </item>
-    <item>
-      <title>Cockos REAPER 7.45 + x64 + Rus + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/8368-reaper.html</link>
-    </item>
-    <item>
-      <title>Advanced Installer Architect 23.0 + Portable + Русская версия + Repack</title>
-      <link>https://rsload.net/soft/11072-advanced-installer.html</link>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 10:12:08 +0000</lastBuildDate>
     <item>
       <title>Makagiga 6.32</title>
       <link>https://rsload.net/soft/manager/11756-makagiga.html</link>
@@ -54,6 +42,18 @@
     <item>
       <title>Advanced Renamer 4.16 x64  + Portable + Commercial + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/10403-advanced-renamer.html</link>
+    </item>
+    <item>
+      <title>PyGPT 2.6.31</title>
+      <link>https://rsload.net/soft/editor/41234-pygpt.html</link>
+    </item>
+    <item>
+      <title>VidCoder 11.11 + 8.26 + 9.20 + Portable + Repack + 12.5 Beta</title>
+      <link>https://rsload.net/soft/converter/10076-vidcoder.html</link>
+    </item>
+    <item>
+      <title>360 Total Security 11.0.0.1237 / Security Essential 8.8.0.1119</title>
+      <link>https://rsload.net/soft/security/17169-360-total-security.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
