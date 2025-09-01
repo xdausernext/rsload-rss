@@ -6,54 +6,54 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Sep 2025 13:03:08 +0000</lastBuildDate>
-    <item>
-      <title>Makagiga 6.32</title>
-      <link>https://rsload.net/soft/manager/11756-makagiga.html</link>
-    </item>
-    <item>
-      <title>PCSX2 2.2.0 x64 + 2.5.148 Nightly</title>
-      <link>https://rsload.net/soft/33851-pcsx2.html</link>
-    </item>
-    <item>
-      <title>Ruffle Nightly   2025-09-01 + x64</title>
-      <link>https://rsload.net/soft/player/35001-ruffle-2021-03-14.html</link>
-    </item>
-    <item>
-      <title>PhotoFiltre Studio 11.7 + Rus + Portable + Repack</title>
-      <link>https://rsload.net/soft/graphics/10785-photofiltre-studio.html</link>
-    </item>
-    <item>
-      <title>Bulk Rename Utility 4.1.0.0 + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/21506-bulk-rename-utility.html</link>
-    </item>
-    <item>
-      <title>Fast Video Cutter Joiner 6.9.0 + Repack + Portable + Rus</title>
-      <link>https://rsload.net/soft/editor/38722-fast-video-cutter-joiner.html</link>
-    </item>
-    <item>
-      <title>AmoyShare BeeConverter Pro 1.7.0 + Portable</title>
-      <link>https://rsload.net/soft/converter/38998-amoyshare-beeconverter-pro.html</link>
-    </item>
-    <item>
-      <title>Freemake Video Converter 5.0.0.12 + Repack + Portable</title>
-      <link>https://rsload.net/soft/converter/8323-freemake-video-converter.html</link>
-    </item>
-    <item>
-      <title>Advanced Renamer 4.16 x64  + Portable + Commercial + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/10403-advanced-renamer.html</link>
-    </item>
-    <item>
-      <title>PyGPT 2.6.31</title>
-      <link>https://rsload.net/soft/editor/41234-pygpt.html</link>
-    </item>
-    <item>
-      <title>VidCoder 11.11 + 8.26 + 9.20 + Portable + Repack + 12.5 Beta</title>
-      <link>https://rsload.net/soft/converter/10076-vidcoder.html</link>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 13:43:22 +0000</lastBuildDate>
     <item>
       <title>360 Total Security 11.0.0.1237 / Security Essential 8.8.0.1119</title>
       <link>https://rsload.net/soft/security/17169-360-total-security.html</link>
+    </item>
+    <item>
+      <title>Office Timeline Pro 11.25.00.00</title>
+      <link>https://rsload.net/soft/document/32056-office-timeline.html</link>
+    </item>
+    <item>
+      <title>X-Ability Winmostar 11.13.2</title>
+      <link>https://rsload.net/soft/editor/40721-x-ability-winmostar.html</link>
+    </item>
+    <item>
+      <title>Atlantis Word Processor 4.4.6.6 + Portable + Rus + Repack</title>
+      <link>https://rsload.net/soft/document/10642-atlantis-word-processor.html</link>
+    </item>
+    <item>
+      <title>HttpMaster Pro 6.2.1  + Portable</title>
+      <link>https://rsload.net/soft/editor/31765-httpmaster-pro.html</link>
+    </item>
+    <item>
+      <title>Evernote 10.153.1.7524 / 6.25.1.9091</title>
+      <link>https://rsload.net/soft/manager/10694-evernote.html</link>
+    </item>
+    <item>
+      <title>IsMyLcdOK 6.11 + x64 + Portable</title>
+      <link>https://rsload.net/soft/desktop/10134-ismylcdok.html</link>
+    </item>
+    <item>
+      <title>BoostPing 1.5.9 на Русском</title>
+      <link>https://rsload.net/soft/optimization/40677-boostping.html</link>
+    </item>
+    <item>
+      <title>Image-Line FL Studio Producer 25.1.4 Build 4951 + Portable + macOS + Rus</title>
+      <link>https://rsload.net/soft/editor/14794-fl-studio-producer-edition.html</link>
+    </item>
+    <item>
+      <title>Joplin 3.4.10</title>
+      <link>https://rsload.net/soft/manager/35828-joplin.html</link>
+    </item>
+    <item>
+      <title>Lowvel 3053</title>
+      <link>https://rsload.net/soft/cleaner-disk/15768-lowvel.html</link>
+    </item>
+    <item>
+      <title>Opera GX  121.0.5600.47 + Portable + x64</title>
+      <link>https://rsload.net/soft/browser/35981-opera-gx.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
