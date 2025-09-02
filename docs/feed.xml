@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Sep 2025 08:14:32 +0000</lastBuildDate>
-    <item>
-      <title>MassTube 2026 21.0.1.162 Ultra  + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/14449-masstube-downloader.html</link>
-    </item>
-    <item>
-      <title>Dashcam Viewer 4.0.7 Plus  + Repack + Portable</title>
-      <link>https://rsload.net/soft/player/29822-dashcam-viewer-programma-s-klyuchom.html</link>
-    </item>
-    <item>
-      <title>Monkey's Audio 11.41 + x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/12715-monkeys-audio.html</link>
-    </item>
-    <item>
-      <title>Telegram for Desktop 6.1.1 + Portable + Repack</title>
-      <link>https://rsload.net/soft/talk/27057-telegram-for-desktop.html</link>
-    </item>
-    <item>
-      <title>CatsXP Browser 5.9.1 + x64 + Portable</title>
-      <link>https://rsload.net/soft/browser/36031-catsxp.html</link>
-    </item>
+    <lastBuildDate>Tue, 02 Sep 2025 08:43:52 +0000</lastBuildDate>
     <item>
       <title>DesktopDigitalClock 5.57 + x64  + Portable</title>
       <link>https://rsload.net/soft/desktop/32962-desktopdigitalclock.html</link>
@@ -54,6 +34,26 @@
     <item>
       <title>Hard Disk Sentinel Pro 6.30.3 + Portable + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/9119-hard-disk-sentinel.html</link>
+    </item>
+    <item>
+      <title>TreeSize Professional 9.6.0.2152 + Portable + Rus + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/10110-treesize.html</link>
+    </item>
+    <item>
+      <title>Screenity 3.1.15</title>
+      <link>https://rsload.net/soft/desktop/36431-screenity.html</link>
+    </item>
+    <item>
+      <title>Mailtrack для Gmail 12.54.1</title>
+      <link>https://rsload.net/soft/browser/37087-mailtrack-gmail.html</link>
+    </item>
+    <item>
+      <title>Adobe Photoshop Express  3.22.24.0</title>
+      <link>https://rsload.net/soft/graphics/37278-adobe-photoshop-express.html</link>
+    </item>
+    <item>
+      <title>Syncthing 2.0.4 + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/35082-syncthing.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
