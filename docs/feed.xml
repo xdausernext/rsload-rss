@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 16:11:41 +0000</lastBuildDate>
-    <item>
-      <title>AIMP 5.40.2693 + Portable + Repack</title>
-      <link>https://rsload.net/soft/player/8429-aimp.html</link>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 16:42:35 +0000</lastBuildDate>
     <item>
       <title>Typora 1.11.7 + x64 + 1.10.8 MacOS</title>
       <link>https://rsload.net/soft/editor/32299-typora.html</link>
@@ -54,6 +50,10 @@
     <item>
       <title>Draftable Desktop 25.9.0 x64 + Portable</title>
       <link>https://rsload.net/soft/document/33728-draftable-desktop.html</link>
+    </item>
+    <item>
+      <title>Gigabyte AORUS Engine 2.3.0</title>
+      <link>https://rsload.net/soft/optimization/31634-gigabyte-aorus-engine-166.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
