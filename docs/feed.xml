@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 09:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 09:36:20 +0000</lastBuildDate>
     <item>
       <title>Electron  38.0 x64</title>
       <link>https://rsload.net/soft/editor/34986-electron.html</link>
