@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 09:36:20 +0000</lastBuildDate>
-    <item>
-      <title>Electron  38.0 x64</title>
-      <link>https://rsload.net/soft/editor/34986-electron.html</link>
-    </item>
-    <item>
-      <title>PDQ Inventory 19.4.109.0 Enterprise</title>
-      <link>https://rsload.net/soft/manager/32763-pdq-inventory.html</link>
-    </item>
-    <item>
-      <title>PDQ Deploy Enterprise 19.4.109.0 x64</title>
-      <link>https://rsload.net/soft/manager/26535-pdq-deploy-enterprise.html</link>
-    </item>
-    <item>
-      <title>Silhouette Studio 3.7.227 + 4.5.815 + 5.0.402</title>
-      <link>https://rsload.net/soft/graphics/23425-silhouette-studio.html</link>
-    </item>
-    <item>
-      <title>Ambiera CopperCube 6.7.2 x64 Pro + MacOS</title>
-      <link>https://rsload.net/soft/editor/26328-ambiera-coppercube-professional-56-portable.html</link>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 10:10:24 +0000</lastBuildDate>
     <item>
       <title>App Builder 2025.30 + Portable</title>
       <link>https://rsload.net/soft/editor/23323-app-builder.html</link>
@@ -54,6 +34,26 @@
     <item>
       <title>Opera 121.0 Build 5600.50 + Portable + Repack</title>
       <link>https://rsload.net/soft/browser/8523-opera.html</link>
+    </item>
+    <item>
+      <title>Abelssoft RouterGuard 2026 4.0.64977 x64</title>
+      <link>https://rsload.net/soft/manager/37169-abelssoft-routerguard.html</link>
+    </item>
+    <item>
+      <title>Coolmuster Android Assistant 6.0.78 + Repack / Lab.Fone for Android 6.1.13</title>
+      <link>https://rsload.net/soft/cleaner-disk/24647-coolmuster-android-assistant.html</link>
+    </item>
+    <item>
+      <title>Mountain Duck 5.0.1.27950 x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/36222-mountain-duck.html</link>
+    </item>
+    <item>
+      <title>ExpanDrive 2025.08.28 + MacOS</title>
+      <link>https://rsload.net/soft/cleaner-disk/16239-expandrive.html</link>
+    </item>
+    <item>
+      <title>Nobe OmniScope 1.11.6 x64</title>
+      <link>https://rsload.net/soft/editor/40316-nobe-omniscope.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
