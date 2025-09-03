@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 07:33:24 +0000</lastBuildDate>
-    <item>
-      <title>Sophia Script Wrapper 6.9.1</title>
-      <link>https://rsload.net/soft/optimization/40480-sophia-script-wrapper.html</link>
-    </item>
-    <item>
-      <title>DesktopOK 11.98 + x64</title>
-      <link>https://rsload.net/soft/desktop/9548-desktopok-281-x64.html</link>
-    </item>
-    <item>
-      <title>Maxthon Browser  7.3.1.8600  + x64  + Portable</title>
-      <link>https://rsload.net/soft/browser/8337-maxthon.html</link>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 08:13:52 +0000</lastBuildDate>
     <item>
       <title>MemoryCleaner 1.8.8 на Русском</title>
       <link>https://rsload.net/soft/optimization/40700-memorycleaner.html</link>
@@ -54,6 +42,18 @@
     <item>
       <title>PDQ Deploy Enterprise 19.4.109.0 x64</title>
       <link>https://rsload.net/soft/manager/26535-pdq-deploy-enterprise.html</link>
+    </item>
+    <item>
+      <title>Silhouette Studio 3.7.227 + 4.5.815 + 5.0.402</title>
+      <link>https://rsload.net/soft/graphics/23425-silhouette-studio.html</link>
+    </item>
+    <item>
+      <title>Ambiera CopperCube 6.7.2 x64 Pro + MacOS</title>
+      <link>https://rsload.net/soft/editor/26328-ambiera-coppercube-professional-56-portable.html</link>
+    </item>
+    <item>
+      <title>App Builder 2025.30 + Portable</title>
+      <link>https://rsload.net/soft/editor/23323-app-builder.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
