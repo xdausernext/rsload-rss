@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Sep 2025 05:36:41 +0000</lastBuildDate>
-    <item>
-      <title>StartAllBack++ 3.9.14.5310 + 3.6.16.4729 + Repack</title>
-      <link>https://rsload.net/soft/desktop/35594-startallback.html</link>
-    </item>
-    <item>
-      <title>NWinfo 1.4.3</title>
-      <link>https://rsload.net/soft/manager/40984-nwinfo.html</link>
-    </item>
-    <item>
-      <title>XL-Connector 3.6.8</title>
-      <link>https://rsload.net/soft/manager/41219-xl-connector.html</link>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 06:14:52 +0000</lastBuildDate>
     <item>
       <title>Corsair iCUE 5.33.88  x64</title>
       <link>https://rsload.net/soft/manager/35664-corsair-icue.html</link>
@@ -54,6 +42,18 @@
     <item>
       <title>Game Fire Pro 6.7.3800  + Free 7.3.4912</title>
       <link>https://rsload.net/soft/optimization/35939-game-fire-pro.html</link>
+    </item>
+    <item>
+      <title>BeWidgets  1.0.5.0</title>
+      <link>https://rsload.net/soft/desktop/36072-bewidgets.html</link>
+    </item>
+    <item>
+      <title>LightBurn 2.0.03 x64</title>
+      <link>https://rsload.net/soft/editor/35089-lightburn.html</link>
+    </item>
+    <item>
+      <title>Rapid Composer 5.5.6  + Portable</title>
+      <link>https://rsload.net/soft/editor/29889-rapidcomposer-skachat-arhiv-s-klyuchom.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
