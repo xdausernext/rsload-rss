@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Sep 2025 13:33:37 +0000</lastBuildDate>
-    <item>
-      <title>brave 1.82.161 + x64</title>
-      <link>https://rsload.net/soft/browser/22052-brave.html</link>
-    </item>
-    <item>
-      <title>foobar2000 2.25 + Rus + Portable + Repack + 2.25.1 Preview 09.04</title>
-      <link>https://rsload.net/soft/player/8365-foobar2000.html</link>
-    </item>
-    <item>
-      <title>Auslogics SSD Optimizer Pro 2.1 + Portable + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/40808-auslogics-ssd-optimizer-pro.html</link>
-    </item>
-    <item>
-      <title>Auslogics Registry Cleaner Professional 11.1.0 + Rus + Repack + Portable</title>
-      <link>https://rsload.net/soft/registry/11007-auslogics-registry-cleaner.html</link>
-    </item>
-    <item>
-      <title>Auslogics File Recovery Pro 12.1.0 + Repack + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/10206-auslogics-file-recovery.html</link>
-    </item>
-    <item>
-      <title>Auslogics Duplicate File Finder 11.1.0 + Repack + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/10205-auslogics-duplicate-file-finder.html</link>
-    </item>
-    <item>
-      <title>Auslogics Disk Defrag Professional 12.1.0 + Ultimate 4.13.0.2 + Portable + Rus + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/8476-auslogics-disk-defrag.html</link>
-    </item>
+    <lastBuildDate>Sun, 07 Sep 2025 14:07:48 +0000</lastBuildDate>
     <item>
       <title>Auslogics BoostSpeed 14.1 + Repack + Portable - Русская версия</title>
       <link>https://rsload.net/soft/optimization/8494-auslogics-boostspeed1.html</link>
@@ -54,6 +26,34 @@
     <item>
       <title>AIMP 5.40.2693 + Portable + Repack</title>
       <link>https://rsload.net/soft/player/8429-aimp.html</link>
+    </item>
+    <item>
+      <title>Cockos REAPER 7.45 + x64 + Rus + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/8368-reaper.html</link>
+    </item>
+    <item>
+      <title>PanoramaStudio Pro 4.1.5.441  + x64 + Portable + Repack + maCOS</title>
+      <link>https://rsload.net/soft/graphics/12317-panoramastudio.html</link>
+    </item>
+    <item>
+      <title>R-Studio 9.5 Build 191603 + Repack + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/8413-r-studio1.html</link>
+    </item>
+    <item>
+      <title>Calibre 8.10.0 + x64 + Portable + Repack + MacOS</title>
+      <link>https://rsload.net/soft/document/9183-calibre.html</link>
+    </item>
+    <item>
+      <title>MyLanViewer 6.5.7 Enterprise + Rus Portable + Repack</title>
+      <link>https://rsload.net/soft/traffic/8291-mylanviewer.html</link>
+    </item>
+    <item>
+      <title>iDownerGo 10.8.0 + Portable + Repack + macOS</title>
+      <link>https://rsload.net/soft/manager/40752-idownergo.html</link>
+    </item>
+    <item>
+      <title>Secure Eraser Pro 7.005 + Repack + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/12253-secure-eraser.html</link>
     </item>
     <item>
       <title>Настроенная Windows 10 22H2 Pro легкий iso без телеметрии и хлама - 19045.6216</title>
