@@ -6,6 +6,66 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 11:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 12:20:23 +0000</lastBuildDate>
+    <item>
+      <title>HandBrake 1.10.2 + x64 + Portable / 20250822 Nightly</title>
+      <link>https://rsload.net/soft/converter/10295-handbrake.html</link>
+    </item>
+    <item>
+      <title>Patch My PC 5.3.0.3</title>
+      <link>https://rsload.net/soft/manager/10341-patch-my-pc.html</link>
+    </item>
+    <item>
+      <title>StaxRip 2.50.0 x64 Portable</title>
+      <link>https://rsload.net/soft/converter/14265-staxrip.html</link>
+    </item>
+    <item>
+      <title>CameraFTP Virtual Security System 5.1.174 x64</title>
+      <link>https://rsload.net/soft/manager/41274-cameraftp-virtual-security-system.html</link>
+    </item>
+    <item>
+      <title>Glarysoft Malware Hunter PRO 1.205.0.836 + Portable  + Repack</title>
+      <link>https://rsload.net/soft/security/21408-glarysoft-malware-hunter.html</link>
+    </item>
+    <item>
+      <title>Glary Utilities Pro  6.31.0.35 + Portable + Repack</title>
+      <link>https://rsload.net/soft/optimization/8598-glary-utilities.html</link>
+    </item>
+    <item>
+      <title>AnyMP4 Blu-ray Copy Platinum 7.3.20</title>
+      <link>https://rsload.net/soft/cleaner-disk/20161-anymp4-blu-ray-copy-platinum.html</link>
+    </item>
+    <item>
+      <title>HTML Compiler 2025.19 + x64</title>
+      <link>https://rsload.net/soft/converter/21906-html-compiler.html</link>
+    </item>
+    <item>
+      <title>SlickEdit Pro 2024 29.0.3 x64</title>
+      <link>https://rsload.net/soft/editor/34248-slickedit-pro.html</link>
+    </item>
+    <item>
+      <title>Duplicate Photos Fixer Pro 1.3.1086.1046 + Portable + MacOS / Duplicate Files Fixer 1.2.1.1078</title>
+      <link>https://rsload.net/soft/cleaner-disk/31125-duplicate-photos-fixer-pro.html</link>
+    </item>
+    <item>
+      <title>Glary Disk Cleaner 6.0.1.32 + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/18169-glary-disk-cleaner.html</link>
+    </item>
+    <item>
+      <title>Glary Tracks Eraser 6.0.1.25</title>
+      <link>https://rsload.net/soft/security/20309-glary-tracks-eraser.html</link>
+    </item>
+    <item>
+      <title>Windows 7 SP1 чистый образ iso от Августа 2025 с SSD / USB 3.0 - легкая сборка</title>
+      <link>https://rsload.net/soft/windows/windows-7-sborka/41282-windows-7-sp1-iso-avgusta-2025-s-drayverami.html</link>
+    </item>
+    <item>
+      <title>Windows 11 Pro 24H2 x64 ISO 2025 - новый образ с защитником и драйверами</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41290-windows-11-pro-24h2-x64-iso-2025.html</link>
+    </item>
+    <item>
+      <title>Образ Windows 10 Pro 22H2 на Русском - iso 19045.6216 с Антивирусом и Магазином</title>
+      <link>https://rsload.net/soft/windows/windows-10-sborka/41291-windows-10-pro-22h2-rus-x64-iso-190456216.html</link>
+    </item>
   </channel>
 </rss>
