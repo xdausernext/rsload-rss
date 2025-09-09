@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 12:20:40 +0000</lastBuildDate>
-    <item>
-      <title>Helium Music Manager 17.4.500 Premium x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/10941-helium-music-manager.html</link>
-    </item>
-    <item>
-      <title>XRecode III 1.171 + Repack + Portable / II 1.0.0.232 + Repack</title>
-      <link>https://rsload.net/soft/converter/10136-xrecode.html</link>
-    </item>
-    <item>
-      <title>FxSound 2 v1.0.5.0 / Pro 1.1.36 + 1.2.0.0 Beta + Rus + Repack</title>
-      <link>https://rsload.net/soft/optimization/34274-fxsound-2.html</link>
-    </item>
-    <item>
-      <title>Hasleo Backup Suite 5.4.2.3 + WinPE + Русская Portable версия</title>
-      <link>https://rsload.net/soft/cleaner-disk/35503-hasleo-backup-suite.html</link>
-    </item>
-    <item>
-      <title>Auslogics Anti-Malware 1.23.0.2 + Rus + Portable + Repack</title>
-      <link>https://rsload.net/soft/security/20299-auslogics-anti-malware.html</link>
-    </item>
-    <item>
-      <title>AIMP 5.40.2694 + Portable + Repack</title>
-      <link>https://rsload.net/soft/player/8429-aimp.html</link>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 13:04:08 +0000</lastBuildDate>
     <item>
       <title>priPrinter Professional 7.0.0.2608 + Server  + Repack + Beta</title>
       <link>https://rsload.net/soft/document/10973-priprinter.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>EIVA NaviModel Producer 4.11</title>
       <link>https://rsload.net/soft/editor/41145-eiva-navimodel-producer.html</link>
+    </item>
+    <item>
+      <title>Blender 4.5.3 + x64 + Portable + Addons + Repack +  5.0.0 Alpha</title>
+      <link>https://rsload.net/soft/editor/8309-blender.html</link>
+    </item>
+    <item>
+      <title>xemu 0.8.98 + x64</title>
+      <link>https://rsload.net/soft/37451-xemu.html</link>
+    </item>
+    <item>
+      <title>StaxRip 2.50.1 x64 Portable</title>
+      <link>https://rsload.net/soft/converter/14265-staxrip.html</link>
+    </item>
+    <item>
+      <title>Daum PotPlayer 1.7.22570 + x64 + Portable + Repack + 250909</title>
+      <link>https://rsload.net/soft/player/8856-daum-potplayer.html</link>
+    </item>
+    <item>
+      <title>MediaPortal 2.5 + 1.38.2 x64</title>
+      <link>https://rsload.net/soft/player/10362-mediaportal.html</link>
+    </item>
+    <item>
+      <title>Arc 1.70.0</title>
+      <link>https://rsload.net/soft/browser/41246-arc.html</link>
     </item>
     <item>
       <title>Windows 7 SP1 чистый образ iso от Августа 2025 с SSD / USB 3.0 - легкая сборка</title>
