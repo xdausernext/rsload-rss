@@ -6,6 +6,66 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 09:36:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 10:10:20 +0000</lastBuildDate>
+    <item>
+      <title>Linux Kernel 6.16.6</title>
+      <link>https://rsload.net/soft/35697-linux-kernel.html</link>
+    </item>
+    <item>
+      <title>brave 1.82.165 + x64</title>
+      <link>https://rsload.net/soft/browser/22052-brave.html</link>
+    </item>
+    <item>
+      <title>Canvas X Pro 20.0.1010 x64 + Portable</title>
+      <link>https://rsload.net/soft/editor/36395-canvas-x-pro.html</link>
+    </item>
+    <item>
+      <title>AssistMyTeam PDF Converter 7.1.294.0 + x64</title>
+      <link>https://rsload.net/soft/converter/40201-assistmyteam-pdf-converter.html</link>
+    </item>
+    <item>
+      <title>AmoyShare BeeConverter Pro 3.0.0 x64 + Portable</title>
+      <link>https://rsload.net/soft/converter/38998-amoyshare-beeconverter-pro.html</link>
+    </item>
+    <item>
+      <title>BatchPatch 2025.9.8.17.26</title>
+      <link>https://rsload.net/soft/manager/26597-batchpatch.html</link>
+    </item>
+    <item>
+      <title>Stellar Repair for Photo 8.8.0.0 x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/38947-stellar-repair-for-photo.html</link>
+    </item>
+    <item>
+      <title>Bandizip Professional 7.40 + MacOS + Portable + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/10098-bandizip.html</link>
+    </item>
+    <item>
+      <title>Topaz Photo AI 4.1.0 + Portable + Repack + 3.4.4 macOS</title>
+      <link>https://rsload.net/soft/graphics/38238-topaz-photo-ai.html</link>
+    </item>
+    <item>
+      <title>Remote Desktop Manager 2025.2.28 Enterprise + MacOS</title>
+      <link>https://rsload.net/soft/traffic/10307-remote-desktop-manager.html</link>
+    </item>
+    <item>
+      <title>Capture One 23 Pro 16.6.6.3111 x64 +  Enterprise + Portable + Repack + 16.5.6.22 macOS</title>
+      <link>https://rsload.net/soft/graphics/10998-capture-one-pro.html</link>
+    </item>
+    <item>
+      <title>Windows 7 SP1 чистый образ iso от Августа 2025 с SSD / USB 3.0 - легкая сборка</title>
+      <link>https://rsload.net/soft/windows/windows-7-sborka/41282-windows-7-sp1-iso-avgusta-2025-s-drayverami.html</link>
+    </item>
+    <item>
+      <title>Windows 11 Pro 24H2 x64 ISO 2025 - новый образ с защитником и драйверами</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41290-windows-11-pro-24h2-x64-iso-2025.html</link>
+    </item>
+    <item>
+      <title>Образ Windows 10 Pro 22H2 на Русском - iso 19045.6216 с Антивирусом и Магазином</title>
+      <link>https://rsload.net/soft/windows/windows-10-sborka/41291-windows-10-pro-22h2-rus-x64-iso-190456216.html</link>
+    </item>
+    <item>
+      <title>Виндовс 11 25H2 64 бит на Русском + лаунчер + активация  - iso 26220.5790</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41292-windows-11-25h2-64-rus-iso-262205790.html</link>
+    </item>
   </channel>
 </rss>
