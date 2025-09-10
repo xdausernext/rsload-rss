@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 03:42:26 +0000</lastBuildDate>
-    <item>
-      <title>Serato DJ Pro Suite 3.3.4 + Portable / Pro Suite 3.2.2 macOS</title>
-      <link>https://rsload.net/soft/editor/27641-serato-dj.html</link>
-    </item>
-    <item>
-      <title>ProfiCAD 13.2.1 с ключом</title>
-      <link>https://rsload.net/soft/editor/14043-proficad.html</link>
-    </item>
+    <lastBuildDate>Wed, 10 Sep 2025 04:11:53 +0000</lastBuildDate>
     <item>
       <title>MobiKin Backup Manager for Android 2.0.19</title>
       <link>https://rsload.net/soft/manager/38483-mobikin-backup-manager-for-android.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>Microsoft Activation Scripts 3.6</title>
       <link>https://rsload.net/soft/39003-microsoft-activation-scripts.html</link>
+    </item>
+    <item>
+      <title>EarthView 7.13.9 + Repack + Portable</title>
+      <link>https://rsload.net/soft/desktop/9635-earthview.html</link>
+    </item>
+    <item>
+      <title>EarthTime 6.30.9</title>
+      <link>https://rsload.net/soft/desktop/11591-earthtime.html</link>
     </item>
     <item>
       <title>Windows 7 SP1 чистый образ iso от Августа 2025 с SSD / USB 3.0 - легкая сборка</title>
