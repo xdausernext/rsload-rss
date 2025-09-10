@@ -6,66 +6,6 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 09:10:50 +0000</lastBuildDate>
-    <item>
-      <title>Tower 9.2.529 x64</title>
-      <link>https://rsload.net/soft/manager/41210-tower.html</link>
-    </item>
-    <item>
-      <title>Blackmagic Design Fusion Studio 20.2 x64 + Repack + Portable + MacOS</title>
-      <link>https://rsload.net/soft/editor/26084-blackmagic-design-fusion-studio.html</link>
-    </item>
-    <item>
-      <title>Blackmagic Design DaVinci Resolve Studio 20.2 x64 + MacOS + Repack + Linux + Переходы</title>
-      <link>https://rsload.net/soft/editor/20845-davinci-resolve.html</link>
-    </item>
-    <item>
-      <title>Microsoft Office 365 ProPlus - Online Installer 3.3.6</title>
-      <link>https://rsload.net/soft/manager/39046-microsoft-office-365-proplus-online-installer.html</link>
-    </item>
-    <item>
-      <title>PassFab for ISO 2.1.3.2</title>
-      <link>https://rsload.net/soft/cleaner-disk/41046-passfab-for-iso.html</link>
-    </item>
-    <item>
-      <title>TickTick Premium 6.3.6</title>
-      <link>https://rsload.net/soft/manager/36993-ticktick-premium.html</link>
-    </item>
-    <item>
-      <title>Google Chrome 140.0.7339.128 + x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/browser/8328-google-chrome.html</link>
-    </item>
-    <item>
-      <title>360 Total Security 11.0.0.1240 / Security Essential 8.8.0.1119</title>
-      <link>https://rsload.net/soft/security/17169-360-total-security.html</link>
-    </item>
-    <item>
-      <title>Linux Kernel 6.16.6</title>
-      <link>https://rsload.net/soft/35697-linux-kernel.html</link>
-    </item>
-    <item>
-      <title>brave 1.82.165 + x64</title>
-      <link>https://rsload.net/soft/browser/22052-brave.html</link>
-    </item>
-    <item>
-      <title>Canvas X Pro 20.0.1010 x64 + Portable</title>
-      <link>https://rsload.net/soft/editor/36395-canvas-x-pro.html</link>
-    </item>
-    <item>
-      <title>Windows 7 SP1 чистый образ iso от Августа 2025 с SSD / USB 3.0 - легкая сборка</title>
-      <link>https://rsload.net/soft/windows/windows-7-sborka/41282-windows-7-sp1-iso-avgusta-2025-s-drayverami.html</link>
-    </item>
-    <item>
-      <title>Windows 11 Pro 24H2 x64 ISO 2025 - новый образ с защитником и драйверами</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41290-windows-11-pro-24h2-x64-iso-2025.html</link>
-    </item>
-    <item>
-      <title>Образ Windows 10 Pro 22H2 на Русском - iso 19045.6216 с Антивирусом и Магазином</title>
-      <link>https://rsload.net/soft/windows/windows-10-sborka/41291-windows-10-pro-22h2-rus-x64-iso-190456216.html</link>
-    </item>
-    <item>
-      <title>Виндовс 11 25H2 64 бит на Русском + лаунчер + активация  - iso 26220.5790</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41292-windows-11-25h2-64-rus-iso-262205790.html</link>
-    </item>
+    <lastBuildDate>Wed, 10 Sep 2025 09:36:52 +0000</lastBuildDate>
   </channel>
 </rss>
