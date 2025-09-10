@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 12:18:54 +0000</lastBuildDate>
-    <item>
-      <title>Topaz Photo AI 4.1.0 + Portable + Repack + 3.4.4 macOS</title>
-      <link>https://rsload.net/soft/graphics/38238-topaz-photo-ai.html</link>
-    </item>
-    <item>
-      <title>Remote Desktop Manager 2025.2.28 Enterprise + MacOS</title>
-      <link>https://rsload.net/soft/traffic/10307-remote-desktop-manager.html</link>
-    </item>
+    <lastBuildDate>Wed, 10 Sep 2025 12:59:57 +0000</lastBuildDate>
     <item>
       <title>Capture One 23 Pro 16.6.6.3111 x64 +  Enterprise + Portable + Repack + 16.5.6.22 macOS</title>
       <link>https://rsload.net/soft/graphics/10998-capture-one-pro.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>PPTube 10.8.2 x64 на Русском + macOS</title>
       <link>https://rsload.net/soft/manager/40846-pptube.html</link>
+    </item>
+    <item>
+      <title>MyLanViewer 6.5.8 Enterprise + Rus Portable + Repack</title>
+      <link>https://rsload.net/soft/traffic/8291-mylanviewer.html</link>
+    </item>
+    <item>
+      <title>Tixati 3.38  + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/10794-tixati.html</link>
     </item>
     <item>
       <title>Windows 7 SP1 чистый образ iso от Августа 2025 с SSD / USB 3.0 - легкая сборка</title>
