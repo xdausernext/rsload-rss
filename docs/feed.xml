@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 13:27:29 +0000</lastBuildDate>
-    <item>
-      <title>PlayerFab 7.0.5.3 x64 + Portable / DVDFab Media Player Ultra</title>
-      <link>https://rsload.net/soft/player/11439-dvdfab-media-player-11015-lic.html</link>
-    </item>
-    <item>
-      <title>Inno Setup Compiler 6.5.2  + Portable Rus</title>
-      <link>https://rsload.net/soft/editor/9653-inno-setup.html</link>
-    </item>
-    <item>
-      <title>Aiseesoft HEIC Converter 1.0.38 + Repack + Portable + 1.0.26 macOS</title>
-      <link>https://rsload.net/soft/converter/36108-aiseesoft-heic-converter.html</link>
-    </item>
+    <lastBuildDate>Wed, 10 Sep 2025 13:41:21 +0000</lastBuildDate>
     <item>
       <title>YT Saver Pro 10.8.2 + x64 + Portable + macOS</title>
       <link>https://rsload.net/soft/manager/38521-yt-saver.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>AnyTrans iOS 8.9.12.20250910 +  8.9.10 (20240926) macOS</title>
       <link>https://rsload.net/soft/cleaner-disk/25008-anytrans.html</link>
+    </item>
+    <item>
+      <title>DesktopDigitalClock 6.11 + x64  + Portable</title>
+      <link>https://rsload.net/soft/desktop/32962-desktopdigitalclock.html</link>
+    </item>
+    <item>
+      <title>Rufus 4.8.2250 + Portable + Русская версия + 4.10 Beta</title>
+      <link>https://rsload.net/soft/cleaner-disk/12536-rufus.html</link>
+    </item>
+    <item>
+      <title>Old Twitter Layout for Chrome 1.9.1</title>
+      <link>https://rsload.net/soft/desktop/39563-old-twitter-layout-for-chrome.html</link>
     </item>
     <item>
       <title>Windows 7 SP1 чистый образ iso от Августа 2025 с SSD / USB 3.0 - легкая сборка</title>
