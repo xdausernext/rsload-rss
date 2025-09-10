@@ -6,39 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 10:39:04 +0000</lastBuildDate>
-    <item>
-      <title>Linux Kernel 6.16.6</title>
-      <link>https://rsload.net/soft/35697-linux-kernel.html</link>
-    </item>
-    <item>
-      <title>brave 1.82.165 + x64</title>
-      <link>https://rsload.net/soft/browser/22052-brave.html</link>
-    </item>
-    <item>
-      <title>Canvas X Pro 20.0.1010 x64 + Portable</title>
-      <link>https://rsload.net/soft/editor/36395-canvas-x-pro.html</link>
-    </item>
-    <item>
-      <title>AssistMyTeam PDF Converter 7.1.294.0 + x64</title>
-      <link>https://rsload.net/soft/converter/40201-assistmyteam-pdf-converter.html</link>
-    </item>
-    <item>
-      <title>AmoyShare BeeConverter Pro 3.0.0 x64 + Portable</title>
-      <link>https://rsload.net/soft/converter/38998-amoyshare-beeconverter-pro.html</link>
-    </item>
-    <item>
-      <title>BatchPatch 2025.9.8.17.26</title>
-      <link>https://rsload.net/soft/manager/26597-batchpatch.html</link>
-    </item>
-    <item>
-      <title>Stellar Repair for Photo 8.8.0.0 x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/38947-stellar-repair-for-photo.html</link>
-    </item>
-    <item>
-      <title>Bandizip Professional 7.40 + MacOS + Portable + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/10098-bandizip.html</link>
-    </item>
+    <lastBuildDate>Wed, 10 Sep 2025 11:07:51 +0000</lastBuildDate>
     <item>
       <title>Topaz Photo AI 4.1.0 + Portable + Repack + 3.4.4 macOS</title>
       <link>https://rsload.net/soft/graphics/38238-topaz-photo-ai.html</link>
@@ -50,6 +18,38 @@
     <item>
       <title>Capture One 23 Pro 16.6.6.3111 x64 +  Enterprise + Portable + Repack + 16.5.6.22 macOS</title>
       <link>https://rsload.net/soft/graphics/10998-capture-one-pro.html</link>
+    </item>
+    <item>
+      <title>PlayerFab 7.0.5.3 x64 + Portable / DVDFab Media Player Ultra</title>
+      <link>https://rsload.net/soft/player/11439-dvdfab-media-player-11015-lic.html</link>
+    </item>
+    <item>
+      <title>Inno Setup Compiler 6.5.2  + Portable Rus</title>
+      <link>https://rsload.net/soft/editor/9653-inno-setup.html</link>
+    </item>
+    <item>
+      <title>Aiseesoft HEIC Converter 1.0.38 + Repack + Portable + 1.0.26 macOS</title>
+      <link>https://rsload.net/soft/converter/36108-aiseesoft-heic-converter.html</link>
+    </item>
+    <item>
+      <title>YT Saver Pro 10.8.2 + x64 + Portable + macOS</title>
+      <link>https://rsload.net/soft/manager/38521-yt-saver.html</link>
+    </item>
+    <item>
+      <title>Prevent Restore Professional 2025.112</title>
+      <link>https://rsload.net/soft/cleaner-disk/13178-prevent-restore.html</link>
+    </item>
+    <item>
+      <title>iTubeGo YouTube Downloader 10.8.2 + x64 + Portable + macOS + Rus + Repack</title>
+      <link>https://rsload.net/soft/manager/33698-itubego-youtube-downloader.html</link>
+    </item>
+    <item>
+      <title>iDownerGo 10.8.2 + Portable + Repack + macOS</title>
+      <link>https://rsload.net/soft/manager/40752-idownergo.html</link>
+    </item>
+    <item>
+      <title>PPTube 10.8.2 x64 на Русском + macOS</title>
+      <link>https://rsload.net/soft/manager/40846-pptube.html</link>
     </item>
     <item>
       <title>Windows 7 SP1 чистый образ iso от Августа 2025 с SSD / USB 3.0 - легкая сборка</title>
