@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 17:32:43 +0000</lastBuildDate>
-    <item>
-      <title>XL-Connector 3.6.10.0</title>
-      <link>https://rsload.net/soft/manager/41219-xl-connector.html</link>
-    </item>
-    <item>
-      <title>Red Gate SmartAssembly Pro 8.3.8.6565</title>
-      <link>https://rsload.net/soft/security/30593-red-gate-smartassembly-professional-besplatno-s-klyuchom.html</link>
-    </item>
-    <item>
-      <title>Windows Video Editor Pro 2025 10.0.0.1</title>
-      <link>https://rsload.net/soft/editor/39638-windows-video-editor-pro.html</link>
-    </item>
-    <item>
-      <title>Windows Movie Maker 2025 10.0.0.1 x64 + Portable</title>
-      <link>https://rsload.net/soft/editor/33933-windows-movie-maker.html</link>
-    </item>
-    <item>
-      <title>Win Screen Recorder 2025 10.0.0.1</title>
-      <link>https://rsload.net/soft/desktop/39666-win-screen-recorder.html</link>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 18:12:20 +0000</lastBuildDate>
     <item>
       <title>LDPlayer 9.1.61.2 x64</title>
       <link>https://rsload.net/soft/desktop/32285-ldplayer.html</link>
@@ -50,6 +30,26 @@
     <item>
       <title>Stardock Windowblinds 11.07</title>
       <link>https://rsload.net/soft/desktop/14266-stardock-windowblinds.html</link>
+    </item>
+    <item>
+      <title>Master PDF Editor 5.9.94  + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/16664-master-pdf-editor.html</link>
+    </item>
+    <item>
+      <title>4K Downloader 5.17.5 + Repack + Portable + Rus</title>
+      <link>https://rsload.net/soft/manager/33704-4ksoftware-4k-downloader.html</link>
+    </item>
+    <item>
+      <title>Tomabo MP4 Downloader Pro 5.7.6 + Portable</title>
+      <link>https://rsload.net/soft/manager/26583-tomabo-mp4-downloader-pro.html</link>
+    </item>
+    <item>
+      <title>TubeMate Downloader 5.22.6 + Portable + Rus</title>
+      <link>https://rsload.net/soft/manager/33682-tubemate-downloader.html</link>
+    </item>
+    <item>
+      <title>YT Downloader 9.16.8 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 24H2 x64 ISO 2025 - новый образ с защитником и драйверами</title>
