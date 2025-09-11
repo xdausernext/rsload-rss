@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 08:14:32 +0000</lastBuildDate>
-    <item>
-      <title>Boot-US 4.2.3 + x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/30562-boot-us-skachat-licenzionnuyu-versiyu.html</link>
-    </item>
-    <item>
-      <title>vMix Pro 28.0.0.42 x64 + Repack</title>
-      <link>https://rsload.net/soft/editor/24990-vmix-pro.html</link>
-    </item>
-    <item>
-      <title>Windows PowerShell 7.5.3 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/35655-windows-powershell.html</link>
-    </item>
-    <item>
-      <title>Red Giant All Suites 2026.0 + Repack + macOS /  Complete Suite</title>
-      <link>https://rsload.net/soft/graphics/21950-red-giant-all-suitess.html</link>
-    </item>
-    <item>
-      <title>Maxon Red Giant 2026.0 x64</title>
-      <link>https://rsload.net/soft/editor/41100-maxon-red-giant.html</link>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 08:41:53 +0000</lastBuildDate>
     <item>
       <title>XL-Connector 3.6.10.0</title>
       <link>https://rsload.net/soft/manager/41219-xl-connector.html</link>
@@ -50,6 +30,26 @@
     <item>
       <title>LDPlayer 9.1.61.2 x64</title>
       <link>https://rsload.net/soft/desktop/32285-ldplayer.html</link>
+    </item>
+    <item>
+      <title>InstaBot Pro 7.1.9</title>
+      <link>https://rsload.net/soft/manager/38622-instabot-pro.html</link>
+    </item>
+    <item>
+      <title>VovSoft VCF Editor 2.0</title>
+      <link>https://rsload.net/soft/manager/40874-vovsoft-vcf-editor.html</link>
+    </item>
+    <item>
+      <title>Ant Download Manager Pro 2.15.10.91278 +  Portable + Repack + 2.15.10 Beta</title>
+      <link>https://rsload.net/soft/manager/20343-ant-download-manager.html</link>
+    </item>
+    <item>
+      <title>Ashampoo WinOptimizer 28.00.14 + Repack + Portable + Free</title>
+      <link>https://rsload.net/soft/optimization/8493-ashampoo-winoptimizer.html</link>
+    </item>
+    <item>
+      <title>Stardock Windowblinds 11.07</title>
+      <link>https://rsload.net/soft/desktop/14266-stardock-windowblinds.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 24H2 x64 ISO 2025 - новый образ с защитником и драйверами</title>
