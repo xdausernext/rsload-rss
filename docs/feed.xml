@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 18:12:20 +0000</lastBuildDate>
-    <item>
-      <title>LDPlayer 9.1.61.2 x64</title>
-      <link>https://rsload.net/soft/desktop/32285-ldplayer.html</link>
-    </item>
-    <item>
-      <title>InstaBot Pro 7.1.9</title>
-      <link>https://rsload.net/soft/manager/38622-instabot-pro.html</link>
-    </item>
-    <item>
-      <title>VovSoft VCF Editor 2.0</title>
-      <link>https://rsload.net/soft/manager/40874-vovsoft-vcf-editor.html</link>
-    </item>
-    <item>
-      <title>Ant Download Manager Pro 2.15.10.91278 +  Portable + Repack + 2.15.10 Beta</title>
-      <link>https://rsload.net/soft/manager/20343-ant-download-manager.html</link>
-    </item>
-    <item>
-      <title>Ashampoo WinOptimizer 28.00.14 + Repack + Portable + Free</title>
-      <link>https://rsload.net/soft/optimization/8493-ashampoo-winoptimizer.html</link>
-    </item>
-    <item>
-      <title>Stardock Windowblinds 11.07</title>
-      <link>https://rsload.net/soft/desktop/14266-stardock-windowblinds.html</link>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 18:42:05 +0000</lastBuildDate>
     <item>
       <title>Master PDF Editor 5.9.94  + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/16664-master-pdf-editor.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>YT Downloader 9.16.8 + Repack + Portable</title>
       <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
+    </item>
+    <item>
+      <title>foobar2000 2.25.1 + Rus + Portable + Repack + 2.25.1 Preview 09.04</title>
+      <link>https://rsload.net/soft/player/8365-foobar2000.html</link>
+    </item>
+    <item>
+      <title>Ashampoo UnInstaller 16.00.02 + Portable + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/10111-ashampoo-uninstaller.html</link>
+    </item>
+    <item>
+      <title>AnyDesk Pro + 9.6.1 + Portable + Репак +  8.1.4 macOS</title>
+      <link>https://rsload.net/soft/traffic/19306-anydesk.html</link>
+    </item>
+    <item>
+      <title>n-Track Studio 10.2.2.10189 + Portable + macOS + Android</title>
+      <link>https://rsload.net/soft/editor/15191-n-track-studio.html</link>
+    </item>
+    <item>
+      <title>EaseUS Fixo 3.8.5 Build 20250905 Technician  + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/39841-easeus-fixo.html</link>
+    </item>
+    <item>
+      <title>Magix (Sony) Vegas Pro 23.0.0.278 x64  + Repack + Portable + Rus</title>
+      <link>https://rsload.net/soft/editor/10312-sony-vegas-pro.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 24H2 x64 ISO 2025 - новый образ с защитником и драйверами</title>
