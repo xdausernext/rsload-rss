@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Sep 2025 10:38:47 +0000</lastBuildDate>
-    <item>
-      <title>TubeMate Downloader 5.22.6 + Portable + Rus</title>
-      <link>https://rsload.net/soft/manager/33682-tubemate-downloader.html</link>
-    </item>
-    <item>
-      <title>YT Downloader 9.16.8 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
-    </item>
-    <item>
-      <title>foobar2000 2.25.1 + Rus + Portable + Repack + 2.25.1 Preview 09.04</title>
-      <link>https://rsload.net/soft/player/8365-foobar2000.html</link>
-    </item>
+    <lastBuildDate>Fri, 12 Sep 2025 11:07:58 +0000</lastBuildDate>
     <item>
       <title>Ashampoo UnInstaller 16.00.02 + Portable + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/10111-ashampoo-uninstaller.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>MSActBackUp 1.2.9</title>
       <link>https://rsload.net/soft/manager/20095-msactbackup.html</link>
+    </item>
+    <item>
+      <title>Microsoft Activation Scripts 3.7</title>
+      <link>https://rsload.net/soft/39003-microsoft-activation-scripts.html</link>
+    </item>
+    <item>
+      <title>Internet Download Accelerator 7.2.1.1737 Pro + Portable</title>
+      <link>https://rsload.net/soft/manager/11693-internet-download-accelerator.html</link>
+    </item>
+    <item>
+      <title>Daemon Tools Ultra 6.0.0.1623 + Repack / Pro 8.3.0.0767 + 12.3.0.2357 Lite</title>
+      <link>https://rsload.net/soft/cleaner-disk/9271-daemon-tools-pro.html</link>
     </item>
     <item>
       <title>Образ Windows 10 Pro 22H2 на Русском - iso 19045.6216 с Антивирусом и Магазином</title>
