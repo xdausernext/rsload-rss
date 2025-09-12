@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Sep 2025 11:32:30 +0000</lastBuildDate>
-    <item>
-      <title>Ashampoo UnInstaller 16.00.02 + Portable + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/10111-ashampoo-uninstaller.html</link>
-    </item>
+    <lastBuildDate>Fri, 12 Sep 2025 12:19:06 +0000</lastBuildDate>
     <item>
       <title>AnyDesk Pro + 9.6.1 + Portable + Репак +  8.1.4 macOS</title>
       <link>https://rsload.net/soft/traffic/19306-anydesk.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>Daemon Tools Ultra 6.0.0.1623 + Repack / Pro 8.3.0.0767 + 12.3.0.2357 Lite</title>
       <link>https://rsload.net/soft/cleaner-disk/9271-daemon-tools-pro.html</link>
+    </item>
+    <item>
+      <title>Revive Faces 2.0.7 x64</title>
+      <link>https://rsload.net/soft/graphics/41172-revive-faces.html</link>
     </item>
     <item>
       <title>Образ Windows 10 Pro 22H2 на Русском - iso 19045.6216 с Антивирусом и Магазином</title>
