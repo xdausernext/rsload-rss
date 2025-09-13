@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Sep 2025 05:08:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 05:34:36 +0000</lastBuildDate>
     <item>
       <title>AOMEI Partition Assistant Pro 10.9 + Repack + Portable + WinPE + Rus</title>
       <link>https://rsload.net/soft/cleaner-disk/12953-partition-assistant.html</link>
@@ -36,10 +36,6 @@
       <link>https://rsload.net/soft/converter/40174-unifab.html</link>
     </item>
     <item>
-      <title>Topaz Gigapixel AI 8.4.3 + Repack + 8.0.3 Portable + 8.0.0  MacOS</title>
-      <link>https://rsload.net/soft/editor/30987-topaz-ai-gigapixel.html</link>
-    </item>
-    <item>
       <title>VSO ConvertXtoDVD 7.5.0.136 + Repack + Portable</title>
       <link>https://rsload.net/soft/converter/8320-vso-convertxtodvd.html</link>
     </item>
@@ -50,6 +46,10 @@
     <item>
       <title>Daum PotPlayer 1.7.22613 + x64 + Portable + Repack + 250909</title>
       <link>https://rsload.net/soft/player/8856-daum-potplayer.html</link>
+    </item>
+    <item>
+      <title>Topaz Gigapixel AI 8.4.3 + Repack + 8.0.3 Portable + 8.0.0  MacOS</title>
+      <link>https://rsload.net/soft/editor/30987-topaz-ai-gigapixel.html</link>
     </item>
     <item>
       <title>Образ Windows 10 Pro 22H2 на Русском - iso 19045.6216 с Антивирусом и Магазином</title>
