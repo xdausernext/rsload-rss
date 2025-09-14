@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 18:11:36 +0000</lastBuildDate>
-    <item>
-      <title>Waterfox Classic 2022.11 / 6.6.3 + MacOS + Linux + Portable</title>
-      <link>https://rsload.net/soft/browser/12117-waterfox.html</link>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack 19.1.5 / Basic / Standard / Full / Mega</title>
-      <link>https://rsload.net/soft/converter/8605-k-lite-codec-pack.html</link>
-    </item>
-    <item>
-      <title>Winamp Pro 5.91.0.10029 + Portable + Repack + WACUP 1.99.36.22278</title>
-      <link>https://rsload.net/soft/player/8726-winamp.html</link>
-    </item>
-    <item>
-      <title>Glow 25.11</title>
-      <link>https://rsload.net/soft/manager/40338-glow.html</link>
-    </item>
-    <item>
-      <title>LeafView 3.8.1</title>
-      <link>https://rsload.net/soft/graphics/36171-leafview.html</link>
-    </item>
-    <item>
-      <title>Flyoobe (Flyby11) 1.11.361</title>
-      <link>https://rsload.net/soft/manager/40697-flyby11.html</link>
-    </item>
+    <lastBuildDate>Sun, 14 Sep 2025 18:39:42 +0000</lastBuildDate>
     <item>
       <title>Converseen 0.15.0.3-1 + Portable</title>
       <link>https://rsload.net/soft/graphics/22019-converseen.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>DesktopImages3D 2.51 + x64 + Portable</title>
       <link>https://rsload.net/soft/desktop/36701-desktopimages3d.html</link>
+    </item>
+    <item>
+      <title>WindowTextExtractor 2.2.1</title>
+      <link>https://rsload.net/soft/desktop/39122-windowtextextractor.html</link>
+    </item>
+    <item>
+      <title>TeXstudio 4.8.9</title>
+      <link>https://rsload.net/soft/editor/16379-texstudio.html</link>
+    </item>
+    <item>
+      <title>SIV 5.83 / System Information Viewer</title>
+      <link>https://rsload.net/soft/manager/8501-siv.html</link>
+    </item>
+    <item>
+      <title>Clementine 1.4.1-52 x64</title>
+      <link>https://rsload.net/soft/player/12119-clementine.html</link>
+    </item>
+    <item>
+      <title>HFS (HTTP File Server) 3 0.57.16</title>
+      <link>https://rsload.net/soft/traffic/13016-hfs.html</link>
+    </item>
+    <item>
+      <title>MagicMouseTrails 4.44 + x64 + Portable</title>
+      <link>https://rsload.net/soft/desktop/30804-magicmousetrails.html</link>
     </item>
     <item>
       <title>Виндовс 11 25H2 64 бит на Русском + лаунчер + активация  - iso 26220.5790</title>
