@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 00:50:50 +0000</lastBuildDate>
-    <item>
-      <title>Converseen 0.15.0.3-1 + Portable</title>
-      <link>https://rsload.net/soft/graphics/22019-converseen.html</link>
-    </item>
-    <item>
-      <title>CapCut 7.1.0 + Rus Portable + Rus</title>
-      <link>https://rsload.net/soft/editor/36992-capcut.html</link>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 02:23:56 +0000</lastBuildDate>
     <item>
       <title>AB Download Manager 1.6.12 на Русском</title>
       <link>https://rsload.net/soft/manager/40989-ab-download-manager.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>MagicMouseTrails 4.44 + x64 + Portable</title>
       <link>https://rsload.net/soft/desktop/30804-magicmousetrails.html</link>
+    </item>
+    <item>
+      <title>PyGPT 2.6.46</title>
+      <link>https://rsload.net/soft/editor/41234-pygpt.html</link>
+    </item>
+    <item>
+      <title>CHK Rus 5.80 + x64   / Checksum Utility</title>
+      <link>https://rsload.net/soft/cleaner-disk/15401-chk.html</link>
     </item>
     <item>
       <title>Виндовс 11 25H2 64 бит на Русском + лаунчер + активация  - iso 26220.5790</title>
