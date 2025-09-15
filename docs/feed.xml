@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 08:14:23 +0000</lastBuildDate>
-    <item>
-      <title>DISMTools 0.7.1.250914 / 0.6.2 Update 2</title>
-      <link>https://rsload.net/soft/editor/40522-dismtools.html</link>
-    </item>
-    <item>
-      <title>Estlcam 12.147 на Русском</title>
-      <link>https://rsload.net/soft/editor/41286-estlcam.html</link>
-    </item>
-    <item>
-      <title>Directory Opus Pro 13.18 x64 + Repack + Portable + 13.18.3 Beta</title>
-      <link>https://rsload.net/soft/manager/8663-directory-opus.html</link>
-    </item>
-    <item>
-      <title>VideoMeld 1.80 x64</title>
-      <link>https://rsload.net/soft/editor/34231-videomeld.html</link>
-    </item>
-    <item>
-      <title>VirtualBox Extension Pack 7.2.2</title>
-      <link>https://rsload.net/soft/37276-virtualbox-extension-pack.html</link>
-    </item>
-    <item>
-      <title>VirtualBox 7.2.2 + VBoxGuestAdditions + Portable + Repack / 5.2.36 / 7.2.0 Beta 1</title>
-      <link>https://rsload.net/soft/8311-virtualbox.html</link>
-    </item>
-    <item>
-      <title>CyberLink Screen Recorder Deluxe 4.4.1.31427 + Rus</title>
-      <link>https://rsload.net/soft/graphics/29217-cyberlink-screen-recorder-deluxe.html</link>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 08:42:59 +0000</lastBuildDate>
     <item>
       <title>TeamTalk 5.20</title>
       <link>https://rsload.net/soft/talk/14839-teamtalk.html</link>
@@ -50,6 +22,34 @@
     <item>
       <title>Minimal Firewall 2.2 x64</title>
       <link>https://rsload.net/soft/security/41202-minimal-firewall.html</link>
+    </item>
+    <item>
+      <title>RapidRAW 1.3.13 x64</title>
+      <link>https://rsload.net/soft/graphics/41261-rapidraw.html</link>
+    </item>
+    <item>
+      <title>ToDoList 9.1.0.2</title>
+      <link>https://rsload.net/soft/manager/12299-todolist.html</link>
+    </item>
+    <item>
+      <title>Metafox 2.6.1 x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/converter/21000-metafox.html</link>
+    </item>
+    <item>
+      <title>GameEx 19.27</title>
+      <link>https://rsload.net/soft/manager/13029-gameex.html</link>
+    </item>
+    <item>
+      <title>Adobe Photoshop Express  3.22.31.0</title>
+      <link>https://rsload.net/soft/graphics/37278-adobe-photoshop-express.html</link>
+    </item>
+    <item>
+      <title>Microsoft  PC Manager 3.17.14.0</title>
+      <link>https://rsload.net/soft/obzor/37618-pc-manager-ochistka-i-optimizacii-windows-ot-microsoft.html</link>
+    </item>
+    <item>
+      <title>iTop Easy Desktop 3.2.0.145</title>
+      <link>https://rsload.net/soft/desktop/40845-itop-easy-desktop.html</link>
     </item>
     <item>
       <title>Виндовс 11 25H2 64 бит на Русском + лаунчер + активация  - iso 26220.5790</title>
