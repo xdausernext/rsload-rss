@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Sep 2025 05:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 05:37:27 +0000</lastBuildDate>
     <item>
       <title>SoundSwitch  6.14.2</title>
       <link>https://rsload.net/soft/manager/20332-soundswitch.html</link>
@@ -52,10 +52,6 @@
       <link>https://rsload.net/soft/editor/21762-adobe-animate-cc.html</link>
     </item>
     <item>
-      <title>Виндовс 11 25H2 64 бит на Русском + лаунчер + активация  - iso 26220.5790</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41292-windows-11-25h2-64-rus-iso-262205790.html</link>
-    </item>
-    <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
       <link>https://rsload.net/soft/windows/windows-7-sborka/41293-windows-7-ultimate-sp1-x64-iso-usb-092025.html</link>
     </item>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 24H2 x64 оптимизированная сборка под игры с обновлениями 26100.6584</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41295-windows-11-24h2-261006584-iso-rus.html</link>
+    </item>
+    <item>
+      <title>Windows 11 Pro 24H2 SuperLite - топ сборка iso от Ghost En Ru</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41296-windows-11-pro-24h2-superlite-261006584-ghost.html</link>
     </item>
   </channel>
 </rss>
