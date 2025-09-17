@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Sep 2025 03:42:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 04:11:58 +0000</lastBuildDate>
     <item>
       <title>Streamlabs Desktop 1.19.5</title>
       <link>https://rsload.net/soft/desktop/36375-streamlabs-desktop.html</link>
