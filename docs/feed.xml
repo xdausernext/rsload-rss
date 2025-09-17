@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Sep 2025 15:37:08 +0000</lastBuildDate>
-    <item>
-      <title>Free Download Manager 6.30.0 Build 6459 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/8984-free-download-manager.html</link>
-    </item>
-    <item>
-      <title>Fast Video Downloader 4.0.0.76 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/32531-fast-video-downloader.html</link>
-    </item>
-    <item>
-      <title>Gilisoft Copy Protect 8.2</title>
-      <link>https://rsload.net/soft/security/39726-gilisoft-copy-protect.html</link>
-    </item>
-    <item>
-      <title>Drive SnapShot 1.50.0.1745 + x64 + Boot CD</title>
-      <link>https://rsload.net/soft/cleaner-disk/9617-drive-snapshot.html</link>
-    </item>
-    <item>
-      <title>LDPlayer 9.1.63.0 x64</title>
-      <link>https://rsload.net/soft/desktop/32285-ldplayer.html</link>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 16:12:54 +0000</lastBuildDate>
     <item>
       <title>Balsamiq Wireframes 4.8.5 / Mockups 3.5.16 + macOS</title>
       <link>https://rsload.net/soft/editor/21555-balsamiq-mockups.html</link>
@@ -50,6 +30,26 @@
     <item>
       <title>Grub2Win 3.0.0.1</title>
       <link>https://rsload.net/soft/manager/29780-grub2win-besplatnaya-programma-posledney-versii.html</link>
+    </item>
+    <item>
+      <title>TSplus Advanced Security 7.4.9.17 Ultimate</title>
+      <link>https://rsload.net/soft/security/36830-tsplus-security.html</link>
+    </item>
+    <item>
+      <title>RDS Advanced Security Ultimate 7.4.9.17 + Rus</title>
+      <link>https://rsload.net/soft/security/41201-rds-advanced-security-ultimate.html</link>
+    </item>
+    <item>
+      <title>ESET SysInspector 2.1.5</title>
+      <link>https://rsload.net/soft/security/11806-eset-sysinspector.html</link>
+    </item>
+    <item>
+      <title>AVS Media Player 6.1.2.42</title>
+      <link>https://rsload.net/soft/player/12815-avs-media-player.html</link>
+    </item>
+    <item>
+      <title>AVS Image Converter 7.1.2.42</title>
+      <link>https://rsload.net/soft/converter/14854-avs-image-converter.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
