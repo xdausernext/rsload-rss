@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Sep 2025 15:10:32 +0000</lastBuildDate>
-    <item>
-      <title>Rizom-Lab RizomUV Real / Virtual Space 2025.0.97 + macOS + Linux</title>
-      <link>https://rsload.net/soft/editor/28137-unfold3d-vs-rs.html</link>
-    </item>
-    <item>
-      <title>PTC Mathcad Prime 11.0.1 x64 / MathCAD 15 M050 Ru-En Portable</title>
-      <link>https://rsload.net/soft/editor/27139-ptc-mathcad-prime.html</link>
-    </item>
-    <item>
-      <title>Intel Ethernet Adapter Complete Driver Pack 30.4.2</title>
-      <link>https://rsload.net/soft/drivers/26541-intel-ethernet-connections-cd.html</link>
-    </item>
-    <item>
-      <title>MPC-BE 1.8.7 + x64 + Portable + Repack / Media Player Classic - Black Edition</title>
-      <link>https://rsload.net/soft/player/13003-mpc-be.html</link>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 15:37:08 +0000</lastBuildDate>
     <item>
       <title>Free Download Manager 6.30.0 Build 6459 + x64 + Portable</title>
       <link>https://rsload.net/soft/manager/8984-free-download-manager.html</link>
@@ -50,6 +34,22 @@
     <item>
       <title>PlayerFab 7.0.5.4 x64 + Portable / DVDFab Media Player Ultra</title>
       <link>https://rsload.net/soft/player/11439-dvdfab-media-player-11015-lic.html</link>
+    </item>
+    <item>
+      <title>DxO PhotoLab Elite 9.0.2.68 + Rus + Repack + Portable + macOS + 7.11.1 Build 322 + 6.19.0.428</title>
+      <link>https://rsload.net/soft/graphics/28320-dxo-photolab.html</link>
+    </item>
+    <item>
+      <title>Tails 7.0</title>
+      <link>https://rsload.net/soft/big-programm/16535-tails-i386-101-11-rc1.html</link>
+    </item>
+    <item>
+      <title>Directory List &amp; Print Pro 4.35 + Portable + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/15748-directory-list-print-pro.html</link>
+    </item>
+    <item>
+      <title>Grub2Win 3.0.0.1</title>
+      <link>https://rsload.net/soft/manager/29780-grub2win-besplatnaya-programma-posledney-versii.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
