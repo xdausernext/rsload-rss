@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 00:44:27 +0000</lastBuildDate>
-    <item>
-      <title>Balsamiq Wireframes 4.8.5 / Mockups 3.5.16 + macOS</title>
-      <link>https://rsload.net/soft/editor/21555-balsamiq-mockups.html</link>
-    </item>
+    <lastBuildDate>Thu, 18 Sep 2025 02:14:40 +0000</lastBuildDate>
     <item>
       <title>PlayerFab 7.0.5.4 x64 + Portable / DVDFab Media Player Ultra</title>
       <link>https://rsload.net/soft/player/11439-dvdfab-media-player-11015-lic.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>AVS Image Converter 7.1.2.42</title>
       <link>https://rsload.net/soft/converter/14854-avs-image-converter.html</link>
+    </item>
+    <item>
+      <title>Internet Download Manager 6.42 Build 43 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/8294-internet-download-manager.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
