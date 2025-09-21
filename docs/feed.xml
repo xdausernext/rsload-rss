@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Sep 2025 11:32:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 12:16:57 +0000</lastBuildDate>
     <item>
       <title>DoesNotBelong 9.2.0 / Furtivex Malware Removal</title>
       <link>https://rsload.net/soft/security/41021-furtivex-malware-removal.html</link>
