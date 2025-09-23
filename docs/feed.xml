@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 04:12:10 +0000</lastBuildDate>
-    <item>
-      <title>Typora 1.12.1  + x64 + 1.10.8 MacOS</title>
-      <link>https://rsload.net/soft/editor/32299-typora.html</link>
-    </item>
-    <item>
-      <title>Folder Lock 10.1.9 x64</title>
-      <link>https://rsload.net/soft/security/9181-folder-lock.html</link>
-    </item>
-    <item>
-      <title>FlowHeater 4.5.0 + x64</title>
-      <link>https://rsload.net/soft/editor/37015-flowheater.html</link>
-    </item>
-    <item>
-      <title>XL-Connector 3.6.13.0</title>
-      <link>https://rsload.net/soft/manager/41219-xl-connector.html</link>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 04:39:24 +0000</lastBuildDate>
     <item>
       <title>Stardock Start11 2.5.5 + Repack + 2.5.5.3 Beta</title>
       <link>https://rsload.net/soft/desktop/35990-stardock-start11.html</link>
@@ -50,6 +34,22 @@
     <item>
       <title>Master PDF Editor 5.9.95  + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/16664-master-pdf-editor.html</link>
+    </item>
+    <item>
+      <title>Zoom  6.6.0 + Portable</title>
+      <link>https://rsload.net/soft/talk/33954-zoom.html</link>
+    </item>
+    <item>
+      <title>SkinFiner 5.7.2 x64 + Rus + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/34968-skinfiner-rus.html</link>
+    </item>
+    <item>
+      <title>MEmu App Player 9.2.8</title>
+      <link>https://rsload.net/soft/manager/23355-memu.html</link>
+    </item>
+    <item>
+      <title>WYSIWYG Web Builder 20.3.0 + Rus + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/8637-wysiwyg-web-builder.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
