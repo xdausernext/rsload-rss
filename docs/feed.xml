@@ -6,43 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 19:08:03 +0000</lastBuildDate>
-    <item>
-      <title>PDF Architect Pro + OCR 9.1.75.23074</title>
-      <link>https://rsload.net/soft/document/35029-pdf-architect-pro-ocr.html</link>
-    </item>
-    <item>
-      <title>Minimal Firewall 2.2.2 x64</title>
-      <link>https://rsload.net/soft/security/41202-minimal-firewall.html</link>
-    </item>
-    <item>
-      <title>Quick CPU Pro 5.2.0 + x64 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/34816-quick-cpu.html</link>
-    </item>
-    <item>
-      <title>Image-Line FL Studio Producer 25.1.6.4997 + Portable + macOS + Rus</title>
-      <link>https://rsload.net/soft/editor/14794-fl-studio-producer-edition.html</link>
-    </item>
-    <item>
-      <title>Network LookOut Administrator Professional 5.3.7 + x64</title>
-      <link>https://rsload.net/soft/security/15078-network-lookout-administrator.html</link>
-    </item>
-    <item>
-      <title>USB Device Tree Viewer 4.6.4</title>
-      <link>https://rsload.net/soft/cam/17042-usb-device-tree-viewer.html</link>
-    </item>
-    <item>
-      <title>MassTube 2026 21.0.2.166  Ultra  + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/14449-masstube-downloader.html</link>
-    </item>
-    <item>
-      <title>EndNote 2025.1 Build 19456 + 21.2 Build 19537 macOS</title>
-      <link>https://rsload.net/soft/editor/35012-endnote.html</link>
-    </item>
-    <item>
-      <title>JRiver Media Center 34.0.71 + MacOS + Repack + Portable</title>
-      <link>https://rsload.net/soft/player/8632-j-river-media-center.html</link>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 19:32:20 +0000</lastBuildDate>
     <item>
       <title>Bandicam 8.2.2.2531 + 7.1.4.2458 + Portable + Repack</title>
       <link>https://rsload.net/soft/manager/8953-bandicam.html</link>
@@ -50,6 +14,42 @@
     <item>
       <title>DVDFab 13.0.4.8 + Portable + Repack + macOS + 12.1.1.5</title>
       <link>https://rsload.net/soft/converter/8452-dvdfab.html</link>
+    </item>
+    <item>
+      <title>Cockos REAPER 7.46  + x64 + Rus + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/8368-reaper.html</link>
+    </item>
+    <item>
+      <title>Metafox 2.6.1 x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/converter/21000-metafox.html</link>
+    </item>
+    <item>
+      <title>uTorrent Pro 3.6.0 Build 47222 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/8330-utorrent1.html</link>
+    </item>
+    <item>
+      <title>Blackmagic Design DaVinci Resolve Studio 20.2.1 x64 + MacOS + Repack + Linux + Переходы</title>
+      <link>https://rsload.net/soft/editor/20845-davinci-resolve.html</link>
+    </item>
+    <item>
+      <title>Syncovery Premium 11.8.2.102 x64 + 10.15.8 macOS</title>
+      <link>https://rsload.net/soft/cleaner-disk/16717-syncovery.html</link>
+    </item>
+    <item>
+      <title>yt-dlp   2025.09.23 + x64</title>
+      <link>https://rsload.net/soft/manager/35393-yt-dlp.html</link>
+    </item>
+    <item>
+      <title>Kalmuri 4.1.0 + Portable</title>
+      <link>https://rsload.net/soft/desktop/36223-kalmuri.html</link>
+    </item>
+    <item>
+      <title>Pale Moon 33.9.0 + x64 + Portable + XP + Rus</title>
+      <link>https://rsload.net/soft/browser/8455-pale-moon.html</link>
+    </item>
+    <item>
+      <title>MSI Center  2.0.59.0</title>
+      <link>https://rsload.net/soft/manager/35818-msi-center.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
