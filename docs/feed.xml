@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 19:32:20 +0000</lastBuildDate>
-    <item>
-      <title>Bandicam 8.2.2.2531 + 7.1.4.2458 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/8953-bandicam.html</link>
-    </item>
-    <item>
-      <title>DVDFab 13.0.4.8 + Portable + Repack + macOS + 12.1.1.5</title>
-      <link>https://rsload.net/soft/converter/8452-dvdfab.html</link>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 20:10:56 +0000</lastBuildDate>
     <item>
       <title>Cockos REAPER 7.46  + x64 + Rus + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/8368-reaper.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>MSI Center  2.0.59.0</title>
       <link>https://rsload.net/soft/manager/35818-msi-center.html</link>
+    </item>
+    <item>
+      <title>Xreveal 2.8.5 x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/36668-xreveal.html</link>
+    </item>
+    <item>
+      <title>VLC Media Player 3.0.21 + Portable + x64 + Repack + 3.0.22 RC1</title>
+      <link>https://rsload.net/soft/player/8627-vlc-media-player.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
