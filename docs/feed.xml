@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 13:01:13 +0000</lastBuildDate>
-    <item>
-      <title>Parted Magic 2025.09.18 + x64 + PXE</title>
-      <link>https://rsload.net/soft/cleaner-disk/9221-parted-magic.html</link>
-    </item>
-    <item>
-      <title>ACDSee Photo Studio Ultimate 2026 19.0.0.4295 + 19.0.0.3354 Pro + Home 2026 29.0.0.3255 + macOS + Repack</title>
-      <link>https://rsload.net/soft/graphics/8740-acdsee-pro.html</link>
-    </item>
-    <item>
-      <title>FanCtrl 1.7.6 + Rus</title>
-      <link>https://rsload.net/soft/manager/35033-fanctrl.html</link>
-    </item>
-    <item>
-      <title>Cockos REAPER 7.46  + x64 + Rus + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/8368-reaper.html</link>
-    </item>
-    <item>
-      <title>Photoscape X Pro 4.2.8 + macOS + Portable  / 3.7 + Portable + Repack</title>
-      <link>https://rsload.net/soft/graphics/9676-photoscape-36.html</link>
-    </item>
-    <item>
-      <title>Cyberlink ColorDirector Ultra 2026 14.0.5712.0 x64 + Rus + Repack</title>
-      <link>https://rsload.net/soft/editor/20509-colordirector.html</link>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 13:43:10 +0000</lastBuildDate>
     <item>
       <title>CyberLink AudioDirector Ultra 2026 16.0.5703.0 + Rus + Portable</title>
       <link>https://rsload.net/soft/editor/13841-cyberlink-audiodirector-ultra.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>DBF Viewer 2000 8.83 + Repack</title>
       <link>https://rsload.net/soft/editor/38120-dbf-viewer-2000.html</link>
+    </item>
+    <item>
+      <title>Argente System Repair 1.0.2.7 + x64  + Rus</title>
+      <link>https://rsload.net/soft/optimization/41190-argente-system-repair.html</link>
+    </item>
+    <item>
+      <title>EaseUS ScreenShot 1.8.0</title>
+      <link>https://rsload.net/soft/graphics/37303-easeus-screenshot.html</link>
+    </item>
+    <item>
+      <title>Adobe Premiere Elements 2026 26.0 + Repack</title>
+      <link>https://rsload.net/soft/big-programm/16865-adobe-premiere-elements.html</link>
+    </item>
+    <item>
+      <title>Adobe Photoshop Elements 2026 26.0 + x64 + Repack + MacOS</title>
+      <link>https://rsload.net/soft/big-programm/16864-adobe-photoshop-elements-.html</link>
+    </item>
+    <item>
+      <title>RoboTask 10.5.1 x64</title>
+      <link>https://rsload.net/soft/manager/12021-robotask.html</link>
+    </item>
+    <item>
+      <title>Serif Affinity Publisher 2.6.4.3634 + Repack + macOS + Portable + Rus</title>
+      <link>https://rsload.net/soft/graphics/31597-serif-affinity-publisher.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
