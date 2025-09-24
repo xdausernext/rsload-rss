@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Sep 2025 17:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 17:37:21 +0000</lastBuildDate>
     <item>
       <title>dslrBooth Professional 7.48.0923.1 + 2.7.2 MacOS</title>
       <link>https://rsload.net/soft/graphics/20456-dslrbooth-photo-booth-software.html</link>
