@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Sep 2025 03:10:23 +0000</lastBuildDate>
-    <item>
-      <title>Element 1.12.0 x64</title>
-      <link>https://rsload.net/soft/talk/35629-element-192.html</link>
-    </item>
+    <lastBuildDate>Wed, 24 Sep 2025 03:44:58 +0000</lastBuildDate>
     <item>
       <title>Nobara Linux 42 2025-09-21</title>
       <link>https://rsload.net/soft/40736-nobara-linux.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>DBF Viewer 2000 8.83 + Repack</title>
       <link>https://rsload.net/soft/editor/38120-dbf-viewer-2000.html</link>
+    </item>
+    <item>
+      <title>Revo Uninstaller Pro 5.4 + Repack + Portable + Free 2.5.8</title>
+      <link>https://rsload.net/soft/manager/8918-revo-uninstaller.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
