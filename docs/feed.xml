@@ -6,66 +6,6 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 07:34:03 +0000</lastBuildDate>
-    <item>
-      <title>Flyoobe (Flyby11) 1.23</title>
-      <link>https://rsload.net/soft/manager/40697-flyby11.html</link>
-    </item>
-    <item>
-      <title>Opera GX  122.0.5643.79 + Portable + x64</title>
-      <link>https://rsload.net/soft/browser/35981-opera-gx.html</link>
-    </item>
-    <item>
-      <title>Microsoft Edge 140.0.3485.94 + Portable</title>
-      <link>https://rsload.net/soft/browser/31127-microsoft-edge-7419624.html</link>
-    </item>
-    <item>
-      <title>Pale Moon 33.9.0.1  + x64 + Portable + XP + Rus</title>
-      <link>https://rsload.net/soft/browser/8455-pale-moon.html</link>
-    </item>
-    <item>
-      <title>brave 1.82.172 + x64</title>
-      <link>https://rsload.net/soft/browser/22052-brave.html</link>
-    </item>
-    <item>
-      <title>Maxthon Browser  7.3.1.8800 + x64  + Portable</title>
-      <link>https://rsload.net/soft/browser/8337-maxthon.html</link>
-    </item>
-    <item>
-      <title>GameEx 19.28</title>
-      <link>https://rsload.net/soft/manager/13029-gameex.html</link>
-    </item>
-    <item>
-      <title>Minimal PDF Compress 1.9.3</title>
-      <link>https://rsload.net/soft/document/41254-minimal-pdf-compress.html</link>
-    </item>
-    <item>
-      <title>EA-App   13.560.0.6073</title>
-      <link>https://rsload.net/soft/manager/35788-ea-app.html</link>
-    </item>
-    <item>
-      <title>Signal Desktop 7.72.1</title>
-      <link>https://rsload.net/soft/talk/35656-signal-messenger.html</link>
-    </item>
-    <item>
-      <title>KDE neon 20250925-0744</title>
-      <link>https://rsload.net/soft/35743-kde-neon.html</link>
-    </item>
-    <item>
-      <title>Glorious Core 2.1.10 x64</title>
-      <link>https://rsload.net/soft/manager/36342-glorious-core.html</link>
-    </item>
-    <item>
-      <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
-      <link>https://rsload.net/soft/windows/windows-7-sborka/41293-windows-7-ultimate-sp1-x64-iso-usb-092025.html</link>
-    </item>
-    <item>
-      <title>Виндовс 10 Корпоративная LTSC 22H2 - новая 19045.6332 сборка для ПК на Русском</title>
-      <link>https://rsload.net/soft/windows/windows-10-sborka/41294-windows-10-ltsc-22h2-iso-261006584-rus-eng-torrent.html</link>
-    </item>
-    <item>
-      <title>Лучшая Виндовс 11 Про 64-бит для новых ПК и современных ноутбуков</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41297-windows-11-pro-24h2-261006584-x64-rus-eng-torrent.html</link>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 08:14:32 +0000</lastBuildDate>
   </channel>
 </rss>
