@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 15:10:08 +0000</lastBuildDate>
-    <item>
-      <title>Flyoobe (Flyby11) 1.23</title>
-      <link>https://rsload.net/soft/manager/40697-flyby11.html</link>
-    </item>
-    <item>
-      <title>Opera GX  122.0.5643.79 + Portable + x64</title>
-      <link>https://rsload.net/soft/browser/35981-opera-gx.html</link>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 15:36:16 +0000</lastBuildDate>
     <item>
       <title>Microsoft Edge 140.0.3485.94 + Portable</title>
       <link>https://rsload.net/soft/browser/31127-microsoft-edge-7419624.html</link>
@@ -54,6 +46,14 @@
     <item>
       <title>Glorious Core 2.1.10 x64</title>
       <link>https://rsload.net/soft/manager/36342-glorious-core.html</link>
+    </item>
+    <item>
+      <title>BluffTitler Ultimate 16.7.7.2 +  Repack + MegaPack + BixPack Collection 1.0</title>
+      <link>https://rsload.net/soft/editor/8730-blufftitler.html</link>
+    </item>
+    <item>
+      <title>Silhouette 7.5.8 + macOS + Linux / Boris FX Silhouette 2025.5 + Repack</title>
+      <link>https://rsload.net/soft/editor/26048-silhouette.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
