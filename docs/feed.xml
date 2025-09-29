@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 18:45:31 +0000</lastBuildDate>
-    <item>
-      <title>Magix (Sony) Vegas Pro 23.0.0.278 x64  + Repack + Portable + Rus + 23.0.0.302 Beta</title>
-      <link>https://rsload.net/soft/editor/10312-sony-vegas-pro.html</link>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 19:07:56 +0000</lastBuildDate>
     <item>
       <title>3DF Zephyr 8.029 + Portable</title>
       <link>https://rsload.net/soft/graphics/29349-3df-zephyr-pro.html</link>
@@ -54,6 +50,10 @@
     <item>
       <title>opencode 0.11.5 x64</title>
       <link>https://rsload.net/soft/editor/41257-opencode.html</link>
+    </item>
+    <item>
+      <title>VMware Tools 13.0.5 x64</title>
+      <link>https://rsload.net/soft/desktop/41101-vmware-tools.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
