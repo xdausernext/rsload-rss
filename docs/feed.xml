@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 07:36:29 +0000</lastBuildDate>
-    <item>
-      <title>Minimal Firewall 2.2.5 x64</title>
-      <link>https://rsload.net/soft/security/41202-minimal-firewall.html</link>
-    </item>
-    <item>
-      <title>Scripthea 2.6.3</title>
-      <link>https://rsload.net/soft/manager/39617-scripthea.html</link>
-    </item>
+    <lastBuildDate>Mon, 29 Sep 2025 08:15:30 +0000</lastBuildDate>
     <item>
       <title>Cherry Studio 1.6.2 Portable</title>
       <link>https://rsload.net/soft/editor/41035-cherry-studio.html</link>
@@ -54,6 +46,14 @@
     <item>
       <title>Quick Access Popup 11.6.7</title>
       <link>https://rsload.net/soft/desktop/21611-quick-access-popup.html</link>
+    </item>
+    <item>
+      <title>Wing FTP Server Corporate 8.0.4 x64 + macOS + Linux</title>
+      <link>https://rsload.net/soft/traffic/33713-wing-ftp-server-corporate.html</link>
+    </item>
+    <item>
+      <title>Craft Edge Sure Cuts A Lot Pro 6.077</title>
+      <link>https://rsload.net/soft/graphics/32528-sure-cuts-a-lot-pro.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
