@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 18:14:13 +0000</lastBuildDate>
-    <item>
-      <title>Stardock Start11 2.5.5.4 + Repack</title>
-      <link>https://rsload.net/soft/desktop/35990-stardock-start11.html</link>
-    </item>
-    <item>
-      <title>Perfectly Clear Complete 3.12.2.2045 / 4.8.0.2857 WorkBench + macOS</title>
-      <link>https://rsload.net/soft/graphics/23368-perfectly-clear.html</link>
-    </item>
-    <item>
-      <title>Geometric Glovius Pro 6.6.40.0 + x64 + Prime 6.7.0.30</title>
-      <link>https://rsload.net/soft/editor/27924-geometric-glovius-pro.html</link>
-    </item>
-    <item>
-      <title>VideoPad Video Editor Pro 17.45 + Rus  + 16.35 macOS + Portable</title>
-      <link>https://rsload.net/soft/editor/12940-videopad-video-editor.html</link>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 18:43:02 +0000</lastBuildDate>
     <item>
       <title>HFS (HTTP File Server) 3 0.57.21</title>
       <link>https://rsload.net/soft/traffic/13016-hfs.html</link>
@@ -54,6 +38,22 @@
     <item>
       <title>Folder2ISO 1.5  + x64</title>
       <link>https://rsload.net/soft/cleaner-disk/40503-folder2iso.html</link>
+    </item>
+    <item>
+      <title>Rufus 4.11.2285 + Portable + Русская версия</title>
+      <link>https://rsload.net/soft/cleaner-disk/12536-rufus.html</link>
+    </item>
+    <item>
+      <title>KLS Backup 2025 Professional 14.0.2.5 + Portable + Rus</title>
+      <link>https://rsload.net/soft/cleaner-disk/10750-kls-backup.html</link>
+    </item>
+    <item>
+      <title>Softros LAN Messenger 12.5</title>
+      <link>https://rsload.net/soft/talk/17090-softros-lan-messenger.html</link>
+    </item>
+    <item>
+      <title>Windows Firewall Control 6.19 + Rus + Repack</title>
+      <link>https://rsload.net/soft/manager/11428-windows-firewall-control.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
