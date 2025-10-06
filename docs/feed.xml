@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 10:11:21 +0000</lastBuildDate>
-    <item>
-      <title>Jim's Toolbox 6.2 x64</title>
-      <link>https://rsload.net/soft/optimization/40594-jims-toolbox.html</link>
-    </item>
-    <item>
-      <title>AVS Image Converter 7.1.3.4</title>
-      <link>https://rsload.net/soft/converter/14854-avs-image-converter.html</link>
-    </item>
-    <item>
-      <title>AVS Media Player 6.1.3.4</title>
-      <link>https://rsload.net/soft/player/12815-avs-media-player.html</link>
-    </item>
+    <lastBuildDate>Mon, 06 Oct 2025 10:40:26 +0000</lastBuildDate>
     <item>
       <title>WYSIWYG Web Builder 20.3.1 + Rus + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/8637-wysiwyg-web-builder.html</link>
@@ -54,6 +42,18 @@
     <item>
       <title>DesktopOK 12.14 + x64 + Portable</title>
       <link>https://rsload.net/soft/desktop/9548-desktopok-281-x64.html</link>
+    </item>
+    <item>
+      <title>Electerm 2.3.48</title>
+      <link>https://rsload.net/soft/manager/34879-electerm.html</link>
+    </item>
+    <item>
+      <title>eac3to 3.53</title>
+      <link>https://rsload.net/soft/converter/12626-eac3to.html</link>
+    </item>
+    <item>
+      <title>GameEx 19.37</title>
+      <link>https://rsload.net/soft/manager/13029-gameex.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
