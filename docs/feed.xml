@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Oct 2025 05:38:15 +0000</lastBuildDate>
-    <item>
-      <title>Room Arranger 10.2.1.733 + x64 + Portable + macOS + Repack</title>
-      <link>https://rsload.net/soft/editor/11647-room-arranger.html</link>
-    </item>
-    <item>
-      <title>Driver Magician 6.3 + Rus + Portable /  Lite Rus + 5.73</title>
-      <link>https://rsload.net/soft/manager/10342-driver-magician-lite.html</link>
-    </item>
+    <lastBuildDate>Wed, 08 Oct 2025 06:15:47 +0000</lastBuildDate>
     <item>
       <title>WhyNotWin11 2.7.0 + x64 + Portable</title>
       <link>https://rsload.net/soft/manager/35249-whynotwin11.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>Evernote 10.157.3.8633 / 6.25.1.9091</title>
       <link>https://rsload.net/soft/manager/10694-evernote.html</link>
+    </item>
+    <item>
+      <title>Rizom-Lab RizomUV Real / Virtual Space 2025.0.104 + macOS + Linux</title>
+      <link>https://rsload.net/soft/editor/28137-unfold3d-vs-rs.html</link>
+    </item>
+    <item>
+      <title>XL-Connector 3.6.15.0</title>
+      <link>https://rsload.net/soft/manager/41219-xl-connector.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
