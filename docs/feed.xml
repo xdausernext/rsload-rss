@@ -6,39 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Oct 2025 11:32:17 +0000</lastBuildDate>
-    <item>
-      <title>Remote Desktop Manager 2025.3.15 Enterprise + MacOS</title>
-      <link>https://rsload.net/soft/traffic/10307-remote-desktop-manager.html</link>
-    </item>
-    <item>
-      <title>PTC Creo Illustrate 12.1.0 x64</title>
-      <link>https://rsload.net/soft/editor/27071-ptc-creo-illustrate-41-f000.html</link>
-    </item>
-    <item>
-      <title>SkyDemon 4.2.0.104</title>
-      <link>https://rsload.net/soft/manager/38988-skydemon.html</link>
-    </item>
-    <item>
-      <title>WebHarvy 7.8.0.244 x64</title>
-      <link>https://rsload.net/soft/manager/26820-webharvy.html</link>
-    </item>
-    <item>
-      <title>ReclaiMe Free RAID Recovery 4210 / Pro Build 4195 x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/15766-reclaime-free-raid-recovery.html</link>
-    </item>
-    <item>
-      <title>Crescendo Music Notation Editor 11.26 + Portable + 10.45 MacOS</title>
-      <link>https://rsload.net/soft/editor/22849-crescendo-music-notation-editor.html</link>
-    </item>
-    <item>
-      <title>DeskFX Audio Enhancer Plus 7.13 + macOS</title>
-      <link>https://rsload.net/soft/optimization/35271-deskfx-audio-enhancer-plus.html</link>
-    </item>
-    <item>
-      <title>Doxillion Document Converter Plus 11.36 + Rus + MacOS</title>
-      <link>https://rsload.net/soft/converter/15200-doxillion-document-converter.html</link>
-    </item>
+    <lastBuildDate>Wed, 08 Oct 2025 12:20:23 +0000</lastBuildDate>
     <item>
       <title>MixPad 13.41 + Русская версия + macOS</title>
       <link>https://rsload.net/soft/editor/15758-mixpad.html</link>
@@ -50,6 +18,38 @@
     <item>
       <title>Lansweeper 12.5.6.2</title>
       <link>https://rsload.net/soft/traffic/14067-lansweeper.html</link>
+    </item>
+    <item>
+      <title>SysGauge Ultimate 12.1.18 + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/26540-sysgauge.html</link>
+    </item>
+    <item>
+      <title>Vivaldi Browser 7.6.3797.63 + x64 + Portable</title>
+      <link>https://rsload.net/soft/browser/19191-vivaldi.html</link>
+    </item>
+    <item>
+      <title>GitHub Desktop 3.5.3</title>
+      <link>https://rsload.net/soft/manager/19877-github.html</link>
+    </item>
+    <item>
+      <title>pCloud 5.0.8 + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/37484-pcloud.html</link>
+    </item>
+    <item>
+      <title>Q-Dir 12.37 Rus + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/9471-q-dir-487-portable-x64.html</link>
+    </item>
+    <item>
+      <title>phpMyAdmin 5.2.3</title>
+      <link>https://rsload.net/soft/manager/8985-phpmyadmin.html</link>
+    </item>
+    <item>
+      <title>Monkey's Audio 11.57 + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/12715-monkeys-audio.html</link>
+    </item>
+    <item>
+      <title>Google Chrome 141.0.7390.66 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/browser/8328-google-chrome.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
