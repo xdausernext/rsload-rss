@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 22:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 23:09:12 +0000</lastBuildDate>
     <item>
       <title>Waterfox Classic 2022.11 / 6.6.4 + MacOS + Linux + Portable</title>
       <link>https://rsload.net/soft/browser/12117-waterfox.html</link>
