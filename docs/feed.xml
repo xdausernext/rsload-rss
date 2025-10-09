@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 03:11:02 +0000</lastBuildDate>
-    <item>
-      <title>brave 1.83.112 + x64</title>
-      <link>https://rsload.net/soft/browser/22052-brave.html</link>
-    </item>
-    <item>
-      <title>DesktopClock3D 2.36 + x64 + Portable</title>
-      <link>https://rsload.net/soft/desktop/35238-desktopclock3d.html</link>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 03:45:36 +0000</lastBuildDate>
     <item>
       <title>OpenCloseDriveEject 3.48 + x64 + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/33929-openclosedriveeject.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>PrivWindoze 5.7.8</title>
       <link>https://rsload.net/soft/security/41022-privwindoze.html</link>
+    </item>
+    <item>
+      <title>Wise Care 365 Pro 7.3.1.716 + Portable + Repack</title>
+      <link>https://rsload.net/soft/optimization/11528-wise-care-365.html</link>
+    </item>
+    <item>
+      <title>4DDiG File Repair 4.2.2.8 + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/40417-4ddig-file-repair.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
