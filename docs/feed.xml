@@ -6,39 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 00:45:54 +0000</lastBuildDate>
-    <item>
-      <title>Waterfox Classic 2022.11 / 6.6.4 + MacOS + Linux + Portable</title>
-      <link>https://rsload.net/soft/browser/12117-waterfox.html</link>
-    </item>
-    <item>
-      <title>FanControl 243</title>
-      <link>https://rsload.net/soft/manager/34303-fancontrol.html</link>
-    </item>
-    <item>
-      <title>RyTuneX 1.5.1</title>
-      <link>https://rsload.net/soft/optimization/41109-rytunex.html</link>
-    </item>
-    <item>
-      <title>Gillmeister Automatic PDF Processor 1.41.14</title>
-      <link>https://rsload.net/soft/document/35174-automatic-pdf-processor.html</link>
-    </item>
-    <item>
-      <title>Roxio Creator NXT Pro 9 22.1.236.0 x64 + Platinum 8 21.1.15.0</title>
-      <link>https://rsload.net/soft/cleaner-disk/25994-roxio-creator-nxt-pro.html</link>
-    </item>
-    <item>
-      <title>LibreOffice 7.6.7 + x64 + Portable + 25.8.2</title>
-      <link>https://rsload.net/soft/document/8620-libreoffice.html</link>
-    </item>
-    <item>
-      <title>Roxio Easy VHS to DVD Plus  4.0.13</title>
-      <link>https://rsload.net/soft/converter/36379-roxio-easy-vhs-to-dvd-plus.html</link>
-    </item>
-    <item>
-      <title>Adobe Dimension 4.1.5 x64 + 3.4.1 macOS + Repack</title>
-      <link>https://rsload.net/soft/graphics/28556-adobe-dimension-cc.html</link>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 02:17:10 +0000</lastBuildDate>
     <item>
       <title>Adobe Substance 3D Stager 3.1.5 x64 + Repack</title>
       <link>https://rsload.net/soft/editor/35248-adobe-substance-3d-stager.html</link>
@@ -50,6 +18,38 @@
     <item>
       <title>Opera GX  122.0.5643.136 + Portable + x64</title>
       <link>https://rsload.net/soft/browser/35981-opera-gx.html</link>
+    </item>
+    <item>
+      <title>DxO PhotoLab Elite 9.1.0.488 + Rus + Repack + Portable + macOS + 7.11.1 Build 322 + 6.19.0.428</title>
+      <link>https://rsload.net/soft/graphics/28320-dxo-photolab.html</link>
+    </item>
+    <item>
+      <title>Nik Collection by DxO 8.1.101 x64 + macOS + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/32082-nik-collection-by-dxo-pro.html</link>
+    </item>
+    <item>
+      <title>Radiant Photo 2.1.1.790 + Portable + Rus + Repack</title>
+      <link>https://rsload.net/soft/graphics/38337-radiant-photo.html</link>
+    </item>
+    <item>
+      <title>AOMEI Backupper Technician Plus 8.0 + WinPE Boot + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/13911-aomei-backupper.html</link>
+    </item>
+    <item>
+      <title>XYplorer 27.20.0100  + 28.00.0200 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/9435-xyplorer.html</link>
+    </item>
+    <item>
+      <title>VCap Downloader 0.1.37.6739 + Portable + Rus</title>
+      <link>https://rsload.net/soft/manager/38508-vcap-downloader.html</link>
+    </item>
+    <item>
+      <title>Social (Facebook) Video Downloader 7.8.2   + Repack + Portable Rus</title>
+      <link>https://rsload.net/soft/manager/33681-facebook-video-downloader.html</link>
+    </item>
+    <item>
+      <title>DBF Viewer 2000 8.84 + Repack</title>
+      <link>https://rsload.net/soft/editor/38120-dbf-viewer-2000.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
