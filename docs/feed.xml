@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 05:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 05:38:08 +0000</lastBuildDate>
     <item>
       <title>IntraWeb Ultimate 16.1.7</title>
       <link>https://rsload.net/soft/editor/27875-intraweb-ultimate.html</link>
