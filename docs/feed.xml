@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 04:38:48 +0000</lastBuildDate>
-    <item>
-      <title>MuseScore 4.6.2 + Portable + x64</title>
-      <link>https://rsload.net/soft/editor/10489-musescore.html</link>
-    </item>
-    <item>
-      <title>reFX Nexus 5.3.22 + macOS</title>
-      <link>https://rsload.net/soft/38085-refx-nexus.html</link>
-    </item>
-    <item>
-      <title>ON1 Photo RAW MAX 2026 20.0.4.17586 + Rus Portable + macOS + 2020 + 2021.6</title>
-      <link>https://rsload.net/soft/graphics/15695-onone-perfect-photo-suite-premium-edition.html</link>
-    </item>
-    <item>
-      <title>IDM UEStudio 25.1.0.20 + x64 + Portable + Rus</title>
-      <link>https://rsload.net/soft/editor/12178-idm-uestudio.html</link>
-    </item>
-    <item>
-      <title>Active Boot Disk 25.2.1a + x64</title>
-      <link>https://rsload.net/soft/14460-active-boot-disk-suite.html</link>
-    </item>
-    <item>
-      <title>MainConcept Codec Plugin 1.7.2  for DaVinci Resolve</title>
-      <link>https://rsload.net/soft/editor/38689-mainconcept-codec-plugin-for-davinci-resolve.html</link>
-    </item>
+    <lastBuildDate>Sun, 12 Oct 2025 05:09:42 +0000</lastBuildDate>
     <item>
       <title>PanFone Data Transfer 1.5.3 x64</title>
       <link>https://rsload.net/soft/manager/34257-panfone-data-transfer.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>Nobe OmniScope 1.11.15 x64 + 1.10.167</title>
       <link>https://rsload.net/soft/editor/40316-nobe-omniscope.html</link>
+    </item>
+    <item>
+      <title>MetaProducts Offline Explorer Enterprise 8.8.0.5004 +  Portable + Repack</title>
+      <link>https://rsload.net/soft/browser/9307-offline-explorer.html</link>
+    </item>
+    <item>
+      <title>AOMEI Partition Assistant Pro 10.9.1 + Repack + Portable + WinPE + Rus</title>
+      <link>https://rsload.net/soft/cleaner-disk/12953-partition-assistant.html</link>
+    </item>
+    <item>
+      <title>Download Master  7.2.2.1739 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/8709-download-master.html</link>
+    </item>
+    <item>
+      <title>GoodSync Enterprise 12.9.9.10 + Repack + Portable + Rus</title>
+      <link>https://rsload.net/soft/cleaner-disk/8549-goodsync.html</link>
+    </item>
+    <item>
+      <title>EarthView 7.13.11 + Repack + Portable</title>
+      <link>https://rsload.net/soft/desktop/9635-earthview.html</link>
+    </item>
+    <item>
+      <title>MyLanViewer 6.6 Бизнес + Enterprise + Rus Portable + Repack</title>
+      <link>https://rsload.net/soft/traffic/8291-mylanviewer.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
