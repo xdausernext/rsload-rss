@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 18:12:55 +0000</lastBuildDate>
-    <item>
-      <title>Double Commander 1.1.29 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/12983-double-commander.html</link>
-    </item>
-    <item>
-      <title>Q-Dir 12.38 Rus + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/9471-q-dir-487-portable-x64.html</link>
-    </item>
-    <item>
-      <title>ChrisPC VideoTube Downloader Pro 15.25.1012 + Portable + Free  + Rus</title>
-      <link>https://rsload.net/soft/manager/16762-chrispc-free-videotube-downloader.html</link>
-    </item>
-    <item>
-      <title>CSV Editor Pro 32.0</title>
-      <link>https://rsload.net/soft/editor/23562-csv-editor-pro.html</link>
-    </item>
-    <item>
-      <title>Windows 10 Digital Activation Program 1.5.5.5 / W10 Digital Activation</title>
-      <link>https://rsload.net/soft/30672-windows-10-digital-activation-program-aktivirovat-vindous-ot-ratiborus.html</link>
-    </item>
-    <item>
-      <title>FabulousMP3 3.06.00</title>
-      <link>https://rsload.net/soft/editor/38531-fabulousmp3.html</link>
-    </item>
+    <lastBuildDate>Sun, 12 Oct 2025 18:40:54 +0000</lastBuildDate>
     <item>
       <title>FakeDriveCheck 4.70</title>
       <link>https://rsload.net/soft/cleaner-disk/40349-fakedrivecheck.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>Chaos V-Ray 7.20.00 for Rhinoceros x64</title>
       <link>https://rsload.net/soft/36328-v-ray-for-rhinoceros.html</link>
+    </item>
+    <item>
+      <title>Altair Embed 2025.2   x64</title>
+      <link>https://rsload.net/soft/editor/38485-altair-embed.html</link>
+    </item>
+    <item>
+      <title>Cutting Optimization Pro 5.18.15 на Русском</title>
+      <link>https://rsload.net/soft/editor/40686-cutting-optimization-pro.html</link>
+    </item>
+    <item>
+      <title>AD Stream Recorder 5.2 + Portable</title>
+      <link>https://rsload.net/soft/editor/15835-adrosoft-ad-stream-recorder.html</link>
+    </item>
+    <item>
+      <title>Telegram for Desktop 6.2.3 + Portable + Repack</title>
+      <link>https://rsload.net/soft/talk/27057-telegram-for-desktop.html</link>
+    </item>
+    <item>
+      <title>Linux Kernel 6.17.2</title>
+      <link>https://rsload.net/soft/35697-linux-kernel.html</link>
+    </item>
+    <item>
+      <title>QontrolPanel 1.9.4 / QuickSoundSwitcher</title>
+      <link>https://rsload.net/soft/desktop/40798-quicksoundswitcher.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
