@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 02:24:54 +0000</lastBuildDate>
-    <item>
-      <title>FanControl 244</title>
-      <link>https://rsload.net/soft/manager/34303-fancontrol.html</link>
-    </item>
-    <item>
-      <title>Antivirus Removal Tool 2025.10 (v.1)</title>
-      <link>https://rsload.net/soft/security/35229-antivirus-removal-tool.html</link>
-    </item>
-    <item>
-      <title>GPXSee 14.1 + Portable</title>
-      <link>https://rsload.net/soft/manager/32166-gpxsee.html</link>
-    </item>
+    <lastBuildDate>Mon, 13 Oct 2025 03:28:50 +0000</lastBuildDate>
     <item>
       <title>FET - Free Timetabling 7.5.3</title>
       <link>https://rsload.net/soft/manager/11588-fet.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>FreeTube 0.23.10 + Repack + Portable</title>
       <link>https://rsload.net/soft/manager/34608-freetube.html</link>
+    </item>
+    <item>
+      <title>NovaBench 5.6.0</title>
+      <link>https://rsload.net/soft/manager/37694-novabench.html</link>
+    </item>
+    <item>
+      <title>ShareX 18.0.1 + Portable + Repack + 18.0.2.681 Beta</title>
+      <link>https://rsload.net/soft/manager/11759-sharex.html</link>
+    </item>
+    <item>
+      <title>Wondershare Recoverit Pro 14.0.1.4 + Portable + Repack + 14.0.1.5 macOS</title>
+      <link>https://rsload.net/soft/cleaner-disk/29506-wondershare-recoverit-pro.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
