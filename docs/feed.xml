@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 05:38:56 +0000</lastBuildDate>
-    <item>
-      <title>Minimal Firewall 2.5 x64</title>
-      <link>https://rsload.net/soft/security/41202-minimal-firewall.html</link>
-    </item>
-    <item>
-      <title>WinPing 2.77 + x64 + Portable</title>
-      <link>https://rsload.net/soft/traffic/33892-winping.html</link>
-    </item>
-    <item>
-      <title>Monkey's Audio 11.62 + x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/12715-monkeys-audio.html</link>
-    </item>
-    <item>
-      <title>DoesNotBelong 9.3.7 / Furtivex Malware Removal</title>
-      <link>https://rsload.net/soft/security/41021-furtivex-malware-removal.html</link>
-    </item>
-    <item>
-      <title>Electerm 2.3.58</title>
-      <link>https://rsload.net/soft/manager/34879-electerm.html</link>
-    </item>
-    <item>
-      <title>FreeTube 0.23.10 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/34608-freetube.html</link>
-    </item>
+    <lastBuildDate>Mon, 13 Oct 2025 06:16:50 +0000</lastBuildDate>
     <item>
       <title>NovaBench 5.6.0</title>
       <link>https://rsload.net/soft/manager/37694-novabench.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>Everything  1.4.1.1028 + x64 + Portable + 1.5.0 Build 1400 Alpha</title>
       <link>https://rsload.net/soft/manager/11941-everything.html</link>
+    </item>
+    <item>
+      <title>BeWidgets  1.0.12.0</title>
+      <link>https://rsload.net/soft/desktop/36072-bewidgets.html</link>
+    </item>
+    <item>
+      <title>BlackBeltPrivacy 57.15.2025.10.2</title>
+      <link>https://rsload.net/soft/security/19832-blackbeltprivacy.html</link>
+    </item>
+    <item>
+      <title>Orinj 9.0.6 x64</title>
+      <link>https://rsload.net/soft/editor/38291-orinj.html</link>
+    </item>
+    <item>
+      <title>YouTube Redux 3.9.4</title>
+      <link>https://rsload.net/soft/manager/39040-youtube-redux.html</link>
+    </item>
+    <item>
+      <title>CatsXP Browser 5.9.1 + x64 + Portable + 5.10.4 Beta 4</title>
+      <link>https://rsload.net/soft/browser/36031-catsxp.html</link>
+    </item>
+    <item>
+      <title>RapidRAW 1.4.2 x64</title>
+      <link>https://rsload.net/soft/graphics/41261-rapidraw.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
