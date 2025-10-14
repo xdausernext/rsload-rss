@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 18:45:26 +0000</lastBuildDate>
-    <item>
-      <title>Windows Auto Dark Mode 11.0.0.54 x64</title>
-      <link>https://rsload.net/soft/desktop/37236-auto-dark-mode-x.html</link>
-    </item>
-    <item>
-      <title>Blizzard Battle.net 2.49.0.15846</title>
-      <link>https://rsload.net/soft/manager/35707-blizzard-battlenet.html</link>
-    </item>
-    <item>
-      <title>Flow Launcher 2.0.2</title>
-      <link>https://rsload.net/soft/manager/41255-flow-launcher.html</link>
-    </item>
-    <item>
-      <title>Mailtrack для Gmail 12.58.6</title>
-      <link>https://rsload.net/soft/browser/37087-mailtrack-gmail.html</link>
-    </item>
-    <item>
-      <title>Quick Clipboard Editor 3.1.1.2</title>
-      <link>https://rsload.net/soft/editor/39092-quick-clipboard-editor.html</link>
-    </item>
-    <item>
-      <title>eac3to 3.54</title>
-      <link>https://rsload.net/soft/converter/12626-eac3to.html</link>
-    </item>
-    <item>
-      <title>ytdlp-interface 2.16.1 x64</title>
-      <link>https://rsload.net/soft/manager/40601-ytdlp-interface.html</link>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 19:07:53 +0000</lastBuildDate>
     <item>
       <title>CapCut 7.3.0 + Rus Portable + Rus</title>
       <link>https://rsload.net/soft/editor/36992-capcut.html</link>
@@ -50,6 +22,34 @@
     <item>
       <title>VirtualDub 1.10.4 Stable + x64 + Portable / VirtualDub2 2.4.3.944 + x64</title>
       <link>https://rsload.net/soft/editor/11024-virtualdub.html</link>
+    </item>
+    <item>
+      <title>EssentialPIM Pro 12.5.3.1058   + Business + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/10773-essentialpim.html</link>
+    </item>
+    <item>
+      <title>Revo Uninstaller Pro 5.4.3 + Repack + Portable + Free 2.5.8</title>
+      <link>https://rsload.net/soft/manager/8918-revo-uninstaller.html</link>
+    </item>
+    <item>
+      <title>Magix (Sony) Vegas Pro 23.0.0.302 x64  + Repack + Portable + Rus + 23.0.0.302 Beta</title>
+      <link>https://rsload.net/soft/editor/10312-sony-vegas-pro.html</link>
+    </item>
+    <item>
+      <title>Manjaro Linux 25.0.10 x64</title>
+      <link>https://rsload.net/soft/36157-manjaro-linux.html</link>
+    </item>
+    <item>
+      <title>FireShot 2.1.3 Chrome</title>
+      <link>https://rsload.net/soft/graphics/11897-fireshot.html</link>
+    </item>
+    <item>
+      <title>G'MIC-Qt plug-in 3.6.3 for GIMP 2.10</title>
+      <link>https://rsload.net/soft/graphics/35838-gmic-qt-plug-in-for-gimp.html</link>
+    </item>
+    <item>
+      <title>SpaceSniffer 2.0.5.18 x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/17248-spacesniffer.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
