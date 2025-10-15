@@ -6,7 +6,15 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 15:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 16:11:13 +0000</lastBuildDate>
+    <item>
+      <title>ImageMagick 7.1.2-7 + x64 + Portable</title>
+      <link>https://rsload.net/soft/graphics/33889-imagemagick.html</link>
+    </item>
+    <item>
+      <title>SponsorBlock для YouTube 6.0.3 + 5.11.8 macOS</title>
+      <link>https://rsload.net/soft/browser/35667-sponsorblock-youtube.html</link>
+    </item>
     <item>
       <title>Adguard для браузера Chrome  5.2.112.1</title>
       <link>https://rsload.net/soft/browser/40780-adguard-chrome.html</link>
@@ -48,16 +56,8 @@
       <link>https://rsload.net/soft/manager/16630-bulk-image-downloader.html</link>
     </item>
     <item>
-      <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
-      <link>https://rsload.net/soft/windows/windows-7-sborka/41293-windows-7-ultimate-sp1-x64-iso-usb-092025.html</link>
-    </item>
-    <item>
       <title>Windows 10 Enterprise LTSC SuperLite 21H2 - iso Game 19044.6332 Rus</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41300-windows-10-enterprise-ltsc-superlite-21h2-190446332.html</link>
-    </item>
-    <item>
-      <title>Windows 11 Pro 25H2 Halloween (26200.6584 )  - легкая сборка с оптимизацией</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41304-windows-11-pro-25h2-halloween-262006584-lite-os-2025.html</link>
     </item>
     <item>
       <title>Чистый Windows 11 Pro Super Lite 25H2 - iso (26200.6725) 2.7 GB</title>
