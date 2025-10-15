@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 18:45:59 +0000</lastBuildDate>
-    <item>
-      <title>Dos2Unix 7.5.3 + x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/20992-dos2unix.html</link>
-    </item>
-    <item>
-      <title>Blackmagic Design DaVinci Resolve Studio 20.2.2 x64 + MacOS + Repack + Linux + Переходы</title>
-      <link>https://rsload.net/soft/editor/20845-davinci-resolve.html</link>
-    </item>
-    <item>
-      <title>Windows 11 &amp; 10 Manager 2.2 + Portable + Repack</title>
-      <link>https://rsload.net/soft/optimization/35447-windows-11-manager.html</link>
-    </item>
-    <item>
-      <title>Bulk Image Downloader 6.60  + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/16630-bulk-image-downloader.html</link>
-    </item>
-    <item>
-      <title>Blackmagic Design Fusion Studio 20.2.2 x64 + Repack + Portable + MacOS</title>
-      <link>https://rsload.net/soft/editor/26084-blackmagic-design-fusion-studio.html</link>
-    </item>
+    <lastBuildDate>Wed, 15 Oct 2025 19:08:06 +0000</lastBuildDate>
     <item>
       <title>Transcend SSD Scope 4.28</title>
       <link>https://rsload.net/soft/cleaner-disk/36747-transcend-ssd-scope.html</link>
@@ -54,6 +34,26 @@
     <item>
       <title>Wipe Professional 2025.12   + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/8389-wipe.html</link>
+    </item>
+    <item>
+      <title>GPU Shark II 2.10.0 + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/40377-gpu-shark-2.html</link>
+    </item>
+    <item>
+      <title>SIW 2025 15.9.1009 Technicians + Portable + Enterprise  + Repack + 17.17 / System Information for Windows</title>
+      <link>https://rsload.net/soft/manager/8334-siw.html</link>
+    </item>
+    <item>
+      <title>ExpanDrive 2025.10.03 + MacOS</title>
+      <link>https://rsload.net/soft/cleaner-disk/16239-expandrive.html</link>
+    </item>
+    <item>
+      <title>Readiris PDF Corporate 25.2.25.0 + Business</title>
+      <link>https://rsload.net/soft/document/35766-readiris-pdf.html</link>
+    </item>
+    <item>
+      <title>reaConverter Pro 8.0.145 + Portable + Repack</title>
+      <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
     </item>
     <item>
       <title>Windows 10 Enterprise LTSC SuperLite 21H2 - iso Game 19044.6332 Rus</title>
