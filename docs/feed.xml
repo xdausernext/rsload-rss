@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 15:10:57 +0000</lastBuildDate>
-    <item>
-      <title>SponsorBlock для YouTube 6.0.3 + 5.11.8 macOS</title>
-      <link>https://rsload.net/soft/browser/35667-sponsorblock-youtube.html</link>
-    </item>
+    <lastBuildDate>Wed, 15 Oct 2025 15:36:21 +0000</lastBuildDate>
     <item>
       <title>Adguard для браузера Chrome  5.2.112.1</title>
       <link>https://rsload.net/soft/browser/40780-adguard-chrome.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Чистый Windows 11 Pro Super Lite 25H2 - iso (26200.6725) 2.7 GB</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41305-windows-11-pro-super-lite-25h2-iso-262006725.html</link>
+    </item>
+    <item>
+      <title>Компактная Виндовс 11 25H2 - Домашняя редакция с темами и настройками</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41306-compact-windows-11-25h2-rus-eng-torrent-2025.html</link>
     </item>
   </channel>
 </rss>
