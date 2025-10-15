@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 18:15:31 +0000</lastBuildDate>
-    <item>
-      <title>SponsorBlock для YouTube 6.0.3 + 5.11.8 macOS</title>
-      <link>https://rsload.net/soft/browser/35667-sponsorblock-youtube.html</link>
-    </item>
-    <item>
-      <title>Adguard для браузера Chrome  5.2.112.1</title>
-      <link>https://rsload.net/soft/browser/40780-adguard-chrome.html</link>
-    </item>
-    <item>
-      <title>CatsXP Browser 5.9.1 + x64 + Portable + 5.10.4 Beta 9</title>
-      <link>https://rsload.net/soft/browser/36031-catsxp.html</link>
-    </item>
-    <item>
-      <title>LastPass Password Manager 5.0.7 + x64 + Chrome 4.148.1 + FireFox 4.141.2</title>
-      <link>https://rsload.net/soft/security/11944-lastpass.html</link>
-    </item>
-    <item>
-      <title>64Gram 1.1.82 x64</title>
-      <link>https://rsload.net/soft/talk/39402-64gram.html</link>
-    </item>
-    <item>
-      <title>FreeShow 1.5.0 x64</title>
-      <link>https://rsload.net/soft/editor/38596-freeshow.html</link>
-    </item>
-    <item>
-      <title>Materialious 1.10.15 x64</title>
-      <link>https://rsload.net/soft/player/41041-materialious.html</link>
-    </item>
+    <lastBuildDate>Wed, 15 Oct 2025 18:45:59 +0000</lastBuildDate>
     <item>
       <title>Dos2Unix 7.5.3 + x64</title>
       <link>https://rsload.net/soft/cleaner-disk/20992-dos2unix.html</link>
@@ -54,6 +26,34 @@
     <item>
       <title>Blackmagic Design Fusion Studio 20.2.2 x64 + Repack + Portable + MacOS</title>
       <link>https://rsload.net/soft/editor/26084-blackmagic-design-fusion-studio.html</link>
+    </item>
+    <item>
+      <title>Transcend SSD Scope 4.28</title>
+      <link>https://rsload.net/soft/cleaner-disk/36747-transcend-ssd-scope.html</link>
+    </item>
+    <item>
+      <title>Total Network Inventory Pro 6.6.0.7114 x64</title>
+      <link>https://rsload.net/soft/manager/35964-total-network-inventory-professional.html</link>
+    </item>
+    <item>
+      <title>VMware Workstation Pro 17.6.4 Build 24832109 + Lite + Rus + Repack + Linux + 25H2 25.0.0.24995812</title>
+      <link>https://rsload.net/soft/10943-vmware-workstation.html</link>
+    </item>
+    <item>
+      <title>CyberLink PowerDirector Ultimate 2026 24.0.1014.0 + Repack + Rus</title>
+      <link>https://rsload.net/soft/big-programm/9393-powerdirector.html</link>
+    </item>
+    <item>
+      <title>Full Discography 1.8.6 x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/40566-full-discography.html</link>
+    </item>
+    <item>
+      <title>All Remixes 1.5.4 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/40567-all-remixes.html</link>
+    </item>
+    <item>
+      <title>Wipe Professional 2025.12   + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/8389-wipe.html</link>
     </item>
     <item>
       <title>Windows 10 Enterprise LTSC SuperLite 21H2 - iso Game 19044.6332 Rus</title>
