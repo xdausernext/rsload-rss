@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 07:36:44 +0000</lastBuildDate>
-    <item>
-      <title>QOwnNotes 25.10.2 + Portable</title>
-      <link>https://rsload.net/soft/manager/35731-qownnotes.html</link>
-    </item>
+    <lastBuildDate>Wed, 15 Oct 2025 08:14:50 +0000</lastBuildDate>
     <item>
       <title>BatteryCare 0.9.40.0 + Portable</title>
       <link>https://rsload.net/soft/manager/9593-batterycare.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>Dos2Unix 7.5.3 + x64</title>
       <link>https://rsload.net/soft/cleaner-disk/20992-dos2unix.html</link>
+    </item>
+    <item>
+      <title>Blackmagic Design DaVinci Resolve Studio 20.2.2 x64 + MacOS + Repack + Linux + Переходы</title>
+      <link>https://rsload.net/soft/editor/20845-davinci-resolve.html</link>
     </item>
     <item>
       <title>Windows 7 Ultimate SP1 x64 Rus iso - образ для флешки Сентябрь 2025 (быстрая установка)</title>
