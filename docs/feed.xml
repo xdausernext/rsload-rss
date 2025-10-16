@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 02:19:24 +0000</lastBuildDate>
-    <item>
-      <title>Transcend SSD Scope 4.28</title>
-      <link>https://rsload.net/soft/cleaner-disk/36747-transcend-ssd-scope.html</link>
-    </item>
+    <lastBuildDate>Thu, 16 Oct 2025 03:14:56 +0000</lastBuildDate>
     <item>
       <title>Total Network Inventory Pro 6.6.0.7114 x64</title>
       <link>https://rsload.net/soft/manager/35964-total-network-inventory-professional.html</link>
@@ -54,6 +50,10 @@
     <item>
       <title>reaConverter Pro 8.0.145 + Portable + Repack</title>
       <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
+    </item>
+    <item>
+      <title>Windows 11 &amp; 10 Manager 2.2 + Portable + Repack</title>
+      <link>https://rsload.net/soft/optimization/35447-windows-11-manager.html</link>
     </item>
     <item>
       <title>Windows 10 Enterprise LTSC SuperLite 21H2 - iso Game 19044.6332 Rus</title>
