@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 13:18:13 +0000</lastBuildDate>
-    <item>
-      <title>Internet Video Downloader 7.9.3</title>
-      <link>https://rsload.net/soft/manager/40825-internet-video-downloader.html</link>
-    </item>
-    <item>
-      <title>4K Downloader 5.18.5  + Repack + Portable + Rus</title>
-      <link>https://rsload.net/soft/manager/33704-4ksoftware-4k-downloader.html</link>
-    </item>
-    <item>
-      <title>Calibre 8.13.0 + x64 + Portable + Repack + MacOS</title>
-      <link>https://rsload.net/soft/document/9183-calibre.html</link>
-    </item>
+    <lastBuildDate>Sat, 18 Oct 2025 13:36:03 +0000</lastBuildDate>
     <item>
       <title>MassTube 2026 21.0.3.169 Ultra  + Portable + Repack</title>
       <link>https://rsload.net/soft/manager/14449-masstube-downloader.html</link>
@@ -54,6 +42,18 @@
     <item>
       <title>PrivaZer Pro Donors 4.0.113 + Portable + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/11650-privazer.html</link>
+    </item>
+    <item>
+      <title>RustDesk  1.4.3 x64</title>
+      <link>https://rsload.net/soft/traffic/36518-rustdesk.html</link>
+    </item>
+    <item>
+      <title>Wine 10.17 Beta + 10.0 Stable</title>
+      <link>https://rsload.net/soft/35709-wine.html</link>
+    </item>
+    <item>
+      <title>Patch My PC 5.3.2.0</title>
+      <link>https://rsload.net/soft/manager/10341-patch-my-pc.html</link>
     </item>
     <item>
       <title>Чистый Windows 11 Pro Super Lite 25H2 - iso (26200.6725) 2.7 GB</title>
