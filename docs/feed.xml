@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Oct 2025 10:09:10 +0000</lastBuildDate>
-    <item>
-      <title>Chatty 0.27 Final</title>
-      <link>https://rsload.net/soft/talk/40530-chatty.html</link>
-    </item>
-    <item>
-      <title>Rocrail 6212 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/35850-rocrail.html</link>
-    </item>
-    <item>
-      <title>PrivWindoze 5.8.0</title>
-      <link>https://rsload.net/soft/security/41022-privwindoze.html</link>
-    </item>
-    <item>
-      <title>DoesNotBelong 9.3.9 / Furtivex Malware Removal</title>
-      <link>https://rsload.net/soft/security/41021-furtivex-malware-removal.html</link>
-    </item>
-    <item>
-      <title>Converseen 0.15.1.0-1 + Portable x64</title>
-      <link>https://rsload.net/soft/graphics/22019-converseen.html</link>
-    </item>
+    <lastBuildDate>Sun, 19 Oct 2025 10:36:40 +0000</lastBuildDate>
     <item>
       <title>digiKam 8.8.0 + x64 + Portable</title>
       <link>https://rsload.net/soft/graphics/24356-digikam.html</link>
@@ -54,6 +34,26 @@
     <item>
       <title>RiDoc 5.0.14.27 + Portable</title>
       <link>https://rsload.net/soft/document/14101-ridoc.html</link>
+    </item>
+    <item>
+      <title>Syncovery Premium 11.9.2.112 x64 + 10.15.8 macOS</title>
+      <link>https://rsload.net/soft/cleaner-disk/16717-syncovery.html</link>
+    </item>
+    <item>
+      <title>Plagius Professional 2.9.10 + Portable</title>
+      <link>https://rsload.net/soft/document/35191-plagius-professional.html</link>
+    </item>
+    <item>
+      <title>FanControl 245</title>
+      <link>https://rsload.net/soft/manager/34303-fancontrol.html</link>
+    </item>
+    <item>
+      <title>Core Temp 1.19.5.69 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/11982-core-temp.html</link>
+    </item>
+    <item>
+      <title>Fotosizer 3.20.0.590 + Pro + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/10055-fotosizer.html</link>
     </item>
     <item>
       <title>Чистый Windows 11 Pro Super Lite 25H2 - iso (26200.6725) 2.7 GB</title>
