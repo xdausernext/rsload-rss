@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Oct 2025 14:34:32 +0000</lastBuildDate>
-    <item>
-      <title>Plagius Professional 2.9.10 + Portable</title>
-      <link>https://rsload.net/soft/document/35191-plagius-professional.html</link>
-    </item>
-    <item>
-      <title>FanControl 245</title>
-      <link>https://rsload.net/soft/manager/34303-fancontrol.html</link>
-    </item>
-    <item>
-      <title>Core Temp 1.19.5.69 + x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/11982-core-temp.html</link>
-    </item>
-    <item>
-      <title>Fotosizer 3.20.0.590 + Pro + Portable + Repack</title>
-      <link>https://rsload.net/soft/graphics/10055-fotosizer.html</link>
-    </item>
-    <item>
-      <title>MediaMonkey Gold 2024.2.0.3171 + Repack + Portable + Android</title>
-      <link>https://rsload.net/soft/manager/9009-mediamonkey.html</link>
-    </item>
-    <item>
-      <title>Avanquest Architect 3D Interior Design 20.0.0.1036 x64 + Ultimate Plus</title>
-      <link>https://rsload.net/soft/editor/22312-avanquest-architect-3d.html</link>
-    </item>
+    <lastBuildDate>Sun, 19 Oct 2025 15:08:31 +0000</lastBuildDate>
     <item>
       <title>Avanquest Architect 3D Landscape Design 20.0.0.1036 x64</title>
       <link>https://rsload.net/soft/editor/38226-avanquest-architect-3d-landscape-design.html</link>
@@ -54,6 +30,30 @@
     <item>
       <title>Xilisoft YouTube Video Converter 5.7.14   + Portable</title>
       <link>https://rsload.net/soft/converter/11408-xilisoft-youtube-video-converter.html</link>
+    </item>
+    <item>
+      <title>Renee PDF Aide 2025.10.19.185</title>
+      <link>https://rsload.net/soft/converter/31966-renee-pdf-aide.html</link>
+    </item>
+    <item>
+      <title>JoyToKey 7.3.1 + 6.8 Rus</title>
+      <link>https://rsload.net/soft/desktop/20657-joytokey.html</link>
+    </item>
+    <item>
+      <title>Security Task Manager 3.2 + Repack + Portable</title>
+      <link>https://rsload.net/soft/security/9489-security-task-manager.html</link>
+    </item>
+    <item>
+      <title>Балаболка 2.15.0.908 с Русскими голосами + Portable</title>
+      <link>https://rsload.net/soft/document/8298-balabolka.html</link>
+    </item>
+    <item>
+      <title>Database Tour Pro 11.5.7.993 + Portable + Rus</title>
+      <link>https://rsload.net/soft/manager/27027-database-tour-pro.html</link>
+    </item>
+    <item>
+      <title>O&amp;O DiskImage Pro 21.2.199  x64 + Server + Premium 21.0.1078 + Rus + Repack +  WinPE</title>
+      <link>https://rsload.net/soft/cleaner-disk/12011-oo-diskimage.html</link>
     </item>
     <item>
       <title>Чистый Windows 11 Pro Super Lite 25H2 - iso (26200.6725) 2.7 GB</title>
