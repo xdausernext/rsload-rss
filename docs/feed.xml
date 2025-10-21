@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 13:05:55 +0000</lastBuildDate>
-    <item>
-      <title>Fast File Encryptor 13.10</title>
-      <link>https://rsload.net/soft/security/31165-fast-file-encryptor.html</link>
-    </item>
-    <item>
-      <title>App Builder 2025.36 + Portable</title>
-      <link>https://rsload.net/soft/editor/23323-app-builder.html</link>
-    </item>
-    <item>
-      <title>MAGIX Photostory Deluxe 2026 25.0.1.313 + Repack</title>
-      <link>https://rsload.net/soft/editor/21753-magix-photostory.html</link>
-    </item>
-    <item>
-      <title>Altova MissionKit Enterprise 2026  x64</title>
-      <link>https://rsload.net/soft/editor/33746-altova-missionkit-enterprise.html</link>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 13:47:55 +0000</lastBuildDate>
     <item>
       <title>Altova Authentic Enterprise 2026  x64</title>
       <link>https://rsload.net/soft/editor/30574-altova-authentic-enterprise.html</link>
@@ -50,6 +34,22 @@
     <item>
       <title>Java SE Runtime Environment 10.0.2 x64 + 9.0.4 x64 + 8.0 Update 471 + JDK Kit 25.0</title>
       <link>https://rsload.net/soft/8641-java-se.html</link>
+    </item>
+    <item>
+      <title>Navicat Data Modeler Premium 4.1.12 x64</title>
+      <link>https://rsload.net/soft/editor/33833-navicat-data-modeler.html</link>
+    </item>
+    <item>
+      <title>VirtualBox Extension Pack 7.2.4</title>
+      <link>https://rsload.net/soft/37276-virtualbox-extension-pack.html</link>
+    </item>
+    <item>
+      <title>VirtualBox 7.2.4 + VBoxGuestAdditions + Portable + Repack / 5.2.36 / 7.2.0 Beta 1</title>
+      <link>https://rsload.net/soft/8311-virtualbox.html</link>
+    </item>
+    <item>
+      <title>Clonezilla Live 3.3.0-33 + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/28219-clonezilla-live.html</link>
     </item>
     <item>
       <title>Чистый Windows 11 Pro Super Lite 25H2 - iso (26200.6725) 2.7 GB</title>
