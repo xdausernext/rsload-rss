@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 12:20:30 +0000</lastBuildDate>
-    <item>
-      <title>ExtraDisks 25.10.1 на Русском</title>
-      <link>https://rsload.net/soft/cleaner-disk/36884-extradisks.html</link>
-    </item>
-    <item>
-      <title>ExtraSubst 10.10 + Portable</title>
-      <link>https://rsload.net/soft/manager/32524-extra-subst.html</link>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 13:05:55 +0000</lastBuildDate>
     <item>
       <title>Fast File Encryptor 13.10</title>
       <link>https://rsload.net/soft/security/31165-fast-file-encryptor.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>eDocPrinter PDF Pro 10.48 Build 10486</title>
       <link>https://rsload.net/soft/converter/33755-edocprinter-pdf-pro.html</link>
+    </item>
+    <item>
+      <title>OCCT 15.0.3.99 + Portable + Repack / OverClock Checking Tool / Perestroika</title>
+      <link>https://rsload.net/soft/manager/10376-occt.html</link>
+    </item>
+    <item>
+      <title>Java SE Runtime Environment 10.0.2 x64 + 9.0.4 x64 + 8.0 Update 471 + JDK Kit 25.0</title>
+      <link>https://rsload.net/soft/8641-java-se.html</link>
     </item>
     <item>
       <title>Чистый Windows 11 Pro Super Lite 25H2 - iso (26200.6725) 2.7 GB</title>
