@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 14:10:43 +0000</lastBuildDate>
-    <item>
-      <title>Zoner Photo Studio X 19.2509.2.657 x64 + Русская версия + Portable + Repack</title>
-      <link>https://rsload.net/soft/graphics/10810-zoner-photo-studio.html</link>
-    </item>
-    <item>
-      <title>AmoyShare BeeConverter Pro 3.1.0 x64 + Portable</title>
-      <link>https://rsload.net/soft/converter/38998-amoyshare-beeconverter-pro.html</link>
-    </item>
-    <item>
-      <title>eDocPrinter PDF Pro 10.48 Build 10486</title>
-      <link>https://rsload.net/soft/converter/33755-edocprinter-pdf-pro.html</link>
-    </item>
-    <item>
-      <title>OCCT 15.0.3.99 + Portable + Repack / OverClock Checking Tool / Perestroika</title>
-      <link>https://rsload.net/soft/manager/10376-occt.html</link>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 14:39:18 +0000</lastBuildDate>
     <item>
       <title>Java SE Runtime Environment 10.0.2 x64 + 9.0.4 x64 + 8.0 Update 471 + JDK Kit 25.0</title>
       <link>https://rsload.net/soft/8641-java-se.html</link>
@@ -50,6 +34,22 @@
     <item>
       <title>Intel Ethernet Adapter Complete Driver Pack 30.5</title>
       <link>https://rsload.net/soft/drivers/26541-intel-ethernet-connections-cd.html</link>
+    </item>
+    <item>
+      <title>MCompleteBundle 17.06.02 + macOS + MAudioPlugins</title>
+      <link>https://rsload.net/soft/24250-maudioplugins.html</link>
+    </item>
+    <item>
+      <title>JSoft PDF Reducer 8.0</title>
+      <link>https://rsload.net/soft/editor/36700-jsoft-pdf-reducer.html</link>
+    </item>
+    <item>
+      <title>Tenorshare 4DDiG 10.6.1.1 + Portable x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/35159-4ddig-76041.html</link>
+    </item>
+    <item>
+      <title>Evernote 10.159.3.31238  / 6.25.1.9091</title>
+      <link>https://rsload.net/soft/manager/10694-evernote.html</link>
     </item>
     <item>
       <title>Чистый Windows 11 Pro Super Lite 25H2 - iso (26200.6725) 2.7 GB</title>
