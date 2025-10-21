@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 06:16:14 +0000</lastBuildDate>
-    <item>
-      <title>VovSoft Auto Change Screensavers 2.2</title>
-      <link>https://rsload.net/soft/manager/32669-auto-change-screensavers.html</link>
-    </item>
-    <item>
-      <title>PreviSat 7.2.0.3 x64</title>
-      <link>https://rsload.net/soft/desktop/14330-previsat.html</link>
-    </item>
-    <item>
-      <title>HFS (HTTP File Server) 3 0.57.23</title>
-      <link>https://rsload.net/soft/traffic/13016-hfs.html</link>
-    </item>
-    <item>
-      <title>Grub2Win 3.0.0.7</title>
-      <link>https://rsload.net/soft/manager/29780-grub2win-besplatnaya-programma-posledney-versii.html</link>
-    </item>
-    <item>
-      <title>Microsoft Edge 141.0.3537.92  + Portable</title>
-      <link>https://rsload.net/soft/browser/31127-microsoft-edge-7419624.html</link>
-    </item>
-    <item>
-      <title>CatsXP Browser 5.9.1 + x64 + Portable + 5.11.1 Beta 3</title>
-      <link>https://rsload.net/soft/browser/36031-catsxp.html</link>
-    </item>
-    <item>
-      <title>Agena 6.2.0 x64</title>
-      <link>https://rsload.net/soft/editor/39228-agena.html</link>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 06:46:51 +0000</lastBuildDate>
     <item>
       <title>Ruffle Nightly   2025-10-21 + x64</title>
       <link>https://rsload.net/soft/player/35001-ruffle-2021-03-14.html</link>
@@ -50,6 +22,34 @@
     <item>
       <title>Global Speed 3.2.39</title>
       <link>https://rsload.net/soft/browser/41038-global-speed.html</link>
+    </item>
+    <item>
+      <title>Jangafx EmberGen Enterprise 1.2.4</title>
+      <link>https://rsload.net/soft/editor/38847-jangafx-embergen-enterprise.html</link>
+    </item>
+    <item>
+      <title>reaConverter Pro 8.0.147 + Portable + Repack</title>
+      <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
+    </item>
+    <item>
+      <title>IObit Smart Defrag 11.1.0.466 + Portable + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/10978-iobit-smartdefrag.html</link>
+    </item>
+    <item>
+      <title>A4ScanDoc 2.0.9.23 + Repack + Portable</title>
+      <link>https://rsload.net/soft/document/33822-a4scandoc.html</link>
+    </item>
+    <item>
+      <title>TickTick Premium 6.4.0</title>
+      <link>https://rsload.net/soft/manager/36993-ticktick-premium.html</link>
+    </item>
+    <item>
+      <title>Advanced Renamer 4.18.1 x64  + Portable + Commercial + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/10403-advanced-renamer.html</link>
+    </item>
+    <item>
+      <title>MaxCut Business Edition 2.9.5.7</title>
+      <link>https://rsload.net/soft/editor/38575-maxcut.html</link>
     </item>
     <item>
       <title>Чистый Windows 11 Pro Super Lite 25H2 - iso (26200.6725) 2.7 GB</title>
