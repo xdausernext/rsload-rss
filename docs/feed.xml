@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 11:09:07 +0000</lastBuildDate>
-    <item>
-      <title>360 Total Security 11.0.0.1251 / Security Essential 8.8.0.1119</title>
-      <link>https://rsload.net/soft/security/17169-360-total-security.html</link>
-    </item>
-    <item>
-      <title>Display Driver Uninstaller 18.1.3.6 + Portable + Rus</title>
-      <link>https://rsload.net/soft/cleaner-disk/15615-display-driver-uninstaller.html</link>
-    </item>
-    <item>
-      <title>Easy Cut Studio 6.016 + x64 / EasyCut Pro 5.122</title>
-      <link>https://rsload.net/soft/editor/32537-easy-cut-studio.html</link>
-    </item>
-    <item>
-      <title>Remote Desktop Manager 2025.3.17 Enterprise + MacOS</title>
-      <link>https://rsload.net/soft/traffic/10307-remote-desktop-manager.html</link>
-    </item>
-    <item>
-      <title>Sleipnir  6.5.13 + Portable / 4.7.18.4000</title>
-      <link>https://rsload.net/soft/browser/8383-sleipnir.html</link>
-    </item>
-    <item>
-      <title>Minimal PDF Compress 1.9.4</title>
-      <link>https://rsload.net/soft/document/41254-minimal-pdf-compress.html</link>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 11:32:43 +0000</lastBuildDate>
     <item>
       <title>ExtraDisks 25.10.1 на Русском</title>
       <link>https://rsload.net/soft/cleaner-disk/36884-extradisks.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>MAGIX Photostory Deluxe 2026 25.0.1.313 + Repack</title>
       <link>https://rsload.net/soft/editor/21753-magix-photostory.html</link>
+    </item>
+    <item>
+      <title>Altova MissionKit Enterprise 2026  x64</title>
+      <link>https://rsload.net/soft/editor/33746-altova-missionkit-enterprise.html</link>
+    </item>
+    <item>
+      <title>Altova Authentic Enterprise 2026  x64</title>
+      <link>https://rsload.net/soft/editor/30574-altova-authentic-enterprise.html</link>
+    </item>
+    <item>
+      <title>Draftable Desktop 25.10.0 x64 + Portable</title>
+      <link>https://rsload.net/soft/document/33728-draftable-desktop.html</link>
+    </item>
+    <item>
+      <title>Zoner Photo Studio X 19.2509.2.657 x64 + Русская версия + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/10810-zoner-photo-studio.html</link>
+    </item>
+    <item>
+      <title>AmoyShare BeeConverter Pro 3.1.0 x64 + Portable</title>
+      <link>https://rsload.net/soft/converter/38998-amoyshare-beeconverter-pro.html</link>
+    </item>
+    <item>
+      <title>eDocPrinter PDF Pro 10.48 Build 10486</title>
+      <link>https://rsload.net/soft/converter/33755-edocprinter-pdf-pro.html</link>
     </item>
     <item>
       <title>Чистый Windows 11 Pro Super Lite 25H2 - iso (26200.6725) 2.7 GB</title>
