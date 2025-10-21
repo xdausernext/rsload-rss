@@ -6,54 +6,50 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 00:48:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 02:22:33 +0000</lastBuildDate>
     <item>
-      <title>Syncovery Premium 11.9.3.113 x64 + 10.15.8 macOS</title>
-      <link>https://rsload.net/soft/cleaner-disk/16717-syncovery.html</link>
+      <title>VovSoft Auto Change Screensavers 2.2</title>
+      <link>https://rsload.net/soft/manager/32669-auto-change-screensavers.html</link>
     </item>
     <item>
-      <title>4DDiG Disk Copy 1.1.0.29 x64 на Русском</title>
-      <link>https://rsload.net/soft/cleaner-disk/40914-4ddig-disk-copy.html</link>
+      <title>PreviSat 7.2.0.3 x64</title>
+      <link>https://rsload.net/soft/desktop/14330-previsat.html</link>
     </item>
     <item>
-      <title>FBackup 9.9.994</title>
-      <link>https://rsload.net/soft/cleaner-disk/10086-fbackup.html</link>
+      <title>HFS (HTTP File Server) 3 0.57.23</title>
+      <link>https://rsload.net/soft/traffic/13016-hfs.html</link>
     </item>
     <item>
-      <title>Cheat Engine 7.6.2 + Portable</title>
-      <link>https://rsload.net/soft/editor/37313-cheat-engine.html</link>
+      <title>Grub2Win 3.0.0.7</title>
+      <link>https://rsload.net/soft/manager/29780-grub2win-besplatnaya-programma-posledney-versii.html</link>
     </item>
     <item>
-      <title>Automatic Email Processor 1.15.0 / Ultimate Edition 3.8.16</title>
-      <link>https://rsload.net/soft/manager/23306-automatic-email-processor.html</link>
+      <title>Microsoft Edge 141.0.3537.92  + Portable</title>
+      <link>https://rsload.net/soft/browser/31127-microsoft-edge-7419624.html</link>
     </item>
     <item>
-      <title>MyLanViewer 6.6.2 Бизнес + Enterprise + Rus Portable + Repack</title>
-      <link>https://rsload.net/soft/traffic/8291-mylanviewer.html</link>
+      <title>CatsXP Browser 5.9.1 + x64 + Portable + 5.11.1 Beta 3</title>
+      <link>https://rsload.net/soft/browser/36031-catsxp.html</link>
     </item>
     <item>
-      <title>K-Lite Codec Pack 19.2.8 Update / Basic / Standard / Full / Mega</title>
-      <link>https://rsload.net/soft/converter/8605-k-lite-codec-pack.html</link>
+      <title>Agena 6.2.0 x64</title>
+      <link>https://rsload.net/soft/editor/39228-agena.html</link>
     </item>
     <item>
-      <title>NoScript для Chrome 13.2.1</title>
-      <link>https://rsload.net/soft/browser/40753-noscript-for-chrome.html</link>
+      <title>Ruffle Nightly   2025-10-21 + x64</title>
+      <link>https://rsload.net/soft/player/35001-ruffle-2021-03-14.html</link>
     </item>
     <item>
-      <title>ColorCatcher 4.0 + Portable</title>
-      <link>https://rsload.net/soft/desktop/40675-colorcatcher.html</link>
+      <title>Vov Music Player 11.6 + Portable</title>
+      <link>https://rsload.net/soft/player/32457-vov-music-player.html</link>
     </item>
     <item>
-      <title>QontrolPanel 1.9.5 / QuickSoundSwitcher</title>
-      <link>https://rsload.net/soft/desktop/40798-quicksoundswitcher.html</link>
+      <title>opencode 0.15.10 x64</title>
+      <link>https://rsload.net/soft/editor/41257-opencode.html</link>
     </item>
     <item>
-      <title>Floorp 12.3.1 x64</title>
-      <link>https://rsload.net/soft/browser/39406-floorp.html</link>
-    </item>
-    <item>
-      <title>ClassicMixer 2.3</title>
-      <link>https://rsload.net/soft/desktop/39691-classicmixer.html</link>
+      <title>Global Speed 3.2.39</title>
+      <link>https://rsload.net/soft/browser/41038-global-speed.html</link>
     </item>
     <item>
       <title>Чистый Windows 11 Pro Super Lite 25H2 - iso (26200.6725) 2.7 GB</title>
@@ -66,6 +62,10 @@
     <item>
       <title>Игровая Windows 11 25H2 Pro на Русском без лишнего ( сборка 26200.6899)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41308-gameos-windows-11-25h2-pro-rus-262006899-iso.html</link>
+    </item>
+    <item>
+      <title>Виндовс  7 x64 SP1 на ПК - компактная сборка 10.2025 с обновлениями</title>
+      <link>https://rsload.net/soft/windows/windows-7-sborka/41309-windows-7-sp1-rus-102025-x64.html</link>
     </item>
   </channel>
 </rss>
