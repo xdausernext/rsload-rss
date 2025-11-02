@@ -6,46 +6,46 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Nov 2025 13:36:22 +0000</lastBuildDate>
-    <item>
-      <title>Nobe OmniScope 1.11.15 x64 + 1.10.168</title>
-      <link>https://rsload.net/soft/editor/40316-nobe-omniscope.html</link>
-    </item>
-    <item>
-      <title>Mercuriall Audio Ampbox 1.0.10 macOS + 1.7.0 Windows</title>
-      <link>https://rsload.net/soft/mac-os/36800-mercuriall-audio-ampbox.html</link>
-    </item>
-    <item>
-      <title>Album DS 11.8.0 + Portable + Repack / Album TD 4.9.0.0 + Repack</title>
-      <link>https://rsload.net/soft/editor/27042-album-ds.html</link>
-    </item>
-    <item>
-      <title>Greenshot 1.3.304 + Portable</title>
-      <link>https://rsload.net/soft/editor/11030-greenshot.html</link>
-    </item>
-    <item>
-      <title>Shotcut 25.10.31 + x64 + Portable</title>
-      <link>https://rsload.net/soft/editor/17459-shotcut.html</link>
-    </item>
-    <item>
-      <title>UniGetUI 3.3.6 на Русском</title>
-      <link>https://rsload.net/soft/manager/40678-unigetui.html</link>
-    </item>
-    <item>
-      <title>Microsoft Edge 142.0.3595.53 + Portable</title>
-      <link>https://rsload.net/soft/browser/31127-microsoft-edge-7419624.html</link>
-    </item>
-    <item>
-      <title>Cockos REAPER 7.52 + x64 + Rus + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/8368-reaper.html</link>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack 19.3.0 / Basic / Standard / Full / Mega</title>
-      <link>https://rsload.net/soft/converter/8605-k-lite-codec-pack.html</link>
-    </item>
+    <lastBuildDate>Sun, 02 Nov 2025 14:08:27 +0000</lastBuildDate>
     <item>
       <title>Free Download Manager 6.30.3.6518 + x64 + Portable</title>
       <link>https://rsload.net/soft/manager/8984-free-download-manager.html</link>
+    </item>
+    <item>
+      <title>Ekahau AI Pro 11.8.7 x64</title>
+      <link>https://rsload.net/soft/traffic/36872-ekahau-ai-pro.html</link>
+    </item>
+    <item>
+      <title>Homedale 2.22</title>
+      <link>https://rsload.net/soft/traffic/11807-homedale.html</link>
+    </item>
+    <item>
+      <title>KeePass Password Safe 2.60 + Portable  + Rus  / 1.42 Classic</title>
+      <link>https://rsload.net/soft/security/10916-keepass-password-safe.html</link>
+    </item>
+    <item>
+      <title>Alfa eBooks Manager Pro / Web  9.4.8.1 + Portable</title>
+      <link>https://rsload.net/soft/manager/27722-alfa-ebooks-manager-web.html</link>
+    </item>
+    <item>
+      <title>YT Geek YTDL Pro 11.6.3</title>
+      <link>https://rsload.net/soft/manager/39921-yt-geek-ytdl-pro.html</link>
+    </item>
+    <item>
+      <title>Full Convert 25.10.1692 x64</title>
+      <link>https://rsload.net/soft/converter/29880-full-convert-enterprise-skachat-poslednyuyu-versiyu-s-klyuchom.html</link>
+    </item>
+    <item>
+      <title>4K Downloader 5.18.8 + Repack + Portable + Rus</title>
+      <link>https://rsload.net/soft/manager/33704-4ksoftware-4k-downloader.html</link>
+    </item>
+    <item>
+      <title>QueueExplorer Pro 5.0.62 x64</title>
+      <link>https://rsload.net/soft/manager/40182-queueexplorer-pro.html</link>
+    </item>
+    <item>
+      <title>MyPublicWiFi 31.3</title>
+      <link>https://rsload.net/soft/traffic/36272-mypublicwifi.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
