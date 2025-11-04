@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 05:40:05 +0000</lastBuildDate>
-    <item>
-      <title>Evernote 10.161.1.25556 / 6.25.1.9091</title>
-      <link>https://rsload.net/soft/manager/10694-evernote.html</link>
-    </item>
-    <item>
-      <title>BS.Player 2.79 Build 1095 + Pro + 3.15.239-20220726 Android</title>
-      <link>https://rsload.net/soft/player/9606-bs-player.html</link>
-    </item>
-    <item>
-      <title>PhraseExpress 17.0.132</title>
-      <link>https://rsload.net/soft/manager/12395-phraseexpress.html</link>
-    </item>
+    <lastBuildDate>Tue, 04 Nov 2025 06:16:31 +0000</lastBuildDate>
     <item>
       <title>YT Downloader 9.17.17 + Repack + Portable</title>
       <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>SoftPerfect NetWorx 25.11 + Portable + Repack</title>
       <link>https://rsload.net/soft/manager/8988-networx.html</link>
+    </item>
+    <item>
+      <title>GiliSoft USB Lock 10.8.0</title>
+      <link>https://rsload.net/soft/security/15987-gilisoft-usb-lock.html</link>
+    </item>
+    <item>
+      <title>Driver Magician 6.3 + Rus + Portable /  Lite Rus + 5.80</title>
+      <link>https://rsload.net/soft/manager/10342-driver-magician-lite.html</link>
+    </item>
+    <item>
+      <title>Directory Opus Pro 13.19.3 x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/8663-directory-opus.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
