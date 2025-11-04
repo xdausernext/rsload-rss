@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 06:48:40 +0000</lastBuildDate>
-    <item>
-      <title>YT Downloader 9.17.17 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
-    </item>
-    <item>
-      <title>Allavsoft Video Downloader Converter 3.28.5.9427 + Portable + Repack + MacOS</title>
-      <link>https://rsload.net/soft/manager/25113-video-downloader-converter.html</link>
-    </item>
+    <lastBuildDate>Tue, 04 Nov 2025 07:11:02 +0000</lastBuildDate>
     <item>
       <title>OCCT 15.0.7.99 + Portable + Repack / OverClock Checking Tool / Perestroika</title>
       <link>https://rsload.net/soft/manager/10376-occt.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>Directory Opus Pro 13.19.3 x64 + Repack + Portable</title>
       <link>https://rsload.net/soft/manager/8663-directory-opus.html</link>
+    </item>
+    <item>
+      <title>BitComet 2.18</title>
+      <link>https://rsload.net/soft/manager/8717-bitcomet.html</link>
+    </item>
+    <item>
+      <title>Monkey's Audio 11.80 + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/12715-monkeys-audio.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
