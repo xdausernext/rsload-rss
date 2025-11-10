@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 16:13:18 +0000</lastBuildDate>
-    <item>
-      <title>ExtraDisks 25.11.1 на Русском</title>
-      <link>https://rsload.net/soft/cleaner-disk/36884-extradisks.html</link>
-    </item>
-    <item>
-      <title>Fast File Encryptor 25.11.1</title>
-      <link>https://rsload.net/soft/security/31165-fast-file-encryptor.html</link>
-    </item>
-    <item>
-      <title>ExtraSubst 25.11.1 + Portable</title>
-      <link>https://rsload.net/soft/manager/32524-extra-subst.html</link>
-    </item>
+    <lastBuildDate>Mon, 10 Nov 2025 16:46:52 +0000</lastBuildDate>
     <item>
       <title>MediaMonkey Gold 2024.2.0.3175 RC2  + Repack + Portable + Android</title>
       <link>https://rsload.net/soft/manager/9009-mediamonkey.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>Aiarty Image Enhancer 3.5 x64 + Portable + Repack</title>
       <link>https://rsload.net/soft/graphics/40518-aiarty-image-enhancer.html</link>
+    </item>
+    <item>
+      <title>Xreveal 2.8.7 x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/36668-xreveal.html</link>
+    </item>
+    <item>
+      <title>PDF Annotator 9.0.0.930 x64 + Portable + Русская версия</title>
+      <link>https://rsload.net/soft/editor/17695-pdf-annotator.html</link>
+    </item>
+    <item>
+      <title>Gilisoft Total Repair 11.1.0</title>
+      <link>https://rsload.net/soft/editor/41137-gilisoft-total-repair.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
