@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 18:44:56 +0000</lastBuildDate>
-    <item>
-      <title>SIW 2025 15.10.1111 Technicians + Portable + Enterprise  + Repack + 17.17 / System Information for Windows</title>
-      <link>https://rsload.net/soft/manager/8334-siw.html</link>
-    </item>
+    <lastBuildDate>Wed, 12 Nov 2025 19:08:30 +0000</lastBuildDate>
     <item>
       <title>3D Youtube Downloader 1.24 +  x64 + Repack / Batch 2.16.2</title>
       <link>https://rsload.net/soft/manager/15603-3d-youtube-downloader.html</link>
@@ -54,6 +50,10 @@
     <item>
       <title>TapinRadio Pro 2.16.12 x64 + Portable + Repack</title>
       <link>https://rsload.net/soft/player/9557-tapinradio.html</link>
+    </item>
+    <item>
+      <title>Advanced CSV Converter 7.85 / XLS Converter 7.55 + Portable</title>
+      <link>https://rsload.net/soft/converter/28287-advanced-csv-converter.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
