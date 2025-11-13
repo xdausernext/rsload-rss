@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Nov 2025 16:45:51 +0000</lastBuildDate>
-    <item>
-      <title>Tails 7.2 x64</title>
-      <link>https://rsload.net/soft/big-programm/16535-tails-i386-101-11-rc1.html</link>
-    </item>
-    <item>
-      <title>Hasleo Disk Clone 5.5.2.2  + 3.0 на Русском + 5.5.2.1 WinPE + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/34867-hasleo-disk-clone.html</link>
-    </item>
+    <lastBuildDate>Thu, 13 Nov 2025 17:11:28 +0000</lastBuildDate>
     <item>
       <title>Windows Firewall Control 6.21.0.0 + Rus + Repack</title>
       <link>https://rsload.net/soft/manager/11428-windows-firewall-control.html</link>
@@ -54,6 +46,14 @@
     <item>
       <title>reaConverter Pro 8.0.155 + Portable + Repack</title>
       <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
+    </item>
+    <item>
+      <title>Modbus Poll 12.1.1.2487 x64</title>
+      <link>https://rsload.net/soft/editor/38441-modbus-poll.html</link>
+    </item>
+    <item>
+      <title>MusConv Lifetime 4.10.431</title>
+      <link>https://rsload.net/soft/manager/41332-musconv-lifetime.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
