@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 04:41:33 +0000</lastBuildDate>
-    <item>
-      <title>Intel Graphics Driver 32.0.101.8250 x64</title>
-      <link>https://rsload.net/soft/drivers/24982-intel-graphics-drive.html</link>
-    </item>
-    <item>
-      <title>MiniMeters 1.0.21.1977 + macOS + Linux</title>
-      <link>https://rsload.net/soft/38999-minimeters.html</link>
-    </item>
-    <item>
-      <title>Chaos V-Ray 7.20.01 для SketchUp 2021-2025 + Repack</title>
-      <link>https://rsload.net/soft/editor/31193-v-ray-next-sketchup.html</link>
-    </item>
-    <item>
-      <title>Chaos V-Ray 7.20.01 for Rhinoceros x64</title>
-      <link>https://rsload.net/soft/36328-v-ray-for-rhinoceros.html</link>
-    </item>
-    <item>
-      <title>Sysinternals Suite 2025.11.13</title>
-      <link>https://rsload.net/soft/10993-sysinternals-suite.html</link>
-    </item>
-    <item>
-      <title>Vivaldi Browser 7.7.3851.48 + x64 + Portable</title>
-      <link>https://rsload.net/soft/browser/19191-vivaldi.html</link>
-    </item>
-    <item>
-      <title>PC Timer .NET 18.38</title>
-      <link>https://rsload.net/soft/desktop/37422-pc-timer-net.html</link>
-    </item>
+    <lastBuildDate>Fri, 14 Nov 2025 05:11:19 +0000</lastBuildDate>
     <item>
       <title>Edge Remover 18.38</title>
       <link>https://rsload.net/soft/optimization/40584-edge-remover.html</link>
@@ -54,6 +26,34 @@
     <item>
       <title>SecretDNS 3.8.1</title>
       <link>https://rsload.net/soft/security/40712-secretdns.html</link>
+    </item>
+    <item>
+      <title>WinTools net Professional / Premium 25.12.1 + Portable + Repack + WinTools.one</title>
+      <link>https://rsload.net/soft/optimization/8760-wintools-net.html</link>
+    </item>
+    <item>
+      <title>RAM Saver Professional 25.11.1 + Repack + Portable</title>
+      <link>https://rsload.net/soft/optimization/25776-ram-saver-professional.html</link>
+    </item>
+    <item>
+      <title>GoodSync Enterprise 12.9.16.6 + Repack + Portable + Rus</title>
+      <link>https://rsload.net/soft/cleaner-disk/8549-goodsync.html</link>
+    </item>
+    <item>
+      <title>reaConverter Pro 8.0.155 + Portable + Repack</title>
+      <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
+    </item>
+    <item>
+      <title>4K YouTube to MP3 Pro 25.4.1  + Portable + Repack + MacOS</title>
+      <link>https://rsload.net/soft/manager/18084-4k-youtube-to-mp3.html</link>
+    </item>
+    <item>
+      <title>4K Video Downloader Plus 25.4.2 + Repack + Portable + MacOS + 4.33.5</title>
+      <link>https://rsload.net/soft/manager/16546-4k-video-downloader.html</link>
+    </item>
+    <item>
+      <title>YT Downloader 9.18.5 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
