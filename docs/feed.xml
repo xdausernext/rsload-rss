@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Nov 2025 15:33:59 +0000</lastBuildDate>
-    <item>
-      <title>Luxion Keyshot Enteprise 2025.3 14.2.0.211 + MacOS + Pro 2024.3 13.2.1.1</title>
-      <link>https://rsload.net/soft/graphics/21637-luxion-keyshot-enterprise.html</link>
-    </item>
+    <lastBuildDate>Sun, 16 Nov 2025 16:10:38 +0000</lastBuildDate>
     <item>
       <title>Watchdog Anti-Malware 4.3.467</title>
       <link>https://rsload.net/soft/security/36092-watchdog-anti-malware.html</link>
@@ -54,6 +50,10 @@
     <item>
       <title>Revive Faces 2.0.10 x64</title>
       <link>https://rsload.net/soft/graphics/41172-revive-faces.html</link>
+    </item>
+    <item>
+      <title>Let It Be Light 2.0.10 x64</title>
+      <link>https://rsload.net/soft/editor/41339-let-it-be-light.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
