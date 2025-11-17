@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 05:40:43 +0000</lastBuildDate>
-    <item>
-      <title>n-Track Studio 10.2.3.10350 + Portable + macOS + Android</title>
-      <link>https://rsload.net/soft/editor/15191-n-track-studio.html</link>
-    </item>
+    <lastBuildDate>Mon, 17 Nov 2025 06:17:17 +0000</lastBuildDate>
     <item>
       <title>TominLab WonderPen 3.0.4.8170 + macOS</title>
       <link>https://rsload.net/soft/editor/38574-wonderpen.html</link>
@@ -54,6 +50,10 @@
     <item>
       <title>InnoExtractor 2026 11.2.0.157  Ultra  / Plus 6.2.1.418 + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/11611-innoextractor.html</link>
+    </item>
+    <item>
+      <title>Antivirus Removal Tool 2025.11 (v.1)</title>
+      <link>https://rsload.net/soft/security/35229-antivirus-removal-tool.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
