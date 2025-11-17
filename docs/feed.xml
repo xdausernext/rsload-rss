@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 11:35:08 +0000</lastBuildDate>
-    <item>
-      <title>SIV 5.84 / System Information Viewer</title>
-      <link>https://rsload.net/soft/manager/8501-siv.html</link>
-    </item>
-    <item>
-      <title>Topaz Photo Pro 1.0.2 + AI 4.1.0 + Portable + Repack + 3.4.4 macOS</title>
-      <link>https://rsload.net/soft/graphics/38238-topaz-photo-ai.html</link>
-    </item>
-    <item>
-      <title>UPDF 2.0.13 x64</title>
-      <link>https://rsload.net/soft/document/37069-updf.html</link>
-    </item>
-    <item>
-      <title>HTML5Point 4.1.71</title>
-      <link>https://rsload.net/soft/converter/34312-html5point.html</link>
-    </item>
-    <item>
-      <title>xemu 0.8.115 + x64</title>
-      <link>https://rsload.net/soft/37451-xemu.html</link>
-    </item>
-    <item>
-      <title>Hugin - Panorama Stitcher 2025.0.0 + x64  + Portable</title>
-      <link>https://rsload.net/soft/graphics/12217-hugin.html</link>
-    </item>
+    <lastBuildDate>Mon, 17 Nov 2025 12:20:53 +0000</lastBuildDate>
     <item>
       <title>DirPrintOK 7.47 + x64 + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/32758-dirprintok.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>The KMPlayer 2025.11.14.11 x64 / 4.2.3.28 + Portable + Repack</title>
       <link>https://rsload.net/soft/player/8451-kmplayer.html</link>
+    </item>
+    <item>
+      <title>Advanced SystemCare Pro 19.0.1.158 + Portable + Repack + 18.0.0.85 Ultimate</title>
+      <link>https://rsload.net/soft/optimization/8290-advanced-systemcare-rus.html</link>
+    </item>
+    <item>
+      <title>MyLanViewer 6.7 Бизнес + Enterprise + Rus Portable + Repack</title>
+      <link>https://rsload.net/soft/traffic/8291-mylanviewer.html</link>
+    </item>
+    <item>
+      <title>Valentina Studio Pro 16.3.0 +  macOS</title>
+      <link>https://rsload.net/soft/manager/32068-valentina-studio-pro.html</link>
+    </item>
+    <item>
+      <title>Mp3tag 3.32 + Portable + Repack + 1.8.24 macOS</title>
+      <link>https://rsload.net/soft/editor/8573-mp3tag.html</link>
+    </item>
+    <item>
+      <title>AIMP 5.40.2699 + Portable + Repack</title>
+      <link>https://rsload.net/soft/player/8429-aimp.html</link>
+    </item>
+    <item>
+      <title>MediaHuman YouTube Downloader  3.9.18 (1111) +  Portable + Repack + MacOSX</title>
+      <link>https://rsload.net/soft/manager/23673-mediahuman-youtube-downloader.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
