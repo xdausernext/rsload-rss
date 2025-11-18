@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 19:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 20:12:41 +0000</lastBuildDate>
     <item>
       <title>GIMP 3.1.2 + Portable + Rus + 3.1.4 Dev + 3.2.0 RC1</title>
       <link>https://rsload.net/soft/graphics/10746-gimp.html</link>
