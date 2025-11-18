@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 10:13:16 +0000</lastBuildDate>
-    <item>
-      <title>Tomabo MP4 Downloader Pro 5.9.6 + Portable</title>
-      <link>https://rsload.net/soft/manager/26583-tomabo-mp4-downloader-pro.html</link>
-    </item>
+    <lastBuildDate>Tue, 18 Nov 2025 10:43:58 +0000</lastBuildDate>
     <item>
       <title>reaConverter Pro 8.0.157 + Portable + Repack</title>
       <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>Wipe Professional 2025.14   + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/8389-wipe.html</link>
+    </item>
+    <item>
+      <title>HTTP Logs Viewer 7.01</title>
+      <link>https://rsload.net/soft/manager/41345-http-logs-viewer.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
