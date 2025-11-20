@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 13:44:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 14:10:38 +0000</lastBuildDate>
     <item>
       <title>Cypheros TS-Doctor 4.2.17 x64</title>
       <link>https://rsload.net/soft/manager/27179-cypheros-ts-doctor.html</link>
