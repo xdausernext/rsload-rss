@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Nov 2025 17:35:17 +0000</lastBuildDate>
-    <item>
-      <title>Xfer Records Serum 2.0.24</title>
-      <link>https://rsload.net/soft/36391-xfer-records-serum.html</link>
-    </item>
-    <item>
-      <title>Process Explorer 17.08 + Русская версия + Portable</title>
-      <link>https://rsload.net/soft/manager/8399-process-explorer.html</link>
-    </item>
+    <lastBuildDate>Sun, 23 Nov 2025 18:14:03 +0000</lastBuildDate>
     <item>
       <title>Nevercenter Silo 2026.0 + macOS</title>
       <link>https://rsload.net/soft/editor/27707-nevercenter-silo.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>Wing FTP Server Corporate 8.0.7 x64 + macOS + Linux</title>
       <link>https://rsload.net/soft/traffic/33713-wing-ftp-server-corporate.html</link>
+    </item>
+    <item>
+      <title>KpRm 2.21.0</title>
+      <link>https://rsload.net/soft/cleaner-disk/31975-kprm.html</link>
+    </item>
+    <item>
+      <title>Secret Disk Professional 2025 315</title>
+      <link>https://rsload.net/soft/security/12120-secret-disk.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
