@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Nov 2025 17:08:38 +0000</lastBuildDate>
-    <item>
-      <title>VCap Downloader 0.1.41.6837 + Portable + Rus</title>
-      <link>https://rsload.net/soft/manager/38508-vcap-downloader.html</link>
-    </item>
-    <item>
-      <title>Malwarebytes Support Tool 1.9.16.1154</title>
-      <link>https://rsload.net/soft/security/38149-malwarebytes-support-tool.html</link>
-    </item>
+    <lastBuildDate>Sun, 23 Nov 2025 17:35:17 +0000</lastBuildDate>
     <item>
       <title>Xfer Records Serum 2.0.24</title>
       <link>https://rsload.net/soft/36391-xfer-records-serum.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>RadioBOSS Ultimate 7.1.6.1  + x64</title>
       <link>https://rsload.net/soft/player/16903-radioboss.html</link>
+    </item>
+    <item>
+      <title>Grub2Win 3.0.1.0</title>
+      <link>https://rsload.net/soft/manager/29780-grub2win-besplatnaya-programma-posledney-versii.html</link>
+    </item>
+    <item>
+      <title>Wing FTP Server Corporate 8.0.7 x64 + macOS + Linux</title>
+      <link>https://rsload.net/soft/traffic/33713-wing-ftp-server-corporate.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
