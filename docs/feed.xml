@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 05:41:32 +0000</lastBuildDate>
-    <item>
-      <title>Memtest86+ 8.00</title>
-      <link>https://rsload.net/soft/manager/10864-memtest86-500-alpha-3.html</link>
-    </item>
-    <item>
-      <title>MemoryCleaner 1.9.1  на Русском</title>
-      <link>https://rsload.net/soft/optimization/40700-memorycleaner.html</link>
-    </item>
-    <item>
-      <title>SeekFast 5.7 Build 1</title>
-      <link>https://rsload.net/soft/cleaner-disk/36569-seekfast.html</link>
-    </item>
-    <item>
-      <title>Silhouette 7.5.8 + macOS + Linux / Boris FX Silhouette 2025.5.1 + Repack</title>
-      <link>https://rsload.net/soft/editor/26048-silhouette.html</link>
-    </item>
-    <item>
-      <title>JoyToKey 7.3.2 + 6.8 Rus</title>
-      <link>https://rsload.net/soft/desktop/20657-joytokey.html</link>
-    </item>
+    <lastBuildDate>Mon, 24 Nov 2025 06:17:31 +0000</lastBuildDate>
     <item>
       <title>Tenorshare 4DDiG 10.6.6.6 + Portable x64</title>
       <link>https://rsload.net/soft/cleaner-disk/35159-4ddig-76041.html</link>
@@ -50,6 +30,26 @@
     <item>
       <title>DiskDigger 2.0.13.4127 + Repack + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/11837-diskdigger.html</link>
+    </item>
+    <item>
+      <title>IsoBuster Pro 5.7 (Build 5.7.0.00) + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/10702-isobuster.html</link>
+    </item>
+    <item>
+      <title>Балаболка 2.15.0.909 с Русскими голосами + Portable</title>
+      <link>https://rsload.net/soft/document/8298-balabolka.html</link>
+    </item>
+    <item>
+      <title>Arc 1.81.1</title>
+      <link>https://rsload.net/soft/browser/41246-arc.html</link>
+    </item>
+    <item>
+      <title>Monkey's Audio 11.87 + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/12715-monkeys-audio.html</link>
+    </item>
+    <item>
+      <title>LibreWolf 145.0.1-2 Rus x64 + Portable</title>
+      <link>https://rsload.net/soft/browser/35997-librewolf.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
