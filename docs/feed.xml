@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 18:49:05 +0000</lastBuildDate>
-    <item>
-      <title>JRiver Media Center 35.0.24 + MacOS + Repack + Portable</title>
-      <link>https://rsload.net/soft/player/8632-j-river-media-center.html</link>
-    </item>
-    <item>
-      <title>Far Manager 3.0 Build 6600 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/12183-far-manager.html</link>
-    </item>
-    <item>
-      <title>gSyncing 1.1.71 на Русском</title>
-      <link>https://rsload.net/soft/manager/40131-gsyncing.html</link>
-    </item>
-    <item>
-      <title>ChessBase 26.1 + 18.15 + Мега База данных 2026</title>
-      <link>https://rsload.net/soft/32539-chessbase.html</link>
-    </item>
+    <lastBuildDate>Mon, 24 Nov 2025 19:06:53 +0000</lastBuildDate>
     <item>
       <title>CopyWin 4.74</title>
       <link>https://rsload.net/soft/cleaner-disk/41340-copywin.html</link>
@@ -50,6 +34,22 @@
     <item>
       <title>GeekUninstaller 1.5.3.170 + Portable</title>
       <link>https://rsload.net/soft/manager/11119-geekuninstaller.html</link>
+    </item>
+    <item>
+      <title>Uninstall Tool 3.8.1.5740 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/9036-uninstall-tool.html</link>
+    </item>
+    <item>
+      <title>Tower 10.0.538 x64</title>
+      <link>https://rsload.net/soft/manager/41210-tower.html</link>
+    </item>
+    <item>
+      <title>KeyScrambler Premium 3.18.0.10</title>
+      <link>https://rsload.net/soft/security/13047-keyscrambler.html</link>
+    </item>
+    <item>
+      <title>LuBan 3D 16.11.2025 Repack + Portable</title>
+      <link>https://rsload.net/soft/editor/38605-luban-3d.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
