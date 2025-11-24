@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 16:42:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 17:10:26 +0000</lastBuildDate>
     <item>
       <title>TweakPower 2.076 + Portable</title>
       <link>https://rsload.net/soft/optimization/27331-tweakpower.html</link>
