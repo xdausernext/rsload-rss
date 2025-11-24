@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 08:47:53 +0000</lastBuildDate>
-    <item>
-      <title>qBittorrent 5.1.4 + Portable + x64 + Repack</title>
-      <link>https://rsload.net/soft/manager/8642-qbittorrent.html</link>
-    </item>
+    <lastBuildDate>Mon, 24 Nov 2025 09:14:20 +0000</lastBuildDate>
     <item>
       <title>FxSound 2 v1.0.5.0 / Pro 1.1.36 + 1.2.3 + Rus + Repack</title>
       <link>https://rsload.net/soft/optimization/34274-fxsound-2.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>y-Cruncher 0.8.7 Build 9547</title>
       <link>https://rsload.net/soft/36319-y-cruncher.html</link>
+    </item>
+    <item>
+      <title>Auslogics Anti-Malware 1.23.0.3 + Rus + Portable + Repack</title>
+      <link>https://rsload.net/soft/security/20299-auslogics-anti-malware.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
