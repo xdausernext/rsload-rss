@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 12:22:03 +0000</lastBuildDate>
-    <item>
-      <title>Dup Scout Ultimate / Enterprise 17.5.14 +  Pro + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/12366-dup-scout.html</link>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 13:06:26 +0000</lastBuildDate>
     <item>
       <title>CleverGet 24.0.0 x64 + Rus Portable</title>
       <link>https://rsload.net/soft/manager/38733-cleverget.html</link>
@@ -52,12 +48,12 @@
       <link>https://rsload.net/soft/editor/29750-rhinoceros.html</link>
     </item>
     <item>
-      <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
-      <link>https://rsload.net/soft/windows/windows-10-sborka/41307-windows-10-22h2-190456456-final.html</link>
+      <title>Ashampoo PDF Pro 5.0 + Business + Portable</title>
+      <link>https://rsload.net/soft/editor/28035-ashampoo-pdf-pro.html</link>
     </item>
     <item>
-      <title>Безопасная Виндовс 11 Про 24H2 - оптимальная сборка на Русском (26100.7171)</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41343-bezopasnaya-vindovs-11-pro-24h2-261007171.html</link>
+      <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
+      <link>https://rsload.net/soft/windows/windows-10-sborka/41307-windows-10-22h2-190456456-final.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
@@ -66,6 +62,10 @@
     <item>
       <title>Tiny11 25H2 26200.7171 + 24H2 26100.3775  + 23H2 x64 + RUS - легкая и быстрая Windows 11 Pro</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/38516-tiny11-windows-11.html</link>
+    </item>
+    <item>
+      <title>Windows 11 Professional x64 25H2 Update Fix Ghost Ru/En 11.2025</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41349-windows-11-professional-x64-25h2-update-fix-ghost.html</link>
     </item>
   </channel>
 </rss>
