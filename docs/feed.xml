@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Nov 2025 06:17:31 +0000</lastBuildDate>
-    <item>
-      <title>VovSoft Sound Recorder 3.2</title>
-      <link>https://rsload.net/soft/desktop/41352-vovsoft-sound-recorder.html</link>
-    </item>
-    <item>
-      <title>ColorCatcher 4.7 + Portable</title>
-      <link>https://rsload.net/soft/desktop/40675-colorcatcher.html</link>
-    </item>
-    <item>
-      <title>Seagate Toolkit 2.36.0.5</title>
-      <link>https://rsload.net/soft/cleaner-disk/35739-seagate-toolkit.html</link>
-    </item>
-    <item>
-      <title>Native Instruments Traktor Pro 4.4.1 + 4.1.0.146 macOS</title>
-      <link>https://rsload.net/soft/editor/13002-traktor-pro.html</link>
-    </item>
-    <item>
-      <title>PC Timer .NET 18.40</title>
-      <link>https://rsload.net/soft/desktop/37422-pc-timer-net.html</link>
-    </item>
-    <item>
-      <title>Edge Remover 18.42</title>
-      <link>https://rsload.net/soft/optimization/40584-edge-remover.html</link>
-    </item>
+    <lastBuildDate>Thu, 27 Nov 2025 06:50:50 +0000</lastBuildDate>
     <item>
       <title>SSD Booster .NET 18.40</title>
       <link>https://rsload.net/soft/cleaner-disk/37435-ssd-booster-net.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>Vivaldi Browser 7.7.3851.54 + x64 + Portable</title>
       <link>https://rsload.net/soft/browser/19191-vivaldi.html</link>
+    </item>
+    <item>
+      <title>Craft Edge Sure Cuts A Lot Pro 6.079</title>
+      <link>https://rsload.net/soft/graphics/32528-sure-cuts-a-lot-pro.html</link>
+    </item>
+    <item>
+      <title>System Info 18.42</title>
+      <link>https://rsload.net/soft/manager/41222-system-info.html</link>
+    </item>
+    <item>
+      <title>CloudMounter 3.4.2096 + 4.11 macOS</title>
+      <link>https://rsload.net/soft/cleaner-disk/36001-cloudmounter.html</link>
+    </item>
+    <item>
+      <title>Danil Pristupov Fork 2.14.2</title>
+      <link>https://rsload.net/soft/editor/36669-danil-pristupov-fork.html</link>
+    </item>
+    <item>
+      <title>Zoom Player MAX 21.5.1.2151 + Pro + Rus + Portable + Repack + 22.0 RC2</title>
+      <link>https://rsload.net/soft/player/9014-zoom-player.html</link>
+    </item>
+    <item>
+      <title>Discord 1.0.9216  x64</title>
+      <link>https://rsload.net/soft/talk/36293-discord.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
