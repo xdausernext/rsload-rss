@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Nov 2025 14:10:52 +0000</lastBuildDate>
-    <item>
-      <title>PortableApps.com Platform 30.1.3</title>
-      <link>https://rsload.net/soft/manager/20420-portableapps-com-platform.html</link>
-    </item>
-    <item>
-      <title>Vivaldi Browser 7.7.3851.54 + x64 + Portable</title>
-      <link>https://rsload.net/soft/browser/19191-vivaldi.html</link>
-    </item>
-    <item>
-      <title>Craft Edge Sure Cuts A Lot Pro 6.079</title>
-      <link>https://rsload.net/soft/graphics/32528-sure-cuts-a-lot-pro.html</link>
-    </item>
-    <item>
-      <title>System Info 18.42</title>
-      <link>https://rsload.net/soft/manager/41222-system-info.html</link>
-    </item>
-    <item>
-      <title>CloudMounter 3.4.2096 + 4.11 macOS</title>
-      <link>https://rsload.net/soft/cleaner-disk/36001-cloudmounter.html</link>
-    </item>
-    <item>
-      <title>Danil Pristupov Fork 2.14.2</title>
-      <link>https://rsload.net/soft/editor/36669-danil-pristupov-fork.html</link>
-    </item>
+    <lastBuildDate>Thu, 27 Nov 2025 14:41:37 +0000</lastBuildDate>
     <item>
       <title>Zoom Player MAX 21.5.1.2151 + Pro + Rus + Portable + Repack + 22.0 RC2</title>
       <link>https://rsload.net/soft/player/9014-zoom-player.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>Duplicati 2.2.0.1 +  x64</title>
       <link>https://rsload.net/soft/cleaner-disk/37161-duplicati.html</link>
+    </item>
+    <item>
+      <title>Wondershare UniConverter 17.1.0.454 + Rus + Repack + MacOS + Portable</title>
+      <link>https://rsload.net/soft/converter/9063-wonder-video-converter-pro.html</link>
+    </item>
+    <item>
+      <title>CAMWorks ShopFloor 2026 SP0 + 2025 SP4</title>
+      <link>https://rsload.net/soft/editor/33759-camworks-shopfloor.html</link>
+    </item>
+    <item>
+      <title>CAMWorks  2025 SP4 для SolidWorks +  2023 SP3 Solid Edge 2022-2024</title>
+      <link>https://rsload.net/soft/editor/27954-camworks.html</link>
+    </item>
+    <item>
+      <title>EaseUS Fixo 4.1.0 Build 20251124 Technician  + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/39841-easeus-fixo.html</link>
+    </item>
+    <item>
+      <title>Wondershare PDFelement Pro  12.1.1.3852 + OCR + Portable + Repack + 11.4.9 macOS</title>
+      <link>https://rsload.net/soft/editor/18941-wondershare-pdfelement-pro.html</link>
+    </item>
+    <item>
+      <title>Atlantis Word Processor 5.0.0.11 + Portable + Rus + Repack</title>
+      <link>https://rsload.net/soft/document/10642-atlantis-word-processor.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
