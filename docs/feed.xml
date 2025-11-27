@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Nov 2025 18:15:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 18:45:35 +0000</lastBuildDate>
     <item>
       <title>EarthView 7.13.16 + Repack + Portable</title>
       <link>https://rsload.net/soft/desktop/9635-earthview.html</link>
