@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Nov 2025 15:11:10 +0000</lastBuildDate>
-    <item>
-      <title>Ubisoft Connect  169.3.0.12963 x64</title>
-      <link>https://rsload.net/soft/manager/22075-uplay.html</link>
-    </item>
-    <item>
-      <title>Duplicati 2.2.0.1 +  x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/37161-duplicati.html</link>
-    </item>
-    <item>
-      <title>Wondershare UniConverter 17.1.0.454 + Rus + Repack + MacOS + Portable</title>
-      <link>https://rsload.net/soft/converter/9063-wonder-video-converter-pro.html</link>
-    </item>
-    <item>
-      <title>CAMWorks ShopFloor 2026 SP0 + 2025 SP4</title>
-      <link>https://rsload.net/soft/editor/33759-camworks-shopfloor.html</link>
-    </item>
-    <item>
-      <title>CAMWorks  2025 SP4 для SolidWorks +  2023 SP3 Solid Edge 2022-2024</title>
-      <link>https://rsload.net/soft/editor/27954-camworks.html</link>
-    </item>
+    <lastBuildDate>Thu, 27 Nov 2025 15:38:53 +0000</lastBuildDate>
     <item>
       <title>EaseUS Fixo 4.1.0 Build 20251124 Technician  + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/39841-easeus-fixo.html</link>
@@ -50,6 +30,26 @@
     <item>
       <title>reaConverter Pro 8.0.161 + Portable + Repack</title>
       <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
+    </item>
+    <item>
+      <title>VideoByte BD-DVD Ripper 2.2.22</title>
+      <link>https://rsload.net/soft/cleaner-disk/41353-videobyte-bd-dvd-ripper.html</link>
+    </item>
+    <item>
+      <title>R-Wipe &amp; Clean  20.0.2537 + Portable + Rus + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/10293-r-wipe-clean.html</link>
+    </item>
+    <item>
+      <title>Vovsoft PDF Reader 5.7</title>
+      <link>https://rsload.net/soft/document/36091-vovsoft-pdf-reader.html</link>
+    </item>
+    <item>
+      <title>uTorrent Pro 3.6.0 Build 47228 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/8330-utorrent1.html</link>
+    </item>
+    <item>
+      <title>Tenorshare 4DDiG Windows Backup 1.1.1.2 на Русском</title>
+      <link>https://rsload.net/soft/cleaner-disk/41351-tenorshare-4ddig-windows-backup.html</link>
     </item>
     <item>
       <title>Финальная Windows 10 22H2 19045.6456 - все редакции iso 3.8 GB</title>
