@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Nov 2025 15:38:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 16:12:49 +0000</lastBuildDate>
     <item>
       <title>Cyberduck 9.3.0</title>
       <link>https://rsload.net/soft/manager/13744-cyberduck.html</link>
@@ -64,8 +64,8 @@
       <link>https://rsload.net/soft/windows/windows-11-sborka/38516-tiny11-windows-11.html</link>
     </item>
     <item>
-      <title>Windows 11 Professional x64 25H2 Update Fix Ghost Ru/En 11.2025</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41349-windows-11-professional-x64-25h2-update-fix-ghost.html</link>
+      <title>Windows 11 25H2 x64 Ru/En Cosmos Full iso</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41356-windows-11-25h2-x64-rus-eng-cosmos-full-iso.html</link>
     </item>
   </channel>
 </rss>
