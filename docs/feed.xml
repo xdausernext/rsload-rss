@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 04:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 05:20:09 +0000</lastBuildDate>
     <item>
       <title>EndeavourOS 2025-11-24</title>
       <link>https://rsload.net/soft/35915-endeavouros.html</link>
