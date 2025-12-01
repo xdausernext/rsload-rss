@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 03:19:41 +0000</lastBuildDate>
-    <item>
-      <title>FreeBSD 15.0</title>
-      <link>https://rsload.net/soft/36311-freebsd.html</link>
-    </item>
-    <item>
-      <title>Flyoobe (Flyby11) 2.2.812</title>
-      <link>https://rsload.net/soft/manager/40697-flyby11.html</link>
-    </item>
+    <lastBuildDate>Mon, 01 Dec 2025 04:31:52 +0000</lastBuildDate>
     <item>
       <title>EndeavourOS 2025-11-24</title>
       <link>https://rsload.net/soft/35915-endeavouros.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>Turtle Beach Swarm II 1.0.0.35</title>
       <link>https://rsload.net/soft/manager/40658-turtle-beach-swarm-2.html</link>
+    </item>
+    <item>
+      <title>DirPrintOK 7.48 + x64 + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/32758-dirprintok.html</link>
+    </item>
+    <item>
+      <title>MAME 0.283 x64</title>
+      <link>https://rsload.net/soft/11676-mame.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
