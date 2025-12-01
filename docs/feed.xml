@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 05:20:09 +0000</lastBuildDate>
-    <item>
-      <title>EndeavourOS 2025-11-24</title>
-      <link>https://rsload.net/soft/35915-endeavouros.html</link>
-    </item>
-    <item>
-      <title>K-Lite Codec Pack 19.3.3 Обновление / Basic / Standard / Full / Mega</title>
-      <link>https://rsload.net/soft/converter/8605-k-lite-codec-pack.html</link>
-    </item>
-    <item>
-      <title>Everything  1.4.1.1030 + x64 + Portable + 1.5.0 Build 1402 Alpha</title>
-      <link>https://rsload.net/soft/manager/11941-everything.html</link>
-    </item>
-    <item>
-      <title>EA-App   13.603.0.6116</title>
-      <link>https://rsload.net/soft/manager/35788-ea-app.html</link>
-    </item>
+    <lastBuildDate>Mon, 01 Dec 2025 05:46:27 +0000</lastBuildDate>
     <item>
       <title>Corsair iCUE 5.37.60 x64</title>
       <link>https://rsload.net/soft/manager/35664-corsair-icue.html</link>
@@ -50,6 +34,22 @@
     <item>
       <title>MAME 0.283 x64</title>
       <link>https://rsload.net/soft/11676-mame.html</link>
+    </item>
+    <item>
+      <title>TominLab WonderPen 3.0.5.8206 + macOS</title>
+      <link>https://rsload.net/soft/editor/38574-wonderpen.html</link>
+    </item>
+    <item>
+      <title>ButterScroll 1.3.3</title>
+      <link>https://rsload.net/soft/desktop/41361-butterscroll.html</link>
+    </item>
+    <item>
+      <title>Cyrobo Clean Space Pro 2025 715</title>
+      <link>https://rsload.net/soft/optimization/21405-clean-space.html</link>
+    </item>
+    <item>
+      <title>OpenCloner Ripper 2024 7.40.133 x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/31891-opencloner-ripper.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
