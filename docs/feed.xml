@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 17:43:51 +0000</lastBuildDate>
-    <item>
-      <title>3DF Zephyr 8.031 + Portable</title>
-      <link>https://rsload.net/soft/graphics/29349-3df-zephyr-pro.html</link>
-    </item>
-    <item>
-      <title>Free Download Manager 6.31.0.6549 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/8984-free-download-manager.html</link>
-    </item>
-    <item>
-      <title>EDGE Diagrammer 7.48.2218</title>
-      <link>https://rsload.net/soft/editor/39538-edge-diagrammer.html</link>
-    </item>
+    <lastBuildDate>Tue, 02 Dec 2025 18:17:30 +0000</lastBuildDate>
     <item>
       <title>WizFlow Flowcharter Pro 7.48.2218</title>
       <link>https://rsload.net/soft/editor/39109-wizflow-flowcharter-professional.html</link>
@@ -42,6 +30,18 @@
     <item>
       <title>Revo Registry Cleaner Pro 2.0.5  x64 + Repack + Portable</title>
       <link>https://rsload.net/soft/optimization/41196-revo-registry-cleaner-pro.html</link>
+    </item>
+    <item>
+      <title>Coder Technologies Coder 2.27.8 + x64 + macOS + Linux</title>
+      <link>https://rsload.net/soft/editor/40350-coder-technologies.html</link>
+    </item>
+    <item>
+      <title>VLC Media Player 3.0.22 + Portable + x64 + Repack + 3.0.22 RC2</title>
+      <link>https://rsload.net/soft/player/8627-vlc-media-player.html</link>
+    </item>
+    <item>
+      <title>Python 3.14.1 + x64</title>
+      <link>https://rsload.net/soft/editor/33916-python.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
