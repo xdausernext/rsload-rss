@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 16:50:34 +0000</lastBuildDate>
-    <item>
-      <title>Maxon Red Giant 2026.2.0  x64</title>
-      <link>https://rsload.net/soft/editor/41100-maxon-red-giant.html</link>
-    </item>
-    <item>
-      <title>StartAllBack++ 3.9.19.5344 + 3.6.16.4729 + Repack</title>
-      <link>https://rsload.net/soft/desktop/35594-startallback.html</link>
-    </item>
-    <item>
-      <title>YT Saver Pro 10.10.0 + x64 + Portable + macOS</title>
-      <link>https://rsload.net/soft/manager/38521-yt-saver.html</link>
-    </item>
-    <item>
-      <title>PPTube 10.10.0 x64 на Русском + macOS</title>
-      <link>https://rsload.net/soft/manager/40846-pptube.html</link>
-    </item>
-    <item>
-      <title>iTubeGo YouTube Downloader 10.10.0 + x64 + Portable + macOS + Rus + Repack</title>
-      <link>https://rsload.net/soft/manager/33698-itubego-youtube-downloader.html</link>
-    </item>
-    <item>
-      <title>iDownerGo 10.10.0 + Portable + Repack + macOS</title>
-      <link>https://rsload.net/soft/manager/40752-idownergo.html</link>
-    </item>
+    <lastBuildDate>Wed, 03 Dec 2025 17:14:40 +0000</lastBuildDate>
     <item>
       <title>XL-Connector 3.6.33.0</title>
       <link>https://rsload.net/soft/manager/41219-xl-connector.html</link>
@@ -42,6 +18,30 @@
     <item>
       <title>Winaero Tweaker 1.64.0.0</title>
       <link>https://rsload.net/soft/optimization/19590-winaero-tweaker.html</link>
+    </item>
+    <item>
+      <title>XnViewMP 1.9.7 + x64 + Portable + MacOS</title>
+      <link>https://rsload.net/soft/graphics/20833-xnviewmp.html</link>
+    </item>
+    <item>
+      <title>Zoom Player MAX 21.5.1.2151 + Pro + Rus + Portable + Repack + 22.0 RC3</title>
+      <link>https://rsload.net/soft/player/9014-zoom-player.html</link>
+    </item>
+    <item>
+      <title>VideoProc Converter AI 8.6 + Repack + Portable + 6.6 macOS + Rus</title>
+      <link>https://rsload.net/soft/converter/36365-videoproc-converter.html</link>
+    </item>
+    <item>
+      <title>BluffTitler Ultimate 16.8.1 +  Repack + MegaPack + BixPack Collection 1.0</title>
+      <link>https://rsload.net/soft/editor/8730-blufftitler.html</link>
+    </item>
+    <item>
+      <title>Kingston SSD Manager 1.5.6.1  x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/23873-kingston-ssd-manager.html</link>
+    </item>
+    <item>
+      <title>TeamViewer 15.72.6 Free +  Premium +  Portable + Server Enterprise +  Repack</title>
+      <link>https://rsload.net/soft/traffic/8601-teamviewer.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
