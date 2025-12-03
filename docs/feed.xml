@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 05:11:54 +0000</lastBuildDate>
-    <item>
-      <title>Grub2Win 3.0.1.1</title>
-      <link>https://rsload.net/soft/manager/29780-grub2win-besplatnaya-programma-posledney-versii.html</link>
-    </item>
-    <item>
-      <title>Brickaizer 8.0.4.7</title>
-      <link>https://rsload.net/soft/graphics/34241-brickaizer.html</link>
-    </item>
-    <item>
-      <title>Operant Peak Spectroscopy 4.00.538</title>
-      <link>https://rsload.net/soft/38547-operant-peak-spectroscopy.html</link>
-    </item>
-    <item>
-      <title>Argente System Repair 1.0.3.9 + x64  + Rus</title>
-      <link>https://rsload.net/soft/optimization/41190-argente-system-repair.html</link>
-    </item>
+    <lastBuildDate>Wed, 03 Dec 2025 05:40:09 +0000</lastBuildDate>
     <item>
       <title>FreeFileSync 14.6 + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/9397-freefilesync.html</link>
@@ -42,6 +26,22 @@
     <item>
       <title>TweakNow WinSecret Plus! for Windows 11 and 10 7.4.3 + Repack + Portable</title>
       <link>https://rsload.net/soft/optimization/37036-tweaknow-winsecret-plus-for-windows-11-and-10.html</link>
+    </item>
+    <item>
+      <title>Steam Game Idler 2.5.11 Rus</title>
+      <link>https://rsload.net/soft/manager/41369-steam-game-idler.html</link>
+    </item>
+    <item>
+      <title>PrivWindoze 5.8.4</title>
+      <link>https://rsload.net/soft/security/41022-privwindoze.html</link>
+    </item>
+    <item>
+      <title>SteelSeries GG 100.0.0 x64</title>
+      <link>https://rsload.net/soft/editor/35679-steelseries-gg.html</link>
+    </item>
+    <item>
+      <title>WinTool for Windows 11</title>
+      <link>https://rsload.net/soft/optimization/41370-wintool-for-windows.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
