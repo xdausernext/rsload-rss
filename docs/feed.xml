@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 04:20:49 +0000</lastBuildDate>
-    <item>
-      <title>Vivaldi Browser 7.7.3851.58 + x64 + Portable</title>
-      <link>https://rsload.net/soft/browser/19191-vivaldi.html</link>
-    </item>
-    <item>
-      <title>Executor 2.1.10 + Portable</title>
-      <link>https://rsload.net/soft/manager/34807-executor.html</link>
-    </item>
-    <item>
-      <title>Wireshark 4.6.2 + x64 + Portable</title>
-      <link>https://rsload.net/soft/traffic/11086-wireshark.html</link>
-    </item>
-    <item>
-      <title>Delete.On.Reboot 3.44 + x64 + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/32641-deleteonreboot.html</link>
-    </item>
+    <lastBuildDate>Thu, 04 Dec 2025 04:48:10 +0000</lastBuildDate>
     <item>
       <title>VOVSOFT - Batch Audio Converter 1.7</title>
       <link>https://rsload.net/soft/converter/40779-vovsoft-batch-audio-converter.html</link>
@@ -42,6 +26,22 @@
     <item>
       <title>PMAS - PowerShell Multi Activation System 8.0</title>
       <link>https://rsload.net/soft/41373-pmas-powershell-multi-activation-system.html</link>
+    </item>
+    <item>
+      <title>LrToolbox 2026.0.0.20 x64</title>
+      <link>https://rsload.net/soft/manager/41374-lrtoolbox.html</link>
+    </item>
+    <item>
+      <title>Office Timeline Pro 13.06.00.00</title>
+      <link>https://rsload.net/soft/document/32056-office-timeline.html</link>
+    </item>
+    <item>
+      <title>4K Downloader 6.0.9 + Repack + Portable + Rus</title>
+      <link>https://rsload.net/soft/manager/33704-4ksoftware-4k-downloader.html</link>
+    </item>
+    <item>
+      <title>BarTender Enterprise 11.8.0.247912 x64</title>
+      <link>https://rsload.net/soft/document/11124-bartender-enterprise-automation.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
