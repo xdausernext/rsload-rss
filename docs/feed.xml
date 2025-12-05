@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 03:45:39 +0000</lastBuildDate>
-    <item>
-      <title>PMAS - PowerShell Multi Activation System 9.0</title>
-      <link>https://rsload.net/soft/41373-pmas-powershell-multi-activation-system.html</link>
-    </item>
+    <lastBuildDate>Fri, 05 Dec 2025 04:20:56 +0000</lastBuildDate>
     <item>
       <title>K-Lite Codec Pack 19.3.5 / Basic / Standard / Full / Mega</title>
       <link>https://rsload.net/soft/converter/8605-k-lite-codec-pack.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>Scientific Toolworks Understand 7.2 Build 1241 x64</title>
       <link>https://rsload.net/soft/editor/36634-scientific-toolworks-understand.html</link>
+    </item>
+    <item>
+      <title>Internet Download Manager 6.42 Build 57 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/8294-internet-download-manager.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
