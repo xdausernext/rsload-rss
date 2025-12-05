@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 18:14:01 +0000</lastBuildDate>
-    <item>
-      <title>Terragen Pro 4.8.64 x64 + MacOS + 4.6.19 Frontier</title>
-      <link>https://rsload.net/soft/graphics/30149-planetside-terragen-professional-4210-x64.html</link>
-    </item>
-    <item>
-      <title>Bulk Image Downloader 6.61  + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/16630-bulk-image-downloader.html</link>
-    </item>
-    <item>
-      <title>Scientific Toolworks Understand 7.2 Build 1241 x64</title>
-      <link>https://rsload.net/soft/editor/36634-scientific-toolworks-understand.html</link>
-    </item>
-    <item>
-      <title>Internet Download Manager 6.42 Build 57 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/8294-internet-download-manager.html</link>
-    </item>
-    <item>
-      <title>Native Instruments Kontakt 8.8 + 7.10.9 + macOS +  Portable</title>
-      <link>https://rsload.net/soft/23734-native-instruments-kontakt-5.html</link>
-    </item>
-    <item>
-      <title>4DDiG File Repair 4.3.2.6 + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/40417-4ddig-file-repair.html</link>
-    </item>
+    <lastBuildDate>Fri, 05 Dec 2025 18:46:50 +0000</lastBuildDate>
     <item>
       <title>reaConverter Pro 8.0.165 + Portable + Repack</title>
       <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>Soluling Enterprise 1.0.1080</title>
       <link>https://rsload.net/soft/editor/41053-soluling-enterprise.html</link>
+    </item>
+    <item>
+      <title>X-Ability Winmostar 11.13.5</title>
+      <link>https://rsload.net/soft/editor/40721-x-ability-winmostar.html</link>
+    </item>
+    <item>
+      <title>YT Downloader 10.0.6 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
+    </item>
+    <item>
+      <title>Edge Remover 18.43</title>
+      <link>https://rsload.net/soft/optimization/40584-edge-remover.html</link>
+    </item>
+    <item>
+      <title>SoftPerfect NetWorx 25.12 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/8988-networx.html</link>
+    </item>
+    <item>
+      <title>Windows Firewall Control 6.24 + Rus + Repack</title>
+      <link>https://rsload.net/soft/manager/11428-windows-firewall-control.html</link>
+    </item>
+    <item>
+      <title>AnyDesk Pro + 9.6.6 + Portable + Репак +  8.1.4 macOS</title>
+      <link>https://rsload.net/soft/traffic/19306-anydesk.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
