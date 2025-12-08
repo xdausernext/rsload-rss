@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 18:17:18 +0000</lastBuildDate>
-    <item>
-      <title>XRecode III 1.175 + Repack + Portable / II 1.0.0.232 + Repack</title>
-      <link>https://rsload.net/soft/converter/10136-xrecode.html</link>
-    </item>
-    <item>
-      <title>Cockos REAPER 7.55 + x64 + Rus + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/8368-reaper.html</link>
-    </item>
-    <item>
-      <title>Pazu StreamGet All-In-One Video Downloader 2.8.9 + Repack</title>
-      <link>https://rsload.net/soft/manager/41220-pazu-streamget-all-in-one-video-downloader.html</link>
-    </item>
-    <item>
-      <title>DLNow Video Downloader 1.54.2025.12.06 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/33749-dlnow-video-downloader.html</link>
-    </item>
+    <lastBuildDate>Mon, 08 Dec 2025 18:49:35 +0000</lastBuildDate>
     <item>
       <title>PrivaZer Pro Donors 4.0.115 + Portable + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/11650-privazer.html</link>
@@ -50,6 +34,22 @@
     <item>
       <title>ConsoleAct 3.4 Portable</title>
       <link>https://rsload.net/soft/33757-consoleact.html</link>
+    </item>
+    <item>
+      <title>Mozilla Firefox 146.0 + x64 + Portable + 15.12.0 ESR</title>
+      <link>https://rsload.net/soft/browser/8342-mozilla-firefox.html</link>
+    </item>
+    <item>
+      <title>Ventoy 1.1.08 + LiveCD + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/34595-ventoy.html</link>
+    </item>
+    <item>
+      <title>FanControl 251</title>
+      <link>https://rsload.net/soft/manager/34303-fancontrol.html</link>
+    </item>
+    <item>
+      <title>Winaero Tweaker 1.64.1.0</title>
+      <link>https://rsload.net/soft/optimization/19590-winaero-tweaker.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
