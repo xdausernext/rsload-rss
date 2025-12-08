@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 14:12:17 +0000</lastBuildDate>
-    <item>
-      <title>WnSoft PTE AV Studio Pro 11.0.20.1 + Portable + Repack / PicturesToExe Deluxe</title>
-      <link>https://rsload.net/soft/graphics/8318-picturestoexe-deluxe.html</link>
-    </item>
+    <lastBuildDate>Mon, 08 Dec 2025 14:44:17 +0000</lastBuildDate>
     <item>
       <title>XRecode III 1.175 + Repack + Portable / II 1.0.0.232 + Repack</title>
       <link>https://rsload.net/soft/converter/10136-xrecode.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>Кроха Tweaker 2.1 - Портативная финальная версия</title>
       <link>https://rsload.net/soft/optimization/34566-kpoxa-tweaker.html</link>
+    </item>
+    <item>
+      <title>ConsoleAct 3.4 Portable</title>
+      <link>https://rsload.net/soft/33757-consoleact.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
