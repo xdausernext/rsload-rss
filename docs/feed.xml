@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Dec 2025 04:19:40 +0000</lastBuildDate>
-    <item>
-      <title>Mozilla Firefox 146.0 + x64 + Portable + 15.12.0 ESR</title>
-      <link>https://rsload.net/soft/browser/8342-mozilla-firefox.html</link>
-    </item>
-    <item>
-      <title>Ventoy 1.1.08 + LiveCD + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/34595-ventoy.html</link>
-    </item>
+    <lastBuildDate>Tue, 09 Dec 2025 04:45:48 +0000</lastBuildDate>
     <item>
       <title>FanControl 251</title>
       <link>https://rsload.net/soft/manager/34303-fancontrol.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>GiliSoft Audio Recorder Pro 13.9 + Repack + Rus Portable</title>
       <link>https://rsload.net/soft/editor/16134-gilisoft-audio-recorder-pro.html</link>
+    </item>
+    <item>
+      <title>StartAllBack++ 3.9.20 + 3.6.16.4729 + Repack</title>
+      <link>https://rsload.net/soft/desktop/35594-startallback.html</link>
+    </item>
+    <item>
+      <title>The Bat! Professional 11.5.1.1 x64 + key  + Voyager бесплатно на Русском</title>
+      <link>https://rsload.net/soft/browser/8369-the-bat.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
