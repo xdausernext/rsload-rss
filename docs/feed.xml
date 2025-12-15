@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Dec 2025 22:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 23:11:15 +0000</lastBuildDate>
     <item>
       <title>Ray 140.0.7339.3394</title>
       <link>https://rsload.net/soft/browser/41229-ray.html</link>
