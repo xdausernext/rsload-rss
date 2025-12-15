@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Dec 2025 18:17:27 +0000</lastBuildDate>
-    <item>
-      <title>NVU 1.0 Rus</title>
-      <link>https://rsload.net/soft/editor/41390-nvu.html</link>
-    </item>
-    <item>
-      <title>Audiomodern Playbeat 4.0.8 x64</title>
-      <link>https://rsload.net/soft/editor/41391-audiomodern-playbeat.html</link>
-    </item>
-    <item>
-      <title>KMS Tools Portable 15.12.2025 (Ratiborus)</title>
-      <link>https://rsload.net/soft/22923-kms-tools-portable.html</link>
-    </item>
-    <item>
-      <title>RetroMessenger 10.4.0</title>
-      <link>https://rsload.net/soft/talk/41392-retromessenger.html</link>
-    </item>
+    <lastBuildDate>Mon, 15 Dec 2025 18:52:08 +0000</lastBuildDate>
     <item>
       <title>Ray 140.0.7339.3394</title>
       <link>https://rsload.net/soft/browser/41229-ray.html</link>
@@ -46,6 +30,22 @@
     <item>
       <title>VectorStyler 1.3.003 + Portable</title>
       <link>https://rsload.net/soft/graphics/37251-vectorstyler.html</link>
+    </item>
+    <item>
+      <title>YT Downloader 10.0.10 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
+    </item>
+    <item>
+      <title>Zoom  6.7.0.24657 + Portable</title>
+      <link>https://rsload.net/soft/talk/33954-zoom.html</link>
+    </item>
+    <item>
+      <title>Telegram for Desktop 6.3.7 + Portable + Repack</title>
+      <link>https://rsload.net/soft/talk/27057-telegram-for-desktop.html</link>
+    </item>
+    <item>
+      <title>The KMPlayer 2025.11.14.11 x64 / 4.2.3.30 + Portable + Repack</title>
+      <link>https://rsload.net/soft/player/8451-kmplayer.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
