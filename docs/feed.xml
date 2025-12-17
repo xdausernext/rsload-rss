@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 03:48:38 +0000</lastBuildDate>
-    <item>
-      <title>Overloud TH-U Premium 2.0.9  + macOS + Slate Edition 2.0.3</title>
-      <link>https://rsload.net/soft/31449-overloud-th-u-complete.html</link>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 04:24:10 +0000</lastBuildDate>
     <item>
       <title>Topaz Gigapixel Pro 1.0.7 + AI 8.4.4 + Repack + Portable + MacOS</title>
       <link>https://rsload.net/soft/editor/30987-topaz-ai-gigapixel.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>Process Explorer 17.09 + Русская версия + Portable</title>
       <link>https://rsload.net/soft/manager/8399-process-explorer.html</link>
+    </item>
+    <item>
+      <title>Video2X 6.4.0</title>
+      <link>https://rsload.net/soft/graphics/41396-video2x.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
