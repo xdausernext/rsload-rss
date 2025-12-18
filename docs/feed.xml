@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Dec 2025 15:42:31 +0000</lastBuildDate>
-    <item>
-      <title>MEmu App Player 9.3.1.1</title>
-      <link>https://rsload.net/soft/manager/23355-memu.html</link>
-    </item>
-    <item>
-      <title>WinToUSB Enterprise 10.4  + Portable + Repack + Rus</title>
-      <link>https://rsload.net/soft/cleaner-disk/16954-wintousb.html</link>
-    </item>
-    <item>
-      <title>Microsoft Visual Studio 2026 18.0.11205.157 Pro + Enterprise</title>
-      <link>https://rsload.net/soft/big-programm/25794-microsoft-visual-studio-2015-1402542001-update-3.html</link>
-    </item>
+    <lastBuildDate>Thu, 18 Dec 2025 16:15:39 +0000</lastBuildDate>
     <item>
       <title>WinRAR 7.13 + 7.20 для Windows на Русском языке бесплатно + Repack + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/8468-winrar2.html</link>
@@ -42,6 +30,18 @@
     <item>
       <title>Adobe Illustrator 2026 30.1.0.136 + x64 + Repack + Portable</title>
       <link>https://rsload.net/soft/big-programm/10905-adobe-illustrator.html</link>
+    </item>
+    <item>
+      <title>Adobe Photoshop Lightroom 9.0 + 2026 15.0.1 Classic + Rus + Portable + Repack + macOS</title>
+      <link>https://rsload.net/soft/graphics/10402-adobe-photoshop-lightroom.html</link>
+    </item>
+    <item>
+      <title>Adobe InCopy 2026 21.0.0.192 x64 + Repack + регистрация</title>
+      <link>https://rsload.net/soft/editor/28376-adobe-incopy-cc-repack-diakov.html</link>
+    </item>
+    <item>
+      <title>Adobe Substance 3D Sampler 5.1.2 + MacOS + Repack + Portable</title>
+      <link>https://rsload.net/soft/editor/35247-adobe-substance-3d-sampler.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
