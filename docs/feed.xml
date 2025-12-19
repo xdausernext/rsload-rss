@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 11:36:30 +0000</lastBuildDate>
-    <item>
-      <title>WinToHDD 6.8 Enterprise / Professional / Technician + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/21818-wintohdd.html</link>
-    </item>
+    <lastBuildDate>Fri, 19 Dec 2025 12:20:48 +0000</lastBuildDate>
     <item>
       <title>Ant Download Manager Pro 2.16.4.92194 +  Portable + Repack</title>
       <link>https://rsload.net/soft/manager/20343-ant-download-manager.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 Pro 25H2 x64 Premium Gaming: Красивая сборка с темами, без Defender и телеметрии</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41398-windows-11-pro-25h2-x64-premium-gaming-12-2025.html</link>
+    </item>
+    <item>
+      <title>Виндовс 11 Pro 25H2 26200.7462 с Защитником и программами + темы</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41400-windows-11-pro-25h2-262007462-defender-torrent.html</link>
     </item>
   </channel>
 </rss>
