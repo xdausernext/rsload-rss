@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 07:13:59 +0000</lastBuildDate>
-    <item>
-      <title>Adobe Master Collection 2025 v11 / m0nkrus</title>
-      <link>https://rsload.net/soft/31867-adobe-master-collection-cc.html</link>
-    </item>
-    <item>
-      <title>Bitwig Studio 5.3.13 + macOS + 6.0 Beta 10 x64</title>
-      <link>https://rsload.net/soft/33275-bitwig-studio.html</link>
-    </item>
-    <item>
-      <title>XYplorer 27.20.0300 + 28.10.0200 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/9435-xyplorer.html</link>
-    </item>
-    <item>
-      <title>Ashampoo Backup Pro 27.5.36 + Спасательный диск + Pro 17.14</title>
-      <link>https://rsload.net/soft/cleaner-disk/22291-ashampoo-backup-pro.html</link>
-    </item>
-    <item>
-      <title>DxO PhotoLab Elite 9.3.2.573 + Русификатор + Repack + Portable</title>
-      <link>https://rsload.net/soft/graphics/28320-dxo-photolab.html</link>
-    </item>
-    <item>
-      <title>eM Client Pro 10.4.4195.0  + Portable + Repack</title>
-      <link>https://rsload.net/soft/browser/22863-em-client.html</link>
-    </item>
-    <item>
-      <title>WinToUSB Enterprise 10.4  + Portable + Repack + Rus</title>
-      <link>https://rsload.net/soft/cleaner-disk/16954-wintousb.html</link>
-    </item>
+    <lastBuildDate>Fri, 19 Dec 2025 07:39:20 +0000</lastBuildDate>
     <item>
       <title>WinToHDD 6.8 Enterprise / Professional / Technician + Repack + Portable</title>
       <link>https://rsload.net/soft/manager/21818-wintohdd.html</link>
@@ -42,6 +14,34 @@
     <item>
       <title>Ant Download Manager Pro 2.16.4.92194 +  Portable + Repack</title>
       <link>https://rsload.net/soft/manager/20343-ant-download-manager.html</link>
+    </item>
+    <item>
+      <title>ExamDiff Pro 16.0.1.17 + Rus +  x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/document/10839-examdiff.html</link>
+    </item>
+    <item>
+      <title>reaConverter Pro 8.0.171 + Portable + Repack</title>
+      <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
+    </item>
+    <item>
+      <title>SoftPerfect RAM Disk 25.12 + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/11844-softperfect-ram-disk.html</link>
+    </item>
+    <item>
+      <title>3D Youtube Downloader 1.25 +  x64 + Repack / Batch 2.16.2</title>
+      <link>https://rsload.net/soft/manager/15603-3d-youtube-downloader.html</link>
+    </item>
+    <item>
+      <title>SimpleMind Pro 2.8.0.6584 + Repack + Portable</title>
+      <link>https://rsload.net/soft/editor/24789-simplemind.html</link>
+    </item>
+    <item>
+      <title>Microsoft Edge 143.0.3650.96 + Portable</title>
+      <link>https://rsload.net/soft/browser/31127-microsoft-edge-7419624.html</link>
+    </item>
+    <item>
+      <title>MusConv Lifetime 4.10.440</title>
+      <link>https://rsload.net/soft/manager/41332-musconv-lifetime.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
