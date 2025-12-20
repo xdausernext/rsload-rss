@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Dec 2025 09:37:05 +0000</lastBuildDate>
-    <item>
-      <title>EdrawMax 15.0.6.1445 Ultimate + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/17667-edraw-max.html</link>
-    </item>
+    <lastBuildDate>Sat, 20 Dec 2025 10:10:38 +0000</lastBuildDate>
     <item>
       <title>Topaz Photo Pro 1.1.0 + AI 4.1.0 + Portable + Repack + 3.4.4 macOS</title>
       <link>https://rsload.net/soft/graphics/38238-topaz-photo-ai.html</link>
@@ -38,6 +34,10 @@
     <item>
       <title>vMail OST to PST Converter 15.0.0.1</title>
       <link>https://rsload.net/soft/converter/41403-vmail-ost-to-pst-converter.html</link>
+    </item>
+    <item>
+      <title>Neural DSP Archetype Tim Henson X 1.0.1</title>
+      <link>https://rsload.net/soft/41404-neural-dsp-archetype-tim-henson-x.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
