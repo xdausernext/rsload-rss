@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Dec 2025 05:12:31 +0000</lastBuildDate>
-    <item>
-      <title>Beyond Compare Pro 5.1.7.31736 на Русском + Repack  + macOS + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/10236-beyond-compare.html</link>
-    </item>
-    <item>
-      <title>YT Downloader 10.0.11 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
-    </item>
-    <item>
-      <title>WinToUSB Enterprise 10.4  + Portable + Repack + Rus</title>
-      <link>https://rsload.net/soft/cleaner-disk/16954-wintousb.html</link>
-    </item>
-    <item>
-      <title>CrawlRhino SEO Crawler PRO 1.1.11</title>
-      <link>https://rsload.net/soft/manager/41359-crawlrhino-seo-crawler-pro.html</link>
-    </item>
-    <item>
-      <title>Bitwig Studio 5.3.13 + macOS + 6.0 Beta 11 x64</title>
-      <link>https://rsload.net/soft/33275-bitwig-studio.html</link>
-    </item>
+    <lastBuildDate>Sun, 21 Dec 2025 05:40:46 +0000</lastBuildDate>
     <item>
       <title>Prime95  31.04 Build 1  + x64</title>
       <link>https://rsload.net/soft/manager/9644-prime95-272-beta-prime95-266-x64.html</link>
@@ -38,6 +18,26 @@
     <item>
       <title>Spectaculator 9.0.1.4932</title>
       <link>https://rsload.net/soft/manager/41407-spectaculator.html</link>
+    </item>
+    <item>
+      <title>Ekahau AI Pro 11.8.8 x64</title>
+      <link>https://rsload.net/soft/traffic/36872-ekahau-ai-pro.html</link>
+    </item>
+    <item>
+      <title>WDAC Lockdown 1.46 на Русском</title>
+      <link>https://rsload.net/soft/manager/41205-wdac-lockdown.html</link>
+    </item>
+    <item>
+      <title>DefenderUI 1.46</title>
+      <link>https://rsload.net/soft/35719-defenderui.html</link>
+    </item>
+    <item>
+      <title>System Mechanic Pro + Rus + Ultimate Defense 26.0.0.10</title>
+      <link>https://rsload.net/soft/optimization/11881-system-mechanic.html</link>
+    </item>
+    <item>
+      <title>JangaFX IlluGen 1.1.1 x64</title>
+      <link>https://rsload.net/soft/editor/41408-jangafx-illugen.html</link>
     </item>
     <item>
       <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
