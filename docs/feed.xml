@@ -6,7 +6,11 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Dec 2025 18:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 19:08:23 +0000</lastBuildDate>
+    <item>
+      <title>StruSoft FEM-Design Suite 24.00.005 x64</title>
+      <link>https://rsload.net/soft/editor/39175-strusoft-fem-design-suite.html</link>
+    </item>
     <item>
       <title>FreeFileSync 14.6 + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/9397-freefilesync.html</link>
@@ -40,10 +44,6 @@
       <link>https://rsload.net/soft/security/12325-adwcleaner.html</link>
     </item>
     <item>
-      <title>Новая Виндовс 7 SP1 64 бит Максимальная Lite версия (11.2025 Update)</title>
-      <link>https://rsload.net/soft/windows/windows-7-sborka/41346-novaya-vindovs-7-sp1-64-bit-maksimalnaya-lite-versiya-112025-torrent.html</link>
-    </item>
-    <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41382-windows-10-pro-enterprise-22h2-updates-2025.html</link>
     </item>
@@ -60,12 +60,12 @@
       <link>https://rsload.net/soft/windows/windows-11-sborka/41398-windows-11-pro-25h2-x64-premium-gaming-12-2025.html</link>
     </item>
     <item>
-      <title>Виндовс 11 Pro 25H2 26200.7462 с Защитником и программами + темы</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41400-windows-11-pro-25h2-262007462-defender-torrent.html</link>
-    </item>
-    <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/38516-tiny11-windows-11.html</link>
+    </item>
+    <item>
+      <title>Windows 11 Pro Mega Lite 25H2 (26200.6725 + Boot ) iso 2.3 GB</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41412-windows-11-pro-mega-lite-25h2-262006725-iso.html</link>
     </item>
   </channel>
 </rss>
