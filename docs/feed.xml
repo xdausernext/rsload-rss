@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 05:17:26 +0000</lastBuildDate>
-    <item>
-      <title>Marvelous Designer Personal 2024.1.71.49628 + 2025.2.143 Enterprise + Portable</title>
-      <link>https://rsload.net/soft/editor/20512-marvelous-designer.html</link>
-    </item>
+    <lastBuildDate>Tue, 23 Dec 2025 05:44:29 +0000</lastBuildDate>
     <item>
       <title>WinUAE 6.0.2 + x64 + Portable</title>
       <link>https://rsload.net/soft/12587-winuae.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>LANDR Mastering Plugin PRO 1.1.35</title>
       <link>https://rsload.net/soft/41418-landr-mastering-plugin-pro.html</link>
+    </item>
+    <item>
+      <title>Sonible Smart:Comp 3 1.0.1 x64</title>
+      <link>https://rsload.net/soft/41419-sonible-smart-comp-3.html</link>
     </item>
     <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
