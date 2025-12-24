@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Dec 2025 03:52:22 +0000</lastBuildDate>
-    <item>
-      <title>Agisoft Metashape Pro 2.3.0.21805 + Repack</title>
-      <link>https://rsload.net/soft/graphics/31473-agisoft-metashape-professional.html</link>
-    </item>
+    <lastBuildDate>Wed, 24 Dec 2025 04:27:29 +0000</lastBuildDate>
     <item>
       <title>Coolutils Total Mail Converter Pro 6.2.0.418 + Portable + Repack</title>
       <link>https://rsload.net/soft/converter/21394-coolutils-total-mail-converter.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 IoT Enterprise 25H2 x64 (Легкая сборка для всех задач)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41417-windows-11-iot-enterprise-25h2-x64-super-lite-iso.html</link>
+    </item>
+    <item>
+      <title>Оптимальная Windows 11 25H2 x64 Ru/En (26220.7523): чистый iso</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41422-windows-11-25h2-x64-ru-en-262207523-iso.html</link>
     </item>
   </channel>
 </rss>
