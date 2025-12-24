@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Dec 2025 07:15:51 +0000</lastBuildDate>
-    <item>
-      <title>DBF Converter 7.70 + Repack</title>
-      <link>https://rsload.net/soft/converter/39137-dbf-converter.html</link>
-    </item>
-    <item>
-      <title>Coolutils Total Outlook Converter Pro 5.1.0.469 + Repack</title>
-      <link>https://rsload.net/soft/converter/21393-coolutils-total-outlook-converter.html</link>
-    </item>
+    <lastBuildDate>Wed, 24 Dec 2025 07:41:03 +0000</lastBuildDate>
     <item>
       <title>Auslogics BoostSpeed 14.1.0.1  + Repack + Portable - Русская версия</title>
       <link>https://rsload.net/soft/optimization/8494-auslogics-boostspeed1.html</link>
@@ -42,6 +34,14 @@
     <item>
       <title>Android Studio 2025.2.2.8 x64</title>
       <link>https://rsload.net/soft/editor/32211-android-studio.html</link>
+    </item>
+    <item>
+      <title>Cockos REAPER 7.57 + x64 + Rus + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/8368-reaper.html</link>
+    </item>
+    <item>
+      <title>DesktopOK 12.25 + x64 + Portable</title>
+      <link>https://rsload.net/soft/desktop/9548-desktopok-281-x64.html</link>
     </item>
     <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
