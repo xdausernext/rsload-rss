@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Dec 2025 09:42:04 +0000</lastBuildDate>
-    <item>
-      <title>Syncovery Premium 11.11.12.142 x64 + macOS</title>
-      <link>https://rsload.net/soft/cleaner-disk/16717-syncovery.html</link>
-    </item>
+    <lastBuildDate>Wed, 24 Dec 2025 10:12:07 +0000</lastBuildDate>
     <item>
       <title>AIMP 5.40.2703 + Portable + Repack + Mega</title>
       <link>https://rsload.net/soft/player/8429-aimp.html</link>
@@ -42,6 +38,10 @@
     <item>
       <title>Driver Easy Professional 7.1.1.3510 + Portable + Repack + Rus</title>
       <link>https://rsload.net/soft/manager/13006-drivereasy.html</link>
+    </item>
+    <item>
+      <title>PHP Generator for MySQL Professional 22.8.0.22</title>
+      <link>https://rsload.net/soft/editor/41423-php-generator-for-mysql-professional.html</link>
     </item>
     <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
