@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Dec 2025 08:47:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 09:13:11 +0000</lastBuildDate>
     <item>
       <title>Kiive Audio VX-Q 1.0.1 x64</title>
       <link>https://rsload.net/soft/41429-kiive-audio-vx-q.html</link>
@@ -22,10 +22,6 @@
     <item>
       <title>Gammadyne Serlog 23.0</title>
       <link>https://rsload.net/soft/manager/41430-gammadyne-serlog.html</link>
-    </item>
-    <item>
-      <title>Auslogics Disk Defrag Professional 12.1.0.1 + Ultimate 4.13.0.2 + Portable + Rus + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/8476-auslogics-disk-defrag.html</link>
     </item>
     <item>
       <title>AIMP 5.40.2703 + Portable + Repack + Mega</title>
@@ -46,6 +42,10 @@
     <item>
       <title>Auslogics SSD Optimizer Pro 2.1.0.1 + Portable + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/40808-auslogics-ssd-optimizer-pro.html</link>
+    </item>
+    <item>
+      <title>Auslogics Disk Defrag Professional 12.1.0.1 + Ultimate 4.13.0.2 + Portable + Rus + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/8476-auslogics-disk-defrag.html</link>
     </item>
     <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
