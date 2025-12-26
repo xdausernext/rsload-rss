@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Dec 2025 07:39:07 +0000</lastBuildDate>
-    <item>
-      <title>granvia Fantamidi 1.1.0</title>
-      <link>https://rsload.net/soft/41428-granvia-fantamidi.html</link>
-    </item>
-    <item>
-      <title>iWatermark Pro 2 4.0.34 x64</title>
-      <link>https://rsload.net/soft/graphics/40260-iwatermark-pro-2.html</link>
-    </item>
-    <item>
-      <title>Topaz Photo Pro 1.1.1 + AI 4.1.0 + Portable + Repack + macOS</title>
-      <link>https://rsload.net/soft/graphics/38238-topaz-photo-ai.html</link>
-    </item>
+    <lastBuildDate>Fri, 26 Dec 2025 08:15:48 +0000</lastBuildDate>
     <item>
       <title>Kiive Audio VX-Q 1.0.1 x64</title>
       <link>https://rsload.net/soft/41429-kiive-audio-vx-q.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>Auslogics SSD Optimizer Pro 2.1.0.1 + Portable + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/40808-auslogics-ssd-optimizer-pro.html</link>
+    </item>
+    <item>
+      <title>AIMP 5.40.2703 + Portable + Repack + Mega</title>
+      <link>https://rsload.net/soft/player/8429-aimp.html</link>
+    </item>
+    <item>
+      <title>Light Image Resizer 7.5.0.142 + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/9628-light-image-resizer.html</link>
+    </item>
+    <item>
+      <title>OCCT 15.0.13.99 + Portable + Repack / OverClock Checking Tool / Perestroika</title>
+      <link>https://rsload.net/soft/manager/10376-occt.html</link>
     </item>
     <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
