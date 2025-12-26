@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Dec 2025 06:52:00 +0000</lastBuildDate>
-    <item>
-      <title>TekEngine Audio Tools Occult Audio Engine 1.0 x64</title>
-      <link>https://rsload.net/soft/41426-tekengine-audio-tools-occult-audio-engine.html</link>
-    </item>
-    <item>
-      <title>TekEngine Audio Tools Glacier 1.0 x64</title>
-      <link>https://rsload.net/soft/41427-tekengine-audio-tools-glacier.html</link>
-    </item>
+    <lastBuildDate>Fri, 26 Dec 2025 07:14:02 +0000</lastBuildDate>
     <item>
       <title>granvia Fantamidi 1.1.0</title>
       <link>https://rsload.net/soft/41428-granvia-fantamidi.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>Auslogics BoostSpeed 14.1.0.1  + Repack + Portable - Rus</title>
       <link>https://rsload.net/soft/optimization/8494-auslogics-boostspeed1.html</link>
+    </item>
+    <item>
+      <title>Auslogics Disk Defrag Professional 12.1.0.1 + Ultimate 4.13.0.2 + Portable + Rus + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/8476-auslogics-disk-defrag.html</link>
+    </item>
+    <item>
+      <title>Auslogics SSD Optimizer Pro 2.1.0.1 + Portable + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/40808-auslogics-ssd-optimizer-pro.html</link>
     </item>
     <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
