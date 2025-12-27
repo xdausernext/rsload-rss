@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Dec 2025 00:52:40 +0000</lastBuildDate>
-    <item>
-      <title>ASUS GPU Tweak III  2.0.7.3</title>
-      <link>https://rsload.net/soft/optimization/17276-asus-gpu-tweak.html</link>
-    </item>
-    <item>
-      <title>Waterfox Classic 2022.11 / 6.6.7 + Portable</title>
-      <link>https://rsload.net/soft/browser/12117-waterfox.html</link>
-    </item>
-    <item>
-      <title>FabulaTech USB for Remote Desktop 6.3.10.0</title>
-      <link>https://rsload.net/soft/manager/35982-fabulatech-usb-for-remote-desktop.html</link>
-    </item>
-    <item>
-      <title>AntiPlagiarism NET 4.153 + Portable</title>
-      <link>https://rsload.net/soft/document/30856-antiplagiarism-net.html</link>
-    </item>
+    <lastBuildDate>Sat, 27 Dec 2025 02:44:55 +0000</lastBuildDate>
     <item>
       <title>Atlantis Word Processor 5.0.0.13 + Portable + Rus + Repack</title>
       <link>https://rsload.net/soft/document/10642-atlantis-word-processor.html</link>
@@ -46,6 +30,22 @@
     <item>
       <title>TrayStatus 5.1.1 + Portable + Repack + Pro</title>
       <link>https://rsload.net/soft/desktop/22286-traystatus.html</link>
+    </item>
+    <item>
+      <title>MediaHuman YouTube Downloader  3.9.18 (2512)  +  Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/23673-mediahuman-youtube-downloader.html</link>
+    </item>
+    <item>
+      <title>MediaHuman YouTube to MP3 Converter 3.9.18 (2515)  + Repack</title>
+      <link>https://rsload.net/soft/converter/26118-mediahuman-youtube-to-mp3-converter.html</link>
+    </item>
+    <item>
+      <title>OCCT 15.0.13.99 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/10376-occt.html</link>
+    </item>
+    <item>
+      <title>O&amp;O DiskImage Pro 22.0.191 x64 + Server + Premium + Repack +  WinPE (Русская)</title>
+      <link>https://rsload.net/soft/cleaner-disk/12011-oo-diskimage.html</link>
     </item>
     <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
