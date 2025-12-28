@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Dec 2025 13:43:52 +0000</lastBuildDate>
-    <item>
-      <title>SoftPerfect RAM Disk 25.12 + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/11844-softperfect-ram-disk.html</link>
-    </item>
-    <item>
-      <title>Ant Download Manager Pro 2.16.4.92194 +  Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/20343-ant-download-manager.html</link>
-    </item>
-    <item>
-      <title>WinToHDD 6.8 Все редакции + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/21818-wintohdd.html</link>
-    </item>
-    <item>
-      <title>eM Client Pro 10.4.4195.0  + Portable + Repack</title>
-      <link>https://rsload.net/soft/browser/22863-em-client.html</link>
-    </item>
+    <lastBuildDate>Sun, 28 Dec 2025 14:10:21 +0000</lastBuildDate>
     <item>
       <title>Ashampoo Backup Pro 27.5.36 + Восстановление + Pro</title>
       <link>https://rsload.net/soft/cleaner-disk/22291-ashampoo-backup-pro.html</link>
@@ -42,6 +26,22 @@
     <item>
       <title>LibreOffice 25.8.4 + x64 + Portable</title>
       <link>https://rsload.net/soft/document/8620-libreoffice.html</link>
+    </item>
+    <item>
+      <title>Internet Download Manager 6.42 Build 58 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/8294-internet-download-manager.html</link>
+    </item>
+    <item>
+      <title>Nitro PDF Professional 4.42.0.34 + Rus  + Portable + Repack</title>
+      <link>https://rsload.net/soft/document/11379-nitro-pdf-professional-rus.html</link>
+    </item>
+    <item>
+      <title>Zoner Photo Studio X 19.2509.2.665  x64 + Rus + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/10810-zoner-photo-studio.html</link>
+    </item>
+    <item>
+      <title>WinTools net Professional 25.13.1 + Portable + Repack + WinTools.one</title>
+      <link>https://rsload.net/soft/optimization/8760-wintools-net.html</link>
     </item>
     <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
