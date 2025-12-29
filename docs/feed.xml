@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 03:05:02 +0000</lastBuildDate>
-    <item>
-      <title>Internet Download Manager 6.42 Build 58 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/8294-internet-download-manager.html</link>
-    </item>
-    <item>
-      <title>Nitro PDF Professional 4.42.0.34 + Rus  + Portable + Repack</title>
-      <link>https://rsload.net/soft/document/11379-nitro-pdf-professional-rus.html</link>
-    </item>
-    <item>
-      <title>Zoner Photo Studio X 19.2509.2.665  x64 + Rus + Portable + Repack</title>
-      <link>https://rsload.net/soft/graphics/10810-zoner-photo-studio.html</link>
-    </item>
-    <item>
-      <title>WinTools net Professional 25.13.1 + Portable + Repack + WinTools.one</title>
-      <link>https://rsload.net/soft/optimization/8760-wintools-net.html</link>
-    </item>
-    <item>
-      <title>Telegram for Desktop 6.3.9 + Portable + Repack</title>
-      <link>https://rsload.net/soft/talk/27057-telegram-for-desktop.html</link>
-    </item>
+    <lastBuildDate>Mon, 29 Dec 2025 04:31:20 +0000</lastBuildDate>
     <item>
       <title>Mozilla Thunderbird 146.0.1 + ESR  + Portable</title>
       <link>https://rsload.net/soft/browser/8341-mozilla-thunderbird.html</link>
@@ -42,6 +22,26 @@
     <item>
       <title>Watchdog Anti-Malware 4.3.530 + Business</title>
       <link>https://rsload.net/soft/security/36092-watchdog-anti-malware.html</link>
+    </item>
+    <item>
+      <title>PVS-Studio 7.40.101452.2093 x64</title>
+      <link>https://rsload.net/soft/editor/33771-pvs-studio.html</link>
+    </item>
+    <item>
+      <title>Movavi Video Converter 22.5 + Repack + Premium</title>
+      <link>https://rsload.net/soft/converter/15921-movavi-video-converter.html</link>
+    </item>
+    <item>
+      <title>SteelSeries GG 101.0.0 x64</title>
+      <link>https://rsload.net/soft/editor/35679-steelseries-gg.html</link>
+    </item>
+    <item>
+      <title>Process Explorer 17.09 + Rus + Portable</title>
+      <link>https://rsload.net/soft/manager/8399-process-explorer.html</link>
+    </item>
+    <item>
+      <title>Geometric Glovius Pro 6.7.0.120 x64 + Prime + Portable</title>
+      <link>https://rsload.net/soft/editor/27924-geometric-glovius-pro.html</link>
     </item>
     <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
