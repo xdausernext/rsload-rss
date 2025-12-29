@@ -6,7 +6,11 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 11:37:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 12:22:59 +0000</lastBuildDate>
+    <item>
+      <title>Mozilla Thunderbird 146.0.1 + ESR  + Portable</title>
+      <link>https://rsload.net/soft/browser/8341-mozilla-thunderbird.html</link>
+    </item>
     <item>
       <title>Tekla Structures 2025 SP6 + 2021 SP12</title>
       <link>https://rsload.net/soft/editor/33580-trimble-tekla-structures.html</link>
@@ -52,20 +56,16 @@
       <link>https://rsload.net/soft/windows/windows-11-sborka/38516-tiny11-windows-11.html</link>
     </item>
     <item>
-      <title>Windows 11 IoT Enterprise 25H2 x64 (Легкая сборка для всех задач)</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41417-windows-11-iot-enterprise-25h2-x64-super-lite-iso.html</link>
-    </item>
-    <item>
-      <title>Оптимальная Windows 11 25H2 x64 Ru/En (26220.7523): чистый iso</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41422-windows-11-25h2-x64-ru-en-262207523-iso.html</link>
-    </item>
-    <item>
       <title>Windows 11 25H2 Lite: Супер скорость для игр и слабых ПК (Build 26200)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41431-windows-11-25h2-lite-fix-x64-build-26200.html</link>
     </item>
     <item>
       <title>Виндовс 11 Домашняя легкая сборка 25H2 (26200.7462) с русификацией</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41432-windows-11-home-lite-26h2-x64-rus-torrent.html</link>
+    </item>
+    <item>
+      <title>Windows 11 Pro без учетной записи и TPM: Lite 25H2 x64</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41433-windows-11-pro-bez-uchetnoy-zapisi-i-tpm-lite-25h2-x64.html</link>
     </item>
   </channel>
 </rss>
