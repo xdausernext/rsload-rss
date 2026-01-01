@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 05:19:43 +0000</lastBuildDate>
-    <item>
-      <title>Mirillis Action! 4.47.0 + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/9547-mirillis-action-1200-serial.html</link>
-    </item>
-    <item>
-      <title>Bandicam 8.3.0.2533 + 7.1.4.2458 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/8953-bandicam.html</link>
-    </item>
-    <item>
-      <title>SketchUp Pro 2026 26.1.189 x64  + Repack + MacOS + Portable</title>
-      <link>https://rsload.net/soft/editor/11095-google-sketchup.html</link>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 05:47:04 +0000</lastBuildDate>
     <item>
       <title>The Bat! Professional 12.0.0 + x64  + Voyager бесплатно на Русском</title>
       <link>https://rsload.net/soft/browser/8369-the-bat.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>Shotcut 25.12.31 + x64 + Portable</title>
       <link>https://rsload.net/soft/editor/17459-shotcut.html</link>
+    </item>
+    <item>
+      <title>Dropbox 238.4.6305 x64 на Русском</title>
+      <link>https://rsload.net/soft/manager/9177-dropbox.html</link>
+    </item>
+    <item>
+      <title>MyLanViewer 6.7.3 Бизнес + Enterprise + Rus Portable + Repack</title>
+      <link>https://rsload.net/soft/traffic/8291-mylanviewer.html</link>
+    </item>
+    <item>
+      <title>HTML Compiler 2026.1 + x64</title>
+      <link>https://rsload.net/soft/converter/21906-html-compiler.html</link>
     </item>
     <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
