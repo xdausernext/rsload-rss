@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 20:12:34 +0000</lastBuildDate>
-    <item>
-      <title>HTML Compiler 2026.1 + x64</title>
-      <link>https://rsload.net/soft/converter/21906-html-compiler.html</link>
-    </item>
-    <item>
-      <title>App Builder 2026.1 + Portable</title>
-      <link>https://rsload.net/soft/editor/23323-app-builder.html</link>
-    </item>
-    <item>
-      <title>Print Artist Premier 25.0.3.4</title>
-      <link>https://rsload.net/soft/editor/41153-print-artist-premier.html</link>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 20:41:52 +0000</lastBuildDate>
     <item>
       <title>R-Studio 9.5 Build 191671 + Repack + Portable + BootCD</title>
       <link>https://rsload.net/soft/cleaner-disk/8413-r-studio1.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>ExtraMAME 26.0 x64</title>
       <link>https://rsload.net/soft/manager/32523-extramame.html</link>
+    </item>
+    <item>
+      <title>RepairKit 1.3.6 + x64</title>
+      <link>https://rsload.net/soft/optimization/40458-repairkit.html</link>
+    </item>
+    <item>
+      <title>WinTools net Professional 26.0.1 + Portable + Repack + WinTools.one</title>
+      <link>https://rsload.net/soft/optimization/8760-wintools-net.html</link>
+    </item>
+    <item>
+      <title>RAM Saver Professional 26.0.1 + Repack + Portable</title>
+      <link>https://rsload.net/soft/optimization/25776-ram-saver-professional.html</link>
     </item>
     <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
