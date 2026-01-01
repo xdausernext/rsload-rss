@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 13:47:57 +0000</lastBuildDate>
-    <item>
-      <title>MyLanViewer 6.7.3 Бизнес + Enterprise + Rus Portable + Repack</title>
-      <link>https://rsload.net/soft/traffic/8291-mylanviewer.html</link>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 14:10:50 +0000</lastBuildDate>
     <item>
       <title>HTML Compiler 2026.1 + x64</title>
       <link>https://rsload.net/soft/converter/21906-html-compiler.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>SmartFTP Enterprise 10.0.3300 + x64 + Repack</title>
       <link>https://rsload.net/soft/manager/20658-smartftp-client-ultimate.html</link>
+    </item>
+    <item>
+      <title>ExtraMAME 26.0 x64</title>
+      <link>https://rsload.net/soft/manager/32523-extramame.html</link>
     </item>
     <item>
       <title>Windows 10 Pro/Enterprise 22H2: быстрая сборка  для любых ПК (Updates 2025)</title>
