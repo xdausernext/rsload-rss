@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Jan 2026 14:39:54 +0000</lastBuildDate>
-    <item>
-      <title>Harmony Assistant 9.9.9i + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/36986-harmony-assistant.html</link>
-    </item>
-    <item>
-      <title>Argente System Repair 1.0.4.5 + x64  + Rus</title>
-      <link>https://rsload.net/soft/optimization/41190-argente-system-repair.html</link>
-    </item>
-    <item>
-      <title>Grub2Win 3.0.1.3 x64</title>
-      <link>https://rsload.net/soft/manager/29780-grub2win-besplatnaya-programma-posledney-versii.html</link>
-    </item>
-    <item>
-      <title>GoodSync Enterprise 12.9.22.2 + Repack + Portable + Rus</title>
-      <link>https://rsload.net/soft/cleaner-disk/8549-goodsync.html</link>
-    </item>
-    <item>
-      <title>TubeDownload Pro 7.1 x64</title>
-      <link>https://rsload.net/soft/manager/40827-tubedownload-pro.html</link>
-    </item>
-    <item>
-      <title>YT Video Downloader 12.1 x64</title>
-      <link>https://rsload.net/soft/manager/40118-yt-video-downloader.html</link>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 15:10:06 +0000</lastBuildDate>
     <item>
       <title>All Video Downloader Pro 10.1 x64</title>
       <link>https://rsload.net/soft/manager/35286-all-video-downloader-pro.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>Inno Setup Unpacker 2.1.3 + 2.64.1 CLI</title>
       <link>https://rsload.net/soft/editor/15780-inno-setup-unpacker.html</link>
+    </item>
+    <item>
+      <title>IsMyLcdOK 6.16 + x64 + Portable</title>
+      <link>https://rsload.net/soft/desktop/10134-ismylcdok.html</link>
+    </item>
+    <item>
+      <title>DISMTools 0.7.3.260104</title>
+      <link>https://rsload.net/soft/editor/40522-dismtools.html</link>
+    </item>
+    <item>
+      <title>Database Tour Pro 11.6.0.950 + Portable + Rus</title>
+      <link>https://rsload.net/soft/manager/27027-database-tour-pro.html</link>
+    </item>
+    <item>
+      <title>CyberLink PowerDirector Ultimate 2026 24.0.1302.0 + Repack + Rus</title>
+      <link>https://rsload.net/soft/big-programm/9393-powerdirector.html</link>
+    </item>
+    <item>
+      <title>reaConverter Pro 8.0.175 + Portable + Repack</title>
+      <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
+    </item>
+    <item>
+      <title>TubeMate Downloader 6.1.2 + Portable + Rus</title>
+      <link>https://rsload.net/soft/manager/33682-tubemate-downloader.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
