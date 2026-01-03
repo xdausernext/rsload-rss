@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Jan 2026 16:12:15 +0000</lastBuildDate>
-    <item>
-      <title>VovSoft JSON Beautifier 2.0</title>
-      <link>https://rsload.net/soft/editor/38829-vovsoft-json-beautifier.html</link>
-    </item>
-    <item>
-      <title>SponsorBlock для YouTube 6.1.2 + macOS</title>
-      <link>https://rsload.net/soft/browser/35667-sponsorblock-youtube.html</link>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 16:44:44 +0000</lastBuildDate>
     <item>
       <title>Executor 2.2.1 + Portable</title>
       <link>https://rsload.net/soft/manager/34807-executor.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>GerbView 11.33.0.637 + Portable</title>
       <link>https://rsload.net/soft/editor/33751-gerbview.html</link>
+    </item>
+    <item>
+      <title>Digital Clock 5.1.9 + x64 + Portable</title>
+      <link>https://rsload.net/soft/desktop/20350-digital-clock.html</link>
+    </item>
+    <item>
+      <title>HFS (HTTP File Server) 3.0.1</title>
+      <link>https://rsload.net/soft/traffic/13016-hfs.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
