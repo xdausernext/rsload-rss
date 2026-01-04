@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 15:37:46 +0000</lastBuildDate>
-    <item>
-      <title>App Builder 2026.2 + Portable</title>
-      <link>https://rsload.net/soft/editor/23323-app-builder.html</link>
-    </item>
-    <item>
-      <title>Syncovery Premium 11.11.14.144 x64 + macOS</title>
-      <link>https://rsload.net/soft/cleaner-disk/16717-syncovery.html</link>
-    </item>
-    <item>
-      <title>One Commander Pro 3.105 + Free + macOS</title>
-      <link>https://rsload.net/soft/manager/35202-one-commander.html</link>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 16:12:12 +0000</lastBuildDate>
     <item>
       <title>Telegram for Desktop 6.4 + Portable + Repack</title>
       <link>https://rsload.net/soft/talk/27057-telegram-for-desktop.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>Stellar Data Recovery Pro 12.4.0.0 + Premium +  Portable + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/11380-windows-data-recovery.html</link>
+    </item>
+    <item>
+      <title>ButterScroll 1.3.4</title>
+      <link>https://rsload.net/soft/desktop/41361-butterscroll.html</link>
+    </item>
+    <item>
+      <title>FRITZ 20.8 Full</title>
+      <link>https://rsload.net/soft/manager/41207-fritz.html</link>
+    </item>
+    <item>
+      <title>Vladovsoft Fitorg 17.0</title>
+      <link>https://rsload.net/soft/manager/34256-fitorg.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
