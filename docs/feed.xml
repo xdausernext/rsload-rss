@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 16:12:12 +0000</lastBuildDate>
-    <item>
-      <title>Telegram for Desktop 6.4 + Portable + Repack</title>
-      <link>https://rsload.net/soft/talk/27057-telegram-for-desktop.html</link>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 16:44:14 +0000</lastBuildDate>
     <item>
       <title>Ant Download Manager Pro 2.16.5.92283  +  Portable + Repack</title>
       <link>https://rsload.net/soft/manager/20343-ant-download-manager.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>Vladovsoft Fitorg 17.0</title>
       <link>https://rsload.net/soft/manager/34256-fitorg.html</link>
+    </item>
+    <item>
+      <title>SmartGit 25.1.103 x64 на Русском</title>
+      <link>https://rsload.net/soft/editor/41362-smartgit.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
