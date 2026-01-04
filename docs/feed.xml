@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 06:51:47 +0000</lastBuildDate>
-    <item>
-      <title>Digital Clock 5.1.9 + x64 + Portable</title>
-      <link>https://rsload.net/soft/desktop/20350-digital-clock.html</link>
-    </item>
-    <item>
-      <title>HFS (HTTP File Server) 3.0.1</title>
-      <link>https://rsload.net/soft/traffic/13016-hfs.html</link>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 07:13:33 +0000</lastBuildDate>
     <item>
       <title>ImageGlass  9.4.1.15 + x64 + Portable</title>
       <link>https://rsload.net/soft/graphics/14896-imageglass.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>Telegram for Desktop 6.4 + Portable + Repack</title>
       <link>https://rsload.net/soft/talk/27057-telegram-for-desktop.html</link>
+    </item>
+    <item>
+      <title>Ant Download Manager Pro 2.16.5.92283  +  Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/20343-ant-download-manager.html</link>
+    </item>
+    <item>
+      <title>Any Video Downloader Pro 10.1.1 + Portable + Repack на Русском</title>
+      <link>https://rsload.net/soft/manager/33685-any-video-downloader-pro.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
