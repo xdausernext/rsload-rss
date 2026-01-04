@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 04:31:11 +0000</lastBuildDate>
-    <item>
-      <title>DVDFab 13.0.5.4 + Portable + Repack</title>
-      <link>https://rsload.net/soft/converter/8452-dvdfab.html</link>
-    </item>
-    <item>
-      <title>Sandboxie 5.71.9 / Plus 1.16.9 + Repack + Portable</title>
-      <link>https://rsload.net/soft/security/15942-sandboxie.html</link>
-    </item>
-    <item>
-      <title>MKVToolnix 97.0.0 + x64 + Repack</title>
-      <link>https://rsload.net/soft/converter/8775-mkvtoolnix.html</link>
-    </item>
-    <item>
-      <title>GerbView 11.33.0.637 + Portable</title>
-      <link>https://rsload.net/soft/editor/33751-gerbview.html</link>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 05:18:11 +0000</lastBuildDate>
     <item>
       <title>Digital Clock 5.1.9 + x64 + Portable</title>
       <link>https://rsload.net/soft/desktop/20350-digital-clock.html</link>
@@ -50,6 +34,22 @@
     <item>
       <title>Allavsoft Video Downloader Converter 3.28.8.9497 + Portable + Repack + MacOS</title>
       <link>https://rsload.net/soft/manager/25113-video-downloader-converter.html</link>
+    </item>
+    <item>
+      <title>App Builder 2026.2 + Portable</title>
+      <link>https://rsload.net/soft/editor/23323-app-builder.html</link>
+    </item>
+    <item>
+      <title>Syncovery Premium 11.11.14.144 x64 + macOS</title>
+      <link>https://rsload.net/soft/cleaner-disk/16717-syncovery.html</link>
+    </item>
+    <item>
+      <title>One Commander Pro 3.105 + Free + macOS</title>
+      <link>https://rsload.net/soft/manager/35202-one-commander.html</link>
+    </item>
+    <item>
+      <title>Telegram for Desktop 6.4 + Portable + Repack</title>
+      <link>https://rsload.net/soft/talk/27057-telegram-for-desktop.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
