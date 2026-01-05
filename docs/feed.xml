@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 05:55:35 +0000</lastBuildDate>
-    <item>
-      <title>Vladovsoft Fitorg 17.0</title>
-      <link>https://rsload.net/soft/manager/34256-fitorg.html</link>
-    </item>
-    <item>
-      <title>SmartGit 25.1.103 x64 на Русском</title>
-      <link>https://rsload.net/soft/editor/41362-smartgit.html</link>
-    </item>
-    <item>
-      <title>YT Geek YTDL Pro 12.1.1 x64</title>
-      <link>https://rsload.net/soft/manager/39921-yt-geek-ytdl-pro.html</link>
-    </item>
-    <item>
-      <title>Tomabo MP4 Downloader Pro 6.1.1 + Portable</title>
-      <link>https://rsload.net/soft/manager/26583-tomabo-mp4-downloader-pro.html</link>
-    </item>
-    <item>
-      <title>Vladovsoft Sklad Plus 17.0</title>
-      <link>https://rsload.net/soft/manager/40218-vladovsoft-sklad-plus.html</link>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 06:24:42 +0000</lastBuildDate>
     <item>
       <title>Q-Dir 12.45 Rus + x64 + Portable</title>
       <link>https://rsload.net/soft/manager/9471-q-dir-487-portable-x64.html</link>
@@ -50,6 +30,26 @@
     <item>
       <title>WinToHDD 6.9 Все редакции + Repack + Portable</title>
       <link>https://rsload.net/soft/manager/21818-wintohdd.html</link>
+    </item>
+    <item>
+      <title>ExtraDisks 26.0.1 на Русском</title>
+      <link>https://rsload.net/soft/cleaner-disk/36884-extradisks.html</link>
+    </item>
+    <item>
+      <title>Fast File Encryptor 26.0</title>
+      <link>https://rsload.net/soft/security/31165-fast-file-encryptor.html</link>
+    </item>
+    <item>
+      <title>MediaHuman YouTube Downloader  3.9.18 (0401) +  Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/23673-mediahuman-youtube-downloader.html</link>
+    </item>
+    <item>
+      <title>Synchredible Professional 9.100 + Repack + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/31766-synchredible-professional.html</link>
+    </item>
+    <item>
+      <title>Privoxy 4.1.0</title>
+      <link>https://rsload.net/soft/security/13229-privoxy.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
