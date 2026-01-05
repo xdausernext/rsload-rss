@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 13:12:11 +0000</lastBuildDate>
-    <item>
-      <title>Cypheros TS-Doctor 4.2.18 x64</title>
-      <link>https://rsload.net/soft/manager/27179-cypheros-ts-doctor.html</link>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 13:54:28 +0000</lastBuildDate>
     <item>
       <title>mIRC 7.83 + Portable</title>
       <link>https://rsload.net/soft/talk/9270-mirc.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>SyMenu 8.11.9501 + Portable</title>
       <link>https://rsload.net/soft/manager/11867-symenu.html</link>
+    </item>
+    <item>
+      <title>PingTool 5.0.0.98</title>
+      <link>https://rsload.net/soft/traffic/40724-pingtool.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
