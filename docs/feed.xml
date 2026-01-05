@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 07:45:24 +0000</lastBuildDate>
-    <item>
-      <title>ExtraDisks 26.0.1 на Русском</title>
-      <link>https://rsload.net/soft/cleaner-disk/36884-extradisks.html</link>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 08:18:53 +0000</lastBuildDate>
     <item>
       <title>Fast File Encryptor 26.0</title>
       <link>https://rsload.net/soft/security/31165-fast-file-encryptor.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>EZ CD Audio Converter Ultimate 12.4.0.1 + Repack + Portable</title>
       <link>https://rsload.net/soft/converter/8358-easy-cd-da-extractor.html</link>
+    </item>
+    <item>
+      <title>GibbsCAM 2026 26.0.54.00 x64 + 2024</title>
+      <link>https://rsload.net/soft/editor/27183-gibbscam.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
