@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 05:28:08 +0000</lastBuildDate>
-    <item>
-      <title>FRITZ 20.8 Full</title>
-      <link>https://rsload.net/soft/manager/41207-fritz.html</link>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 05:55:35 +0000</lastBuildDate>
     <item>
       <title>Vladovsoft Fitorg 17.0</title>
       <link>https://rsload.net/soft/manager/34256-fitorg.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>Autodesk FeatureCAM Ultimate 2026 x64</title>
       <link>https://rsload.net/soft/editor/39062-autodesk-featurecam-ultimate.html</link>
+    </item>
+    <item>
+      <title>WinToHDD 6.9 Все редакции + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/21818-wintohdd.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
