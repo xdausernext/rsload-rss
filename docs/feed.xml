@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 10:12:46 +0000</lastBuildDate>
-    <item>
-      <title>MediaHuman YouTube to MP3 Converter 3.9.18 (0401)  + Repack</title>
-      <link>https://rsload.net/soft/converter/26118-mediahuman-youtube-to-mp3-converter.html</link>
-    </item>
-    <item>
-      <title>Inno Setup Unpacker 2.1.4 + 2.64.1 CLI</title>
-      <link>https://rsload.net/soft/editor/15780-inno-setup-unpacker.html</link>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 10:46:13 +0000</lastBuildDate>
     <item>
       <title>VovSoft Search Text in Files 5.2 + Rus Portable</title>
       <link>https://rsload.net/soft/manager/35262-search-text-in-files.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>MassTube 2026 21.3.1.183 Ultra  + Portable + Repack</title>
       <link>https://rsload.net/soft/manager/14449-masstube-downloader.html</link>
+    </item>
+    <item>
+      <title>WinScript 1.4.4 Portable</title>
+      <link>https://rsload.net/soft/optimization/40962-winscript.html</link>
+    </item>
+    <item>
+      <title>AlbusBit NTFS Permissions Auditor Pro 26.1.4</title>
+      <link>https://rsload.net/soft/cleaner-disk/40676-albusbit-ntfs-permissions-auditor-pro.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
