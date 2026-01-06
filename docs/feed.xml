@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 17:44:02 +0000</lastBuildDate>
-    <item>
-      <title>PentaLogix ViewMate Pro 11.24.73 x64</title>
-      <link>https://rsload.net/soft/editor/30567-pentalogix-viewmate-pro-novaya-versiya-s-klyuchom.html</link>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 18:16:51 +0000</lastBuildDate>
     <item>
       <title>PentaLogix CAMMaster 11.24.73</title>
       <link>https://rsload.net/soft/editor/41148-pentalogix-cammaster.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>IObit Smart Defrag 11.2.0.472 + Portable + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/10978-iobit-smartdefrag.html</link>
+    </item>
+    <item>
+      <title>iTop Data Recovery Pro 6.0.0.924 + Portable на Русском</title>
+      <link>https://rsload.net/soft/cleaner-disk/36184-itop-data-recovery-pro.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
