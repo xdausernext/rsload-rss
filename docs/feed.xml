@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 14:14:38 +0000</lastBuildDate>
-    <item>
-      <title>PDQ Inventory 19.6.29.0 Enterprise</title>
-      <link>https://rsload.net/soft/manager/32763-pdq-inventory.html</link>
-    </item>
-    <item>
-      <title>PDQ Deploy Enterprise 19.6.29.0 x64</title>
-      <link>https://rsload.net/soft/manager/26535-pdq-deploy-enterprise.html</link>
-    </item>
-    <item>
-      <title>MiniTool Power Data Recovery Business 12.8 +  Rus + Repack + Portable + WinPE</title>
-      <link>https://rsload.net/soft/cleaner-disk/9134-power-data-recovery.html</link>
-    </item>
-    <item>
-      <title>Help &amp; Manual 10.0.3 Build 7453 + Portable + Server на Русском</title>
-      <link>https://rsload.net/soft/editor/14443-help-manual.html</link>
-    </item>
-    <item>
-      <title>Reallusion Cartoon Animator 5.34.4905.1 + macOS + Repack</title>
-      <link>https://rsload.net/soft/editor/31233-reallusion-cartoon-animator.html</link>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 14:46:58 +0000</lastBuildDate>
     <item>
       <title>Atlantis Word Processor 5.0.0.17 + Portable + Rus + Repack</title>
       <link>https://rsload.net/soft/document/10642-atlantis-word-processor.html</link>
@@ -50,6 +30,26 @@
     <item>
       <title>Drive SnapShot 1.50.0.1816 + x64 + Boot CD</title>
       <link>https://rsload.net/soft/cleaner-disk/9617-drive-snapshot.html</link>
+    </item>
+    <item>
+      <title>Photo Explosion 5.10.31420 Deluxe + Premier + Special x64</title>
+      <link>https://rsload.net/soft/graphics/16911-avanquest-photo-explosion.html</link>
+    </item>
+    <item>
+      <title>DA-HelpCreator 2.8.3</title>
+      <link>https://rsload.net/soft/editor/30565-da-helpcreator-programma-s-klyuchom.html</link>
+    </item>
+    <item>
+      <title>Inno Setup Compiler 6.7.0 + Portable Rus</title>
+      <link>https://rsload.net/soft/editor/9653-inno-setup.html</link>
+    </item>
+    <item>
+      <title>PassMark MemTest86 Pro 11.6 Build 1000 + Free + ISO</title>
+      <link>https://rsload.net/soft/15657-memtest86.html</link>
+    </item>
+    <item>
+      <title>DBF Converter 7.72 + Repack</title>
+      <link>https://rsload.net/soft/converter/39137-dbf-converter.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
