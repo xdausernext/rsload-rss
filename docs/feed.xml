@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 15:13:59 +0000</lastBuildDate>
-    <item>
-      <title>LDPlayer 9.1.95 x64</title>
-      <link>https://rsload.net/soft/desktop/32285-ldplayer.html</link>
-    </item>
-    <item>
-      <title>Drive SnapShot 1.50.0.1816 + x64 + Boot CD</title>
-      <link>https://rsload.net/soft/cleaner-disk/9617-drive-snapshot.html</link>
-    </item>
-    <item>
-      <title>Photo Explosion 5.10.31420 Deluxe + Premier + Special x64</title>
-      <link>https://rsload.net/soft/graphics/16911-avanquest-photo-explosion.html</link>
-    </item>
-    <item>
-      <title>DA-HelpCreator 2.8.3</title>
-      <link>https://rsload.net/soft/editor/30565-da-helpcreator-programma-s-klyuchom.html</link>
-    </item>
-    <item>
-      <title>Inno Setup Compiler 6.7.0 + Portable Rus</title>
-      <link>https://rsload.net/soft/editor/9653-inno-setup.html</link>
-    </item>
-    <item>
-      <title>PassMark MemTest86 Pro 11.6 Build 1000 + Free + ISO</title>
-      <link>https://rsload.net/soft/15657-memtest86.html</link>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 15:45:17 +0000</lastBuildDate>
     <item>
       <title>DBF Converter 7.72 + Repack</title>
       <link>https://rsload.net/soft/converter/39137-dbf-converter.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>GIMP 3.1.2 + Portable + на Русском + Dev + RC2</title>
       <link>https://rsload.net/soft/graphics/10746-gimp.html</link>
+    </item>
+    <item>
+      <title>Keyshot Network Rendering 2025.3 14.2.1.3 x64</title>
+      <link>https://rsload.net/soft/editor/38760-keyshot-network-rendering.html</link>
+    </item>
+    <item>
+      <title>Blender 5.0.1 + x64 + Portable + Addons + Repack</title>
+      <link>https://rsload.net/soft/editor/8309-blender.html</link>
+    </item>
+    <item>
+      <title>Free YouTube Download Premium 4.4.47.1210 + Portable</title>
+      <link>https://rsload.net/soft/manager/8366-free-youtube-download.html</link>
+    </item>
+    <item>
+      <title>Free YouTube to MP3 Converter Premium 4.4.47.1210  + Portable</title>
+      <link>https://rsload.net/soft/converter/21334-free-youtube-to-mp3-converter.html</link>
+    </item>
+    <item>
+      <title>CoolUtils Total Image Converter 8.2.0.286 + Portable + Repack</title>
+      <link>https://rsload.net/soft/converter/11133-total-image-converter.html</link>
+    </item>
+    <item>
+      <title>Overloud TH-U Premium 2.0.9  + Slate Edition</title>
+      <link>https://rsload.net/soft/31449-overloud-th-u-complete.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
