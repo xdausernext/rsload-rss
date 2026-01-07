@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 03:57:59 +0000</lastBuildDate>
-    <item>
-      <title>Executor 2.2.2 + Portable</title>
-      <link>https://rsload.net/soft/manager/34807-executor.html</link>
-    </item>
-    <item>
-      <title>MassTube 2026 21.3.1.183 Ultra  + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/14449-masstube-downloader.html</link>
-    </item>
-    <item>
-      <title>WinScript 1.4.4 Portable</title>
-      <link>https://rsload.net/soft/optimization/40962-winscript.html</link>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 04:38:07 +0000</lastBuildDate>
     <item>
       <title>AlbusBit NTFS Permissions Auditor Pro 26.1.4</title>
       <link>https://rsload.net/soft/cleaner-disk/40676-albusbit-ntfs-permissions-auditor-pro.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>PDQ Inventory 19.6.29.0 Enterprise</title>
       <link>https://rsload.net/soft/manager/32763-pdq-inventory.html</link>
+    </item>
+    <item>
+      <title>PDQ Deploy Enterprise 19.6.29.0 x64</title>
+      <link>https://rsload.net/soft/manager/26535-pdq-deploy-enterprise.html</link>
+    </item>
+    <item>
+      <title>MiniTool Power Data Recovery Business 12.8 +  Rus + Repack + Portable + WinPE</title>
+      <link>https://rsload.net/soft/cleaner-disk/9134-power-data-recovery.html</link>
+    </item>
+    <item>
+      <title>Help &amp; Manual 10.0.3 Build 7453 + Portable + Server на Русском</title>
+      <link>https://rsload.net/soft/editor/14443-help-manual.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
