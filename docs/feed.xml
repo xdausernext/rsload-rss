@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 08:16:56 +0000</lastBuildDate>
-    <item>
-      <title>FontCreator Professional 15.0.0.3042 + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/9551-fontcreator.html</link>
-    </item>
-    <item>
-      <title>Skylum Aperty 1.5.0.1438 x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/graphics/40768-skylum-aperty.html</link>
-    </item>
+    <lastBuildDate>Thu, 08 Jan 2026 08:51:13 +0000</lastBuildDate>
     <item>
       <title>SmartFTP Enterprise 10.0.3304 + x64 + Repack</title>
       <link>https://rsload.net/soft/manager/20658-smartftp-client-ultimate.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>UPX 5.1.0  + FUPX + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/12954-upx.html</link>
+    </item>
+    <item>
+      <title>Wise Care 365 Pro 7.3.3.720 + Portable + Repack</title>
+      <link>https://rsload.net/soft/optimization/11528-wise-care-365.html</link>
+    </item>
+    <item>
+      <title>HWiNFO  8.40.5900 + x64 + Portable + Rus + Репак</title>
+      <link>https://rsload.net/soft/manager/8339-hwinfo32.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
