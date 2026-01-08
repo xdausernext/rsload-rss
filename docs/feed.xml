@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 04:35:45 +0000</lastBuildDate>
-    <item>
-      <title>Modern CSV 2.3 + x64 + macOS + Linux</title>
-      <link>https://rsload.net/soft/editor/33692-modern-csv.html</link>
-    </item>
-    <item>
-      <title>YUMI 2.0.9.4 + Portable + UEFI 0.0.4.6 + exFAT 1.0.3.3</title>
-      <link>https://rsload.net/soft/cleaner-disk/10881-yumi.html</link>
-    </item>
+    <lastBuildDate>Thu, 08 Jan 2026 05:16:17 +0000</lastBuildDate>
     <item>
       <title>USB Device Tree Viewer 4.7.1</title>
       <link>https://rsload.net/soft/cam/17042-usb-device-tree-viewer.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>SmartFTP Enterprise 10.0.3304 + x64 + Repack</title>
       <link>https://rsload.net/soft/manager/20658-smartftp-client-ultimate.html</link>
+    </item>
+    <item>
+      <title>Media Player Classic Home Cinema 2.6.0 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/player/10067-mediaplayerclassichomecinema.html</link>
+    </item>
+    <item>
+      <title>XRecode III 1.177 + Repack + Portable / II 1.0.0.232 + Repack</title>
+      <link>https://rsload.net/soft/converter/10136-xrecode.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
