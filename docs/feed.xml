@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 18:15:29 +0000</lastBuildDate>
-    <item>
-      <title>WinContig 5.0.3.3</title>
-      <link>https://rsload.net/soft/cleaner-disk/10200-wincontig.html</link>
-    </item>
-    <item>
-      <title>iTop Data Recovery Pro 6.0.0.926 + Portable на Русском</title>
-      <link>https://rsload.net/soft/cleaner-disk/36184-itop-data-recovery-pro.html</link>
-    </item>
-    <item>
-      <title>Libre Hardware Monitor 0.9.5</title>
-      <link>https://rsload.net/soft/manager/36406-libre-hardware-monitor.html</link>
-    </item>
-    <item>
-      <title>SmartGit 25.1.104 x64 на Русском</title>
-      <link>https://rsload.net/soft/editor/41362-smartgit.html</link>
-    </item>
-    <item>
-      <title>Allavsoft Video Downloader Converter 3.28.8.9497 + Portable + Repack + MacOS</title>
-      <link>https://rsload.net/soft/manager/25113-video-downloader-converter.html</link>
-    </item>
-    <item>
-      <title>IObit Driver Booster Pro 13.2.0.184  + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/14143-iobit-driver-booster.html</link>
-    </item>
-    <item>
-      <title>Double Commander 1.1.32 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/12983-double-commander.html</link>
-    </item>
+    <lastBuildDate>Thu, 08 Jan 2026 18:50:06 +0000</lastBuildDate>
     <item>
       <title>Microsoft Support and Recovery Assistant 17.01.3954.000</title>
       <link>https://rsload.net/soft/36086-microsoft-support-and-recovery-assistant.html</link>
@@ -50,6 +22,34 @@
     <item>
       <title>System Utilities 1.4.0</title>
       <link>https://rsload.net/soft/optimization/40141-system-utilities.html</link>
+    </item>
+    <item>
+      <title>Swift-E-Logbook 2.0.9</title>
+      <link>https://rsload.net/soft/manager/40151-swift-e-logbook.html</link>
+    </item>
+    <item>
+      <title>Leppsoft SoundPad 4.0.30 x64 + Repack</title>
+      <link>https://rsload.net/soft/desktop/34705-soundpad.html</link>
+    </item>
+    <item>
+      <title>ocenaudio 3.17.0 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/10223-ocenaudio.html</link>
+    </item>
+    <item>
+      <title>Advanced CSV Converter 7.89  / XLS Converter 7.55 + Portable</title>
+      <link>https://rsload.net/soft/converter/28287-advanced-csv-converter.html</link>
+    </item>
+    <item>
+      <title>Let It Be Light 2.0.11 x64</title>
+      <link>https://rsload.net/soft/editor/41339-let-it-be-light.html</link>
+    </item>
+    <item>
+      <title>Revive Faces 2.0.11 x64</title>
+      <link>https://rsload.net/soft/graphics/41172-revive-faces.html</link>
+    </item>
+    <item>
+      <title>Scale Photo Up 2.0.11 x64</title>
+      <link>https://rsload.net/soft/editor/41338-scale-photo-up.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
