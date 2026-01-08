@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 02:52:15 +0000</lastBuildDate>
-    <item>
-      <title>OBS Studio (Open Broadcaster Software)  32.0.4 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/14332-open-broadcaster-software.html</link>
-    </item>
-    <item>
-      <title>SystemRescueCd 12.03 x64 + x86</title>
-      <link>https://rsload.net/soft/22681-systemrescuecd.html</link>
-    </item>
-    <item>
-      <title>Adobe Substance 3D Designer 15.1.0 x64 + MacOS + Repack</title>
-      <link>https://rsload.net/soft/graphics/21469-substance-designer.html</link>
-    </item>
-    <item>
-      <title>EZ Meta Tag Editor 12.3.4.1 + Repack + Portable</title>
-      <link>https://rsload.net/soft/editor/36725-ez-meta-tag-editor.html</link>
-    </item>
-    <item>
-      <title>Artifact Interactive Garden Planner 3.8.81 + Portable + Repack + MacOS</title>
-      <link>https://rsload.net/soft/editor/12113-garden-planner.html</link>
-    </item>
-    <item>
-      <title>MyLanViewer 6.7.3 Бизнес + Enterprise + Rus Portable + Repack</title>
-      <link>https://rsload.net/soft/traffic/8291-mylanviewer.html</link>
-    </item>
+    <lastBuildDate>Thu, 08 Jan 2026 03:57:32 +0000</lastBuildDate>
     <item>
       <title>R-Studio 9.5 Build 191671 + Repack + Portable + BootCD</title>
       <link>https://rsload.net/soft/cleaner-disk/8413-r-studio1.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>MCompleteBundle 17.07.04 + macOS + MAudioPlugins</title>
       <link>https://rsload.net/soft/24250-maudioplugins.html</link>
+    </item>
+    <item>
+      <title>Multi Commander 15.7.0.3130 + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/10693-multi-commander.html</link>
+    </item>
+    <item>
+      <title>UltFone Windows Data Recovery 10.6.12.3 на Русском</title>
+      <link>https://rsload.net/soft/cleaner-disk/41348-ultfone-windows-data-recovery.html</link>
+    </item>
+    <item>
+      <title>Tenorshare 4DDiG 10.6.12.3 + Portable x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/35159-4ddig-76041.html</link>
+    </item>
+    <item>
+      <title>Synchredible Professional 9.102 + Repack + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/31766-synchredible-professional.html</link>
+    </item>
+    <item>
+      <title>NTFS Permissions Reporter 5.0.607.0 x64 Enterprise + Pro + Repack</title>
+      <link>https://rsload.net/soft/manager/35611-ntfs-permissions-reporter.html</link>
+    </item>
+    <item>
+      <title>Veeam Agent 13.0.1.1009 x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/35593-veeam-agent.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
