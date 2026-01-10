@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 19:08:05 +0000</lastBuildDate>
-    <item>
-      <title>ProfiCAD 13.4.1 с ключом</title>
-      <link>https://rsload.net/soft/editor/14043-proficad.html</link>
-    </item>
-    <item>
-      <title>EmEditor Professional 25.4.5 + x64  + Repack + Portable</title>
-      <link>https://rsload.net/soft/editor/9992-emeditor.html</link>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 19:32:32 +0000</lastBuildDate>
     <item>
       <title>Clean Media Player 2026.1.10.1</title>
       <link>https://rsload.net/soft/editor/40928-clean-media-player.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>IBExpert Developer Studio 2025.12.19.1</title>
       <link>https://rsload.net/soft/manager/41440-ibexpert-developer-studio.html</link>
+    </item>
+    <item>
+      <title>Zortam Mp3 Media Studio Pro 33.70</title>
+      <link>https://rsload.net/soft/player/9453-zortam-mp3-media-studio.html</link>
+    </item>
+    <item>
+      <title>Inno Setup Unpacker 2.2.0 + 2.64.1 CLI</title>
+      <link>https://rsload.net/soft/editor/15780-inno-setup-unpacker.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
