@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 05:12:50 +0000</lastBuildDate>
-    <item>
-      <title>Intel Chipset Device Software 10.1.20398.8776 WHQL</title>
-      <link>https://rsload.net/soft/24704-intel-chipset-device-software.html</link>
-    </item>
-    <item>
-      <title>Altium Designer  26.2.0.7 x64  +  Portable</title>
-      <link>https://rsload.net/soft/editor/23934-altium-designer.html</link>
-    </item>
-    <item>
-      <title>DBF Viewer 2000 8.95 + Repack</title>
-      <link>https://rsload.net/soft/editor/38120-dbf-viewer-2000.html</link>
-    </item>
-    <item>
-      <title>ThunderSoft Watermark Remover 6.1 + Portable</title>
-      <link>https://rsload.net/soft/graphics/35155-thundersoft-watermark-remover.html</link>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 05:41:38 +0000</lastBuildDate>
     <item>
       <title>Bigasoft Total Video Converter 6.6.2.9498  + Portable + Repack + macOS</title>
       <link>https://rsload.net/soft/converter/9630-total-video-converter.html</link>
@@ -50,6 +34,22 @@
     <item>
       <title>Swift-E-Logbook 2.0.10</title>
       <link>https://rsload.net/soft/manager/40151-swift-e-logbook.html</link>
+    </item>
+    <item>
+      <title>Chaos Intellect 10.7</title>
+      <link>https://rsload.net/soft/browser/17285-chaos-intellect.html</link>
+    </item>
+    <item>
+      <title>Brothers Keeper 7.6.2</title>
+      <link>https://rsload.net/soft/editor/24279-brothers-keeper.html</link>
+    </item>
+    <item>
+      <title>Corel Painter 2023 23.0.0.255 + Portable (на Русском)</title>
+      <link>https://rsload.net/soft/graphics/11317-corel-painter.html</link>
+    </item>
+    <item>
+      <title>FinePrint 12.20  + Repack</title>
+      <link>https://rsload.net/soft/editor/11658-fineprint.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
