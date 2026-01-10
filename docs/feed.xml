@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 04:50:35 +0000</lastBuildDate>
-    <item>
-      <title>O&amp;O DiskImage Pro 22.1.235 x64 + Server + Repack +  WinPE (Русская)</title>
-      <link>https://rsload.net/soft/cleaner-disk/12011-oo-diskimage.html</link>
-    </item>
-    <item>
-      <title>reaConverter Pro 8.0.178 + Portable + Repack</title>
-      <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
-    </item>
-    <item>
-      <title>CAD Exchanger 3.24.16 + Portable</title>
-      <link>https://rsload.net/soft/converter/38643-cad-exchanger-gui.html</link>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 05:12:50 +0000</lastBuildDate>
     <item>
       <title>Intel Chipset Device Software 10.1.20398.8776 WHQL</title>
       <link>https://rsload.net/soft/24704-intel-chipset-device-software.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>Bigasoft Audio Converter 5.8.2.9497 + Portable + Repack</title>
       <link>https://rsload.net/soft/converter/10892-bigasoft-audio-converter.html</link>
+    </item>
+    <item>
+      <title>Bigasoft WTV Converter 5.8.2.9497</title>
+      <link>https://rsload.net/soft/converter/27724-bigasoft-wtv-converter.html</link>
+    </item>
+    <item>
+      <title>SmartFTP Enterprise 10.0.3305 + x64 + Repack</title>
+      <link>https://rsload.net/soft/manager/20658-smartftp-client-ultimate.html</link>
+    </item>
+    <item>
+      <title>Swift-E-Logbook 2.0.10</title>
+      <link>https://rsload.net/soft/manager/40151-swift-e-logbook.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
