@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 16:12:10 +0000</lastBuildDate>
-    <item>
-      <title>WYSIWYG Web Builder 20.4.1 + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/8637-wysiwyg-web-builder.html</link>
-    </item>
-    <item>
-      <title>MediaMonkey Gold 2024.2.1.3201 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/9009-mediamonkey.html</link>
-    </item>
-    <item>
-      <title>XL-Connector 3.6.38.0</title>
-      <link>https://rsload.net/soft/manager/41219-xl-connector.html</link>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 16:44:25 +0000</lastBuildDate>
     <item>
       <title>CoolUtils Total Image Converter 8.2.0.290 + Portable + Repack</title>
       <link>https://rsload.net/soft/converter/11133-total-image-converter.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>Clean Media Player 2026.1.10.1</title>
       <link>https://rsload.net/soft/editor/40928-clean-media-player.html</link>
+    </item>
+    <item>
+      <title>Audacity 3.7.7 + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/9607-audacity.html</link>
+    </item>
+    <item>
+      <title>Macro Expert Enterprise 4.9.8.7 x64</title>
+      <link>https://rsload.net/soft/manager/19817-macro-expert-enterprise.html</link>
+    </item>
+    <item>
+      <title>Cockos REAPER 7.59 + x64 + Rus + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/8368-reaper.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
