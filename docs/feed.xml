@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jan 2026 17:09:21 +0000</lastBuildDate>
-    <item>
-      <title>LuBan 3D 04.01.2026 Repack + Portable</title>
-      <link>https://rsload.net/soft/editor/38605-luban-3d.html</link>
-    </item>
-    <item>
-      <title>Hasleo Data Recovery 6.8 Professional  (Все версии) + Portable  + WinPE</title>
-      <link>https://rsload.net/soft/cleaner-disk/27135-hasleo-data-recovery-professional.html</link>
-    </item>
-    <item>
-      <title>DuckStation  0.1-10570 на Русском</title>
-      <link>https://rsload.net/soft/manager/40662-duckstation.html</link>
-    </item>
+    <lastBuildDate>Sun, 11 Jan 2026 17:38:45 +0000</lastBuildDate>
     <item>
       <title>n-Track Studio 10.2.3.10395 + Portable</title>
       <link>https://rsload.net/soft/editor/15191-n-track-studio.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>Registry Shortcuts 1.4.2 + x64</title>
       <link>https://rsload.net/soft/registry/41447-registry-shortcuts.html</link>
+    </item>
+    <item>
+      <title>TidyWindow 3.8.1</title>
+      <link>https://rsload.net/soft/optimization/41448-tidywindow.html</link>
+    </item>
+    <item>
+      <title>Wordaizer Pro 6.0.0.197 + Portable</title>
+      <link>https://rsload.net/soft/graphics/15175-wordaizer.html</link>
+    </item>
+    <item>
+      <title>XML Blueprint 22.20260111 на Русском</title>
+      <link>https://rsload.net/soft/editor/41449-xml-blueprint.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
