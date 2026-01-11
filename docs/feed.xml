@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jan 2026 16:44:57 +0000</lastBuildDate>
-    <item>
-      <title>DesktopOK 12.26 + x64 + Portable</title>
-      <link>https://rsload.net/soft/desktop/9548-desktopok-281-x64.html</link>
-    </item>
-    <item>
-      <title>Universal Media Server 15.3.0 x64</title>
-      <link>https://rsload.net/soft/traffic/16200-universal-media-server.html</link>
-    </item>
+    <lastBuildDate>Sun, 11 Jan 2026 17:09:21 +0000</lastBuildDate>
     <item>
       <title>LuBan 3D 04.01.2026 Repack + Portable</title>
       <link>https://rsload.net/soft/editor/38605-luban-3d.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>Filezo 6.0.13 x64</title>
       <link>https://rsload.net/soft/manager/41364-filezo.html</link>
+    </item>
+    <item>
+      <title>Round-Robin Mailer 36.0</title>
+      <link>https://rsload.net/soft/browser/33827-round-robin-mailer.html</link>
+    </item>
+    <item>
+      <title>Registry Shortcuts 1.4.2 + x64</title>
+      <link>https://rsload.net/soft/registry/41447-registry-shortcuts.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
