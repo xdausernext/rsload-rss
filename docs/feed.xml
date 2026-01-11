@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jan 2026 11:09:00 +0000</lastBuildDate>
-    <item>
-      <title>DeskCalc Pro 10.0.6 + Portable</title>
-      <link>https://rsload.net/soft/manager/24436-deskcalc-pro.html</link>
-    </item>
-    <item>
-      <title>Native Instruments KOMPLETE FX Bundle 2026.1</title>
-      <link>https://rsload.net/soft/37309-native-instruments-komplete-fx-bundle.html</link>
-    </item>
-    <item>
-      <title>O&amp;O DiskImage Pro 22.1.236 x64 + Server + Repack +  WinPE (Русская)</title>
-      <link>https://rsload.net/soft/cleaner-disk/12011-oo-diskimage.html</link>
-    </item>
+    <lastBuildDate>Sun, 11 Jan 2026 11:34:53 +0000</lastBuildDate>
     <item>
       <title>DesktopOK 12.26 + x64 + Portable</title>
       <link>https://rsload.net/soft/desktop/9548-desktopok-281-x64.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>TweakNow WinSecret Plus! for Windows 11 and 10 7.7.0  + Repack + Portable</title>
       <link>https://rsload.net/soft/optimization/37036-tweaknow-winsecret-plus-for-windows-11-and-10.html</link>
+    </item>
+    <item>
+      <title>Checkbook For Excel 7.1</title>
+      <link>https://rsload.net/soft/editor/41446-checkbook-for-excel.html</link>
+    </item>
+    <item>
+      <title>Multiecuscan 5.3R1</title>
+      <link>https://rsload.net/soft/manager/39029-multiecuscan.html</link>
+    </item>
+    <item>
+      <title>Filezo 6.0.13 x64</title>
+      <link>https://rsload.net/soft/manager/41364-filezo.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1199 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
