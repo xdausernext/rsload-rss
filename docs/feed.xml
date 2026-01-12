@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 17:42:25 +0000</lastBuildDate>
-    <item>
-      <title>XnViewMP 1.9.9 + x64 + Portable</title>
-      <link>https://rsload.net/soft/graphics/20833-xnviewmp.html</link>
-    </item>
-    <item>
-      <title>reaConverter Pro 8.0.179 + Portable + Repack</title>
-      <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
-    </item>
-    <item>
-      <title>CrawlRhino SEO Crawler PRO 1.1.13</title>
-      <link>https://rsload.net/soft/manager/41359-crawlrhino-seo-crawler-pro.html</link>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 18:17:43 +0000</lastBuildDate>
     <item>
       <title>CrawlRhino SEO Monitor 1.0.7</title>
       <link>https://rsload.net/soft/manager/41458-crawlrhino-seo-monitor.html</link>
@@ -54,6 +42,18 @@
     <item>
       <title>Mozilla Firefox 147.0 + x64 + Portable +  ESR</title>
       <link>https://rsload.net/soft/browser/8342-mozilla-firefox.html</link>
+    </item>
+    <item>
+      <title>Keyword Researcher Pro 13.259</title>
+      <link>https://rsload.net/soft/manager/32661-keyword-researcher-pro.html</link>
+    </item>
+    <item>
+      <title>RegCool 3.0.0.3 + Portable + Repack</title>
+      <link>https://rsload.net/soft/registry/32301-regcool.html</link>
+    </item>
+    <item>
+      <title>Sync Breeze Ultimate 17.6.28 + Portable</title>
+      <link>https://rsload.net/soft/manager/11869-sync-breeze.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 25H2 + Defender + Store + стабильность без телеметрии и мусора</title>
