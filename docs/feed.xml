@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 16:50:17 +0000</lastBuildDate>
-    <item>
-      <title>2BrightSparks SyncBackPro 11.3.134 + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/11803-syncbackpro.html</link>
-    </item>
-    <item>
-      <title>ASDIP Wood 3.3.2.2</title>
-      <link>https://rsload.net/soft/editor/40529-asdip-wood.html</link>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 17:15:05 +0000</lastBuildDate>
     <item>
       <title>Black NotePad 2.3.2.30</title>
       <link>https://rsload.net/soft/document/37208-black-notepad.html</link>
@@ -54,6 +46,14 @@
     <item>
       <title>KS DB Merge Tools for SQLite Pro 1.23.3</title>
       <link>https://rsload.net/soft/manager/40156-ks-db-merge-tools-for-sqlite-pro.html</link>
+    </item>
+    <item>
+      <title>Starry Night Pro Plus 8.1.1.2098 + Portable</title>
+      <link>https://rsload.net/soft/desktop/31816-starry-night-pro-plus.html</link>
+    </item>
+    <item>
+      <title>Red Gate SmartAssembly Pro 8.4.2.6717</title>
+      <link>https://rsload.net/soft/security/30593-red-gate-smartassembly-professional-besplatno-s-klyuchom.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 25H2 + Defender + Store + стабильность без телеметрии и мусора</title>
