@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 10:15:17 +0000</lastBuildDate>
-    <item>
-      <title>Room Arranger 10.3.2.739 x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/11647-room-arranger.html</link>
-    </item>
-    <item>
-      <title>YT Downloader 10.1.2 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 10:47:35 +0000</lastBuildDate>
     <item>
       <title>DLSS Updater 3.5.2</title>
       <link>https://rsload.net/soft/manager/41450-dlss-updater.html</link>
@@ -54,6 +46,14 @@
     <item>
       <title>Artweaver Plus 8.1.2.3675 + x64 + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/11776-artweaver.html</link>
+    </item>
+    <item>
+      <title>Zoom Player MAX 22.0.1.2201 + Pro + Rus + Portable + Repack</title>
+      <link>https://rsload.net/soft/player/9014-zoom-player.html</link>
+    </item>
+    <item>
+      <title>2BrightSparks SyncBackPro 11.3.134 + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/11803-syncbackpro.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 25H2 + Defender + Store + стабильность без телеметрии и мусора</title>
