@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 11:11:46 +0000</lastBuildDate>
-    <item>
-      <title>DBF Recovery 4.64</title>
-      <link>https://rsload.net/soft/cleaner-disk/41460-dbf-recovery.html</link>
-    </item>
-    <item>
-      <title>Garmin Express  7.28</title>
-      <link>https://rsload.net/soft/manager/24569-garmin-express.html</link>
-    </item>
-    <item>
-      <title>Wing Pro 11.0.7 + x64</title>
-      <link>https://rsload.net/soft/editor/32026-wing-ide-pro.html</link>
-    </item>
-    <item>
-      <title>Operant Peak Spectroscopy 4.00.539</title>
-      <link>https://rsload.net/soft/38547-operant-peak-spectroscopy.html</link>
-    </item>
-    <item>
-      <title>Transcribe 9.50.0 x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/36290-transcribe.html</link>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 11:39:05 +0000</lastBuildDate>
     <item>
       <title>Karaosoft Karma 2026.1.12</title>
       <link>https://rsload.net/soft/manager/38811-karaosoft-karma.html</link>
@@ -54,6 +34,26 @@
     <item>
       <title>Cyberduck 9.3.1</title>
       <link>https://rsload.net/soft/manager/13744-cyberduck.html</link>
+    </item>
+    <item>
+      <title>NetSpeedTray 1.2.0 Portable</title>
+      <link>https://rsload.net/soft/desktop/41285-netspeedtray.html</link>
+    </item>
+    <item>
+      <title>Advanced Driver Updater 4.6.1086.8539 + Repack</title>
+      <link>https://rsload.net/soft/manager/16398-advanced-driver-updater.html</link>
+    </item>
+    <item>
+      <title>Fast Video Cutter Joiner 6.9.6 + Repack + Portable</title>
+      <link>https://rsload.net/soft/editor/38722-fast-video-cutter-joiner.html</link>
+    </item>
+    <item>
+      <title>MusConv Lifetime 4.10.446</title>
+      <link>https://rsload.net/soft/manager/41332-musconv-lifetime.html</link>
+    </item>
+    <item>
+      <title>Logitech Options 10.26.14 x64</title>
+      <link>https://rsload.net/soft/36063-logitech-options.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 25H2 + Defender + Store + стабильность без телеметрии и мусора</title>
