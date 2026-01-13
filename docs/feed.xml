@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 04:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 05:17:42 +0000</lastBuildDate>
     <item>
       <title>AnyTrans iOS 8.9.14.20260112</title>
       <link>https://rsload.net/soft/cleaner-disk/25008-anytrans.html</link>
