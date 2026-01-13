@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 06:18:52 +0000</lastBuildDate>
-    <item>
-      <title>AnyTrans iOS 8.9.14.20260112</title>
-      <link>https://rsload.net/soft/cleaner-disk/25008-anytrans.html</link>
-    </item>
-    <item>
-      <title>Mozilla Firefox 147.0 + x64 + Portable +  ESR</title>
-      <link>https://rsload.net/soft/browser/8342-mozilla-firefox.html</link>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 06:54:53 +0000</lastBuildDate>
     <item>
       <title>Keyword Researcher Pro 13.259</title>
       <link>https://rsload.net/soft/manager/32661-keyword-researcher-pro.html</link>
@@ -54,6 +46,14 @@
     <item>
       <title>Adobe Media Encoder 2025 25.6.4 + Repack + Portable + 2024</title>
       <link>https://rsload.net/soft/editor/25613-adobe-media-encoder-cc.html</link>
+    </item>
+    <item>
+      <title>Waterfox Classic 2022.11 / 6.6.8 + Portable</title>
+      <link>https://rsload.net/soft/browser/12117-waterfox.html</link>
+    </item>
+    <item>
+      <title>FanControl 253</title>
+      <link>https://rsload.net/soft/manager/34303-fancontrol.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 25H2 + Defender + Store + стабильность без телеметрии и мусора</title>
