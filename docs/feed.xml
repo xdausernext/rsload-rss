@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 15:46:59 +0000</lastBuildDate>
-    <item>
-      <title>Perfinity dotNET Runtime Analyzer 9.0.15</title>
-      <link>https://rsload.net/soft/editor/40210-perfinity-dotnet-runtime-analyzer.html</link>
-    </item>
-    <item>
-      <title>4DDiG Partition Manager 3.9.2.19 x64  + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/40443-4ddig-partition-manager.html</link>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 16:18:10 +0000</lastBuildDate>
     <item>
       <title>PassFab 4EasyPartition 3.9.2.19 x64 на Русском</title>
       <link>https://rsload.net/soft/cleaner-disk/40885-passfab-4easypartition.html</link>
@@ -54,6 +46,14 @@
     <item>
       <title>DU Meter 9.20 + Repack + Portable</title>
       <link>https://rsload.net/soft/traffic/12001-du-meter.html</link>
+    </item>
+    <item>
+      <title>Disk Pulse Ultimate 17.6.32 + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/11796-diskpulse.html</link>
+    </item>
+    <item>
+      <title>reaConverter Pro 8.0.180 + Portable + Repack</title>
+      <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 25H2 + Defender + Store + стабильность без телеметрии и мусора</title>
