@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 11:39:05 +0000</lastBuildDate>
-    <item>
-      <title>Karaosoft Karma 2026.1.12</title>
-      <link>https://rsload.net/soft/manager/38811-karaosoft-karma.html</link>
-    </item>
-    <item>
-      <title>PentaLogix ViewMate Pro 11.24.74 x64</title>
-      <link>https://rsload.net/soft/editor/30567-pentalogix-viewmate-pro-novaya-versiya-s-klyuchom.html</link>
-    </item>
-    <item>
-      <title>ExamDiff Pro 16.0.1.19 x64 + Repack + Portable</title>
-      <link>https://rsload.net/soft/document/10839-examdiff.html</link>
-    </item>
-    <item>
-      <title>WinBin2Iso 6.61 + x64 + Portable</title>
-      <link>https://rsload.net/soft/converter/10260-winbin2iso.html</link>
-    </item>
-    <item>
-      <title>StarReminder 4.23.06</title>
-      <link>https://rsload.net/soft/manager/35142-starreminder.html</link>
-    </item>
-    <item>
-      <title>ASCOMP Screencapt Pro 3.000 + на Русском Portable</title>
-      <link>https://rsload.net/soft/desktop/40561-ascomp-screencapt-pro.html</link>
-    </item>
-    <item>
-      <title>Cyberduck 9.3.1</title>
-      <link>https://rsload.net/soft/manager/13744-cyberduck.html</link>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 12:23:37 +0000</lastBuildDate>
     <item>
       <title>NetSpeedTray 1.2.0 Portable</title>
       <link>https://rsload.net/soft/desktop/41285-netspeedtray.html</link>
@@ -54,6 +26,34 @@
     <item>
       <title>Logitech Options 10.26.14 x64</title>
       <link>https://rsload.net/soft/36063-logitech-options.html</link>
+    </item>
+    <item>
+      <title>EaseUS Fixo 4.2.5 Build 20260109 Technician  + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/39841-easeus-fixo.html</link>
+    </item>
+    <item>
+      <title>Tor Browser 15.0.4 + x64</title>
+      <link>https://rsload.net/soft/browser/10887-tor-browser-bundle.html</link>
+    </item>
+    <item>
+      <title>XnView Shell Extension 4.2.5 + x64</title>
+      <link>https://rsload.net/soft/desktop/35864-xnview-shell-extension.html</link>
+    </item>
+    <item>
+      <title>Perfinity dotNET Runtime Analyzer 9.0.15</title>
+      <link>https://rsload.net/soft/editor/40210-perfinity-dotnet-runtime-analyzer.html</link>
+    </item>
+    <item>
+      <title>4DDiG Partition Manager 3.9.2.19 x64  + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/40443-4ddig-partition-manager.html</link>
+    </item>
+    <item>
+      <title>PassFab 4EasyPartition 3.9.2.19 x64 на Русском</title>
+      <link>https://rsload.net/soft/cleaner-disk/40885-passfab-4easypartition.html</link>
+    </item>
+    <item>
+      <title>Adobe Substance 3D Painter 11.1.2 x64 + Repack + Portable + Alchemist</title>
+      <link>https://rsload.net/soft/graphics/23418-substance-painter.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 25H2 + Defender + Store + стабильность без телеметрии и мусора</title>
