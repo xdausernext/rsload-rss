@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 06:19:55 +0000</lastBuildDate>
-    <item>
-      <title>Autodesk Moldflow Adviser Ultimate 2026 x64</title>
-      <link>https://rsload.net/soft/editor/35932-autodesk-moldflow-adviser.html</link>
-    </item>
-    <item>
-      <title>Mozilla Thunderbird 147.0 + ESR  + Portable</title>
-      <link>https://rsload.net/soft/browser/8341-mozilla-thunderbird.html</link>
-    </item>
-    <item>
-      <title>TidyWindow 3.8.6</title>
-      <link>https://rsload.net/soft/optimization/41448-tidywindow.html</link>
-    </item>
-    <item>
-      <title>QueueExplorer Pro 5.0.65 x64</title>
-      <link>https://rsload.net/soft/manager/40182-queueexplorer-pro.html</link>
-    </item>
-    <item>
-      <title>Microsoft .NET Desktop Runtime 7.0.13 + x64 / 8.0.10  / 9.0.11 / 10.0.2</title>
-      <link>https://rsload.net/soft/38154-microsoft-net-desktop-runtime.html</link>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 06:54:33 +0000</lastBuildDate>
     <item>
       <title>IsMyMemoryOK 1.28 + x64 + Portable</title>
       <link>https://rsload.net/soft/optimization/40657-ismymemoryok.html</link>
@@ -54,6 +34,26 @@
     <item>
       <title>IObit Software Updater Pro 8.3.0.12 + Portable + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/31839-iobit-software-updater-pro.html</link>
+    </item>
+    <item>
+      <title>UltFone Windows Data Recovery 10.6.14.1 на Русском</title>
+      <link>https://rsload.net/soft/cleaner-disk/41348-ultfone-windows-data-recovery.html</link>
+    </item>
+    <item>
+      <title>O&amp;O DiskImage Pro 22.1.236 x64 + Server + Repack +  WinPE (Русская)</title>
+      <link>https://rsload.net/soft/cleaner-disk/12011-oo-diskimage.html</link>
+    </item>
+    <item>
+      <title>SoftPerfect Network Scanner 26.1 + Portable</title>
+      <link>https://rsload.net/soft/traffic/10565-softperfect-network-scanner.html</link>
+    </item>
+    <item>
+      <title>NTFS Permissions Reporter 5.0.631.0 x64 Enterprise + Pro + Repack</title>
+      <link>https://rsload.net/soft/manager/35611-ntfs-permissions-reporter.html</link>
+    </item>
+    <item>
+      <title>EasyUEFI Enterprise 6.2 + Pro + WinPE + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/20056-easyuefi.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 25H2 + Defender + Store + стабильность без телеметрии и мусора</title>
