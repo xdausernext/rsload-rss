@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 13:54:51 +0000</lastBuildDate>
-    <item>
-      <title>Perfectly Clear Complete 3.12.2.2045 / 5.0.0.3037 WorkBench</title>
-      <link>https://rsload.net/soft/graphics/23368-perfectly-clear.html</link>
-    </item>
-    <item>
-      <title>LDPlayer 9.1.98.1 x64</title>
-      <link>https://rsload.net/soft/desktop/32285-ldplayer.html</link>
-    </item>
-    <item>
-      <title>The KMPlayer 2025.12.22.13 x64 / 4.2.3.31 + Portable + Repack</title>
-      <link>https://rsload.net/soft/player/8451-kmplayer.html</link>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 14:15:23 +0000</lastBuildDate>
     <item>
       <title>FontViewOK 9.21 + x64 + Portable</title>
       <link>https://rsload.net/soft/desktop/10175-fontviewok.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>TickTick Premium 8.0.0.2</title>
       <link>https://rsload.net/soft/manager/36993-ticktick-premium.html</link>
+    </item>
+    <item>
+      <title>Digiarty Aiarty Video Enhancer 3.4 + Portable</title>
+      <link>https://rsload.net/soft/editor/41194-digiarty-aiarty-video-enhancer.html</link>
+    </item>
+    <item>
+      <title>Freemake Video Converter 5.0.0.30 + Repack + Portable</title>
+      <link>https://rsload.net/soft/converter/8323-freemake-video-converter.html</link>
+    </item>
+    <item>
+      <title>Adobe Premiere Pro 2025 25.6.4 + Repack + Portable</title>
+      <link>https://rsload.net/soft/big-programm/14231-adobe-premiere-pro-cc.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 25H2 + Defender + Store + стабильность без телеметрии и мусора</title>
