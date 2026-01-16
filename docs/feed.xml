@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 10:46:15 +0000</lastBuildDate>
-    <item>
-      <title>SweetScape 010 Editor 16.0.3 + x64</title>
-      <link>https://rsload.net/soft/editor/14334-010-editor.html</link>
-    </item>
-    <item>
-      <title>Markdown Monster 4.0.4</title>
-      <link>https://rsload.net/soft/editor/32552-markdown-monster.html</link>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 11:11:15 +0000</lastBuildDate>
     <item>
       <title>TechSmith SnagIt 26.0.0.9483 + Repack + Portable + 2023 (на Русском)</title>
       <link>https://rsload.net/soft/editor/10297-techsmith-snagit.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>ET-Optimizer 6.08.10</title>
       <link>https://rsload.net/soft/optimization/39444-et-optimizer.html</link>
+    </item>
+    <item>
+      <title>GForce impOSCar 3 1.0.2</title>
+      <link>https://rsload.net/soft/41468-gforce-imposcar-3.html</link>
+    </item>
+    <item>
+      <title>PhotoCull 2.0.1 x64</title>
+      <link>https://rsload.net/soft/manager/41469-photocull.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
