@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 18:18:09 +0000</lastBuildDate>
-    <item>
-      <title>Android Studio 2025.2.3.9 x64</title>
-      <link>https://rsload.net/soft/editor/32211-android-studio.html</link>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 18:52:42 +0000</lastBuildDate>
     <item>
       <title>Auslogics SSD Optimizer Pro 2.2.0 + Portable + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/40808-auslogics-ssd-optimizer-pro.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>Mozilla Firefox 147.0.1 + x64 + Portable +  ESR</title>
       <link>https://rsload.net/soft/browser/8342-mozilla-firefox.html</link>
+    </item>
+    <item>
+      <title>MasterCook 24.0.3.0</title>
+      <link>https://rsload.net/soft/manager/41471-mastercook.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
