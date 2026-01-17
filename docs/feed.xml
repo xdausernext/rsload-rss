@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jan 2026 04:48:56 +0000</lastBuildDate>
-    <item>
-      <title>EditPlus 6.1.836 + Portable (Русский)</title>
-      <link>https://rsload.net/soft/editor/10350-editplus.html</link>
-    </item>
-    <item>
-      <title>KLS Backup 2025 Professional 14.0.3.1 + Portable на Русском</title>
-      <link>https://rsload.net/soft/cleaner-disk/10750-kls-backup.html</link>
-    </item>
+    <lastBuildDate>Sat, 17 Jan 2026 05:12:03 +0000</lastBuildDate>
     <item>
       <title>ET-Optimizer 6.08.10</title>
       <link>https://rsload.net/soft/optimization/39444-et-optimizer.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>Burp Suite Professional  2025.12.3</title>
       <link>https://rsload.net/soft/33824-burp-suite-professional.html</link>
+    </item>
+    <item>
+      <title>IntraWeb Ultimate 16.1.10</title>
+      <link>https://rsload.net/soft/editor/27875-intraweb-ultimate.html</link>
+    </item>
+    <item>
+      <title>FabFilter Total Bundle 2026.1 + Portable</title>
+      <link>https://rsload.net/soft/editor/29088-fabfilter-total-bundle-macosx.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
