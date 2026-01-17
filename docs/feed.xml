@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jan 2026 14:39:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 15:10:20 +0000</lastBuildDate>
     <item>
       <title>illustrate PerfectTUNES 2026-01-16 + Portable</title>
       <link>https://rsload.net/soft/manager/36110-perfecttunes.html</link>
