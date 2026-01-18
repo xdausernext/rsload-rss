@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 16:44:28 +0000</lastBuildDate>
-    <item>
-      <title>Active Partition Recovery Ultimate 25.1.2   + Professional + WinPE + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/15285-active-partition-recovery.html</link>
-    </item>
+    <lastBuildDate>Sun, 18 Jan 2026 17:08:52 +0000</lastBuildDate>
     <item>
       <title>LrToolbox 2026.0.1.27 x64</title>
       <link>https://rsload.net/soft/manager/41374-lrtoolbox.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>DISMTools 0.7.3.260118</title>
       <link>https://rsload.net/soft/editor/40522-dismtools.html</link>
+    </item>
+    <item>
+      <title>DoublePi Vovious 1.0.9</title>
+      <link>https://rsload.net/soft/editor/41479-doublepi-vovious.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
