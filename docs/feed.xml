@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 15:37:52 +0000</lastBuildDate>
-    <item>
-      <title>NCSS PASS 2026 26.0.1</title>
-      <link>https://rsload.net/soft/manager/39343-ncss-pass.html</link>
-    </item>
-    <item>
-      <title>Winslop 0.35 x64</title>
-      <link>https://rsload.net/soft/optimization/41475-winslop.html</link>
-    </item>
+    <lastBuildDate>Sun, 18 Jan 2026 16:12:45 +0000</lastBuildDate>
     <item>
       <title>NCSS Pro 2026 26.0.1 + x64</title>
       <link>https://rsload.net/soft/manager/39342-ncss-2023.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>Plagius Professional 2.9.13 + Portable</title>
       <link>https://rsload.net/soft/document/35191-plagius-professional.html</link>
+    </item>
+    <item>
+      <title>VovSoft URL Extractor 2.6</title>
+      <link>https://rsload.net/soft/manager/41477-vovsoft-url-extractor.html</link>
+    </item>
+    <item>
+      <title>Fender Studio Pro 8.0.0 x64</title>
+      <link>https://rsload.net/soft/editor/41478-fender-studio-pro.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
