@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 14:09:38 +0000</lastBuildDate>
-    <item>
-      <title>HTML Compiler 2026.2 + x64</title>
-      <link>https://rsload.net/soft/converter/21906-html-compiler.html</link>
-    </item>
-    <item>
-      <title>Inno Setup Unpacker 2.2.2 + 2.64.1 CLI</title>
-      <link>https://rsload.net/soft/editor/15780-inno-setup-unpacker.html</link>
-    </item>
-    <item>
-      <title>WinDirStat 2.5.0 + x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/17419-windirstat.html</link>
-    </item>
+    <lastBuildDate>Sun, 18 Jan 2026 14:39:08 +0000</lastBuildDate>
     <item>
       <title>GoodSync Enterprise 12.9.23.3 + Repack + Portable + Rus</title>
       <link>https://rsload.net/soft/cleaner-disk/8549-goodsync.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>SliQTools SliQ Invoicing Plus 6.10.0</title>
       <link>https://rsload.net/soft/manager/41474-sliqtools-sliq-invoicing-plus.html</link>
+    </item>
+    <item>
+      <title>NCSS PASS 2026 26.0.1</title>
+      <link>https://rsload.net/soft/manager/39343-ncss-pass.html</link>
+    </item>
+    <item>
+      <title>Winslop 0.35 x64</title>
+      <link>https://rsload.net/soft/optimization/41475-winslop.html</link>
+    </item>
+    <item>
+      <title>NCSS Pro 2026 26.0.1 + x64</title>
+      <link>https://rsload.net/soft/manager/39342-ncss-2023.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
