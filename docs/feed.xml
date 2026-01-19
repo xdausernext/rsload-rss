@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 20:42:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 21:10:26 +0000</lastBuildDate>
     <item>
       <title>WinScript 1.4.5 Portable</title>
       <link>https://rsload.net/soft/optimization/40962-winscript.html</link>
