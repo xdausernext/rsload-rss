@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 13:57:48 +0000</lastBuildDate>
-    <item>
-      <title>Fender Studio Pro 8.0.0 x64</title>
-      <link>https://rsload.net/soft/editor/41478-fender-studio-pro.html</link>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 14:23:37 +0000</lastBuildDate>
     <item>
       <title>DISMTools 0.7.3.260118</title>
       <link>https://rsload.net/soft/editor/40522-dismtools.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>DJ Jukebox 35.0</title>
       <link>https://rsload.net/soft/editor/37545-dj-jukebox.html</link>
+    </item>
+    <item>
+      <title>Qalculate! 5.9.0  + x64 + Portable</title>
+      <link>https://rsload.net/soft/desktop/36957-qalculate.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
