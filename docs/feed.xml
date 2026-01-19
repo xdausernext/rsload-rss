@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 14:23:37 +0000</lastBuildDate>
-    <item>
-      <title>DISMTools 0.7.3.260118</title>
-      <link>https://rsload.net/soft/editor/40522-dismtools.html</link>
-    </item>
-    <item>
-      <title>DoublePi Vovious 1.0.9</title>
-      <link>https://rsload.net/soft/editor/41479-doublepi-vovious.html</link>
-    </item>
-    <item>
-      <title>SecretDNS 3.8.4</title>
-      <link>https://rsload.net/soft/security/40712-secretdns.html</link>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 14:50:44 +0000</lastBuildDate>
     <item>
       <title>XMedia Recode 3.6.2.0 + Portable + Repack</title>
       <link>https://rsload.net/soft/converter/8448-xmedia-recode.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>Qalculate! 5.9.0  + x64 + Portable</title>
       <link>https://rsload.net/soft/desktop/36957-qalculate.html</link>
+    </item>
+    <item>
+      <title>Driver Magician 6.5 на Русском + Portable + Lite</title>
+      <link>https://rsload.net/soft/manager/10342-driver-magician-lite.html</link>
+    </item>
+    <item>
+      <title>MaxCut Business Edition 2.9.6.2</title>
+      <link>https://rsload.net/soft/editor/38575-maxcut.html</link>
+    </item>
+    <item>
+      <title>XYplorer 28.10.0500 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/9435-xyplorer.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
