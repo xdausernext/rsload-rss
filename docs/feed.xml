@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 05:23:40 +0000</lastBuildDate>
-    <item>
-      <title>LrToolbox 2026.0.1.27 x64</title>
-      <link>https://rsload.net/soft/manager/41374-lrtoolbox.html</link>
-    </item>
-    <item>
-      <title>ET-Optimizer 6.08.15</title>
-      <link>https://rsload.net/soft/optimization/39444-et-optimizer.html</link>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 05:51:28 +0000</lastBuildDate>
     <item>
       <title>SmartFTP Enterprise 10.0.3306 + x64 + Repack</title>
       <link>https://rsload.net/soft/manager/20658-smartftp-client-ultimate.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>DoublePi Vovious 1.0.9</title>
       <link>https://rsload.net/soft/editor/41479-doublepi-vovious.html</link>
+    </item>
+    <item>
+      <title>SecretDNS 3.8.4</title>
+      <link>https://rsload.net/soft/security/40712-secretdns.html</link>
+    </item>
+    <item>
+      <title>XMedia Recode 3.6.2.0 + Portable + Repack</title>
+      <link>https://rsload.net/soft/converter/8448-xmedia-recode.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
