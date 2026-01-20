@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 17:22:36 +0000</lastBuildDate>
-    <item>
-      <title>Active Partition Recovery Ultimate 26.0.2.2 + Professional + WinPE + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/15285-active-partition-recovery.html</link>
-    </item>
-    <item>
-      <title>Diamond Cut Audio Restoration Tools 11.09 + Portable</title>
-      <link>https://rsload.net/soft/editor/34285-diamond-cut.html</link>
-    </item>
+    <lastBuildDate>Tue, 20 Jan 2026 17:51:33 +0000</lastBuildDate>
     <item>
       <title>Diamond Cut Forensics Audio Laboratory 11.09 + Portable</title>
       <link>https://rsload.net/soft/editor/33778-diamond-cut-forensics10-audio-laboratory.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>gSyncit  5.8.43 + x64</title>
       <link>https://rsload.net/soft/browser/32254-gsyncit.html</link>
+    </item>
+    <item>
+      <title>DbVisualizer Pro 25.3.2 + Repack</title>
+      <link>https://rsload.net/soft/manager/31144-dbvisualizer-pro.html</link>
+    </item>
+    <item>
+      <title>Reg Organizer 9.90 + Portable + Repack</title>
+      <link>https://rsload.net/soft/registry/8535-reg-organizer.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
