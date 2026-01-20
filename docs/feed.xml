@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 16:56:36 +0000</lastBuildDate>
-    <item>
-      <title>Valentina Studio Pro 16.5.3 + x64</title>
-      <link>https://rsload.net/soft/manager/32068-valentina-studio-pro.html</link>
-    </item>
-    <item>
-      <title>Syncovery Premium 11.12.1.151 x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/16717-syncovery.html</link>
-    </item>
-    <item>
-      <title>Cloanto Amiga Forever 11.2.4 Plus Edition</title>
-      <link>https://rsload.net/soft/manager/36040-cloanto-amiga-forever.html</link>
-    </item>
+    <lastBuildDate>Tue, 20 Jan 2026 17:22:36 +0000</lastBuildDate>
     <item>
       <title>Active Partition Recovery Ultimate 26.0.2.2 + Professional + WinPE + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/15285-active-partition-recovery.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>EIVA NaviScan 9.10.0 x64</title>
       <link>https://rsload.net/soft/editor/38723-eiva-naviscan.html</link>
+    </item>
+    <item>
+      <title>Java SE Runtime Environment 10.0.2 x64  + JDK Kit 25.0.2</title>
+      <link>https://rsload.net/soft/8641-java-se.html</link>
+    </item>
+    <item>
+      <title>DBF Viewer 2000 8.96 + Repack</title>
+      <link>https://rsload.net/soft/editor/38120-dbf-viewer-2000.html</link>
+    </item>
+    <item>
+      <title>gSyncit  5.8.43 + x64</title>
+      <link>https://rsload.net/soft/browser/32254-gsyncit.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
