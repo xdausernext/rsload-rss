@@ -6,39 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 09:23:41 +0000</lastBuildDate>
-    <item>
-      <title>Glary Disk Cleaner 6.0.1.40  + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/18169-glary-disk-cleaner.html</link>
-    </item>
-    <item>
-      <title>Glarysoft Malware Hunter PRO 1.211.0.842 + Portable  + Repack</title>
-      <link>https://rsload.net/soft/security/21408-glarysoft-malware-hunter.html</link>
-    </item>
-    <item>
-      <title>Glary Utilities Pro  6.37.0.41 + Portable + Repack</title>
-      <link>https://rsload.net/soft/optimization/8598-glary-utilities.html</link>
-    </item>
-    <item>
-      <title>Directory Opus Pro 13.20.6 x64 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/8663-directory-opus.html</link>
-    </item>
-    <item>
-      <title>Addinsoft Zenplot 1.1.0</title>
-      <link>https://rsload.net/soft/manager/41484-addinsoft-zenplot.html</link>
-    </item>
-    <item>
-      <title>SAPIEN PowerShell ModuleManager 2026 2.0.33 x64</title>
-      <link>https://rsload.net/soft/editor/39273-sapien-powershell-modulemanager.html</link>
-    </item>
-    <item>
-      <title>SAPIEN PowerShell Studio 2026 5.10.263 x64</title>
-      <link>https://rsload.net/soft/editor/36053-powershell-studio.html</link>
-    </item>
-    <item>
-      <title>SAPIEN PrimalScript 2026 8.1.223  x64</title>
-      <link>https://rsload.net/soft/editor/36056-primalscript.html</link>
-    </item>
+    <lastBuildDate>Tue, 20 Jan 2026 09:51:48 +0000</lastBuildDate>
     <item>
       <title>SAPIEN PrimalSQL 2026 4.5.90 x64</title>
       <link>https://rsload.net/soft/editor/36055-primalsql.html</link>
@@ -46,6 +14,38 @@
     <item>
       <title>SAPIEN PrimalXML 2026 4.7.86 x64</title>
       <link>https://rsload.net/soft/editor/39136-sapien-primalxml.html</link>
+    </item>
+    <item>
+      <title>CPUID HWMonitor Pro 1.56 + Free 1.61 + Portable на Русском</title>
+      <link>https://rsload.net/soft/manager/8711-hwmonitor.html</link>
+    </item>
+    <item>
+      <title>ON1 Effects 2026.2 20.2.1.17958 x64  + Portable</title>
+      <link>https://rsload.net/soft/graphics/29380-on1-effects-besplatno-preobrazit-foto.html</link>
+    </item>
+    <item>
+      <title>StartAllBack++ 3.9.21.5350 + Repack</title>
+      <link>https://rsload.net/soft/desktop/35594-startallback.html</link>
+    </item>
+    <item>
+      <title>Microsoft Edge 144.0.3719.82 + Portable</title>
+      <link>https://rsload.net/soft/browser/31127-microsoft-edge-7419624.html</link>
+    </item>
+    <item>
+      <title>NTFS Permissions Reporter 5.0.636 x64 Enterprise + Pro + Repack</title>
+      <link>https://rsload.net/soft/manager/35611-ntfs-permissions-reporter.html</link>
+    </item>
+    <item>
+      <title>Valentina Studio Pro 16.5.3 + x64</title>
+      <link>https://rsload.net/soft/manager/32068-valentina-studio-pro.html</link>
+    </item>
+    <item>
+      <title>Syncovery Premium 11.12.1.151 x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/16717-syncovery.html</link>
+    </item>
+    <item>
+      <title>Cloanto Amiga Forever 11.2.4 Plus Edition</title>
+      <link>https://rsload.net/soft/manager/36040-cloanto-amiga-forever.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
