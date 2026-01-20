@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 09:51:48 +0000</lastBuildDate>
-    <item>
-      <title>SAPIEN PrimalSQL 2026 4.5.90 x64</title>
-      <link>https://rsload.net/soft/editor/36055-primalsql.html</link>
-    </item>
-    <item>
-      <title>SAPIEN PrimalXML 2026 4.7.86 x64</title>
-      <link>https://rsload.net/soft/editor/39136-sapien-primalxml.html</link>
-    </item>
-    <item>
-      <title>CPUID HWMonitor Pro 1.56 + Free 1.61 + Portable на Русском</title>
-      <link>https://rsload.net/soft/manager/8711-hwmonitor.html</link>
-    </item>
-    <item>
-      <title>ON1 Effects 2026.2 20.2.1.17958 x64  + Portable</title>
-      <link>https://rsload.net/soft/graphics/29380-on1-effects-besplatno-preobrazit-foto.html</link>
-    </item>
-    <item>
-      <title>StartAllBack++ 3.9.21.5350 + Repack</title>
-      <link>https://rsload.net/soft/desktop/35594-startallback.html</link>
-    </item>
-    <item>
-      <title>Microsoft Edge 144.0.3719.82 + Portable</title>
-      <link>https://rsload.net/soft/browser/31127-microsoft-edge-7419624.html</link>
-    </item>
-    <item>
-      <title>NTFS Permissions Reporter 5.0.636 x64 Enterprise + Pro + Repack</title>
-      <link>https://rsload.net/soft/manager/35611-ntfs-permissions-reporter.html</link>
-    </item>
+    <lastBuildDate>Tue, 20 Jan 2026 10:16:42 +0000</lastBuildDate>
     <item>
       <title>Valentina Studio Pro 16.5.3 + x64</title>
       <link>https://rsload.net/soft/manager/32068-valentina-studio-pro.html</link>
@@ -46,6 +18,34 @@
     <item>
       <title>Cloanto Amiga Forever 11.2.4 Plus Edition</title>
       <link>https://rsload.net/soft/manager/36040-cloanto-amiga-forever.html</link>
+    </item>
+    <item>
+      <title>Active Partition Recovery Ultimate 26.0.2.2 + Professional + WinPE + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/15285-active-partition-recovery.html</link>
+    </item>
+    <item>
+      <title>Diamond Cut Audio Restoration Tools 11.09 + Portable</title>
+      <link>https://rsload.net/soft/editor/34285-diamond-cut.html</link>
+    </item>
+    <item>
+      <title>Diamond Cut Forensics Audio Laboratory 11.09 + Portable</title>
+      <link>https://rsload.net/soft/editor/33778-diamond-cut-forensics10-audio-laboratory.html</link>
+    </item>
+    <item>
+      <title>ProfiCAD 13.4.2 + x64 + Portable</title>
+      <link>https://rsload.net/soft/editor/14043-proficad.html</link>
+    </item>
+    <item>
+      <title>HTTP Logs Viewer 7.10</title>
+      <link>https://rsload.net/soft/manager/41345-http-logs-viewer.html</link>
+    </item>
+    <item>
+      <title>EIVA NaviEdit 9.2.0 x64</title>
+      <link>https://rsload.net/soft/editor/38475-eiva-naviedit.html</link>
+    </item>
+    <item>
+      <title>EIVA NaviScan 9.10.0 x64</title>
+      <link>https://rsload.net/soft/editor/38723-eiva-naviscan.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
