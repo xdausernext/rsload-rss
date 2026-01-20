@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 07:25:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 07:46:43 +0000</lastBuildDate>
     <item>
       <title>Tecplot 360 EX + Chorus 2025 R2 2025.2.0.81941</title>
       <link>https://rsload.net/soft/editor/29056-tecplot-360-ex.html</link>
