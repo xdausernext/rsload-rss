@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 04:02:50 +0000</lastBuildDate>
-    <item>
-      <title>Driver Magician 6.5 на Русском + Portable + Lite</title>
-      <link>https://rsload.net/soft/manager/10342-driver-magician-lite.html</link>
-    </item>
-    <item>
-      <title>MaxCut Business Edition 2.9.6.2</title>
-      <link>https://rsload.net/soft/editor/38575-maxcut.html</link>
-    </item>
+    <lastBuildDate>Tue, 20 Jan 2026 05:00:40 +0000</lastBuildDate>
     <item>
       <title>XYplorer 28.10.0500 + Portable + Repack</title>
       <link>https://rsload.net/soft/manager/9435-xyplorer.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>Tecplot RS 2025 R1 2025.1.0.82070 x64</title>
       <link>https://rsload.net/soft/manager/41482-tecplot-rs.html</link>
+    </item>
+    <item>
+      <title>Tecplot Focus 2025 R2 2025.2.0.81941</title>
+      <link>https://rsload.net/soft/editor/36258-tecplot-focus.html</link>
+    </item>
+    <item>
+      <title>Tecplot 360 EX + Chorus 2025 R2 2025.2.0.81941</title>
+      <link>https://rsload.net/soft/editor/29056-tecplot-360-ex.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
