@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 00:56:44 +0000</lastBuildDate>
-    <item>
-      <title>Dup Scout Ultimate 17.7.14 +  Pro + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/12366-dup-scout.html</link>
-    </item>
-    <item>
-      <title>Draftable Desktop 25.12.200 x64 + Portable</title>
-      <link>https://rsload.net/soft/document/33728-draftable-desktop.html</link>
-    </item>
+    <lastBuildDate>Fri, 23 Jan 2026 02:56:30 +0000</lastBuildDate>
     <item>
       <title>VideoPad Video Editor Pro 18.06 + Portable + на Русском</title>
       <link>https://rsload.net/soft/editor/12940-videopad-video-editor.html</link>
@@ -50,6 +42,14 @@
     <item>
       <title>ShareX 19.0.1 + Portable + Repack</title>
       <link>https://rsload.net/soft/manager/11759-sharex.html</link>
+    </item>
+    <item>
+      <title>Corsair SSD Toolbox 2.0.129</title>
+      <link>https://rsload.net/soft/cleaner-disk/37164-corsair-ssd-toolbox.html</link>
+    </item>
+    <item>
+      <title>FreeFileSync 14.7 + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/9397-freefilesync.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
