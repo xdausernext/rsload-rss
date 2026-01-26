@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 15:18:43 +0000</lastBuildDate>
-    <item>
-      <title>EverythingToolbar 2.1.2 + x64 + Win</title>
-      <link>https://rsload.net/soft/desktop/35080-everythingtoolbar-063.html</link>
-    </item>
-    <item>
-      <title>GiliSoft Audio Toolbox Suite 13.3</title>
-      <link>https://rsload.net/soft/editor/30861-gilisoft-audio-toolbox-suite.html</link>
-    </item>
-    <item>
-      <title>GiliSoft Audio Recorder Pro 15.1 + Repack + Rus Portable</title>
-      <link>https://rsload.net/soft/editor/16134-gilisoft-audio-recorder-pro.html</link>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 15:49:21 +0000</lastBuildDate>
     <item>
       <title>Lazesoft Recovery Suite 5.0.0.1 Unlimited  + TE + Pro + Server + WinPE</title>
       <link>https://rsload.net/soft/security/16018-lazesoft-recovery-suite-home.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>Adobe Dimension 4.1.7 x64 + Repack</title>
       <link>https://rsload.net/soft/graphics/28556-adobe-dimension-cc.html</link>
+    </item>
+    <item>
+      <title>Room Arranger 10.3.3.741 x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/11647-room-arranger.html</link>
+    </item>
+    <item>
+      <title>The Bat! Professional 12.0.2 + x64  + Voyager бесплатно на Русском</title>
+      <link>https://rsload.net/soft/browser/8369-the-bat.html</link>
+    </item>
+    <item>
+      <title>ExpanDrive 2026.01.22</title>
+      <link>https://rsload.net/soft/cleaner-disk/16239-expandrive.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
