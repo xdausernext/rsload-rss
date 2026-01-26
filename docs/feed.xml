@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 09:53:15 +0000</lastBuildDate>
-    <item>
-      <title>UEFITool A73</title>
-      <link>https://rsload.net/soft/editor/20379-uefitool.html</link>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 10:16:23 +0000</lastBuildDate>
     <item>
       <title>The KMPlayer 2026.1.26.43 x64 / 4.2.3.31 + Portable + Repack</title>
       <link>https://rsload.net/soft/player/8451-kmplayer.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>Photo Pos Pro 4.18 Build 48 Premium</title>
       <link>https://rsload.net/soft/editor/35513-photo-pos-pro.html</link>
+    </item>
+    <item>
+      <title>Adobe Substance 3D Stager 3.1.7 x64 + Repack</title>
+      <link>https://rsload.net/soft/editor/35248-adobe-substance-3d-stager.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
