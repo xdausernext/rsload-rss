@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 08:18:21 +0000</lastBuildDate>
-    <item>
-      <title>Notepad++ 8.9.1 + Portable + x64 + на Русском</title>
-      <link>https://rsload.net/soft/editor/8606-notepad.html</link>
-    </item>
+    <lastBuildDate>Tue, 27 Jan 2026 08:53:55 +0000</lastBuildDate>
     <item>
       <title>Ableton Live 12.3.5 + MacOS + Repack + x64</title>
       <link>https://rsload.net/soft/editor/23506-ableton-live-suite.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>Virtual Coral Clownfish Tank 1.2</title>
       <link>https://rsload.net/soft/desktop/41496-virtual-coral-clownfish-tank.html</link>
+    </item>
+    <item>
+      <title>Zoom Player MAX 22.0.1.2201  + Pro + Rus + Portable + Repack</title>
+      <link>https://rsload.net/soft/player/9014-zoom-player.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
