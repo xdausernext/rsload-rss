@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 09:24:20 +0000</lastBuildDate>
-    <item>
-      <title>WinArchiver 6.1 + x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/15492-winarchiver.html</link>
-    </item>
-    <item>
-      <title>JixiPix Rip Studio Pro 1.1.25  + на Русском Portable</title>
-      <link>https://rsload.net/soft/graphics/23990-jixipix-rip-studio.html</link>
-    </item>
-    <item>
-      <title>Jixipix Watercolor Studio 1.4.22 + Portable</title>
-      <link>https://rsload.net/soft/editor/27797-jixipix-watercolor-studio.html</link>
-    </item>
-    <item>
-      <title>JixiPix Spektrel Art 1.1.22 + Portable</title>
-      <link>https://rsload.net/soft/graphics/24535-spektrel-art.html</link>
-    </item>
+    <lastBuildDate>Wed, 28 Jan 2026 09:52:41 +0000</lastBuildDate>
     <item>
       <title>JixiPix Chromatic Edges 1.0.36 + Portable</title>
       <link>https://rsload.net/soft/graphics/32428-jixipix-chromatic-edges.html</link>
@@ -50,6 +34,22 @@
     <item>
       <title>Artifact Interactive Garden Planner 3.8.82  + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/12113-garden-planner.html</link>
+    </item>
+    <item>
+      <title>GPartEd Live 1.8.0-2 + x64 / Gnome Partition Editor</title>
+      <link>https://rsload.net/soft/cleaner-disk/36360-gparted-live.html</link>
+    </item>
+    <item>
+      <title>TweakNow WinSecret Plus! for Windows 11 and 10 7.9.1  + Repack + Portable</title>
+      <link>https://rsload.net/soft/optimization/37036-tweaknow-winsecret-plus-for-windows-11-and-10.html</link>
+    </item>
+    <item>
+      <title>R-Studio 9.5 Build 191686 + Repack + Portable + BootCD</title>
+      <link>https://rsload.net/soft/cleaner-disk/8413-r-studio1.html</link>
+    </item>
+    <item>
+      <title>R-Studio Agent 9.5 Build 1699 + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/36218-r-studio-agent.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
