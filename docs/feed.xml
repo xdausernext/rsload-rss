@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 04:05:37 +0000</lastBuildDate>
-    <item>
-      <title>DSPTone ExoDelay 1.0.2</title>
-      <link>https://rsload.net/soft/41494-dsptone-exodelay.html</link>
-    </item>
-    <item>
-      <title>AI Aquarium Screensaver 1.3</title>
-      <link>https://rsload.net/soft/desktop/41495-ai-aquarium-screensaver.html</link>
-    </item>
-    <item>
-      <title>Virtual Coral Clownfish Tank 1.2</title>
-      <link>https://rsload.net/soft/desktop/41496-virtual-coral-clownfish-tank.html</link>
-    </item>
+    <lastBuildDate>Wed, 28 Jan 2026 04:59:14 +0000</lastBuildDate>
     <item>
       <title>Zoom Player MAX 22.0.1.2201  + Pro + Rus + Portable + Repack</title>
       <link>https://rsload.net/soft/player/9014-zoom-player.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>Transmission 4.1.0 + x64 + Portable</title>
       <link>https://rsload.net/soft/manager/17053-transmission-qt.html</link>
+    </item>
+    <item>
+      <title>Red Burner 19.0 x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/40568-red-burner.html</link>
+    </item>
+    <item>
+      <title>AnyBurn 6.7 + Pro + x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/11813-free-any-burn.html</link>
+    </item>
+    <item>
+      <title>WinArchiver 6.1 + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/15492-winarchiver.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
