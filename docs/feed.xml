@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 02:58:46 +0000</lastBuildDate>
-    <item>
-      <title>Ableton Live 12.3.5 + MacOS + Repack + x64</title>
-      <link>https://rsload.net/soft/editor/23506-ableton-live-suite.html</link>
-    </item>
-    <item>
-      <title>AssistMyTeam PDF Editor 7.2.300.0</title>
-      <link>https://rsload.net/soft/editor/41493-assistmyteam-pdf-editor.html</link>
-    </item>
-    <item>
-      <title>Krita Studio 5.2.15 + x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/graphics/16305-krita.html</link>
-    </item>
-    <item>
-      <title>Desktop Calendar 3.26.265.8458</title>
-      <link>https://rsload.net/soft/desktop/18424-desktop-calendar.html</link>
-    </item>
-    <item>
-      <title>Folder Guard Pro 26.1 + на Русском</title>
-      <link>https://rsload.net/soft/security/15034-folder-guard-professional.html</link>
-    </item>
-    <item>
-      <title>ASUS GPU Tweak III  2.0.8.5</title>
-      <link>https://rsload.net/soft/optimization/17276-asus-gpu-tweak.html</link>
-    </item>
-    <item>
-      <title>Gillmeister Automatic PDF Processor 2.0</title>
-      <link>https://rsload.net/soft/document/35174-automatic-pdf-processor.html</link>
-    </item>
+    <lastBuildDate>Wed, 28 Jan 2026 04:05:37 +0000</lastBuildDate>
     <item>
       <title>DSPTone ExoDelay 1.0.2</title>
       <link>https://rsload.net/soft/41494-dsptone-exodelay.html</link>
@@ -50,6 +22,34 @@
     <item>
       <title>Zoom Player MAX 22.0.1.2201  + Pro + Rus + Portable + Repack</title>
       <link>https://rsload.net/soft/player/9014-zoom-player.html</link>
+    </item>
+    <item>
+      <title>Process Lasso Pro 17.0.2.20 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/9407-process-lasso.html</link>
+    </item>
+    <item>
+      <title>ManicTime 2025.3.8.0 x64</title>
+      <link>https://rsload.net/soft/manager/11423-manictime.html</link>
+    </item>
+    <item>
+      <title>Markdown Monster 4.1.1</title>
+      <link>https://rsload.net/soft/editor/32552-markdown-monster.html</link>
+    </item>
+    <item>
+      <title>PC Timer .NET 19.0</title>
+      <link>https://rsload.net/soft/desktop/37422-pc-timer-net.html</link>
+    </item>
+    <item>
+      <title>Directory Opus Pro 13.21  x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/8663-directory-opus.html</link>
+    </item>
+    <item>
+      <title>SSD Booster .NET 19.0</title>
+      <link>https://rsload.net/soft/cleaner-disk/37435-ssd-booster-net.html</link>
+    </item>
+    <item>
+      <title>Transmission 4.1.0 + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/17053-transmission-qt.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
