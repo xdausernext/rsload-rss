@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 16:38:55 +0000</lastBuildDate>
-    <item>
-      <title>Aiarty Image Enhancer 3.9 x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/graphics/40518-aiarty-image-enhancer.html</link>
-    </item>
-    <item>
-      <title>Digiarty Aiarty Video Enhancer 3.5 + Portable + x64 + Full</title>
-      <link>https://rsload.net/soft/editor/41194-digiarty-aiarty-video-enhancer.html</link>
-    </item>
-    <item>
-      <title>RegRun Reanimator 17.96.2026.127 x64</title>
-      <link>https://rsload.net/soft/security/10953-regrun-reanimator.html</link>
-    </item>
+    <lastBuildDate>Thu, 29 Jan 2026 17:28:35 +0000</lastBuildDate>
     <item>
       <title>ChrisPC VideoTube Downloader Pro 15.26.0129 + Portable + Free  + Rus</title>
       <link>https://rsload.net/soft/manager/16762-chrispc-free-videotube-downloader.html</link>
@@ -52,8 +40,16 @@
       <link>https://rsload.net/soft/manager/19817-macro-expert-enterprise.html</link>
     </item>
     <item>
-      <title>Tiny11 26H1 28000.1340 + 25H2 + 24H2 + 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/38516-tiny11-windows-11.html</link>
+      <title>MediaHuman YouTube Downloader  3.9.18 (2901) +  Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/23673-mediahuman-youtube-downloader.html</link>
+    </item>
+    <item>
+      <title>Revive Faces 2.0.12 x64 Full</title>
+      <link>https://rsload.net/soft/graphics/41172-revive-faces.html</link>
+    </item>
+    <item>
+      <title>Scale Photo Up 2.0.12 x64 Full</title>
+      <link>https://rsload.net/soft/editor/41338-scale-photo-up.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 25H2 LumiaOS x64 2026 - оптимизирована для игр и отдыха</title>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 Pro Lite Dark 25H2 26200.7462 - легкая и быстрая сборка</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41497-windows-11-pro-lite-dark-25h2-262007462.html</link>
+    </item>
+    <item>
+      <title>Tiny11 26H1 28000.1340 /  25H2 26200.7627/ 24H2 / 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/38516-tiny11-windows-11.html</link>
     </item>
   </channel>
 </rss>
