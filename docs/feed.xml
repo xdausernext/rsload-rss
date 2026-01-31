@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 11:39:54 +0000</lastBuildDate>
-    <item>
-      <title>Syncovery Premium 11.12.3.157 x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/16717-syncovery.html</link>
-    </item>
+    <lastBuildDate>Sat, 31 Jan 2026 12:22:42 +0000</lastBuildDate>
     <item>
       <title>Database Tour Pro 11.6.2.1332 + Portable + на Русском</title>
       <link>https://rsload.net/soft/manager/27027-database-tour-pro.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 25H2 Ru En приватная игровая сборка (26300.7674)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41499-windows-11-25h2-ru-en-iso-private-games-263007674-torrent.html</link>
+    </item>
+    <item>
+      <title>Виндовс 11 26H1 28020.1495 - новая быстрая сборка для флешки на Русском</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41500-windows-11-26h1-280201495-iso-usb-torrent.html</link>
     </item>
   </channel>
 </rss>
