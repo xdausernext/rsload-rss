@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 15:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 15:45:24 +0000</lastBuildDate>
     <item>
       <title>UniGetUI 3.3.7 на Русском</title>
       <link>https://rsload.net/soft/manager/40678-unigetui.html</link>
