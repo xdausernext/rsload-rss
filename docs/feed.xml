@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 13:56:21 +0000</lastBuildDate>
-    <item>
-      <title>TominLab WonderPen 3.0.7.8252 + macOS</title>
-      <link>https://rsload.net/soft/editor/38574-wonderpen.html</link>
-    </item>
+    <lastBuildDate>Sun, 01 Feb 2026 14:18:57 +0000</lastBuildDate>
     <item>
       <title>UniGetUI 3.3.7 на Русском</title>
       <link>https://rsload.net/soft/manager/40678-unigetui.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>TidyWindow 4.5.0 x64</title>
       <link>https://rsload.net/soft/optimization/41448-tidywindow.html</link>
+    </item>
+    <item>
+      <title>Active UNDELETE Ultimate 26.0 + WINPE</title>
+      <link>https://rsload.net/soft/cleaner-disk/15561-active-undelete.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 25H2 LumiaOS x64 2026 - оптимизирована для игр и отдыха</title>
