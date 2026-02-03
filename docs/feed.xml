@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 08:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 09:29:43 +0000</lastBuildDate>
     <item>
       <title>HFS (HTTP File Server) 3.0.2</title>
       <link>https://rsload.net/soft/traffic/13016-hfs.html</link>
