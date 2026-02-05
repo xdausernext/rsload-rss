@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 09:05:48 +0000</lastBuildDate>
-    <item>
-      <title>Reg Organizer 9.90 + Portable + Repack</title>
-      <link>https://rsload.net/soft/registry/8535-reg-organizer.html</link>
-    </item>
-    <item>
-      <title>Icecream Screen Recorder 7.45 + Repack + Portable на Русском</title>
-      <link>https://rsload.net/soft/editor/17580-icecream-screen-recorder.html</link>
-    </item>
-    <item>
-      <title>Artifact Interactive Garden Planner 3.8.82  + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/12113-garden-planner.html</link>
-    </item>
-    <item>
-      <title>OCCT 15.0.14.99 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/10376-occt.html</link>
-    </item>
-    <item>
-      <title>Icecream PDF Editor Pro 3.29 + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/32471-icecream-pdf-editor.html</link>
-    </item>
-    <item>
-      <title>WebMinds Hard Drive Optimizer 1.9.0.12</title>
-      <link>https://rsload.net/soft/cleaner-disk/41507-webminds-hard-drive-optimizer.html</link>
-    </item>
-    <item>
-      <title>EaseUS PDF Editor Pro 6.3.2.5 + на Русском Portable</title>
-      <link>https://rsload.net/soft/editor/39511-easeus-pdf-editor-pro.html</link>
-    </item>
+    <lastBuildDate>Thu, 05 Feb 2026 10:05:59 +0000</lastBuildDate>
     <item>
       <title>WonderFox DVD Video Converter 31.3 + Repack + на Русском</title>
       <link>https://rsload.net/soft/converter/14414-wonderfox-dvd-video-converter.html</link>
@@ -46,6 +18,34 @@
     <item>
       <title>Freemake Video Converter 5.0.0.34 + Repack + Portable</title>
       <link>https://rsload.net/soft/converter/8323-freemake-video-converter.html</link>
+    </item>
+    <item>
+      <title>Diffchecker 6.7.8</title>
+      <link>https://rsload.net/soft/manager/41508-diffchecker.html</link>
+    </item>
+    <item>
+      <title>Vivaldi Browser 7.8.3925.62  + x64 + Portable</title>
+      <link>https://rsload.net/soft/browser/19191-vivaldi.html</link>
+    </item>
+    <item>
+      <title>EdrawMax 15.1.3.1475 Ultimate + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/17667-edraw-max.html</link>
+    </item>
+    <item>
+      <title>PlayerFab 7.0.5.5 x64 + Portable / DVDFab Media Player Ultra</title>
+      <link>https://rsload.net/soft/player/11439-dvdfab-media-player-11015-lic.html</link>
+    </item>
+    <item>
+      <title>WinPE 11-10-8 Sergei Strelec + x64 от 2026.02.05 Rus + 2025.11.19 Eng</title>
+      <link>https://rsload.net/soft/25482-winpe-10-8-sergei-strelec.html</link>
+    </item>
+    <item>
+      <title>UWPSpy 1.5.0</title>
+      <link>https://rsload.net/soft/editor/41147-uwpspy.html</link>
+    </item>
+    <item>
+      <title>Window Inspector 3.9</title>
+      <link>https://rsload.net/soft/manager/22804-window-inspector.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 /  25H2 26200.7627/ 24H2 / 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
