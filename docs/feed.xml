@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 06:13:25 +0000</lastBuildDate>
-    <item>
-      <title>Office Installer 1.35 + Office Installer Plus</title>
-      <link>https://rsload.net/soft/40423-office-installer.html</link>
-    </item>
-    <item>
-      <title>Capture One 23 Pro 16.7.3.3328 x64 +  Enterprise + Portable + Repack</title>
-      <link>https://rsload.net/soft/graphics/10998-capture-one-pro.html</link>
-    </item>
-    <item>
-      <title>JRiver Media Center 35.0.42 + Repack + Portable</title>
-      <link>https://rsload.net/soft/player/8632-j-river-media-center.html</link>
-    </item>
+    <lastBuildDate>Thu, 05 Feb 2026 07:29:59 +0000</lastBuildDate>
     <item>
       <title>Icecream Video Converter Pro 1.49 + Repack + Portable</title>
       <link>https://rsload.net/soft/converter/39171-icecream-video-converter.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>Icecream Screen Recorder 7.45 + Repack + Portable на Русском</title>
       <link>https://rsload.net/soft/editor/17580-icecream-screen-recorder.html</link>
+    </item>
+    <item>
+      <title>Artifact Interactive Garden Planner 3.8.82  + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/12113-garden-planner.html</link>
+    </item>
+    <item>
+      <title>OCCT 15.0.14.99 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/10376-occt.html</link>
+    </item>
+    <item>
+      <title>Icecream PDF Editor Pro 3.29 + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/32471-icecream-pdf-editor.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 /  25H2 26200.7627/ 24H2 / 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
