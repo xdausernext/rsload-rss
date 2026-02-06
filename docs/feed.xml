@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 20:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 21:21:05 +0000</lastBuildDate>
     <item>
       <title>UPDF 2.1.4 x64</title>
       <link>https://rsload.net/soft/document/37069-updf.html</link>
