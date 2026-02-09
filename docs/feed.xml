@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Feb 2026 14:06:44 +0000</lastBuildDate>
-    <item>
-      <title>ResumeMaker Professional Deluxe 20.4.1.7050 + x64</title>
-      <link>https://rsload.net/soft/editor/27177-resumemaker-professional-deluxe.html</link>
-    </item>
-    <item>
-      <title>Olympia Graphic Design 1.7.7.60 + x64</title>
-      <link>https://rsload.net/soft/graphics/39533-olympia-graphic-design.html</link>
-    </item>
-    <item>
-      <title>Olympia Logo Creation 1.7.7.60 + x64</title>
-      <link>https://rsload.net/soft/editor/39532-olympia-logo-creation.html</link>
-    </item>
+    <lastBuildDate>Mon, 09 Feb 2026 15:28:00 +0000</lastBuildDate>
     <item>
       <title>MediaMonkey Gold 2024.2.1.3209 RC1 + Repack + Portable</title>
       <link>https://rsload.net/soft/manager/9009-mediamonkey.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>Universal USB Installer 2.0.3.2</title>
       <link>https://rsload.net/soft/cleaner-disk/11574-universal-usb-installer.html</link>
+    </item>
+    <item>
+      <title>Clean Media Player 2026.2.8.1</title>
+      <link>https://rsload.net/soft/editor/40928-clean-media-player.html</link>
+    </item>
+    <item>
+      <title>Macrium Reflect 10.0.8731 + 8.1.8773 на Русском x64 + WinPE</title>
+      <link>https://rsload.net/soft/cleaner-disk/11794-macrium-reflect-free.html</link>
+    </item>
+    <item>
+      <title>iDefender 5.4.0</title>
+      <link>https://rsload.net/soft/security/41437-idefender.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 /  25H2 26200.7627/ 24H2 / 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
