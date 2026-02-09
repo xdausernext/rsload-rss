@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Feb 2026 08:36:54 +0000</lastBuildDate>
-    <item>
-      <title>Metasequoia 4.9.0e + x64</title>
-      <link>https://rsload.net/soft/editor/31205-metasequoia.html</link>
-    </item>
-    <item>
-      <title>VovSoft File Checksum Calculator 2.4 + x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/41520-vovsoft-file-checksum-calculator.html</link>
-    </item>
-    <item>
-      <title>EmEditor Professional 26.0.2 + x64  + Repack + Portable</title>
-      <link>https://rsload.net/soft/editor/9992-emeditor.html</link>
-    </item>
-    <item>
-      <title>Karaosoft Karma 2026.2.8</title>
-      <link>https://rsload.net/soft/manager/38811-karaosoft-karma.html</link>
-    </item>
-    <item>
-      <title>Antivirus Removal Tool 2026.02 (v.1)</title>
-      <link>https://rsload.net/soft/security/35229-antivirus-removal-tool.html</link>
-    </item>
-    <item>
-      <title>Dll Export Finder 1.5.9  + x64</title>
-      <link>https://rsload.net/soft/manager/41521-dll-export-finder.html</link>
-    </item>
+    <lastBuildDate>Mon, 09 Feb 2026 09:47:49 +0000</lastBuildDate>
     <item>
       <title>Winslop 0.50 x64</title>
       <link>https://rsload.net/soft/optimization/41475-winslop.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>LINQPad Premium 9.6.6 x64</title>
       <link>https://rsload.net/soft/editor/39530-linqpad-premium.html</link>
+    </item>
+    <item>
+      <title>Directory Opus Pro 13.21.2 x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/8663-directory-opus.html</link>
+    </item>
+    <item>
+      <title>Glary Quick StartUp 6.0.1.19</title>
+      <link>https://rsload.net/soft/manager/17975-startup-manager.html</link>
+    </item>
+    <item>
+      <title>Wondershare UniConverter 17.2.1.497 + на Русском + Repack + Portable</title>
+      <link>https://rsload.net/soft/converter/9063-wonder-video-converter-pro.html</link>
+    </item>
+    <item>
+      <title>Glary Utilities Pro  6.38.0.42 + Portable + Repack на Русском</title>
+      <link>https://rsload.net/soft/optimization/8598-glary-utilities.html</link>
+    </item>
+    <item>
+      <title>Absolute Uninstaller 6.0.1.19</title>
+      <link>https://rsload.net/soft/cleaner-disk/11974-absolute-uninstaller.html</link>
+    </item>
+    <item>
+      <title>SysGauge Ultimate 12.5.18 + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/26540-sysgauge.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 /  25H2 26200.7627/ 24H2 / 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
