@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 11:35:55 +0000</lastBuildDate>
-    <item>
-      <title>Rhinoceros 8.28.26041.11001 + Portable (на Русском)</title>
-      <link>https://rsload.net/soft/editor/29750-rhinoceros.html</link>
-    </item>
+    <lastBuildDate>Wed, 11 Feb 2026 12:40:59 +0000</lastBuildDate>
     <item>
       <title>Microsoft Malicious Software Removal Tool 5.139 + x64</title>
       <link>https://rsload.net/soft/security/9748-microsoft-malicious-software-removal-tool.html</link>
@@ -54,6 +50,10 @@
     <item>
       <title>Icecream Slideshow Maker 5.18 + Rus + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/17753-icecream-slideshow-maker.html</link>
+    </item>
+    <item>
+      <title>Native Instruments Kontakt 8.8.1 + 7.10.9 + Portable</title>
+      <link>https://rsload.net/soft/23734-native-instruments-kontakt-5.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 /  25H2 26200.7627/ 24H2 / 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
