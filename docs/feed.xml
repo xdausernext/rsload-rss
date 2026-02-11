@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 09:40:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 10:38:07 +0000</lastBuildDate>
     <item>
       <title>Rhinoceros 8.28.26041.11001 + Portable (на Русском)</title>
       <link>https://rsload.net/soft/editor/29750-rhinoceros.html</link>
@@ -60,12 +60,12 @@
       <link>https://rsload.net/soft/windows/windows-11-sborka/38516-tiny11-windows-11.html</link>
     </item>
     <item>
-      <title>Windows 10 x64 Lite - высокая скорость IoT Enterprise Ru En 19045.6809</title>
-      <link>https://rsload.net/soft/windows/windows-10-sborka/41502-windows-10-x64-lite-max-speed-iot-ltsc-190456809-iso.html</link>
-    </item>
-    <item>
       <title>Виндовс 11 26H1 с лаунчером без защитника (легкая сборка для старых ПК)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41523-windows-11-26h1-iso-280201546-rus-torrent.html</link>
+    </item>
+    <item>
+      <title>Windows 10 x64 LTSB - стабильная минимальная сборка без слежки (Ru En 2 GB)</title>
+      <link>https://rsload.net/soft/windows/windows-10-sborka/41527-windows-10-x64-ltsb-torrent-143938519-iso-rus-eng.html</link>
     </item>
   </channel>
 </rss>
