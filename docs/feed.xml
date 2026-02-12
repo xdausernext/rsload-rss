@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 06:49:17 +0000</lastBuildDate>
-    <item>
-      <title>LibRaw RawDigger 1.4.10.845 + x64</title>
-      <link>https://rsload.net/soft/graphics/36015-rawdigger.html</link>
-    </item>
-    <item>
-      <title>Able2Extract Professional 21.0.4.0 + x64 + Portable + Server</title>
-      <link>https://rsload.net/soft/converter/25363-able2extract.html</link>
-    </item>
-    <item>
-      <title>Bluetooth Version Finder 1.7</title>
-      <link>https://rsload.net/soft/manager/37290-bluetooth-version-finder.html</link>
-    </item>
-    <item>
-      <title>CoolUtils Total Doc Converter 5.1.0.373 + Portable + Repack</title>
-      <link>https://rsload.net/soft/converter/14131-coolutils-total-doc-converter.html</link>
-    </item>
-    <item>
-      <title>Coolutils Total Excel Converter 7.1.0.108 + Portable + Repack</title>
-      <link>https://rsload.net/soft/converter/21392-coolutils-total-excel-converter.html</link>
-    </item>
-    <item>
-      <title>Active Disk Editor Free 26.0</title>
-      <link>https://rsload.net/soft/cleaner-disk/14256-active-disk-editor.html</link>
-    </item>
+    <lastBuildDate>Thu, 12 Feb 2026 07:43:46 +0000</lastBuildDate>
     <item>
       <title>FileCenter Professional 11.0.16 / Suite 12.0.33</title>
       <link>https://rsload.net/soft/manager/12589-filecenter.html</link>
@@ -54,6 +30,30 @@
     <item>
       <title>Geekbench 6.6 Pro + Corperate + Portable + x64</title>
       <link>https://rsload.net/soft/manager/20969-geekbench.html</link>
+    </item>
+    <item>
+      <title>Blackmagic Design DaVinci Resolve Studio 20.3.2 x64 + Repack + Переходы</title>
+      <link>https://rsload.net/soft/editor/20845-davinci-resolve.html</link>
+    </item>
+    <item>
+      <title>Blackmagic Design Fusion Studio 20.3.2 x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/editor/26084-blackmagic-design-fusion-studio.html</link>
+    </item>
+    <item>
+      <title>All Video Downloader Pro 10.2.1 x64</title>
+      <link>https://rsload.net/soft/manager/35286-all-video-downloader-pro.html</link>
+    </item>
+    <item>
+      <title>Photo Reducer 6.2</title>
+      <link>https://rsload.net/soft/graphics/38977-photo-reducer.html</link>
+    </item>
+    <item>
+      <title>Fender Studio Pro 8.0.1 x64</title>
+      <link>https://rsload.net/soft/editor/41478-fender-studio-pro.html</link>
+    </item>
+    <item>
+      <title>YT Downloader 10.2.2 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 /  25H2 26200.7627/ 24H2 / 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
