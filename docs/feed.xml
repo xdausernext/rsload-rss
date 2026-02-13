@@ -6,43 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 06:33:07 +0000</lastBuildDate>
-    <item>
-      <title>Diffchecker 6.8.3  + x64</title>
-      <link>https://rsload.net/soft/manager/41508-diffchecker.html</link>
-    </item>
-    <item>
-      <title>3DF Zephyr 8.038 + Portable</title>
-      <link>https://rsload.net/soft/graphics/29349-3df-zephyr-pro.html</link>
-    </item>
-    <item>
-      <title>dbForge Studio for MySQL Enterprise 2025.3.93 x64</title>
-      <link>https://rsload.net/soft/manager/36616-dbforge-studio-2020-for-mysql-enterprise.html</link>
-    </item>
-    <item>
-      <title>Benthic Golden 8.3.0.830 x64</title>
-      <link>https://rsload.net/soft/manager/40693-benthic-golden.html</link>
-    </item>
-    <item>
-      <title>Syncovery Premium 11.12.10.164 x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/16717-syncovery.html</link>
-    </item>
-    <item>
-      <title>CPUID HWMonitor Pro 1.56 + Free 1.62 + Portable на Русском</title>
-      <link>https://rsload.net/soft/manager/8711-hwmonitor.html</link>
-    </item>
-    <item>
-      <title>Avast Ransomware Decryption Tools 1.0.0.817</title>
-      <link>https://rsload.net/soft/security/35780-avast-ransomware-decryption-tools.html</link>
-    </item>
-    <item>
-      <title>Devart Entity Developer 7.4.0</title>
-      <link>https://rsload.net/soft/editor/41533-devart-entity-developer.html</link>
-    </item>
-    <item>
-      <title>Free YouTube Download Premium 4.5.6.210  + Portable</title>
-      <link>https://rsload.net/soft/manager/8366-free-youtube-download.html</link>
-    </item>
+    <lastBuildDate>Fri, 13 Feb 2026 07:41:37 +0000</lastBuildDate>
     <item>
       <title>TreeSize Professional 9.7.0.2200 + Portable на Русском + Repack + Free</title>
       <link>https://rsload.net/soft/cleaner-disk/10110-treesize.html</link>
@@ -50,6 +14,42 @@
     <item>
       <title>FxSound 2 1.0.5.0 + Pro 1.1.36 + Repack на Русском + 1.2.6</title>
       <link>https://rsload.net/soft/optimization/34274-fxsound-2.html</link>
+    </item>
+    <item>
+      <title>SAPIEN CIM Explorer 2026 2.4.117 x64</title>
+      <link>https://rsload.net/soft/editor/39684-sapien-cim-explorer.html</link>
+    </item>
+    <item>
+      <title>SAPIEN PowerShell HelpWriter 2026 3.0.73 x64</title>
+      <link>https://rsload.net/soft/editor/38745-sapien-powershell-helpwriter.html</link>
+    </item>
+    <item>
+      <title>SAPIEN PowerShell ModuleManager 2026 2.0.34 x64</title>
+      <link>https://rsload.net/soft/editor/39273-sapien-powershell-modulemanager.html</link>
+    </item>
+    <item>
+      <title>SAPIEN PowerShell Studio 2026 5.10.264 x64</title>
+      <link>https://rsload.net/soft/editor/36053-powershell-studio.html</link>
+    </item>
+    <item>
+      <title>SAPIEN PrimalScript 2026 8.1.224  x64</title>
+      <link>https://rsload.net/soft/editor/36056-primalscript.html</link>
+    </item>
+    <item>
+      <title>SAPIEN PrimalXML 2026 4.7.87 x64</title>
+      <link>https://rsload.net/soft/editor/39136-sapien-primalxml.html</link>
+    </item>
+    <item>
+      <title>SAPIEN VersionRecall 2026 1.8.178 x64</title>
+      <link>https://rsload.net/soft/editor/39685-sapien-versionrecall.html</link>
+    </item>
+    <item>
+      <title>Winhance 26.01.26</title>
+      <link>https://rsload.net/soft/optimization/41534-winhance.html</link>
+    </item>
+    <item>
+      <title>O&amp;O ShutUp10 ++ 2.2.1024 / 1.9.1443.424 на Русском + Portable + Repack</title>
+      <link>https://rsload.net/soft/20213-o-o-shutup10.html</link>
     </item>
     <item>
       <title>Tiny11 26H1 28000.1340 /  25H2 26200.7627/ 24H2 / 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
