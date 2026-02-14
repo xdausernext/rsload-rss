@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 11:13:42 +0000</lastBuildDate>
-    <item>
-      <title>dbForge Studio for Oracle Enterprise 2025.3.93</title>
-      <link>https://rsload.net/soft/manager/41536-dbforge-studio-for-oracle-enterprise.html</link>
-    </item>
+    <lastBuildDate>Sat, 14 Feb 2026 11:41:49 +0000</lastBuildDate>
     <item>
       <title>RealCADD 5.71 x64</title>
       <link>https://rsload.net/soft/editor/41355-realcadd.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>Hexagon Digimat 2025.2 + x64 + Full</title>
       <link>https://rsload.net/soft/editor/41539-hexagon-digimat.html</link>
+    </item>
+    <item>
+      <title>MSC Actran 2025.2 + x64 + Full</title>
+      <link>https://rsload.net/soft/editor/41540-msc-actran.html</link>
     </item>
     <item>
       <title>Виндовс 11 26H1 с лаунчером без защитника (легкая сборка для старых ПК)</title>
