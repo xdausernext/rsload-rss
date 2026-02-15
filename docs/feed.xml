@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 03:58:36 +0000</lastBuildDate>
-    <item>
-      <title>RealCADD 5.71 x64</title>
-      <link>https://rsload.net/soft/editor/41355-realcadd.html</link>
-    </item>
-    <item>
-      <title>illustrate PerfectTUNES R2026-02-06 + Portable</title>
-      <link>https://rsload.net/soft/manager/36110-perfecttunes.html</link>
-    </item>
-    <item>
-      <title>Filezo 6.0.15 x64 + Full</title>
-      <link>https://rsload.net/soft/manager/41364-filezo.html</link>
-    </item>
-    <item>
-      <title>Proteus Professional 9.1 SP2 + Portable на Русском</title>
-      <link>https://rsload.net/soft/editor/29008-proteus-professional.html</link>
-    </item>
-    <item>
-      <title>Valentina Studio Pro 17.0 + x64</title>
-      <link>https://rsload.net/soft/manager/32068-valentina-studio-pro.html</link>
-    </item>
+    <lastBuildDate>Sun, 15 Feb 2026 05:17:51 +0000</lastBuildDate>
     <item>
       <title>Valentina Server 17.0 + x64</title>
       <link>https://rsload.net/soft/manager/39293-valentina-server.html</link>
@@ -50,6 +30,26 @@
     <item>
       <title>MSC Actran 2025.2 + x64 + Full</title>
       <link>https://rsload.net/soft/editor/41540-msc-actran.html</link>
+    </item>
+    <item>
+      <title>MSC Adams 2025.1 + x64</title>
+      <link>https://rsload.net/soft/editor/33832-msc-adams.html</link>
+    </item>
+    <item>
+      <title>MSC Adams Modeler 2025.1 + x64 + Full</title>
+      <link>https://rsload.net/soft/editor/41541-msc-adams-modeler.html</link>
+    </item>
+    <item>
+      <title>MSC Dytran 2025.2 + x64 + Full</title>
+      <link>https://rsload.net/soft/editor/41542-msc-dytran.html</link>
+    </item>
+    <item>
+      <title>MSC Marc 2025.2 + x64 + Full</title>
+      <link>https://rsload.net/soft/editor/41389-msc-marc.html</link>
+    </item>
+    <item>
+      <title>MSC Nastran 2025.2 + x64 + Full +  Autodesk Inventor Nastran</title>
+      <link>https://rsload.net/soft/editor/23389-msc-nastran.html</link>
     </item>
     <item>
       <title>Виндовс 11 26H1 с лаунчером без защитника (легкая сборка для старых ПК)</title>
