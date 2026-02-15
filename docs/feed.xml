@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 09:20:53 +0000</lastBuildDate>
-    <item>
-      <title>Hexagon Digimat 2025.2 + x64 + Full</title>
-      <link>https://rsload.net/soft/editor/41539-hexagon-digimat.html</link>
-    </item>
+    <lastBuildDate>Sun, 15 Feb 2026 09:51:54 +0000</lastBuildDate>
     <item>
       <title>MSC Actran 2025.2 + x64 + Full</title>
       <link>https://rsload.net/soft/editor/41540-msc-actran.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>MSC Simufact Forming 2025.4 + x64 + Full</title>
       <link>https://rsload.net/soft/editor/41546-msc-simufact-forming.html</link>
+    </item>
+    <item>
+      <title>MSC Simufact Welding 2025.4 + x64 + Full</title>
+      <link>https://rsload.net/soft/editor/41547-msc-simufact-welding.html</link>
     </item>
     <item>
       <title>Виндовс 11 26H1 с лаунчером без защитника (легкая сборка для старых ПК)</title>
