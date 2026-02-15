@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 16:15:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 16:52:36 +0000</lastBuildDate>
     <item>
       <title>MSC Actran 2025.2 + x64 + Full</title>
       <link>https://rsload.net/soft/editor/41540-msc-actran.html</link>
@@ -52,10 +52,6 @@
       <link>https://rsload.net/soft/editor/41547-msc-simufact-welding.html</link>
     </item>
     <item>
-      <title>Виндовс 11 26H1 с лаунчером без защитника (легкая сборка для старых ПК)</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41523-windows-11-26h1-iso-280201546-rus-torrent.html</link>
-    </item>
-    <item>
       <title>Windows 10 x64 LTSB - стабильная минимальная сборка без слежки (Ru En 2 GB)</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41527-windows-10-x64-ltsb-torrent-143938519-iso-rus-eng.html</link>
     </item>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 64 bit для флешки - Pro 25H2 Ghost 2026 + Fix под ноутбук</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41535-windows-11-64-bit-usb-torrent-ghost-2026.html</link>
+    </item>
+    <item>
+      <title>Windows 11 LTSC x64 Super Lite 25H2 (iso 2.3 GB)</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41548-windows-11-ltsc-x64-super-lite-25h2-iso-torrent.html</link>
     </item>
   </channel>
 </rss>
