@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 17:30:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 18:28:19 +0000</lastBuildDate>
     <item>
       <title>NTFS Permissions Reporter 5.2.655 x64 Enterprise + Pro + Repack</title>
       <link>https://rsload.net/soft/manager/35611-ntfs-permissions-reporter.html</link>
@@ -56,16 +56,16 @@
       <link>https://rsload.net/soft/windows/windows-10-sborka/41527-windows-10-x64-ltsb-torrent-143938519-iso-rus-eng.html</link>
     </item>
     <item>
-      <title>Игровая Windows 11 Pro 26H1 на Русском (28000.1575) для SSD</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41532-windows-11-pro-26h1-280001575-ssd-hdd-rus-torrent.html</link>
-    </item>
-    <item>
       <title>Windows 11 64 bit для флешки - Pro 25H2 Ghost 2026 + Fix под ноутбук</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41535-windows-11-64-bit-usb-torrent-ghost-2026.html</link>
     </item>
     <item>
       <title>Windows 11 LTSC x64 Super Lite 25H2 (iso 2.3 GB)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41548-windows-11-ltsc-x64-super-lite-25h2-iso-torrent.html</link>
+    </item>
+    <item>
+      <title>Виндовс 11 LTSC 24H2 x64 - Game Lumina (высокий FPS и стабильная работа)</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41552-windows-11-ltsc-24h2-x64-game-lumina-fps-torrent-2026.html</link>
     </item>
   </channel>
 </rss>
