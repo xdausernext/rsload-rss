@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 17:46:58 +0000</lastBuildDate>
-    <item>
-      <title>Display Driver Uninstaller 18.1.4.2 + Portable на Русском</title>
-      <link>https://rsload.net/soft/cleaner-disk/15615-display-driver-uninstaller.html</link>
-    </item>
-    <item>
-      <title>WebMinds NTFS Undelete 4.0.26.213</title>
-      <link>https://rsload.net/soft/cleaner-disk/41551-webminds-ntfs-undelete.html</link>
-    </item>
-    <item>
-      <title>FileRestorePlus 4.0.26.213 + Portable + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/9513-filerestoreplus.html</link>
-    </item>
-    <item>
-      <title>Topaz Gigapixel Pro 1.1.2 + AI 8.4.4 + Repack + Portable</title>
-      <link>https://rsload.net/soft/editor/30987-topaz-ai-gigapixel.html</link>
-    </item>
+    <lastBuildDate>Tue, 17 Feb 2026 18:41:03 +0000</lastBuildDate>
     <item>
       <title>ExamDiff Pro 16.0.1.23 x64 + Repack + Portable</title>
       <link>https://rsload.net/soft/document/10839-examdiff.html</link>
@@ -52,6 +36,22 @@
       <link>https://rsload.net/soft/editor/39719-hashicorp-boundary-enterprise.html</link>
     </item>
     <item>
+      <title>Winhance 26.02.17</title>
+      <link>https://rsload.net/soft/optimization/41534-winhance.html</link>
+    </item>
+    <item>
+      <title>Maxon Cinema 4D 2026.1.3 x64 + Repack + Retail + RIP на Русском</title>
+      <link>https://rsload.net/soft/big-programm/9088-maxon-cinema-4d-studio-r13016-build-rc45040.html</link>
+    </item>
+    <item>
+      <title>JRiver Media Center 35.0.47 + Repack + Portable</title>
+      <link>https://rsload.net/soft/player/8632-j-river-media-center.html</link>
+    </item>
+    <item>
+      <title>TweakNow WinSecret Plus! for Windows 11 and 10 8.0.0 + Repack + Portable</title>
+      <link>https://rsload.net/soft/optimization/37036-tweaknow-winsecret-plus-for-windows-11-and-10.html</link>
+    </item>
+    <item>
       <title>Windows 10 x64 LTSB - стабильная минимальная сборка без слежки (Ru En 2 GB)</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41527-windows-10-x64-ltsb-torrent-143938519-iso-rus-eng.html</link>
     </item>
@@ -60,12 +60,12 @@
       <link>https://rsload.net/soft/windows/windows-11-sborka/41535-windows-11-64-bit-usb-torrent-ghost-2026.html</link>
     </item>
     <item>
-      <title>Windows 11 LTSC x64 Super Lite 25H2 (iso 2.3 GB)</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41548-windows-11-ltsc-x64-super-lite-25h2-iso-torrent.html</link>
-    </item>
-    <item>
       <title>Виндовс 11 LTSC 24H2 x64 - Game Lumina (высокий FPS и стабильная работа)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41552-windows-11-ltsc-24h2-x64-game-lumina-fps-torrent-2026.html</link>
+    </item>
+    <item>
+      <title>Windows 11 Pro x64 26H1 Sirius - сборка без тормозов (универсальный iso)</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41554-windows-11-pro-x64-26h1-update-2026-torrent.html</link>
     </item>
   </channel>
 </rss>
