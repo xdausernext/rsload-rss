@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 10:32:41 +0000</lastBuildDate>
-    <item>
-      <title>Open-Shell 4.4.198 + на Русском</title>
-      <link>https://rsload.net/soft/desktop/35224-open-shell.html</link>
-    </item>
-    <item>
-      <title>AllMapSoft Universal Maps Downloader 10.236</title>
-      <link>https://rsload.net/soft/manager/41515-allmapsoft-universal-maps-downloader.html</link>
-    </item>
-    <item>
-      <title>AllMapSoft Offline Map Maker 8.367</title>
-      <link>https://rsload.net/soft/graphics/30976-allmapsoft-offline-map-maker.html</link>
-    </item>
+    <lastBuildDate>Wed, 18 Feb 2026 11:30:25 +0000</lastBuildDate>
     <item>
       <title>Real Cut 1D 11.13.8 + x64 на Русском</title>
       <link>https://rsload.net/soft/editor/41553-real-cut-1d.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>dBpoweramp Image Converter 2026-02-16 + x64 + Full</title>
       <link>https://rsload.net/soft/converter/35934-dbpoweramp-image-converter.html</link>
+    </item>
+    <item>
+      <title>UltraSearch Pro 4.9.0.1201 x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/34237-ultrasearch.html</link>
+    </item>
+    <item>
+      <title>TreeSize Professional 9.7.1.2201 + Portable на Русском + Repack + Free</title>
+      <link>https://rsload.net/soft/cleaner-disk/10110-treesize.html</link>
+    </item>
+    <item>
+      <title>Xplorer2 Ultimate 6.3 + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/11829-xplorer2.html</link>
     </item>
     <item>
       <title>Windows 10 x64 LTSB - стабильная минимальная сборка без слежки (Ru En 2 GB)</title>
