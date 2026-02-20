@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 09:02:50 +0000</lastBuildDate>
-    <item>
-      <title>dbForge Studio для PostgreSQL Pro 2025.3.93 x64</title>
-      <link>https://rsload.net/soft/editor/41342-dbforge-studio-postgresql-pro.html</link>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 10:01:07 +0000</lastBuildDate>
     <item>
       <title>ASCOMP Easy Slideshow Pro 2.101 на Русском + Repack + Portable</title>
       <link>https://rsload.net/soft/graphics/41211-ascomp-easy-slideshow-pro.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 64 bit для флешки - Pro 25H2 Ghost 2026 + Fix под ноутбук (Update February)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41535-windows-11-64-bit-usb-torrent-ghost-2026.html</link>
+    </item>
+    <item>
+      <title>Windows 11 Pro х64 26H1 + Защитник + Магазин без телеметрии</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41562-windows-11-pro-h64-26h1-defender-store-torrent.html</link>
     </item>
   </channel>
 </rss>
