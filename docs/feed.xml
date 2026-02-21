@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Feb 2026 07:48:33 +0000</lastBuildDate>
-    <item>
-      <title>Macro Commander Pro+ 2.8.1</title>
-      <link>https://rsload.net/soft/editor/40981-macro-commander-pro.html</link>
-    </item>
-    <item>
-      <title>Mountain Duck 5.2.0.28648 x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/36222-mountain-duck.html</link>
-    </item>
-    <item>
-      <title>Steinberg Groove Agent 6.0.20 + SE + x64 + Full</title>
-      <link>https://rsload.net/soft/36883-steinberg-groove-agent.html</link>
-    </item>
+    <lastBuildDate>Sat, 21 Feb 2026 08:17:28 +0000</lastBuildDate>
     <item>
       <title>AdwCleaner 8.7.1.626 + Portable</title>
       <link>https://rsload.net/soft/security/12325-adwcleaner.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>PentaLogix CAMMaster 11.24.76 + x64</title>
       <link>https://rsload.net/soft/editor/41148-pentalogix-cammaster.html</link>
+    </item>
+    <item>
+      <title>SysTools EML Viewer Pro Plus 5.0</title>
+      <link>https://rsload.net/soft/manager/41563-systools-eml-viewer-pro-plus.html</link>
+    </item>
+    <item>
+      <title>WinScript 1.4.9 Portable</title>
+      <link>https://rsload.net/soft/optimization/40962-winscript.html</link>
+    </item>
+    <item>
+      <title>AVS Image Converter 26.0.2.17 + Free</title>
+      <link>https://rsload.net/soft/converter/14854-avs-image-converter.html</link>
     </item>
     <item>
       <title>Windows 10 x64 LTSB - стабильная минимальная сборка без слежки (Ru En 2 GB)</title>
