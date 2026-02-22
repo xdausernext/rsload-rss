@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 08:53:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 09:20:01 +0000</lastBuildDate>
     <item>
       <title>Database Tour Pro 11.6.3.1246 + Portable + на Русском</title>
       <link>https://rsload.net/soft/manager/27027-database-tour-pro.html</link>
@@ -56,16 +56,16 @@
       <link>https://rsload.net/soft/windows/windows-11-sborka/41552-windows-11-ltsc-24h2-x64-game-lumina-fps-torrent-2026.html</link>
     </item>
     <item>
-      <title>Windows 11 Pro x64 26H1 Sirius - сборка без тормозов (универсальный iso)</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41554-windows-11-pro-x64-26h1-update-2026-torrent.html</link>
-    </item>
-    <item>
       <title>Windows 11 64 bit для флешки - Pro 25H2 Ghost 2026 + Fix под ноутбук (Update February)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41535-windows-11-64-bit-usb-torrent-ghost-2026.html</link>
     </item>
     <item>
       <title>Windows 11 Pro х64 26H1 + Защитник + Магазин без телеметрии</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41562-windows-11-pro-h64-26h1-defender-store-torrent.html</link>
+    </item>
+    <item>
+      <title>Tiny11 26H1 28000.1340 /  25H2 26200.7840 / 24H2 / 23H2 RUS - легкая и быстрая Windows 11 Pro</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/38516-tiny11-windows-11.html</link>
     </item>
   </channel>
 </rss>
