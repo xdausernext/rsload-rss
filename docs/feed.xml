@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Feb 2026 07:42:24 +0000</lastBuildDate>
-    <item>
-      <title>ConceptDraw MINDMAP 15.1.1.296 + x64</title>
-      <link>https://rsload.net/soft/editor/38885-conceptdraw-mindmap.html</link>
-    </item>
-    <item>
-      <title>ASCOMP Screencapt Pro 3.003 + на Русском Portable</title>
-      <link>https://rsload.net/soft/desktop/40561-ascomp-screencapt-pro.html</link>
-    </item>
-    <item>
-      <title>Mozilla Firefox 148.0 + x64 + Portable +  ESR</title>
-      <link>https://rsload.net/soft/browser/8342-mozilla-firefox.html</link>
-    </item>
-    <item>
-      <title>Sublime Merge 2 Build 2123 + Repack + x64</title>
-      <link>https://rsload.net/soft/editor/32548-sublime-merge.html</link>
-    </item>
-    <item>
-      <title>Coder Technologies Coder 2.29.7 + x64</title>
-      <link>https://rsload.net/soft/editor/40350-coder-technologies.html</link>
-    </item>
-    <item>
-      <title>EverythingToolbar 2.2.0 + x64 + Win</title>
-      <link>https://rsload.net/soft/desktop/35080-everythingtoolbar-063.html</link>
-    </item>
+    <lastBuildDate>Tue, 24 Feb 2026 08:33:27 +0000</lastBuildDate>
     <item>
       <title>PDF-XChange Editor Plus 10.8.3.408 + Pro  + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/15489-pdf-xchange-editor.html</link>
@@ -46,6 +22,30 @@
     <item>
       <title>EmEditor Professional 26.0.3 + x64  + Repack + Portable</title>
       <link>https://rsload.net/soft/editor/9992-emeditor.html</link>
+    </item>
+    <item>
+      <title>WinScript 2.0 Portable</title>
+      <link>https://rsload.net/soft/optimization/40962-winscript.html</link>
+    </item>
+    <item>
+      <title>StruSoft FEM-Design Suite 25.00.001 + x64</title>
+      <link>https://rsload.net/soft/editor/39175-strusoft-fem-design-suite.html</link>
+    </item>
+    <item>
+      <title>BorisFX  Sapphire 2026.01 AVX + PS + OFX + AE + x64 + Repack</title>
+      <link>https://rsload.net/soft/editor/22128-genarts-sapphire.html</link>
+    </item>
+    <item>
+      <title>Google Earth Pro 7.3.7.1094 + Repack + Portable</title>
+      <link>https://rsload.net/soft/desktop/10687-google-earth.html</link>
+    </item>
+    <item>
+      <title>Atlantis Word Processor 5.0.1.3 + Portable + на Русском  + Repack</title>
+      <link>https://rsload.net/soft/document/10642-atlantis-word-processor.html</link>
+    </item>
+    <item>
+      <title>DisplayFusion Pro 12.0.2 + x64</title>
+      <link>https://rsload.net/soft/desktop/11118-displayfusion-pro.html</link>
     </item>
     <item>
       <title>Windows 10 x64 LTSB - стабильная минимальная сборка без слежки (Ru En 2 GB)</title>
