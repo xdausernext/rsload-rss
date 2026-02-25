@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 01:12:12 +0000</lastBuildDate>
-    <item>
-      <title>Abelssoft AntiLogger 2026 10.0.70465 + x64</title>
-      <link>https://rsload.net/soft/security/27039-abelssoft-antilogger.html</link>
-    </item>
-    <item>
-      <title>NUKE Studio 16.1v1 + x64  + Repack + другие ОС</title>
-      <link>https://rsload.net/soft/editor/23387-the-foundry-nuke-studio.html</link>
-    </item>
-    <item>
-      <title>Burp Suite Professional  2026.1.5 + x64</title>
-      <link>https://rsload.net/soft/33824-burp-suite-professional.html</link>
-    </item>
-    <item>
-      <title>OkMap Desktop 19.5.0 x64</title>
-      <link>https://rsload.net/soft/editor/11700-okmap.html</link>
-    </item>
-    <item>
-      <title>MiniTool Partition Wizard 13.6 x64  + WinPE + Repack на Русском</title>
-      <link>https://rsload.net/soft/cleaner-disk/14276-partition-wizard-home-edition.html</link>
-    </item>
-    <item>
-      <title>Perfect Backup  3.6 + Pro на Русском</title>
-      <link>https://rsload.net/soft/cleaner-disk/38649-perfect-backup.html</link>
-    </item>
+    <lastBuildDate>Wed, 25 Feb 2026 03:55:17 +0000</lastBuildDate>
     <item>
       <title>Tor Browser 15.0.7 + x64</title>
       <link>https://rsload.net/soft/browser/10887-tor-browser-bundle.html</link>
@@ -46,6 +22,30 @@
     <item>
       <title>ON1 Photo RAW MAX 2026.3 20.3.0.18187 + Portable на Русском + x64</title>
       <link>https://rsload.net/soft/graphics/15695-onone-perfect-photo-suite-premium-edition.html</link>
+    </item>
+    <item>
+      <title>R-Drive Image  7.3 Build 7314 + BootCD + Repack + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/9673-r-drive-image.html</link>
+    </item>
+    <item>
+      <title>Mozilla Thunderbird 148.0 + ESR  + Portable</title>
+      <link>https://rsload.net/soft/browser/8341-mozilla-thunderbird.html</link>
+    </item>
+    <item>
+      <title>XYplorer 28.20.0300 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/9435-xyplorer.html</link>
+    </item>
+    <item>
+      <title>Prey 1.13.27 + x64</title>
+      <link>https://rsload.net/soft/security/36196-prey.html</link>
+    </item>
+    <item>
+      <title>TeamViewer 15.75.4 +  Premium +  Portable + Server + Repack</title>
+      <link>https://rsload.net/soft/traffic/8601-teamviewer.html</link>
+    </item>
+    <item>
+      <title>Autodesk Navisworks Manage 2026 + активация</title>
+      <link>https://rsload.net/soft/editor/26163-autodesk-navisworks-products-2018.html</link>
     </item>
     <item>
       <title>Windows 10 x64 LTSB - стабильная минимальная сборка без слежки (Ru En 2 GB)</title>
