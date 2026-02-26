@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 15:09:59 +0000</lastBuildDate>
-    <item>
-      <title>WavePad Sound Editor 24.02 + на Русском</title>
-      <link>https://rsload.net/soft/editor/15502-wavepad-sound-editor.html</link>
-    </item>
-    <item>
-      <title>Yamicsoft Windows Manager 2.3.3 + Portable + Repack</title>
-      <link>https://rsload.net/soft/optimization/35447-windows-11-manager.html</link>
-    </item>
-    <item>
-      <title>Certificate Manager 19.4 + x64</title>
-      <link>https://rsload.net/soft/manager/41519-certificate-manager.html</link>
-    </item>
-    <item>
-      <title>RepairKit 1.3.9 + x64</title>
-      <link>https://rsload.net/soft/optimization/40458-repairkit.html</link>
-    </item>
-    <item>
-      <title>ONLYOFFICE 9.3.0.140  + Portable - на Русском</title>
-      <link>https://rsload.net/soft/document/33948-onlyoffice.html</link>
-    </item>
+    <lastBuildDate>Thu, 26 Feb 2026 16:11:58 +0000</lastBuildDate>
     <item>
       <title>R-Drive Image  7.3 Build 7314 + BootCD + Repack + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/9673-r-drive-image.html</link>
@@ -46,6 +26,26 @@
     <item>
       <title>Do Your Data Recovery 8.3 + AdvancedPE + Portable + x64</title>
       <link>https://rsload.net/soft/cleaner-disk/30568-do-your-data-recovery-professional-portable-macos.html</link>
+    </item>
+    <item>
+      <title>Resolume Arena 7.24.3 rev 63742 + x64</title>
+      <link>https://rsload.net/soft/editor/24786-resolume-arena.html</link>
+    </item>
+    <item>
+      <title>Windows Firewall Control 6.26 + на Русском + Repack</title>
+      <link>https://rsload.net/soft/manager/11428-windows-firewall-control.html</link>
+    </item>
+    <item>
+      <title>MiTeC Task Manager DeLuxe 4.11 + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/15072-mitec-task-manager-deluxe.html</link>
+    </item>
+    <item>
+      <title>MediaHuman YouTube Downloader  3.9.18 (2602) +  Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/23673-mediahuman-youtube-downloader.html</link>
+    </item>
+    <item>
+      <title>Adobe Photoshop Lightroom 9.0 + 2026 15.2 Classic + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/10402-adobe-photoshop-lightroom.html</link>
     </item>
     <item>
       <title>Windows 10 x64 LTSB - стабильная минимальная сборка без слежки (Ru En 2 GB)</title>
