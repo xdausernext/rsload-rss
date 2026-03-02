@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 16:30:52 +0000</lastBuildDate>
-    <item>
-      <title>Topaz Photo Pro 1.3.1 + AI + Portable + Repack</title>
-      <link>https://rsload.net/soft/graphics/38238-topaz-photo-ai.html</link>
-    </item>
-    <item>
-      <title>Quick CPU Pro  + 6.2.1.0 + x64 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/34816-quick-cpu.html</link>
-    </item>
-    <item>
-      <title>CPU Temp 1.9.0 + Portable + x64</title>
-      <link>https://rsload.net/soft/manager/40204-cpu-temp.html</link>
-    </item>
-    <item>
-      <title>Pazu StreamGet All-In-One Video Downloader 2.9.3  + Repack</title>
-      <link>https://rsload.net/soft/manager/41220-pazu-streamget-all-in-one-video-downloader.html</link>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 17:36:01 +0000</lastBuildDate>
     <item>
       <title>Adguard Premium  7.22.4.5257 +  Repack + Portable</title>
       <link>https://rsload.net/soft/security/18512-adguard.html</link>
@@ -46,6 +30,22 @@
     <item>
       <title>Servolutions POPcon PRO 4.9.8 + x64</title>
       <link>https://rsload.net/soft/browser/41579-servolutions-popcon-pro.html</link>
+    </item>
+    <item>
+      <title>Pazu Amazon Music Converter 1.9.4 + x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/converter/40481-pazu-amazon-music-converter.html</link>
+    </item>
+    <item>
+      <title>SkyDemon 4.2.4.108 + x64 + Full</title>
+      <link>https://rsload.net/soft/manager/38988-skydemon.html</link>
+    </item>
+    <item>
+      <title>UWPSpy 1.5.2 + x64</title>
+      <link>https://rsload.net/soft/editor/41147-uwpspy.html</link>
+    </item>
+    <item>
+      <title>OCCT 16.0.0.99 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/10376-occt.html</link>
     </item>
     <item>
       <title>Windows 11 Pro Lite Gaming 26H1 x64 (лучший FPS + Defender)</title>
