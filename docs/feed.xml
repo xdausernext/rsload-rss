@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 17:36:01 +0000</lastBuildDate>
-    <item>
-      <title>Adguard Premium  7.22.4.5257 +  Repack + Portable</title>
-      <link>https://rsload.net/soft/security/18512-adguard.html</link>
-    </item>
-    <item>
-      <title>Softros LAN Messenger 12.6 + x64</title>
-      <link>https://rsload.net/soft/talk/17090-softros-lan-messenger.html</link>
-    </item>
-    <item>
-      <title>Blue Iris  6.0.3.4 + x64</title>
-      <link>https://rsload.net/soft/security/40031-blue-iris.html</link>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 18:31:08 +0000</lastBuildDate>
     <item>
       <title>Claris FileMaker Pro 22.0.4.406 + x64 + Portable + Repack + Server</title>
       <link>https://rsload.net/soft/manager/23295-filemaker-pro-advanced.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>OCCT 16.0.0.99 + Portable + Repack</title>
       <link>https://rsload.net/soft/manager/10376-occt.html</link>
+    </item>
+    <item>
+      <title>DriverStore Explorer 0.12.145  + Portable</title>
+      <link>https://rsload.net/soft/manager/31976-driverstore-explorer.html</link>
+    </item>
+    <item>
+      <title>Gillmeister Automatic PDF Processor 2.0.18 + x64</title>
+      <link>https://rsload.net/soft/document/35174-automatic-pdf-processor.html</link>
+    </item>
+    <item>
+      <title>PowerISO 9.3 + Retail + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/8734-poweriso.html</link>
     </item>
     <item>
       <title>Windows 11 Pro Lite Gaming 26H1 x64 (лучший FPS + Defender)</title>
