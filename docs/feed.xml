@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 07:13:21 +0000</lastBuildDate>
-    <item>
-      <title>ShareX 19.0.2 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/11759-sharex.html</link>
-    </item>
-    <item>
-      <title>WinScript 2.0.1 Portable</title>
-      <link>https://rsload.net/soft/optimization/40962-winscript.html</link>
-    </item>
-    <item>
-      <title>WinPE 11-10-8 Sergei Strelec + x64 от 2026.03.03 Rus + 2025.11.19 Eng</title>
-      <link>https://rsload.net/soft/25482-winpe-10-8-sergei-strelec.html</link>
-    </item>
-    <item>
-      <title>Winslop 26.03.20 x64</title>
-      <link>https://rsload.net/soft/optimization/41475-winslop.html</link>
-    </item>
-    <item>
-      <title>Driver Magician 6.5 на Русском + Portable + Lite</title>
-      <link>https://rsload.net/soft/manager/10342-driver-magician-lite.html</link>
-    </item>
-    <item>
-      <title>4DDiG File Repair 4.3.9.2 + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/40417-4ddig-file-repair.html</link>
-    </item>
+    <lastBuildDate>Tue, 03 Mar 2026 07:58:08 +0000</lastBuildDate>
     <item>
       <title>MiniMeters 1.0.26.193 + x64 + Другие ОС</title>
       <link>https://rsload.net/soft/38999-minimeters.html</link>
@@ -46,6 +22,30 @@
     <item>
       <title>PhraseExpress 18.0.63 + x64</title>
       <link>https://rsload.net/soft/manager/12395-phraseexpress.html</link>
+    </item>
+    <item>
+      <title>Stellar Data Recovery Pro 12.5.0.0 + Premium +  Portable + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/11380-windows-data-recovery.html</link>
+    </item>
+    <item>
+      <title>Coolmuster iCloud Backup Recovery 2.0.5 + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/41580-coolmuster-icloud-backup-recovery.html</link>
+    </item>
+    <item>
+      <title>Coolmuster iPhone SMS + Contacts Recovery 5.0.10 + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/38457-coolmuster-iphone-sms-contacts-recovery.html</link>
+    </item>
+    <item>
+      <title>MobiKin Doctor for iOS 4.3.45 + x64</title>
+      <link>https://rsload.net/soft/manager/38543-mobikin-doctor-for-ios.html</link>
+    </item>
+    <item>
+      <title>Coolmuster iPhone Data Recovery 6.0.54 + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/38456-coolmuster-iphone-data-recovery.html</link>
+    </item>
+    <item>
+      <title>Native Instruments Maschine  3.4.2 + x64 + Full</title>
+      <link>https://rsload.net/soft/editor/29143-native-instruments-maschine-2.html</link>
     </item>
     <item>
       <title>Windows 11 Pro Lite Gaming 26H1 x64 (лучший FPS + Defender)</title>
