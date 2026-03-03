@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 07:58:08 +0000</lastBuildDate>
-    <item>
-      <title>MiniMeters 1.0.26.193 + x64 + Другие ОС</title>
-      <link>https://rsload.net/soft/38999-minimeters.html</link>
-    </item>
+    <lastBuildDate>Tue, 03 Mar 2026 08:36:39 +0000</lastBuildDate>
     <item>
       <title>ANSYS SpaceClaim 2026 R1 + x64 + Полная версия</title>
       <link>https://rsload.net/soft/editor/27777-ansys-spaceclaim.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>Native Instruments Maschine  3.4.2 + x64 + Full</title>
       <link>https://rsload.net/soft/editor/29143-native-instruments-maschine-2.html</link>
+    </item>
+    <item>
+      <title>Native Instruments Kontakt 8.9.0 + 7.10.9 + Portable</title>
+      <link>https://rsload.net/soft/23734-native-instruments-kontakt-5.html</link>
     </item>
     <item>
       <title>Windows 11 Pro Lite Gaming 26H1 x64 (лучший FPS + Defender)</title>
