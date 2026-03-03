@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 13:51:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 14:35:58 +0000</lastBuildDate>
     <item>
       <title>PhraseExpress 18.0.63 + x64</title>
       <link>https://rsload.net/soft/manager/12395-phraseexpress.html</link>
