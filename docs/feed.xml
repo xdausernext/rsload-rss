@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 16:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 17:34:45 +0000</lastBuildDate>
     <item>
       <title>PhraseExpress 18.0.63 + x64</title>
       <link>https://rsload.net/soft/manager/12395-phraseexpress.html</link>
@@ -56,16 +56,16 @@
       <link>https://rsload.net/soft/windows/windows-11-sborka/41574-windows-11-x64-enterprise-25h2-iso-rus-torrent-02-2026.html</link>
     </item>
     <item>
-      <title>Чистый Windows 11 Pro Super Lite 25H2 - iso (26200.6725) 2.8 GB</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41305-windows-11-pro-super-lite-25h2-iso-262006725.html</link>
-    </item>
-    <item>
       <title>Виндовс 11 x64 Про 26H1 - образ 28000.1643 Ru (новая сборка для быстрого старта)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41577-windows-11-x64-pro-26h1-iso-280001643-rus-torrent.html</link>
     </item>
     <item>
       <title>Виндовс 10 22H2 Pro x64 02.2026 - обновленная десятка на Русском</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41578-windows-10-22h2-pro-x64-022026-update-rus-torrent.html</link>
+    </item>
+    <item>
+      <title>Windows 10 Enterprise LTSC SuperLite 21H2 - iso Game 19044.6332 Rus</title>
+      <link>https://rsload.net/soft/windows/windows-10-sborka/41300-windows-10-enterprise-ltsc-superlite-21h2-190446332.html</link>
     </item>
   </channel>
 </rss>
