@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Mar 2026 16:03:09 +0000</lastBuildDate>
-    <item>
-      <title>Bixelangelo 5.3.2.0 + Repack</title>
-      <link>https://rsload.net/soft/graphics/34698-bixelangelo.html</link>
-    </item>
-    <item>
-      <title>Alphabix 4.1.2.0 x64 + Repack</title>
-      <link>https://rsload.net/soft/graphics/34699-alphabix.html</link>
-    </item>
-    <item>
-      <title>Capture One 23 Pro 16.7.4.3394 x64 +  Enterprise + Portable + Repack</title>
-      <link>https://rsload.net/soft/graphics/10998-capture-one-pro.html</link>
-    </item>
-    <item>
-      <title>HWiNFO  8.44.5935 + x64 + Portable + на Русском + Репак</title>
-      <link>https://rsload.net/soft/manager/8339-hwinfo32.html</link>
-    </item>
+    <lastBuildDate>Wed, 04 Mar 2026 17:05:25 +0000</lastBuildDate>
     <item>
       <title>Total Commander 11.56 + x64 + Portable + Repack + Сборки + 11.57 Beta 2</title>
       <link>https://rsload.net/soft/manager/8564-total-commander2.html</link>
@@ -46,6 +30,22 @@
     <item>
       <title>Cheat Engine 7.6.6 + Portable</title>
       <link>https://rsload.net/soft/editor/37313-cheat-engine.html</link>
+    </item>
+    <item>
+      <title>XYplorer 28.20.0400 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/9435-xyplorer.html</link>
+    </item>
+    <item>
+      <title>DBF Viewer 2000 8.99 + Repack</title>
+      <link>https://rsload.net/soft/editor/38120-dbf-viewer-2000.html</link>
+    </item>
+    <item>
+      <title>DbVisualizer Pro 25.3.3 + Repack</title>
+      <link>https://rsload.net/soft/manager/31144-dbvisualizer-pro.html</link>
+    </item>
+    <item>
+      <title>Aseprite 1.3.17 + x64 + другие ОС</title>
+      <link>https://rsload.net/soft/graphics/35748-aseprite.html</link>
     </item>
     <item>
       <title>Windows 11 Pro Lite Gaming 26H1 x64 (лучший FPS + Defender)</title>
