@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 20:54:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 21:20:28 +0000</lastBuildDate>
     <item>
       <title>Perfinity dotNET Runtime Analyzer 9.0.19 + x64</title>
       <link>https://rsload.net/soft/editor/40210-perfinity-dotnet-runtime-analyzer.html</link>
