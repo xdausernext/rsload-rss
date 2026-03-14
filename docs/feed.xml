@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Mar 2026 11:43:09 +0000</lastBuildDate>
-    <item>
-      <title>Pepakura Designer 6.1.7 + Portable + Repack + на Русском</title>
-      <link>https://rsload.net/soft/editor/9995-pepakura-designer-310a-serial.html</link>
-    </item>
+    <lastBuildDate>Sat, 14 Mar 2026 12:26:06 +0000</lastBuildDate>
     <item>
       <title>Free YouTube Download Premium 4.5.8.312 + Portable</title>
       <link>https://rsload.net/soft/manager/8366-free-youtube-download.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 Pro - игровая версия 26H1 28000.1719 на Русском без слежки и  TPM</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41588-windows-11-pro-game-os-26h1-280001719-rus-torrent.html</link>
+    </item>
+    <item>
+      <title>Универсальная Windows 10 22H2 на Русском -  Lite iso (сборка 19045.7058)</title>
+      <link>https://rsload.net/soft/windows/windows-10-sborka/41590-windows-10-22h2-rus-eng-lite-iso-build-190457058-torrent.html</link>
     </item>
   </channel>
 </rss>
