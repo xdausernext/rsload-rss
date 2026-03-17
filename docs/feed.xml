@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 05:16:35 +0000</lastBuildDate>
-    <item>
-      <title>Adobe AIR 51.3.1.2 + x64</title>
-      <link>https://rsload.net/soft/12202-adobe-air.html</link>
-    </item>
-    <item>
-      <title>Cypheros TS-Doctor 4.2.19 + x64</title>
-      <link>https://rsload.net/soft/manager/27179-cypheros-ts-doctor.html</link>
-    </item>
-    <item>
-      <title>EIVA NaviModel Producer 4.13 +  x64</title>
-      <link>https://rsload.net/soft/editor/41145-eiva-navimodel-producer.html</link>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 06:35:36 +0000</lastBuildDate>
     <item>
       <title>EIVA NaviModel Analyser 4.13 + x64</title>
       <link>https://rsload.net/soft/editor/41144-eiva-navimodel-analyser.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>SuperAntiSpyware X 10.0.1286 + x64   + Portable</title>
       <link>https://rsload.net/soft/security/8426-superantispyware.html</link>
+    </item>
+    <item>
+      <title>Evernote 11.7.3.1607 + x64 на Русском</title>
+      <link>https://rsload.net/soft/manager/10694-evernote.html</link>
+    </item>
+    <item>
+      <title>VCap Downloader 0.1.46.6983 + Portable + на Русском + x64</title>
+      <link>https://rsload.net/soft/manager/38508-vcap-downloader.html</link>
+    </item>
+    <item>
+      <title>Start Everywhere 1.4.4.46 + x64 + на Русском</title>
+      <link>https://rsload.net/soft/desktop/38041-start-everywhere.html</link>
     </item>
     <item>
       <title>Виндовс 11 x64 Про 26H1 - образ 28000.1643 Ru (новая сборка для быстрого старта)</title>
