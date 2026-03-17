@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 10:39:02 +0000</lastBuildDate>
-    <item>
-      <title>DISMTools 0.8.260315 + x64 + Portable</title>
-      <link>https://rsload.net/soft/editor/40522-dismtools.html</link>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 11:35:08 +0000</lastBuildDate>
     <item>
       <title>WinAPIOverride 6.13.2 + x64</title>
       <link>https://rsload.net/soft/manager/21485-winapioverride.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>GiliSoft File Lock Pro 15.7.0 + x64</title>
       <link>https://rsload.net/soft/security/13111-gilisoft-file-lock.html</link>
+    </item>
+    <item>
+      <title>Quick'n Easy Web Builder 12.3.0 + x64 + на Русском</title>
+      <link>https://rsload.net/soft/editor/17258-quickn-easy-web-builder.html</link>
     </item>
     <item>
       <title>Виндовс 11 x64 Про 26H1 - образ 28000.1643 Ru (новая сборка для быстрого старта)</title>
