@@ -6,39 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 16:48:15 +0000</lastBuildDate>
-    <item>
-      <title>NewFileTime 8.18 + x64 + Portable</title>
-      <link>https://rsload.net/soft/editor/11147-newfiletime.html</link>
-    </item>
-    <item>
-      <title>Nobe OmniScope 1.11.34 x64 + 1.10.168</title>
-      <link>https://rsload.net/soft/editor/40316-nobe-omniscope.html</link>
-    </item>
-    <item>
-      <title>Diffchecker 6.8.8 + x64</title>
-      <link>https://rsload.net/soft/manager/41508-diffchecker.html</link>
-    </item>
-    <item>
-      <title>Red Cad App 3.24.4 + x64 + Full</title>
-      <link>https://rsload.net/soft/editor/38792-red-cad-app.html</link>
-    </item>
-    <item>
-      <title>Text Editor Pro 35.6.1 на Русском + x64 + Portable</title>
-      <link>https://rsload.net/soft/editor/12781-editbone.html</link>
-    </item>
-    <item>
-      <title>TouchDesigner Pro 2025.32460 + x64 + Full</title>
-      <link>https://rsload.net/soft/editor/36078-touchdesigner-pro.html</link>
-    </item>
-    <item>
-      <title>Hosts File Editor+ 1.5.17 + x64</title>
-      <link>https://rsload.net/soft/editor/24714-hosts-file-editor.html</link>
-    </item>
-    <item>
-      <title>MassTube 2026 21.5.4.197 Ultra  + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/14449-masstube-downloader.html</link>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 17:51:41 +0000</lastBuildDate>
     <item>
       <title>Any Video Downloader Pro 10.2.3 + Portable + Repack на Русском</title>
       <link>https://rsload.net/soft/manager/33685-any-video-downloader-pro.html</link>
@@ -46,6 +14,38 @@
     <item>
       <title>Chaos Envision 1.4.2 +  x64 + Full</title>
       <link>https://rsload.net/soft/editor/41333-chaos-envision.html</link>
+    </item>
+    <item>
+      <title>Cockos REAPER 7.66 + x64 + Portable + Repack на Русском</title>
+      <link>https://rsload.net/soft/editor/8368-reaper.html</link>
+    </item>
+    <item>
+      <title>Intel Graphics Driver 32.0.101.8626 +  x64</title>
+      <link>https://rsload.net/soft/drivers/24982-intel-graphics-drive.html</link>
+    </item>
+    <item>
+      <title>Red Button 6.8 + Portable</title>
+      <link>https://rsload.net/soft/optimization/11236-red-button.html</link>
+    </item>
+    <item>
+      <title>HDD Raw Copy Tool 2.3 + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/15564-hdd-raw-copy-tool.html</link>
+    </item>
+    <item>
+      <title>Winslop 26.03.130 + x64</title>
+      <link>https://rsload.net/soft/optimization/41475-winslop.html</link>
+    </item>
+    <item>
+      <title>JRiver Media Center 35.0.58 + Repack + Portable</title>
+      <link>https://rsload.net/soft/player/8632-j-river-media-center.html</link>
+    </item>
+    <item>
+      <title>Adobe Substance 3D Painter 12.0.1 + x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/graphics/23418-substance-painter.html</link>
+    </item>
+    <item>
+      <title>Total Commander 11.56 + x64 + Portable + Repack + Сборки + 11.57 Beta 4</title>
+      <link>https://rsload.net/soft/manager/8564-total-commander2.html</link>
     </item>
     <item>
       <title>Виндовс 11 x64 Про 26H1 - образ 28000.1643 Ru (новая сборка для быстрого старта)</title>
