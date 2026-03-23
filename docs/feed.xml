@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 07:57:25 +0000</lastBuildDate>
-    <item>
-      <title>Executor 2.2.8 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/34807-executor.html</link>
-    </item>
-    <item>
-      <title>FanControl 263 + x64</title>
-      <link>https://rsload.net/soft/manager/34303-fancontrol.html</link>
-    </item>
+    <lastBuildDate>Mon, 23 Mar 2026 08:49:21 +0000</lastBuildDate>
     <item>
       <title>Screenpresso Pro 2.2.8 + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/10988-screenpresso.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>PixelOver 0.18.1.4 Beta + x64 + Другие ОС</title>
       <link>https://rsload.net/soft/editor/39808-pixelover.html</link>
+    </item>
+    <item>
+      <title>LieberLieber Software LemonTree 4.2.2 + x64</title>
+      <link>https://rsload.net/soft/manager/41522-lieberlieber-software-lemontree.html</link>
+    </item>
+    <item>
+      <title>The KMPlayer 2026.3.23.52 x64 / 4.2.3.33 + Portable + Repack</title>
+      <link>https://rsload.net/soft/player/8451-kmplayer.html</link>
     </item>
     <item>
       <title>Виндовс 11 x64 Про 26H1 - образ 28000.1643 Ru (новая сборка для быстрого старта)</title>
