@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 16:43:51 +0000</lastBuildDate>
-    <item>
-      <title>LDPlayer 9.5.3 + x64</title>
-      <link>https://rsload.net/soft/desktop/32285-ldplayer.html</link>
-    </item>
-    <item>
-      <title>ProfiCAD 13.4.9 + x64 + Portable</title>
-      <link>https://rsload.net/soft/editor/14043-proficad.html</link>
-    </item>
-    <item>
-      <title>2BrightSparks SyncBackPro 11.3.142 + x64 + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/11803-syncbackpro.html</link>
-    </item>
+    <lastBuildDate>Mon, 23 Mar 2026 17:42:26 +0000</lastBuildDate>
     <item>
       <title>All Video Downloader Pro 10.3.0 + x64 + Full</title>
       <link>https://rsload.net/soft/manager/35286-all-video-downloader-pro.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>Hybrid 2026.03.21.1 + x64</title>
       <link>https://rsload.net/soft/converter/14723-hybrid.html</link>
+    </item>
+    <item>
+      <title>AntiPlagiarism NET 4.156 + Portable</title>
+      <link>https://rsload.net/soft/document/30856-antiplagiarism-net.html</link>
+    </item>
+    <item>
+      <title>AnyDesk Pro + 9.6.12 + Portable + Репак</title>
+      <link>https://rsload.net/soft/traffic/19306-anydesk.html</link>
+    </item>
+    <item>
+      <title>Krita Studio 6.0.0 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/16305-krita.html</link>
     </item>
     <item>
       <title>Универсальная Windows 10 22H2 на Русском -  Lite iso (сборка 19045.7058)</title>
