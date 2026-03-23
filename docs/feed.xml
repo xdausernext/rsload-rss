@@ -6,7 +6,11 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 11:35:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 12:39:18 +0000</lastBuildDate>
+    <item>
+      <title>LDPlayer 9.5.3 + x64</title>
+      <link>https://rsload.net/soft/desktop/32285-ldplayer.html</link>
+    </item>
     <item>
       <title>ProfiCAD 13.4.9 + x64 + Portable</title>
       <link>https://rsload.net/soft/editor/14043-proficad.html</link>
@@ -42,10 +46,6 @@
     <item>
       <title>Hybrid 2026.03.21.1 + x64</title>
       <link>https://rsload.net/soft/converter/14723-hybrid.html</link>
-    </item>
-    <item>
-      <title>Виндовс 11 x64 Про 26H1 - образ 28000.1643 Ru (новая сборка для быстрого старта)</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41577-windows-11-x64-pro-26h1-iso-280001643-rus-torrent.html</link>
     </item>
     <item>
       <title>Универсальная Windows 10 22H2 на Русском -  Lite iso (сборка 19045.7058)</title>
