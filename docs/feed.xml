@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 06:36:05 +0000</lastBuildDate>
-    <item>
-      <title>Advanced CSV Converter 7.93 / XLS Converter 7.55 + Portable</title>
-      <link>https://rsload.net/soft/converter/28287-advanced-csv-converter.html</link>
-    </item>
-    <item>
-      <title>Gillmeister Automatic PDF Processor 2.0.37 + x64</title>
-      <link>https://rsload.net/soft/document/35174-automatic-pdf-processor.html</link>
-    </item>
-    <item>
-      <title>Kali Linux 2026.1 x64 iso образ</title>
-      <link>https://rsload.net/soft/35954-kali-linux.html</link>
-    </item>
-    <item>
-      <title>WinFindr 1.9  + Portable</title>
-      <link>https://rsload.net/soft/manager/39546-winfindr.html</link>
-    </item>
-    <item>
-      <title>SOS Security Suite 2.9.10 + базы</title>
-      <link>https://rsload.net/soft/security/35078-sos-security-suite.html</link>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 07:45:57 +0000</lastBuildDate>
     <item>
       <title>Ultra Adware Killer 10.9.10 + сканер + платная версия</title>
       <link>https://rsload.net/soft/security/19785-ultra-adware-killer.html</link>
@@ -46,6 +26,26 @@
     <item>
       <title>Ashampoo 3D CAD Architecture 14.0.0  + x64 + шаблоны</title>
       <link>https://rsload.net/soft/editor/24711-ashampoo-3d-cad-architecture.html</link>
+    </item>
+    <item>
+      <title>Inno Setup Unpacker 2.2.5 + 2.64.1 CLI</title>
+      <link>https://rsload.net/soft/editor/15780-inno-setup-unpacker.html</link>
+    </item>
+    <item>
+      <title>Markdown Monster 4.2.4 + x64</title>
+      <link>https://rsload.net/soft/editor/32552-markdown-monster.html</link>
+    </item>
+    <item>
+      <title>Foxit PDF Editor Pro 14.0.3.33502 + Repack + Portable + 2025.3.0</title>
+      <link>https://rsload.net/soft/big-programm/16594-foxit-phantompdf-business-6130321-patch.html</link>
+    </item>
+    <item>
+      <title>EditPlus 6.1.866  + Portable (Русский)</title>
+      <link>https://rsload.net/soft/editor/10350-editplus.html</link>
+    </item>
+    <item>
+      <title>TweakNow WinSecret Plus! for Windows 11 and 10 8.8.0 + Repack + Portable</title>
+      <link>https://rsload.net/soft/optimization/37036-tweaknow-winsecret-plus-for-windows-11-and-10.html</link>
     </item>
     <item>
       <title>Универсальная Windows 10 22H2 на Русском -  Lite iso (сборка 19045.7058)</title>
