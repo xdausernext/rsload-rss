@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 11:33:20 +0000</lastBuildDate>
-    <item>
-      <title>Diffchecker 6.8.9 + x64</title>
-      <link>https://rsload.net/soft/manager/41508-diffchecker.html</link>
-    </item>
-    <item>
-      <title>ShareMouse Enterprise 7.0.19 + x64 + Полная версия</title>
-      <link>https://rsload.net/soft/desktop/17198-sharemouse.html</link>
-    </item>
-    <item>
-      <title>WindowTop Pro 5.31.0 + на Русском + Portable + Free</title>
-      <link>https://rsload.net/soft/desktop/35101-windowtop.html</link>
-    </item>
-    <item>
-      <title>Intel Bluetooth Driver 24.30.1 / 21.40.5 Win7-8.1</title>
-      <link>https://rsload.net/soft/drivers/28453-intel-bluetooth-driver-200014.html</link>
-    </item>
+    <lastBuildDate>Wed, 25 Mar 2026 12:40:14 +0000</lastBuildDate>
     <item>
       <title>FotoSketcher 4.0 + x64 + Portable</title>
       <link>https://rsload.net/soft/graphics/10366-fotosketcher.html</link>
@@ -46,6 +30,22 @@
     <item>
       <title>MailWasher Pro 8.0.102 + Portable + Repack</title>
       <link>https://rsload.net/soft/browser/13880-mailwasher.html</link>
+    </item>
+    <item>
+      <title>Total Commander 11.56 + x64 + Portable + Repack + Сборки + 11.57 RC1</title>
+      <link>https://rsload.net/soft/manager/8564-total-commander2.html</link>
+    </item>
+    <item>
+      <title>WonderFox HD Video Converter Factory Pro 28.8 + Rus + Portable + Repack</title>
+      <link>https://rsload.net/soft/converter/11374-wonderfox-hd-video-converter-factory.html</link>
+    </item>
+    <item>
+      <title>The Bat! Professional 12.1.0 + x64  + Voyager бесплатно на Русском</title>
+      <link>https://rsload.net/soft/browser/8369-the-bat.html</link>
+    </item>
+    <item>
+      <title>TeamViewer 15.76.3 +  Premium +  Portable + Server + Repack</title>
+      <link>https://rsload.net/soft/traffic/8601-teamviewer.html</link>
     </item>
     <item>
       <title>Виндовс 11 Про 64-бит - быстрая и легкая сборка 25H2 без телеметрии с драйверами</title>
