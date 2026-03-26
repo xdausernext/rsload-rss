@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 10:41:32 +0000</lastBuildDate>
-    <item>
-      <title>Atlantis Word Processor 5.0.2.1 + Portable + на Русском  + Repack</title>
-      <link>https://rsload.net/soft/document/10642-atlantis-word-processor.html</link>
-    </item>
+    <lastBuildDate>Thu, 26 Mar 2026 11:40:52 +0000</lastBuildDate>
     <item>
       <title>WinAPIOverride 6.13.3 + x64</title>
       <link>https://rsload.net/soft/manager/21485-winapioverride.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>Advanced SystemCare Pro 19.3.0.200 + Portable + Repack + 18 Ultimate</title>
       <link>https://rsload.net/soft/optimization/8290-advanced-systemcare-rus.html</link>
+    </item>
+    <item>
+      <title>BackupAssist Classic 12.0.7 + Desktop 15.0.2</title>
+      <link>https://rsload.net/soft/cleaner-disk/33923-backupassist.html</link>
     </item>
     <item>
       <title>Windows 11 Pro 25H2 26200.8037 с драйверами + Ghost tweaks + Fix</title>
