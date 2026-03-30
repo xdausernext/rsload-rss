@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 04:20:58 +0000</lastBuildDate>
-    <item>
-      <title>XYplorer 28.30.0000 + x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/9435-xyplorer.html</link>
-    </item>
-    <item>
-      <title>Calibre 9.6.0 + x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/document/9183-calibre.html</link>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 06:13:09 +0000</lastBuildDate>
     <item>
       <title>Light Image Resizer 7.6.1.165 + Portable + Repack</title>
       <link>https://rsload.net/soft/graphics/9628-light-image-resizer.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>Adobe Acrobat Reader 2026.001.21346 + Portable + Repack на Русском</title>
       <link>https://rsload.net/soft/document/8667-adobe-reader.html</link>
+    </item>
+    <item>
+      <title>Sandboxie 5.72.3 / Plus 1.17.3 + Repack + Portable</title>
+      <link>https://rsload.net/soft/security/15942-sandboxie.html</link>
+    </item>
+    <item>
+      <title>R-Studio 9.5 Build 191733 + Repack + Portable + BootCD</title>
+      <link>https://rsload.net/soft/cleaner-disk/8413-r-studio1.html</link>
     </item>
     <item>
       <title>На Русском Windows 11 Домашняя 26H1 x64 без телеметрии (iso образ 3.5 GB)</title>
