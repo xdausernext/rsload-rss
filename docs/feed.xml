@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 04:24:53 +0000</lastBuildDate>
-    <item>
-      <title>Adobe Bridge 2026 16.0.3 + x64 + Repack + активация (2019-2025)</title>
-      <link>https://rsload.net/soft/graphics/23899-adobe-bridge-cc.html</link>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 06:08:21 +0000</lastBuildDate>
     <item>
       <title>OCCT 16.1.2.99 + Portable + Repack</title>
       <link>https://rsload.net/soft/manager/10376-occt.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Корпоративная Windows 10 на Русском 22H2 iso образ 03.2026 (чистая установка стабильная работа)</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41603-enterprise-windows-10-rus-22h2-iso-032026-fast-setup-torrent.html</link>
+    </item>
+    <item>
+      <title>Свежая Windows 11 сборка 28000.1764 на Русском с активацией (приватная Lite версия)</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41604-windows-11-280001764-rus-private-lite-torrent.html</link>
     </item>
   </channel>
 </rss>
