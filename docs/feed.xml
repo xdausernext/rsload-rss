@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 11:59:58 +0000</lastBuildDate>
-    <item>
-      <title>Coder Technologies Coder 2.30.6 + x64</title>
-      <link>https://rsload.net/soft/editor/40350-coder-technologies.html</link>
-    </item>
-    <item>
-      <title>Draftable Desktop 26.3.200 x64 + Portable</title>
-      <link>https://rsload.net/soft/document/33728-draftable-desktop.html</link>
-    </item>
+    <lastBuildDate>Fri, 03 Apr 2026 13:08:16 +0000</lastBuildDate>
     <item>
       <title>Android Studio 2025.3.3.6  +  x64</title>
       <link>https://rsload.net/soft/editor/32211-android-studio.html</link>
@@ -26,10 +18,6 @@
     <item>
       <title>reaConverter Pro 8.0.211 + Portable + Repack</title>
       <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
-    </item>
-    <item>
-      <title>OCCT 16.1.5.99 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/10376-occt.html</link>
     </item>
     <item>
       <title>TeamViewer 15.76.5 +  Premium +  Portable + Server + Repack</title>
@@ -46,6 +34,18 @@
     <item>
       <title>LizardSystems Terminal Services Manager 26.04  + x64 + Full</title>
       <link>https://rsload.net/soft/manager/41595-lizardsystems-terminal-services-manager.html</link>
+    </item>
+    <item>
+      <title>XYplorer 28.30.0000 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/9435-xyplorer.html</link>
+    </item>
+    <item>
+      <title>OCCT 16.1.5.99 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/10376-occt.html</link>
+    </item>
+    <item>
+      <title>R-Studio 9.5 Build 191733 + Repack + Portable + BootCD</title>
+      <link>https://rsload.net/soft/cleaner-disk/8413-r-studio1.html</link>
     </item>
     <item>
       <title>На Русском Windows 11 Домашняя 26H1 x64 без телеметрии (iso образ 3.5 GB)</title>
