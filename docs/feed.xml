@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 05:59:52 +0000</lastBuildDate>
-    <item>
-      <title>Winstep Nexus 26.4 +  Xtreme 20.10 + Ultimate + Repack + Portable</title>
-      <link>https://rsload.net/soft/desktop/8750-winstep-xtreme.html</link>
-    </item>
+    <lastBuildDate>Tue, 07 Apr 2026 07:20:54 +0000</lastBuildDate>
     <item>
       <title>My Music Collection 3.4.16.169 + Premium + x64</title>
       <link>https://rsload.net/soft/manager/28290-nuclear-coffee-my-music-collection.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>SecretDNS 3.8.8 + x64</title>
       <link>https://rsload.net/soft/security/40712-secretdns.html</link>
+    </item>
+    <item>
+      <title>MassTube 2026 21.5.5.198 Ultra  + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/14449-masstube-downloader.html</link>
     </item>
     <item>
       <title>Windows 10 Домашняя 64-бит 22H2 для работы и отдыха - Ru En 03.2026</title>
