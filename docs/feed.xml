@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 03:48:26 +0000</lastBuildDate>
-    <item>
-      <title>OCCT 16.1.8.99  + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/10376-occt.html</link>
-    </item>
+    <lastBuildDate>Fri, 17 Apr 2026 05:57:26 +0000</lastBuildDate>
     <item>
       <title>AIMP 5.40.2715 + Portable + Repack + Mega</title>
       <link>https://rsload.net/soft/player/8429-aimp.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>AI FaceSwap 2.6.3 x64 + Portable</title>
       <link>https://rsload.net/soft/graphics/40287-faceswap.html</link>
+    </item>
+    <item>
+      <title>AI Image Background Remover Pro 1.0.2  + Portable + Модели + x64</title>
+      <link>https://rsload.net/soft/editor/41613-ai-image-background-remover-pro.html</link>
     </item>
     <item>
       <title>Свежая Windows 11 сборка 28000.1764 на Русском с активацией (приватная Lite версия)</title>
