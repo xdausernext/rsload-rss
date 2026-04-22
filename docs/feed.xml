@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 10:59:16 +0000</lastBuildDate>
-    <item>
-      <title>Windows PowerShell 7.6.1 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/35655-windows-powershell.html</link>
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 11:59:00 +0000</lastBuildDate>
     <item>
       <title>OBS Studio (Open Broadcaster Software)  32.1.2 + x64 + Portable</title>
       <link>https://rsload.net/soft/manager/14332-open-broadcaster-software.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>EaseUS Fixo 4.3.0 Build 20260421 Technician  + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/39841-easeus-fixo.html</link>
+    </item>
+    <item>
+      <title>Systweak PDF Editor Pro 1.0.0.8815 + на Русском + Portable</title>
+      <link>https://rsload.net/soft/document/40383-systweak-pdf-editor.html</link>
     </item>
     <item>
       <title>Свежая Windows 11 сборка 28000.1764 на Русском с активацией (приватная Lite версия)</title>
