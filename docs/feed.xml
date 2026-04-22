@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 11:59:00 +0000</lastBuildDate>
-    <item>
-      <title>OBS Studio (Open Broadcaster Software)  32.1.2 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/14332-open-broadcaster-software.html</link>
-    </item>
-    <item>
-      <title>VovSoft Hide Files 9.5 + на Русском</title>
-      <link>https://rsload.net/soft/cleaner-disk/32255-hide-files.html</link>
-    </item>
-    <item>
-      <title>JP Software CMDebug 36.00.33 + x64 + Премиум</title>
-      <link>https://rsload.net/soft/editor/32209-cmdebug.html</link>
-    </item>
+    <lastBuildDate>Wed, 22 Apr 2026 13:26:06 +0000</lastBuildDate>
     <item>
       <title>JP Software TCC 36.00.33  x64 + полная версия</title>
       <link>https://rsload.net/soft/editor/11461-tcc-le.html</link>
@@ -50,6 +38,18 @@
     <item>
       <title>Systweak PDF Editor Pro 1.0.0.8815 + на Русском + Portable</title>
       <link>https://rsload.net/soft/document/40383-systweak-pdf-editor.html</link>
+    </item>
+    <item>
+      <title>Abelssoft YouTube Song Downloader Plus 26.11 + Portable</title>
+      <link>https://rsload.net/soft/manager/22683-abelssoft-youtube-song-downloader-plus.html</link>
+    </item>
+    <item>
+      <title>EF AutoSync 26.04 - полная версия премиум</title>
+      <link>https://rsload.net/soft/cleaner-disk/40221-ef-autosync.html</link>
+    </item>
+    <item>
+      <title>Red Gate SmartAssembly Pro 8.4.5.6931 x64</title>
+      <link>https://rsload.net/soft/security/30593-red-gate-smartassembly-professional-besplatno-s-klyuchom.html</link>
     </item>
     <item>
       <title>Свежая Windows 11 сборка 28000.1764 на Русском с активацией (приватная Lite версия)</title>
