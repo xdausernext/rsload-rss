@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 12:57:36 +0000</lastBuildDate>
-    <item>
-      <title>YT Geek YTDL Pro 12.3.5 + x64</title>
-      <link>https://rsload.net/soft/manager/39921-yt-geek-ytdl-pro.html</link>
-    </item>
+    <lastBuildDate>Mon, 27 Apr 2026 15:03:28 +0000</lastBuildDate>
     <item>
       <title>YT Video Downloader 12.3.6 + x64</title>
       <link>https://rsload.net/soft/manager/40118-yt-video-downloader.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Виндовс 10 22H2 для ноутбука с активацией  (апрель 2026) - сборка без хлама</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41620-vindovs-10-22h2-dlya-noutbuka-s-aktivaciey-aprel-2026-sborka-bez-hlama.html</link>
+    </item>
+    <item>
+      <title>Виндовс 11 26H1 Pro сборка без TPM 2.0 Rus (оптимизация для любых ПК)</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41621-windows-11-26h1-pro-iso-tpm-build-280001836.html</link>
     </item>
   </channel>
 </rss>
