@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 18:11:31 +0000</lastBuildDate>
-    <item>
-      <title>Tor Browser 15.0.11 + x64</title>
-      <link>https://rsload.net/soft/browser/10887-tor-browser-bundle.html</link>
-    </item>
+    <lastBuildDate>Tue, 28 Apr 2026 19:58:45 +0000</lastBuildDate>
     <item>
       <title>TechSmith Camtasia Studio 26.1.1.16676 на Русском Repack + Portable</title>
       <link>https://rsload.net/soft/editor/11315-camtasia-studio.html</link>
@@ -54,6 +50,10 @@
     <item>
       <title>AquaSoft Video Vision 17.2.04 + x64</title>
       <link>https://rsload.net/soft/editor/36232-aquasoft-video-cool-vision.html</link>
+    </item>
+    <item>
+      <title>Slimjet 50.0.0.0 + x64 + Portable</title>
+      <link>https://rsload.net/soft/browser/17881-slimjet.html</link>
     </item>
     <item>
       <title>Свежая Windows 11 сборка 28000.1764 на Русском с активацией (приватная Lite версия)</title>
