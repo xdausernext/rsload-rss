@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 07:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 09:56:07 +0000</lastBuildDate>
     <item>
       <title>Luxion Keyshot Enteprise 2026.1.1 15.0.1.14 + другие ОС + Pro + Repack</title>
       <link>https://rsload.net/soft/graphics/21637-luxion-keyshot-enterprise.html</link>
@@ -56,16 +56,16 @@
       <link>https://rsload.net/soft/cleaner-disk/8468-winrar2.html</link>
     </item>
     <item>
-      <title>Свежая Windows 11 сборка 28000.1764 на Русском с активацией (приватная Lite версия)</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41604-windows-11-280001764-rus-private-lite-torrent.html</link>
-    </item>
-    <item>
       <title>Виндовс 10 22H2 для ноутбука с активацией  (апрель 2026) - сборка без хлама</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41620-vindovs-10-22h2-dlya-noutbuka-s-aktivaciey-aprel-2026-sborka-bez-hlama.html</link>
     </item>
     <item>
       <title>Виндовс 11 26H1 Pro сборка без TPM 2.0 Rus (оптимизация для любых ПК)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41621-windows-11-26h1-pro-iso-tpm-build-280001836.html</link>
+    </item>
+    <item>
+      <title>Windows 11 x64 Lite 25H2 на Русском (Pro 26200.8246) от Ghost Spectre + настройка</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41624-windows-11-x64-lite-25h2-rus-pro-262008246-ghost-spectre.html</link>
     </item>
   </channel>
 </rss>
