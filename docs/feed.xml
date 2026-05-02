@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 15:08:45 +0000</lastBuildDate>
-    <item>
-      <title>gSyncing 1.1.74  на Русском</title>
-      <link>https://rsload.net/soft/manager/40131-gsyncing.html</link>
-    </item>
-    <item>
-      <title>WindowManager 10.26.3 + Repack + Portable</title>
-      <link>https://rsload.net/soft/manager/14104-desksoft-windowmanager.html</link>
-    </item>
-    <item>
-      <title>Franzis ZOOM Video #3 Pro 3.35.04374 + Premium</title>
-      <link>https://rsload.net/soft/editor/41626-franzis-zoom-video-3-professional.html</link>
-    </item>
+    <lastBuildDate>Sat, 02 May 2026 16:05:16 +0000</lastBuildDate>
     <item>
       <title>Core Temp 1.20.1.150 + Portable + Repack</title>
       <link>https://rsload.net/soft/manager/11982-core-temp.html</link>
@@ -54,6 +42,18 @@
     <item>
       <title>Minitab 22.5.0 + Portable</title>
       <link>https://rsload.net/soft/manager/35726-minitab.html</link>
+    </item>
+    <item>
+      <title>GoodSync Enterprise 12.9.29.9 + Repack + Portable + на Русском</title>
+      <link>https://rsload.net/soft/cleaner-disk/8549-goodsync.html</link>
+    </item>
+    <item>
+      <title>Task Explorer 1.8.0 + Portable</title>
+      <link>https://rsload.net/soft/manager/35571-task-explorer.html</link>
+    </item>
+    <item>
+      <title>gSyncit  5.8.45 + премиум версия</title>
+      <link>https://rsload.net/soft/browser/32254-gsyncit.html</link>
     </item>
     <item>
       <title>Виндовс 10 22H2 для ноутбука с активацией  (апрель 2026) - сборка без хлама</title>
