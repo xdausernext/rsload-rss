@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 May 2026 00:04:15 +0000</lastBuildDate>
-    <item>
-      <title>Core Temp 1.20.1.150 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/11982-core-temp.html</link>
-    </item>
-    <item>
-      <title>Universal USB Installer 2.0.3.5 + x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/11574-universal-usb-installer.html</link>
-    </item>
-    <item>
-      <title>YUMI 2.0.9.4 + Portable + UEFI 0.0.4.6 + exFAT 1.0.3.8</title>
-      <link>https://rsload.net/soft/cleaner-disk/10881-yumi.html</link>
-    </item>
-    <item>
-      <title>Digital Clock 5.2.1 + Portable</title>
-      <link>https://rsload.net/soft/desktop/20350-digital-clock.html</link>
-    </item>
-    <item>
-      <title>PrivaZer Pro Donors 4.0.121 + Portable + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/11650-privazer.html</link>
-    </item>
-    <item>
-      <title>Intel Graphics Driver 32.0.101.8737 - полный пакет</title>
-      <link>https://rsload.net/soft/drivers/24982-intel-graphics-drive.html</link>
-    </item>
+    <lastBuildDate>Sun, 03 May 2026 04:25:26 +0000</lastBuildDate>
     <item>
       <title>HFS (HTTP File Server) 3.1.2 + Free</title>
       <link>https://rsload.net/soft/traffic/13016-hfs.html</link>
@@ -54,6 +30,30 @@
     <item>
       <title>gSyncit  5.8.45 + премиум версия</title>
       <link>https://rsload.net/soft/browser/32254-gsyncit.html</link>
+    </item>
+    <item>
+      <title>WinRAR 7.22 для Виндовс на Русском + Repack + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/8468-winrar2.html</link>
+    </item>
+    <item>
+      <title>IsMyHdOK 4.55 + Portable + Win 7</title>
+      <link>https://rsload.net/soft/cleaner-disk/17344-ismyhdok.html</link>
+    </item>
+    <item>
+      <title>Sandboxie 5.72.5 / Plus 1.17.5 + Repack + Portable</title>
+      <link>https://rsload.net/soft/security/15942-sandboxie.html</link>
+    </item>
+    <item>
+      <title>Karaosoft Karma 2026.5.2 + Pro</title>
+      <link>https://rsload.net/soft/manager/38811-karaosoft-karma.html</link>
+    </item>
+    <item>
+      <title>LennarDigital Sylenth1 3.0.75 + Full</title>
+      <link>https://rsload.net/soft/33522-sylenth1.html</link>
+    </item>
+    <item>
+      <title>ActiveFax Server 10.70.0609 Professional + Full</title>
+      <link>https://rsload.net/soft/document/21302-activefax-server.html</link>
     </item>
     <item>
       <title>Виндовс 10 22H2 для ноутбука с активацией  (апрель 2026) - сборка без хлама</title>
