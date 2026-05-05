@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 07:10:42 +0000</lastBuildDate>
-    <item>
-      <title>Auslogics Duplicate File Finder 11.2.0.6 + Repack + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/10205-auslogics-duplicate-file-finder.html</link>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 09:24:45 +0000</lastBuildDate>
     <item>
       <title>Auslogics Disk Defrag Professional 12.2.0.6 + Ultimate 4.13.0.2 + Portable + Rus + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/8476-auslogics-disk-defrag.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 x64 Lite 25H2 на Русском (Pro 26200.8246) от Ghost Spectre + настройка</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41624-windows-11-x64-lite-25h2-rus-pro-262008246-ghost-spectre.html</link>
+    </item>
+    <item>
+      <title>Windows 11 Home 24H2 Magic с Русификатором - облегченный iso без слежки (2.9 GB)</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41628-windows-11-home-24h2-magic-rus-torrent.html</link>
     </item>
   </channel>
 </rss>
