@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 18:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 20:05:53 +0000</lastBuildDate>
     <item>
       <title>YTD Video Downloader Pro 7.6.12.0 + Portable + Repack + Ultimate + Другие ОС</title>
       <link>https://rsload.net/soft/manager/8544-youtube-downloader.html</link>
@@ -56,16 +56,16 @@
       <link>https://rsload.net/soft/windows/windows-10-sborka/41620-vindovs-10-22h2-dlya-noutbuka-s-aktivaciey-aprel-2026-sborka-bez-hlama.html</link>
     </item>
     <item>
-      <title>Виндовс 11 26H1 Pro сборка без TPM 2.0 Rus (оптимизация для любых ПК)</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41621-windows-11-26h1-pro-iso-tpm-build-280001836.html</link>
-    </item>
-    <item>
       <title>Windows 11 x64 Lite 25H2 на Русском (Pro 26200.8246) от Ghost Spectre + настройка</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41624-windows-11-x64-lite-25h2-rus-pro-262008246-ghost-spectre.html</link>
     </item>
     <item>
       <title>Windows 11 Home 24H2 Magic с Русификатором - облегченный iso без слежки (2.9 GB)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41628-windows-11-home-24h2-magic-rus-torrent.html</link>
+    </item>
+    <item>
+      <title>Windows 10 22H2 - Мини iso 1.2 GB (версия для слабых ПК)</title>
+      <link>https://rsload.net/soft/windows/windows-10-sborka/41634-windows-10-22h2-mini-2026.html</link>
     </item>
   </channel>
 </rss>
