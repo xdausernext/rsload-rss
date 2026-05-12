@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 10:22:08 +0000</lastBuildDate>
-    <item>
-      <title>Mozilla Firefox 150.0.3 + x64 + Portable +  ESR</title>
-      <link>https://rsload.net/soft/browser/8342-mozilla-firefox.html</link>
-    </item>
-    <item>
-      <title>AFT xStream 4 2026.01.22 x64</title>
-      <link>https://rsload.net/soft/36573-aft-xstream.html</link>
-    </item>
+    <lastBuildDate>Tue, 12 May 2026 12:22:04 +0000</lastBuildDate>
     <item>
       <title>WinToUSB Enterprise 10.8.0.2 + Portable + Repack на Русском</title>
       <link>https://rsload.net/soft/cleaner-disk/16954-wintousb.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>Revo Uninstaller Pro 5.4.7 + Repack + Portable + 2.7 Free</title>
       <link>https://rsload.net/soft/manager/8918-revo-uninstaller.html</link>
+    </item>
+    <item>
+      <title>Freemake Video Converter 6.0.0.9 + Repack + Portable</title>
+      <link>https://rsload.net/soft/converter/8323-freemake-video-converter.html</link>
+    </item>
+    <item>
+      <title>Dup Scout Ultimate 18.1.16 +  Pro + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/12366-dup-scout.html</link>
     </item>
     <item>
       <title>Виндовс 10 22H2 для ноутбука с активацией  (апрель 2026) - сборка без хлама</title>
