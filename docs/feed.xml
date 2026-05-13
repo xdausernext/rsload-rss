@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 18:20:33 +0000</lastBuildDate>
-    <item>
-      <title>3Dsurvey 4.1.1 - полная версия Multi</title>
-      <link>https://rsload.net/soft/editor/35734-3dsurvey.html</link>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 20:14:46 +0000</lastBuildDate>
     <item>
       <title>Disk Pulse Ultimate 18.1.24 + Portable + x64</title>
       <link>https://rsload.net/soft/cleaner-disk/11796-diskpulse.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>AdwCleaner 8.8.1.639 + Portable + на Русском</title>
       <link>https://rsload.net/soft/security/12325-adwcleaner.html</link>
+    </item>
+    <item>
+      <title>CPU-Z 2.20 + Portable + на Русском</title>
+      <link>https://rsload.net/soft/manager/8708-cpu-z1.html</link>
     </item>
     <item>
       <title>Виндовс 10 22H2 для ноутбука с активацией  (апрель 2026) - сборка без хлама</title>
