@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 11:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 13:33:18 +0000</lastBuildDate>
     <item>
       <title>PassFab 4EasyPartition 4.1.0.22 x64 на Русском</title>
       <link>https://rsload.net/soft/cleaner-disk/40885-passfab-4easypartition.html</link>
@@ -52,10 +52,6 @@
       <link>https://rsload.net/soft/windows/windows-10-sborka/41620-vindovs-10-22h2-dlya-noutbuka-s-aktivaciey-aprel-2026-sborka-bez-hlama.html</link>
     </item>
     <item>
-      <title>Windows 11 x64 Lite 25H2 на Русском (Pro 26200.8246) от Ghost Spectre + настройка</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41624-windows-11-x64-lite-25h2-rus-pro-262008246-ghost-spectre.html</link>
-    </item>
-    <item>
       <title>Windows 11 Home 24H2 Magic с Русификатором - облегченный iso без слежки (2.9 GB)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41628-windows-11-home-24h2-magic-rus-torrent.html</link>
     </item>
@@ -66,6 +62,10 @@
     <item>
       <title>Сбалансированная Windows 11 Pro 23H2 22631.6936 - быстрая сборка 3.0 ГБ</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41635-windows-11-pro-23h2-226316936-torrent-fix-2026.html</link>
+    </item>
+    <item>
+      <title>Современная игровая Windows 11 Pro 25H2 iso 64 бит - GridOS Ru En топ FPS</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41638-windows-11-pro-25h2-iso-x64-gridos-ru-en-fps-torrent.html</link>
     </item>
   </channel>
 </rss>
