@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 May 2026 10:28:40 +0000</lastBuildDate>
-    <item>
-      <title>ON1 Photo RAW MAX 2026.4 20.4.0.18729 + Portable на Русском + x64</title>
-      <link>https://rsload.net/soft/graphics/15695-onone-perfect-photo-suite-premium-edition.html</link>
-    </item>
-    <item>
-      <title>Formware 3D Slicer 1.3.3.6 + x64</title>
-      <link>https://rsload.net/soft/editor/37911-formware-3d-slicer.html</link>
-    </item>
-    <item>
-      <title>Room Arranger 11.1.0.790  x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/11647-room-arranger.html</link>
-    </item>
+    <lastBuildDate>Thu, 21 May 2026 13:43:20 +0000</lastBuildDate>
     <item>
       <title>Notepad++ 8.9.6 + Portable + x64 + на Русском</title>
       <link>https://rsload.net/soft/editor/8606-notepad.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>LaunchBox Premium with Big Box 13.27 x64</title>
       <link>https://rsload.net/soft/manager/35617-launchbox-121.html</link>
+    </item>
+    <item>
+      <title>App Builder 2026.12 + Portable + x64</title>
+      <link>https://rsload.net/soft/editor/23323-app-builder.html</link>
+    </item>
+    <item>
+      <title>Adobe Substance 3D Sampler 6.0.1 + Другие ОС + Repack + Portable</title>
+      <link>https://rsload.net/soft/editor/35247-adobe-substance-3d-sampler.html</link>
+    </item>
+    <item>
+      <title>UPDF 2.5.3 x64</title>
+      <link>https://rsload.net/soft/document/37069-updf.html</link>
     </item>
     <item>
       <title>Windows 10 22H2 - Мини iso 1.2 GB (версия для слабых ПК)</title>
