@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 May 2026 23:31:19 +0000</lastBuildDate>
-    <item>
-      <title>FolderMatch 5.1.1.0</title>
-      <link>https://rsload.net/soft/manager/38539-foldermatch.html</link>
-    </item>
-    <item>
-      <title>Light Image Resizer 7.6.3.172 + Portable + Repack</title>
-      <link>https://rsload.net/soft/graphics/9628-light-image-resizer.html</link>
-    </item>
-    <item>
-      <title>Royal TS 7.4.50522 + x64 + Multi</title>
-      <link>https://rsload.net/soft/traffic/41623-royal-ts.html</link>
-    </item>
-    <item>
-      <title>Macrorit Disk Partition Expert 8.9.0  + на Русском  + Repack + Portable + WinPE</title>
-      <link>https://rsload.net/soft/cleaner-disk/14665-macrorit-disk-partition-expert.html</link>
-    </item>
-    <item>
-      <title>NIUBI Partition Editor 10.3.2 + Portable на Русском + Repack +  WinPE</title>
-      <link>https://rsload.net/soft/cleaner-disk/29166-niubi-partition-editor-technician-edition.html</link>
-    </item>
-    <item>
-      <title>Serviio 2.5 + Pro + другие ОС</title>
-      <link>https://rsload.net/soft/traffic/16420-serviio.html</link>
-    </item>
+    <lastBuildDate>Mon, 25 May 2026 02:11:48 +0000</lastBuildDate>
     <item>
       <title>MKVToolnix 99.0 + x64 + Repack</title>
       <link>https://rsload.net/soft/converter/8775-mkvtoolnix.html</link>
@@ -50,6 +26,30 @@
     <item>
       <title>ProgeCAD 2026 Pro 26.0.12.10 + Portable</title>
       <link>https://rsload.net/soft/editor/11115-progecad.html</link>
+    </item>
+    <item>
+      <title>uTorrent Pro 3.6.0 Build 47254 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/8330-utorrent1.html</link>
+    </item>
+    <item>
+      <title>SpotiFLAC 7.1.7 + x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/41584-spotiflac.html</link>
+    </item>
+    <item>
+      <title>Free Music &amp; Video Downloader 3.17 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/14261-free-music-downloader.html</link>
+    </item>
+    <item>
+      <title>Pazu StreamGet All-In-One Video Downloader 3.1.0 + Repack</title>
+      <link>https://rsload.net/soft/manager/41220-pazu-streamget-all-in-one-video-downloader.html</link>
+    </item>
+    <item>
+      <title>IObit Software Updater Pro 8.5.0.17 + Portable + Repack + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/31839-iobit-software-updater-pro.html</link>
+    </item>
+    <item>
+      <title>WindowManager 10.27.0 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/14104-desksoft-windowmanager.html</link>
     </item>
     <item>
       <title>Виндовс 10 22H2 май 2026 - версия 19045.7291 на Русском без телеметрии</title>
