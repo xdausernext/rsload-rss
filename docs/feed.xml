@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 19:35:11 +0000</lastBuildDate>
-    <item>
-      <title>Evernote 11.19.4.48999 + x64 на Русском</title>
-      <link>https://rsload.net/soft/manager/10694-evernote.html</link>
-    </item>
+    <lastBuildDate>Tue, 02 Jun 2026 22:15:06 +0000</lastBuildDate>
     <item>
       <title>UniGetUI 2026.2.0 на Русском</title>
       <link>https://rsload.net/soft/manager/40678-unigetui.html</link>
@@ -50,6 +46,10 @@
     <item>
       <title>VSO ConvertXtoDVD 7.5.0.157 + Repack + Portable</title>
       <link>https://rsload.net/soft/converter/8320-vso-convertxtodvd.html</link>
+    </item>
+    <item>
+      <title>VovSoft Domain Checker 10.2  + x64 + Multi + Premium</title>
+      <link>https://rsload.net/soft/manager/32672-domain-checker.html</link>
     </item>
     <item>
       <title>Виндовс 10 22H2 май 2026 - версия 19045.7291 на Русском без телеметрии</title>
