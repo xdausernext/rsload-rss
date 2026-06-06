@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 11:01:41 +0000</lastBuildDate>
-    <item>
-      <title>Nitro PDF Professional 14.43.6.0 + 26.0.10 + на Русском  + Portable + Repack + x64</title>
-      <link>https://rsload.net/soft/document/11379-nitro-pdf-professional-rus.html</link>
-    </item>
+    <lastBuildDate>Sat, 06 Jun 2026 12:48:18 +0000</lastBuildDate>
     <item>
       <title>Media Player Codec Pack 5.0.1.605 + Plus</title>
       <link>https://rsload.net/soft/converter/10869-media-player-codec-pack.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 25H2 Pro Ru En 26200.8457 - образ iso 2 GB (быстрая компактная сборка)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41646-windows-11-25h2-pro-ru-en-262008457-iso-2-gb-fixos.html</link>
+    </item>
+    <item>
+      <title>Windows 11 x64 24H2 - Super Lite IoT Enterprise LTSC 2024 - топовая сборка с темами</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41652-windows-11-x64-24h2-super-lite-iot-enterprise-ltsc-2024-torrent.html</link>
     </item>
   </channel>
 </rss>
