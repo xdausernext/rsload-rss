@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jun 2026 17:31:19 +0000</lastBuildDate>
-    <item>
-      <title>AnyTrans iOS 8.9.14.20260608 - рабочая версия</title>
-      <link>https://rsload.net/soft/cleaner-disk/25008-anytrans.html</link>
-    </item>
-    <item>
-      <title>VovSoft Text to MP3 Converter 4.5</title>
-      <link>https://rsload.net/soft/converter/38139-vovsoft-text-to-mp3-converter.html</link>
-    </item>
-    <item>
-      <title>SAPIEN PrimalScript 2026 8.1.228 - рабочая версия</title>
-      <link>https://rsload.net/soft/editor/36056-primalscript.html</link>
-    </item>
-    <item>
-      <title>IDM UEStudio 26.0.0.21 + x64 + Portable + на Русском</title>
-      <link>https://rsload.net/soft/editor/12178-idm-uestudio.html</link>
-    </item>
-    <item>
-      <title>UltraEdit 33.0.0.21 + x64 + Portable + на Русском</title>
-      <link>https://rsload.net/soft/editor/8460-ultraedit.html</link>
-    </item>
-    <item>
-      <title>ExtraMAME 26.5 +  x64</title>
-      <link>https://rsload.net/soft/manager/32523-extramame.html</link>
-    </item>
-    <item>
-      <title>Windows Update Viewer 0.7.2 / WUView</title>
-      <link>https://rsload.net/soft/manager/38993-windows-update-viewer.html</link>
-    </item>
+    <lastBuildDate>Mon, 08 Jun 2026 19:59:04 +0000</lastBuildDate>
     <item>
       <title>Ashampoo Photo Optimizer 26.0.4 + x64 + Portable + Repack</title>
       <link>https://rsload.net/soft/graphics/8418-ashampoo-photo-optimizer.html</link>
@@ -50,6 +22,34 @@
     <item>
       <title>VX Search Ultimate 18.2.28 + Pro + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/27694-vx-search-ultimate.html</link>
+    </item>
+    <item>
+      <title>AnyDesk Pro + 9.7.5 + Portable + Репак</title>
+      <link>https://rsload.net/soft/traffic/19306-anydesk.html</link>
+    </item>
+    <item>
+      <title>ocenaudio 3.19.2 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/10223-ocenaudio.html</link>
+    </item>
+    <item>
+      <title>IceCream Ebook Reader 6.56  Pro + Portable + на Русском + Repack</title>
+      <link>https://rsload.net/soft/document/17751-icecream-ebook-reader.html</link>
+    </item>
+    <item>
+      <title>Cockos REAPER 7.74 + x64 + Portable + Repack на Русском</title>
+      <link>https://rsload.net/soft/editor/8368-reaper.html</link>
+    </item>
+    <item>
+      <title>UPX 5.2.0  + FUPX + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/12954-upx.html</link>
+    </item>
+    <item>
+      <title>SAPIEN PowerShell Studio 2026 5.10.270 - Pro Multi</title>
+      <link>https://rsload.net/soft/editor/36053-powershell-studio.html</link>
+    </item>
+    <item>
+      <title>Cascadeur 2026.1.2 x64 - Win10</title>
+      <link>https://rsload.net/soft/graphics/39727-cascadeur.html</link>
     </item>
     <item>
       <title>Виндовс 10 22H2 май 2026 - версия 19045.7291 на Русском без телеметрии</title>
