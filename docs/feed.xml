@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jun 2026 14:03:53 +0000</lastBuildDate>
-    <item>
-      <title>WinScript 2.17 Portable</title>
-      <link>https://rsload.net/soft/optimization/40962-winscript.html</link>
-    </item>
-    <item>
-      <title>SmartGit 26.1.038 x64 на Русском</title>
-      <link>https://rsload.net/soft/editor/41362-smartgit.html</link>
-    </item>
-    <item>
-      <title>IK Multimedia TONEX MAX 1.12.1 + x64 + Другие ОС</title>
-      <link>https://rsload.net/soft/37280-ik-multimedia-tonex-max.html</link>
-    </item>
-    <item>
-      <title>TominLab WonderPen 3.1.3.8431  + x64 + другие ОС</title>
-      <link>https://rsload.net/soft/editor/38574-wonderpen.html</link>
-    </item>
+    <lastBuildDate>Mon, 08 Jun 2026 17:31:19 +0000</lastBuildDate>
     <item>
       <title>AnyTrans iOS 8.9.14.20260608 - рабочая версия</title>
       <link>https://rsload.net/soft/cleaner-disk/25008-anytrans.html</link>
@@ -50,6 +34,22 @@
     <item>
       <title>Windows Update Viewer 0.7.2 / WUView</title>
       <link>https://rsload.net/soft/manager/38993-windows-update-viewer.html</link>
+    </item>
+    <item>
+      <title>Ashampoo Photo Optimizer 26.0.4 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/8418-ashampoo-photo-optimizer.html</link>
+    </item>
+    <item>
+      <title>ChrisPC VideoTube Downloader Pro 15.26.0608 + Portable на Русском</title>
+      <link>https://rsload.net/soft/manager/16762-chrispc-free-videotube-downloader.html</link>
+    </item>
+    <item>
+      <title>MemoryCleaner 2.0.0 на Русском</title>
+      <link>https://rsload.net/soft/optimization/40700-memorycleaner.html</link>
+    </item>
+    <item>
+      <title>VX Search Ultimate 18.2.28 + Pro + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/27694-vx-search-ultimate.html</link>
     </item>
     <item>
       <title>Виндовс 10 22H2 май 2026 - версия 19045.7291 на Русском без телеметрии</title>
