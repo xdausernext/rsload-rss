@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 10:50:44 +0000</lastBuildDate>
-    <item>
-      <title>AnyTrans iOS 8.9.14.20260616 - рабочая версия</title>
-      <link>https://rsload.net/soft/cleaner-disk/25008-anytrans.html</link>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 15:46:54 +0000</lastBuildDate>
     <item>
       <title>DBF Viewer 2000 9.22 + Repack + x64</title>
       <link>https://rsload.net/soft/editor/38120-dbf-viewer-2000.html</link>
@@ -48,12 +44,12 @@
       <link>https://rsload.net/soft/graphics/10810-zoner-photo-studio.html</link>
     </item>
     <item>
-      <title>Windows 10 LTSC 2021 21H2 x64 на Русском (iso 2 ГБ 19044.7291 без лишнего) + IoT</title>
-      <link>https://rsload.net/soft/windows/windows-10-sborka/41645-windows-10-ltsc-2021-21h2-x64-rus-iso-2-gb-190447291.html</link>
+      <title>Disk Drill Enterprise 6.3.1397.0 + Expert + Repack + x64</title>
+      <link>https://rsload.net/soft/cleaner-disk/19812-disk-drill.html</link>
     </item>
     <item>
-      <title>Windows 11 25H2 Pro Ru En 26200.8457 - образ iso 2 GB (быстрая компактная сборка)</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41646-windows-11-25h2-pro-ru-en-262008457-iso-2-gb-fixos.html</link>
+      <title>Windows 10 LTSC 2021 21H2 x64 на Русском (iso 2 ГБ 19044.7291 без лишнего) + IoT</title>
+      <link>https://rsload.net/soft/windows/windows-10-sborka/41645-windows-10-ltsc-2021-21h2-x64-rus-iso-2-gb-190447291.html</link>
     </item>
     <item>
       <title>Windows 11 x64 25H2 - Super Lite IoT Enterprise LTSC 2024 - топовая сборка с темами</title>
@@ -66,6 +62,10 @@
     <item>
       <title>Легкая Windows 10 Pro 22H2 x64 Rus - июнь 2026 (19045.7417 CleanOS)</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41656-lite-windows-10-pro-22h2-x64-rus-06-2026-190457417-cleanos-torrent.html</link>
+    </item>
+    <item>
+      <title>Стабильная Windows 11 26H1 64-бит - быстрая сборка без лишнего (Июнь 2026 28000.2269)</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41657-windowsos-11-26h1-64-bit-06-2026-build-280002269-torrent.html</link>
     </item>
   </channel>
 </rss>
