@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 05:59:25 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft Edge 149.0.4022.96 + x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/browser/31127-microsoft-edge-7419624.html</link>
-    </item>
-    <item>
-      <title>XenoDream Jux 4.900</title>
-      <link>https://rsload.net/soft/editor/36347-xenodream-jux.html</link>
-    </item>
-    <item>
-      <title>Calibre 9.10.0  + x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/document/9183-calibre.html</link>
-    </item>
-    <item>
-      <title>ON1 Photo RAW MAX 2026.4 20.4.1.18862 + Portable на Русском + x64</title>
-      <link>https://rsload.net/soft/graphics/15695-onone-perfect-photo-suite-premium-edition.html</link>
-    </item>
-    <item>
-      <title>MailWasher Pro 8.0.119 + Portable + Repack</title>
-      <link>https://rsload.net/soft/browser/13880-mailwasher.html</link>
-    </item>
-    <item>
-      <title>SQL Backup Master 8.5.1102 Enterprise + Repack</title>
-      <link>https://rsload.net/soft/editor/35273-sql-backup-master.html</link>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 09:27:21 +0000</lastBuildDate>
     <item>
       <title>Cockos REAPER 7.75 + x64 + Portable + Repack на Русском</title>
       <link>https://rsload.net/soft/editor/8368-reaper.html</link>
@@ -46,6 +22,30 @@
     <item>
       <title>Blackmagic Design DaVinci Resolve Studio 21.0.1 x64 + Repack + Переходы</title>
       <link>https://rsload.net/soft/editor/20845-davinci-resolve.html</link>
+    </item>
+    <item>
+      <title>Cadence Fidelity Pointwise 2025.2.4 x64</title>
+      <link>https://rsload.net/soft/editor/38786-cadence-fidelity-pointwise.html</link>
+    </item>
+    <item>
+      <title>EaseUS Partition Master 20.3.0 Build 202606180359 + WinPE + Repack на Русском</title>
+      <link>https://rsload.net/soft/cleaner-disk/8912-easeus-partition-master.html</link>
+    </item>
+    <item>
+      <title>Teorex FolderIco 9.2.3 + Portable + Repack</title>
+      <link>https://rsload.net/soft/desktop/16020-teorex-folderico.html</link>
+    </item>
+    <item>
+      <title>Duplicate File Finder Professional 2026 v418 + x64  + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/33821-duplicate-file-finder-professional.html</link>
+    </item>
+    <item>
+      <title>Total Commander 11.57 + x64 + Portable + Repack + Сборки + 11.58 RC5</title>
+      <link>https://rsload.net/soft/manager/8564-total-commander2.html</link>
+    </item>
+    <item>
+      <title>PowerToys 0.100.1 + x64</title>
+      <link>https://rsload.net/soft/desktop/35630-powertoys.html</link>
     </item>
     <item>
       <title>Виндовс 11 Pro образ версии 25H2 x64 для слабых ПК (Rus Eng чистая сборка)</title>
