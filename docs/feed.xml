@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 04:31:00 +0000</lastBuildDate>
-    <item>
-      <title>Adobe Premiere Pro 2026 26.3.0 + Repack + Portable + x64 на Русском</title>
-      <link>https://rsload.net/soft/big-programm/14231-adobe-premiere-pro-cc.html</link>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 07:42:16 +0000</lastBuildDate>
     <item>
       <title>Helium Music Manager 18.1.777 Premium x64 + Portable + Repack</title>
       <link>https://rsload.net/soft/manager/10941-helium-music-manager.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 Rus 25H2 26200.8655 - iso для флешки с оптимизацией</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41659-windows-11-rus-25h2-262008655-iso-flyos-torrent.html</link>
+    </item>
+    <item>
+      <title>Windows 11 24H2 26100.8655 образ на Русском - стабильная версия для быстрого старта</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41660-windows-11-24h2-261008655-iso-rus-torrent.html</link>
     </item>
   </channel>
 </rss>
