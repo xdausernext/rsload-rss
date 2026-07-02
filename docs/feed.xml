@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 08:28:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 11:05:18 +0000</lastBuildDate>
     <item>
       <title>OCCT 17.0.3 + Portable + Repack</title>
       <link>https://rsload.net/soft/manager/10376-occt.html</link>
