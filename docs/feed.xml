@@ -6,66 +6,6 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 10:29:54 +0000</lastBuildDate>
-    <item>
-      <title>PopChar 10.1 Build 3360 + Repack + Portable + на Русском + другие ОС</title>
-      <link>https://rsload.net/soft/document/12749-popchar-win.html</link>
-    </item>
-    <item>
-      <title>Microsoft Safety Scanner 1.453.370 + x64 + Portable</title>
-      <link>https://rsload.net/soft/security/19972-microsoft-safety-scanner.html</link>
-    </item>
-    <item>
-      <title>Argente System Repair 1.0.8.2 + x64  на Русском</title>
-      <link>https://rsload.net/soft/optimization/41190-argente-system-repair.html</link>
-    </item>
-    <item>
-      <title>Boris FX Sequoia 2026 18.0.3 + x64 + полная версия</title>
-      <link>https://rsload.net/soft/editor/41328-boris-fx-sequoia.html</link>
-    </item>
-    <item>
-      <title>Boris FX Samplitude Suite 2026.0.3 + Content</title>
-      <link>https://rsload.net/soft/editor/41327-boris-fx-samplitude-suite.html</link>
-    </item>
-    <item>
-      <title>Boris FX Music Studio 2026.0.3 x64 + Content 2026</title>
-      <link>https://rsload.net/soft/editor/41326-boris-fx-music-studio.html</link>
-    </item>
-    <item>
-      <title>WinContig 5.0.3.4</title>
-      <link>https://rsload.net/soft/cleaner-disk/10200-wincontig.html</link>
-    </item>
-    <item>
-      <title>SynthFont 2.9.2.1 + x64 + Portable</title>
-      <link>https://rsload.net/soft/player/15176-synthfont.html</link>
-    </item>
-    <item>
-      <title>Electrum 4.8.0 - портативная версия на Русском</title>
-      <link>https://rsload.net/soft/manager/41664-electrum.html</link>
-    </item>
-    <item>
-      <title>SimpleFixAI 1.7.8 Beta</title>
-      <link>https://rsload.net/soft/optimization/41665-simplefixai.html</link>
-    </item>
-    <item>
-      <title>Легкая Windows 10 Pro 22H2 x64 Rus - июнь 2026 (19045.7417 CleanOS)</title>
-      <link>https://rsload.net/soft/windows/windows-10-sborka/41656-lite-windows-10-pro-22h2-x64-rus-06-2026-190457417-cleanos-torrent.html</link>
-    </item>
-    <item>
-      <title>Стабильная Windows 11 26H1 64-бит - быстрая сборка без лишнего (Июнь 2026 28000.2269)</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41657-windowsos-11-26h1-64-bit-06-2026-build-280002269-torrent.html</link>
-    </item>
-    <item>
-      <title>Windows 11 Rus 25H2 26200.8655 - iso для флешки с оптимизацией</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41659-windows-11-rus-25h2-262008655-iso-flyos-torrent.html</link>
-    </item>
-    <item>
-      <title>Windows 11 24H2 26100.8655 образ на Русском - стабильная версия для быстрого старта</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41660-windows-11-24h2-261008655-iso-rus-torrent.html</link>
-    </item>
-    <item>
-      <title>Быстрая Windows 10 для старых ПК - IoT LTSC 21H2 19044.7417 (Июнь 2026)</title>
-      <link>https://rsload.net/soft/windows/windows-10-sborka/41662-super-lite-windows-10-iot-ltsc-21h2-190447417-torrent.html</link>
-    </item>
+    <lastBuildDate>Sat, 04 Jul 2026 11:51:17 +0000</lastBuildDate>
   </channel>
 </rss>
