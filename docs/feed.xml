@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 10:40:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 12:08:30 +0000</lastBuildDate>
     <item>
       <title>EditPlus 6.1.939 + Portable (Русский)</title>
       <link>https://rsload.net/soft/editor/10350-editplus.html</link>
@@ -56,16 +56,16 @@
       <link>https://rsload.net/soft/windows/windows-11-sborka/41657-windowsos-11-26h1-64-bit-06-2026-build-280002269-torrent.html</link>
     </item>
     <item>
-      <title>Windows 11 24H2 26100.8655 образ на Русском - стабильная версия для быстрого старта</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41660-windows-11-24h2-261008655-iso-rus-torrent.html</link>
-    </item>
-    <item>
       <title>Быстрая Windows 10 для старых ПК - IoT LTSC 21H2 19044.7417 (Июнь 2026)</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41662-super-lite-windows-10-iot-ltsc-21h2-190447417-torrent.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 IoT Enterprise - стабильная игровая сборка GamesStorm Line</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41689-windows-11-iot-enterprise-iso-gamesstorm-line-2026-ru-en.html</link>
+    </item>
+    <item>
+      <title>Windows 11 26H1 Pro 28020.2380 Июль 2026 + Магазин + Xbox - без телеметрии</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41696-windows-11-26h1-pro-280202380-store-xbox-torrent.html</link>
     </item>
   </channel>
 </rss>
