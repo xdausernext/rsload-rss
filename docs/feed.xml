@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 07:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 09:24:34 +0000</lastBuildDate>
     <item>
       <title>ConfigureDefender 4.1.1.1</title>
       <link>https://rsload.net/soft/security/35643-configuredefender.html</link>
