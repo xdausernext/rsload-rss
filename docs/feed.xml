@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 10:44:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 11:42:29 +0000</lastBuildDate>
     <item>
       <title>IObit Uninstaller Pro 15.5.0.11 + Portable + Repack на Русском</title>
       <link>https://rsload.net/soft/cleaner-disk/9592-iobit-uninstaller.html</link>
@@ -48,10 +48,6 @@
       <link>https://rsload.net/soft/talk/27057-telegram-for-desktop.html</link>
     </item>
     <item>
-      <title>Легкая Windows 10 Pro 22H2 x64 Rus - июнь 2026 (19045.7417 CleanOS)</title>
-      <link>https://rsload.net/soft/windows/windows-10-sborka/41656-lite-windows-10-pro-22h2-x64-rus-06-2026-190457417-cleanos-torrent.html</link>
-    </item>
-    <item>
       <title>Быстрая Windows 10 для старых ПК - IoT LTSC 21H2 19044.7417 (Июнь 2026)</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41662-super-lite-windows-10-iot-ltsc-21h2-190447417-torrent.html</link>
     </item>
@@ -66,6 +62,10 @@
     <item>
       <title>Виндовс 10 22H2 на Русском (19045.7548 Июль 2026 ) - для ноутбука и ПК 1.7 ГБ</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41701-win-10-22h2-rus-190457548-2026-17-gb-torrent-super-lite.html</link>
+    </item>
+    <item>
+      <title>Обычная Windows 11 Pro 26H1 - легкая сборка 28000.2525 (Рус iso 1.9 ГБ)</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41702-windows-11-pro-26h1-x64-lite-280002525-torrent.html</link>
     </item>
   </channel>
 </rss>
