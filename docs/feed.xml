@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Aug 2026 06:17:27 +0000</lastBuildDate>
-    <item>
-      <title>Karaosoft Karma 2027.0.1 + Pro</title>
-      <link>https://rsload.net/soft/manager/38811-karaosoft-karma.html</link>
-    </item>
+    <lastBuildDate>Wed, 05 Aug 2026 09:15:24 +0000</lastBuildDate>
     <item>
       <title>EASEUS Todo Backup 16.3.1 Build 20260721 + на Русском + Boot CD + другие ОС + Home + EmergencyDisk</title>
       <link>https://rsload.net/soft/manager/11266-easeus-todo-backup-advanced-server.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>YT Geek YTDL Pro 12.5.5 + x64</title>
       <link>https://rsload.net/soft/manager/39921-yt-geek-ytdl-pro.html</link>
+    </item>
+    <item>
+      <title>Hide Folders 6.1 Build 6.1.1.1515 + Repack</title>
+      <link>https://rsload.net/soft/cleaner-disk/11859-hide-folders.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 IoT Enterprise - стабильная игровая сборка GamesStorm Line</title>
