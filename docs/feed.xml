@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Aug 2026 13:38:48 +0000</lastBuildDate>
-    <item>
-      <title>RazorSQL 11.0.2 + x64 + Portable + другие ОС</title>
-      <link>https://rsload.net/soft/manager/26592-razorsql.html</link>
-    </item>
-    <item>
-      <title>EverythingToolbar 3.0.0 + x64 + Win</title>
-      <link>https://rsload.net/soft/desktop/35080-everythingtoolbar-063.html</link>
-    </item>
-    <item>
-      <title>Dropbox 264.4.3385 + x64 на Русском</title>
-      <link>https://rsload.net/soft/manager/9177-dropbox.html</link>
-    </item>
-    <item>
-      <title>Helium Streamer 8.1.0.1848 Premium + x64</title>
-      <link>https://rsload.net/soft/player/30859-helium-streamer.html</link>
-    </item>
-    <item>
-      <title>Adobe Premiere Pro 2026 26.3.2 + Repack + Portable + x64 на Русском</title>
-      <link>https://rsload.net/soft/big-programm/14231-adobe-premiere-pro-cc.html</link>
-    </item>
-    <item>
-      <title>Plex Media Server 1.43.3.10861  x64</title>
-      <link>https://rsload.net/soft/traffic/14591-plex-media-server.html</link>
-    </item>
-    <item>
-      <title>Mozilla Thunderbird 153.0.2 + ESR  + Portable</title>
-      <link>https://rsload.net/soft/browser/8341-mozilla-thunderbird.html</link>
-    </item>
+    <lastBuildDate>Wed, 05 Aug 2026 15:52:20 +0000</lastBuildDate>
     <item>
       <title>UVK Ultra Virus Killer Pro 11.10.27 + Pro + x64</title>
       <link>https://rsload.net/soft/security/11420-uvk-ultra-virus-killer.html</link>
@@ -46,6 +18,34 @@
     <item>
       <title>Chaos Corona 15 Hotfix 2 для 3DS Max 2018 - 2027</title>
       <link>https://rsload.net/soft/editor/41715-chaos-corona-3ds-max.html</link>
+    </item>
+    <item>
+      <title>Automatic Email Processor 1.15.0 / Ultimate Edition 4.6</title>
+      <link>https://rsload.net/soft/manager/23306-automatic-email-processor.html</link>
+    </item>
+    <item>
+      <title>XL-Connector 3.7.31.0  + Full версия</title>
+      <link>https://rsload.net/soft/manager/41219-xl-connector.html</link>
+    </item>
+    <item>
+      <title>Listary Pro 7.0.0.9  - новая бета версия</title>
+      <link>https://rsload.net/soft/cleaner-disk/15609-listary.html</link>
+    </item>
+    <item>
+      <title>PlayerFab 7.0.5.7 x64 + Portable / DVDFab Media Player Ultra</title>
+      <link>https://rsload.net/soft/player/11439-dvdfab-media-player-11015-lic.html</link>
+    </item>
+    <item>
+      <title>RawTherapee 5.13 x64 + Portable</title>
+      <link>https://rsload.net/soft/graphics/13177-rawtherapee.html</link>
+    </item>
+    <item>
+      <title>Tails 7.10.1 x64 - iso образ</title>
+      <link>https://rsload.net/soft/big-programm/16535-tails-i386-101-11-rc1.html</link>
+    </item>
+    <item>
+      <title>PDFsam - PDF Split and Merge 6.0.5 + Enhanced 7.0.70.15196</title>
+      <link>https://rsload.net/soft/editor/11582-pdfsam.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 IoT Enterprise - стабильная игровая сборка GamesStorm Line</title>
