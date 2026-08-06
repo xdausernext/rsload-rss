@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 07:30:55 +0000</lastBuildDate>
-    <item>
-      <title>DiskGeek 1.0</title>
-      <link>https://rsload.net/soft/cleaner-disk/41718-diskgeek.html</link>
-    </item>
-    <item>
-      <title>PlayerFab 7.0.5.8 x64 + Portable / DVDFab Media Player Ultra</title>
-      <link>https://rsload.net/soft/player/11439-dvdfab-media-player-11015-lic.html</link>
-    </item>
-    <item>
-      <title>Thimeo Stereo Tool 11.01 + x64 + ST-Enterprise 11.01</title>
-      <link>https://rsload.net/soft/optimization/18616-stereo-tool.html</link>
-    </item>
-    <item>
-      <title>Thimeo Relay 11.01 x64</title>
-      <link>https://rsload.net/soft/manager/41410-thimeo-relay.html</link>
-    </item>
-    <item>
-      <title>Luminar Neo 1.28.0.17626 + Portable + Repack + на Русском</title>
-      <link>https://rsload.net/soft/editor/36239-luminar-neo.html</link>
-    </item>
-    <item>
-      <title>Draftable Desktop 26.8.0 x64 + Portable</title>
-      <link>https://rsload.net/soft/document/33728-draftable-desktop.html</link>
-    </item>
-    <item>
-      <title>Claris FileMaker Pro 26.0.2.212  + x64 + Portable + Repack + Server</title>
-      <link>https://rsload.net/soft/manager/23295-filemaker-pro-advanced.html</link>
-    </item>
+    <lastBuildDate>Thu, 06 Aug 2026 10:24:50 +0000</lastBuildDate>
     <item>
       <title>pdfMachine Ultimate 20.61 - полная активация</title>
       <link>https://rsload.net/soft/document/36336-pdfmachine-ultimate.html</link>
@@ -46,6 +18,34 @@
     <item>
       <title>Auslogics Disk Defrag Professional 12.3.0.1 + Ultimate 4.13.0.2 + Portable + Rus + Repack</title>
       <link>https://rsload.net/soft/cleaner-disk/8476-auslogics-disk-defrag.html</link>
+    </item>
+    <item>
+      <title>n-Track Studio 10.3.1.10978 + Portable  + Full</title>
+      <link>https://rsload.net/soft/editor/15191-n-track-studio.html</link>
+    </item>
+    <item>
+      <title>Quick'n Easy Web Builder 13.1.0 + x64 + на Русском</title>
+      <link>https://rsload.net/soft/editor/17258-quickn-easy-web-builder.html</link>
+    </item>
+    <item>
+      <title>UsbToolbox Pro 1.3 + x64 Free</title>
+      <link>https://rsload.net/soft/cleaner-disk/41367-usbtoolbox.html</link>
+    </item>
+    <item>
+      <title>DropCompress 1.3.3 + Portable</title>
+      <link>https://rsload.net/soft/optimization/34691-dropcompress.html</link>
+    </item>
+    <item>
+      <title>PDFCompressor-CL 1.4.12</title>
+      <link>https://rsload.net/soft/document/38665-pdfcompressor-cl.html</link>
+    </item>
+    <item>
+      <title>reaConverter Pro 8.0.235 + Portable + Repack</title>
+      <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
+    </item>
+    <item>
+      <title>Transcribe 9.60.4 x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/36290-transcribe.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 IoT Enterprise - стабильная игровая сборка GamesStorm Line</title>
