@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 12:23:12 +0000</lastBuildDate>
-    <item>
-      <title>reaConverter Pro 8.0.235 + Portable + Repack</title>
-      <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
-    </item>
-    <item>
-      <title>Transcribe 9.60.4 x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/36290-transcribe.html</link>
-    </item>
-    <item>
-      <title>WinCatalog 2026.3.1.805   + Portable  + Repack</title>
-      <link>https://rsload.net/soft/manager/11652-wincatalog.html</link>
-    </item>
-    <item>
-      <title>iToolab WatsGo 9.2.0 + другие ОС</title>
-      <link>https://rsload.net/soft/cleaner-disk/37146-itoolab-watsgo.html</link>
-    </item>
-    <item>
-      <title>Markdown Monster 4.5.0.6 + премиум</title>
-      <link>https://rsload.net/soft/editor/32552-markdown-monster.html</link>
-    </item>
-    <item>
-      <title>Lansweeper 12.9.0.3 + полная версия + Multi</title>
-      <link>https://rsload.net/soft/traffic/14067-lansweeper.html</link>
-    </item>
+    <lastBuildDate>Thu, 06 Aug 2026 14:42:02 +0000</lastBuildDate>
     <item>
       <title>PTC Creo 13.4.0.0 + HelpCenter + 12.4.4.0 + 10.0.11</title>
       <link>https://rsload.net/soft/editor/27343-ptc-creo.html</link>
@@ -46,6 +22,30 @@
     <item>
       <title>Synchredible Professional 9.117 + Repack + Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/31766-synchredible-professional.html</link>
+    </item>
+    <item>
+      <title>SolidCAM 2026 SP1 для Solid Edge 2020-2026</title>
+      <link>https://rsload.net/soft/editor/41719-solidcam-for-solid-edge.html</link>
+    </item>
+    <item>
+      <title>SysGauge Ultimate 13.4.12 + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/26540-sysgauge.html</link>
+    </item>
+    <item>
+      <title>Light Image Resizer 7.6.5.176  + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/9628-light-image-resizer.html</link>
+    </item>
+    <item>
+      <title>Lightjams 1.0.0.774 x64 + Pro</title>
+      <link>https://rsload.net/soft/desktop/37083-lightjams.html</link>
+    </item>
+    <item>
+      <title>DBF Recovery 4.79  - Pro версия</title>
+      <link>https://rsload.net/soft/cleaner-disk/41460-dbf-recovery.html</link>
+    </item>
+    <item>
+      <title>MultiOS-USB 0.13.0</title>
+      <link>https://rsload.net/soft/cleaner-disk/39037-multios-usb.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 IoT Enterprise - стабильная игровая сборка GamesStorm Line</title>
