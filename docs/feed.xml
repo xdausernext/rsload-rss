@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 14:42:02 +0000</lastBuildDate>
-    <item>
-      <title>PTC Creo 13.4.0.0 + HelpCenter + 12.4.4.0 + 10.0.11</title>
-      <link>https://rsload.net/soft/editor/27343-ptc-creo.html</link>
-    </item>
-    <item>
-      <title>Windhawk 1.7.3</title>
-      <link>https://rsload.net/soft/manager/39556-windhawk.html</link>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 00:20:12 +0000</lastBuildDate>
     <item>
       <title>ImageGlass  9.6.1.807 + x64 + Portable</title>
       <link>https://rsload.net/soft/graphics/14896-imageglass.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>MultiOS-USB 0.13.0</title>
       <link>https://rsload.net/soft/cleaner-disk/39037-multios-usb.html</link>
+    </item>
+    <item>
+      <title>GibbsCAM 2026 26.1.15.0 x64 + 2024</title>
+      <link>https://rsload.net/soft/editor/27183-gibbscam.html</link>
+    </item>
+    <item>
+      <title>XnConvert 1.115.0 + x64 + Portable + на Русском + Repack</title>
+      <link>https://rsload.net/soft/graphics/13230-xnconvert.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 IoT Enterprise - стабильная игровая сборка GamesStorm Line</title>
