@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 06:47:47 +0000</lastBuildDate>
-    <item>
-      <title>Glow 26.12 - портативная версия</title>
-      <link>https://rsload.net/soft/manager/40338-glow.html</link>
-    </item>
-    <item>
-      <title>FluentCleaner 26.08.01 + Classic  1.12.125</title>
-      <link>https://rsload.net/soft/optimization/41618-fluentcleaner.html</link>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 08:19:35 +0000</lastBuildDate>
     <item>
       <title>OSFMount 3.2.1001 + Repack + на Русском Portable</title>
       <link>https://rsload.net/soft/cleaner-disk/10490-osfmount.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>Ant Download Manager Pro 2.17.7 +  Portable + Repack</title>
       <link>https://rsload.net/soft/manager/20343-ant-download-manager.html</link>
+    </item>
+    <item>
+      <title>OpenAudible 4.8.8</title>
+      <link>https://rsload.net/soft/manager/40557-openaudible.html</link>
+    </item>
+    <item>
+      <title>Clementine Music Player 1.4.1-86</title>
+      <link>https://rsload.net/soft/player/12119-clementine.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 IoT Enterprise - стабильная игровая сборка GamesStorm Line</title>
