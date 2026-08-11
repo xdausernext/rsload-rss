@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 04:45:26 +0000</lastBuildDate>
-    <item>
-      <title>Clipboard Master 5.9.110</title>
-      <link>https://rsload.net/soft/desktop/11472-clipboard-master.html</link>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 05:45:34 +0000</lastBuildDate>
     <item>
       <title>Karaosoft Karma 2027.0.2 + Pro</title>
       <link>https://rsload.net/soft/manager/38811-karaosoft-karma.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>Mozilla Firefox 153.0.4 + Portable + ESR + Repack</title>
       <link>https://rsload.net/soft/browser/8342-mozilla-firefox.html</link>
+    </item>
+    <item>
+      <title>MOBILedit Forensic Ultra 9.8.0.34378 - 3 GB Multi</title>
+      <link>https://rsload.net/soft/manager/41637-mobiledit-forensic-ultra.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 IoT Enterprise - стабильная игровая сборка GamesStorm Line</title>
