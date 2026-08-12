@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 18:12:33 +0000</lastBuildDate>
-    <item>
-      <title>Chris-PC RAM Booster 7.26.0812 + Portable</title>
-      <link>https://rsload.net/soft/cam/19183-chris-pc-ram-booster.html</link>
-    </item>
-    <item>
-      <title>Smart Game Booster Pro 6.0.0.1183 + Repack + Portable</title>
-      <link>https://rsload.net/soft/optimization/33879-smart-game-booster.html</link>
-    </item>
-    <item>
-      <title>Chris-PC CPU Booster 3.26.0812  + Portable</title>
-      <link>https://rsload.net/soft/manager/33699-chris-pc-cpu-booster.html</link>
-    </item>
-    <item>
-      <title>ChrisPC VideoTube Downloader Pro 15.26.0812 + Portable на Русском</title>
-      <link>https://rsload.net/soft/manager/16762-chrispc-free-videotube-downloader.html</link>
-    </item>
-    <item>
-      <title>Inno Setup Compiler 7.1.0  + Portable на Русском</title>
-      <link>https://rsload.net/soft/editor/9653-inno-setup.html</link>
-    </item>
-    <item>
-      <title>MiTeC Task Manager DeLuxe 5.0.0 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/15072-mitec-task-manager-deluxe.html</link>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 19:32:32 +0000</lastBuildDate>
     <item>
       <title>ButterScroll 1.6 + разблокированная версия</title>
       <link>https://rsload.net/soft/desktop/41361-butterscroll.html</link>
@@ -46,6 +22,30 @@
     <item>
       <title>Maxon Red Giant 2026.5.1 + x64 + Premium</title>
       <link>https://rsload.net/soft/editor/41100-maxon-red-giant.html</link>
+    </item>
+    <item>
+      <title>reFX Rippler 1.0.41 - профессиональная версия</title>
+      <link>https://rsload.net/soft/41725-refx-rippler.html</link>
+    </item>
+    <item>
+      <title>HTTP Debugger Pro 10.8 + Repack  + на Русском</title>
+      <link>https://rsload.net/soft/traffic/14998-http-debugger.html</link>
+    </item>
+    <item>
+      <title>Sysinternals Suite 2026.8.12 + x64 + полный пакет</title>
+      <link>https://rsload.net/soft/10993-sysinternals-suite.html</link>
+    </item>
+    <item>
+      <title>Process Explorer 17.13 + на Русском + Portable</title>
+      <link>https://rsload.net/soft/manager/8399-process-explorer.html</link>
+    </item>
+    <item>
+      <title>Process Monitor 4.05 + на Русском + Portable</title>
+      <link>https://rsload.net/soft/manager/10633-process-monitor.html</link>
+    </item>
+    <item>
+      <title>Olympia Graphic Design 1.7.7.64 Pro</title>
+      <link>https://rsload.net/soft/graphics/39533-olympia-graphic-design.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 IoT Enterprise - стабильная игровая сборка GamesStorm Line</title>
