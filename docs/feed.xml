@@ -6,39 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 05:14:39 +0000</lastBuildDate>
-    <item>
-      <title>ButterScroll 1.6 + разблокированная версия</title>
-      <link>https://rsload.net/soft/desktop/41361-butterscroll.html</link>
-    </item>
-    <item>
-      <title>WinTools net Professional 26.8.1 + Portable + Repack + WinTools.one</title>
-      <link>https://rsload.net/soft/optimization/8760-wintools-net.html</link>
-    </item>
-    <item>
-      <title>Movavi Video Editor Plus + 26.21.3 + Repack + Portable + другие ОС</title>
-      <link>https://rsload.net/soft/editor/19043-movavi-video-editor.html</link>
-    </item>
-    <item>
-      <title>Maxon Red Giant 2026.5.1 + x64 + Premium</title>
-      <link>https://rsload.net/soft/editor/41100-maxon-red-giant.html</link>
-    </item>
-    <item>
-      <title>reFX Rippler 1.0.41 - профессиональная версия</title>
-      <link>https://rsload.net/soft/41725-refx-rippler.html</link>
-    </item>
-    <item>
-      <title>HTTP Debugger Pro 10.8 + Repack  + на Русском</title>
-      <link>https://rsload.net/soft/traffic/14998-http-debugger.html</link>
-    </item>
-    <item>
-      <title>Sysinternals Suite 2026.8.12 + x64 + полный пакет</title>
-      <link>https://rsload.net/soft/10993-sysinternals-suite.html</link>
-    </item>
-    <item>
-      <title>Process Explorer 17.13 + на Русском + Portable</title>
-      <link>https://rsload.net/soft/manager/8399-process-explorer.html</link>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 06:52:23 +0000</lastBuildDate>
     <item>
       <title>Process Monitor 4.05 + на Русском + Portable</title>
       <link>https://rsload.net/soft/manager/10633-process-monitor.html</link>
@@ -46,6 +14,38 @@
     <item>
       <title>Olympia Graphic Design 1.7.7.64 Pro</title>
       <link>https://rsload.net/soft/graphics/39533-olympia-graphic-design.html</link>
+    </item>
+    <item>
+      <title>WiFi Explorer Pro 1.2.5.0 для Windows</title>
+      <link>https://rsload.net/soft/traffic/41726-wifi-explorer-pro.html</link>
+    </item>
+    <item>
+      <title>Olympia Logo Creation 1.7.7.64 - полный набор шрифтов</title>
+      <link>https://rsload.net/soft/editor/39532-olympia-logo-creation.html</link>
+    </item>
+    <item>
+      <title>Wireshark 4.6.8 + x64 + Portable</title>
+      <link>https://rsload.net/soft/traffic/11086-wireshark.html</link>
+    </item>
+    <item>
+      <title>FanControl 273 + x64</title>
+      <link>https://rsload.net/soft/manager/34303-fancontrol.html</link>
+    </item>
+    <item>
+      <title>DeskCalc Pro 10.1.2 + Portable</title>
+      <link>https://rsload.net/soft/manager/24436-deskcalc-pro.html</link>
+    </item>
+    <item>
+      <title>HttpMaster Pro 7.1.0 + Portable</title>
+      <link>https://rsload.net/soft/editor/31765-httpmaster-pro.html</link>
+    </item>
+    <item>
+      <title>Ahnenblatt 4.50.0.2 + x64 на Русском</title>
+      <link>https://rsload.net/soft/manager/35130-ahnenblatt-322.html</link>
+    </item>
+    <item>
+      <title>Image-Line FL Studio Producer 26.1.4.5589 + Portable + на Русском</title>
+      <link>https://rsload.net/soft/editor/14794-fl-studio-producer-edition.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 IoT Enterprise - стабильная игровая сборка GamesStorm Line</title>
