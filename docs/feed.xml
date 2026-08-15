@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 04:30:28 +0000</lastBuildDate>
-    <item>
-      <title>WinNc 11.6  + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/11138-winnc.html</link>
-    </item>
-    <item>
-      <title>AOMEI Partition Assistant Pro 10.12 + Repack + Portable + WinPE + Рус</title>
-      <link>https://rsload.net/soft/cleaner-disk/12953-partition-assistant.html</link>
-    </item>
-    <item>
-      <title>AOMEI Backupper Technician Plus 8.4 + WinPE Boot + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/13911-aomei-backupper.html</link>
-    </item>
-    <item>
-      <title>Wise Registry Cleaner Pro 11.3.3.735 + Portable + Repack</title>
-      <link>https://rsload.net/soft/registry/10698-wise-registry-cleaner.html</link>
-    </item>
-    <item>
-      <title>EmEditor Professional 26.2.5 + x64  + Repack + Portable</title>
-      <link>https://rsload.net/soft/editor/9992-emeditor.html</link>
-    </item>
-    <item>
-      <title>iDownerGo 11.2.1 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/40752-idownergo.html</link>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 05:14:31 +0000</lastBuildDate>
     <item>
       <title>Adobe Acrobat Reader 2026.001.21789  + Portable + Repack на Русском</title>
       <link>https://rsload.net/soft/document/8667-adobe-reader.html</link>
@@ -46,6 +22,30 @@
     <item>
       <title>TablePlus 26.9.3 + Pro версия</title>
       <link>https://rsload.net/soft/manager/34214-tableplus.html</link>
+    </item>
+    <item>
+      <title>OBS Studio (Open Broadcaster Software)  32.2.2  + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/14332-open-broadcaster-software.html</link>
+    </item>
+    <item>
+      <title>Keyword Researcher Pro 13.260</title>
+      <link>https://rsload.net/soft/manager/32661-keyword-researcher-pro.html</link>
+    </item>
+    <item>
+      <title>ASUS GPU Tweak III  2.4.1.0</title>
+      <link>https://rsload.net/soft/optimization/17276-asus-gpu-tweak.html</link>
+    </item>
+    <item>
+      <title>Windows PowerShell 7.6.5 + x64 + Portable</title>
+      <link>https://rsload.net/soft/manager/35655-windows-powershell.html</link>
+    </item>
+    <item>
+      <title>Microsoft Edge 151.0.4129.86 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/browser/31127-microsoft-edge-7419624.html</link>
+    </item>
+    <item>
+      <title>ONYX AI Matte 3.3.0 - полный пакет</title>
+      <link>https://rsload.net/soft/editor/41729-onyx-ai-matte.html</link>
     </item>
     <item>
       <title>Обычная Windows 11 Pro 26H1 - легкая сборка 28000.2525 (Рус iso 1.9 ГБ)</title>
