@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 18:11:51 +0000</lastBuildDate>
-    <item>
-      <title>Windows PowerShell 7.6.5 + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/35655-windows-powershell.html</link>
-    </item>
-    <item>
-      <title>Microsoft Edge 151.0.4129.86 + x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/browser/31127-microsoft-edge-7419624.html</link>
-    </item>
-    <item>
-      <title>ONYX AI Matte 3.3.0 - полный пакет</title>
-      <link>https://rsload.net/soft/editor/41729-onyx-ai-matte.html</link>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 18:52:03 +0000</lastBuildDate>
     <item>
       <title>Helium Music Manager 18.1.815 Premium x64 + Portable + Repack</title>
       <link>https://rsload.net/soft/manager/10941-helium-music-manager.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>Movavi Video Converter 24.5.0 + Repack + Premium</title>
       <link>https://rsload.net/soft/converter/15921-movavi-video-converter.html</link>
+    </item>
+    <item>
+      <title>XYplorer 28.30.1900 + x64 + Portable + Repack</title>
+      <link>https://rsload.net/soft/manager/9435-xyplorer.html</link>
+    </item>
+    <item>
+      <title>XMedia Recode 3.6.3.7 + Portable + Repack</title>
+      <link>https://rsload.net/soft/converter/8448-xmedia-recode.html</link>
+    </item>
+    <item>
+      <title>DISMTools 0.8.1.260816 + x64 + Portable + 0.7.3 Update 3</title>
+      <link>https://rsload.net/soft/editor/40522-dismtools.html</link>
     </item>
     <item>
       <title>Обычная Windows 11 Pro 26H1 - легкая сборка 28000.2525 (Рус iso 1.9 ГБ)</title>
