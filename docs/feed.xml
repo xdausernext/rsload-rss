@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 08:13:43 +0000</lastBuildDate>
-    <item>
-      <title>OBS Studio (Open Broadcaster Software)  32.2.2  + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/14332-open-broadcaster-software.html</link>
-    </item>
-    <item>
-      <title>Keyword Researcher Pro 13.260</title>
-      <link>https://rsload.net/soft/manager/32661-keyword-researcher-pro.html</link>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 08:50:35 +0000</lastBuildDate>
     <item>
       <title>ASUS GPU Tweak III  2.4.1.0</title>
       <link>https://rsload.net/soft/optimization/17276-asus-gpu-tweak.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>Lightjams 1.0.0.776 x64 + Pro</title>
       <link>https://rsload.net/soft/desktop/37083-lightjams.html</link>
+    </item>
+    <item>
+      <title>PlayerFab 7.0.6.0 x64 + Portable / DVDFab Media Player Ultra</title>
+      <link>https://rsload.net/soft/player/11439-dvdfab-media-player-11015-lic.html</link>
+    </item>
+    <item>
+      <title>Boris FX Optics 2026.5.2 + Repack + Portable</title>
+      <link>https://rsload.net/soft/34392-boris-fx-optics.html</link>
     </item>
     <item>
       <title>Обычная Windows 11 Pro 26H1 - легкая сборка 28000.2525 (Рус iso 1.9 ГБ)</title>
