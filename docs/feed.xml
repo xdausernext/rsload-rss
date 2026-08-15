@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 08:50:35 +0000</lastBuildDate>
-    <item>
-      <title>ASUS GPU Tweak III  2.4.1.0</title>
-      <link>https://rsload.net/soft/optimization/17276-asus-gpu-tweak.html</link>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 09:14:39 +0000</lastBuildDate>
     <item>
       <title>Windows PowerShell 7.6.5 + x64 + Portable</title>
       <link>https://rsload.net/soft/manager/35655-windows-powershell.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>Boris FX Optics 2026.5.2 + Repack + Portable</title>
       <link>https://rsload.net/soft/34392-boris-fx-optics.html</link>
+    </item>
+    <item>
+      <title>Movavi Video Converter 24.5.0 + Repack + Premium</title>
+      <link>https://rsload.net/soft/converter/15921-movavi-video-converter.html</link>
     </item>
     <item>
       <title>Обычная Windows 11 Pro 26H1 - легкая сборка 28000.2525 (Рус iso 1.9 ГБ)</title>
