@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 07:06:23 +0000</lastBuildDate>
-    <item>
-      <title>Lightjams 1.0.0.776 x64 + Pro</title>
-      <link>https://rsload.net/soft/desktop/37083-lightjams.html</link>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 07:51:06 +0000</lastBuildDate>
     <item>
       <title>PlayerFab 7.0.6.0 x64 + Portable / DVDFab Media Player Ultra</title>
       <link>https://rsload.net/soft/player/11439-dvdfab-media-player-11015-lic.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>WindowTop Pro 5.32.6 + на Русском + Portable + Free</title>
       <link>https://rsload.net/soft/desktop/35101-windowtop.html</link>
+    </item>
+    <item>
+      <title>Syncovery Premium 12.4.6.63   + x64 + Full</title>
+      <link>https://rsload.net/soft/cleaner-disk/16717-syncovery.html</link>
     </item>
     <item>
       <title>Обычная Windows 11 Pro 26H1 - легкая сборка 28000.2525 (Рус iso 1.9 ГБ)</title>
