@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 13:12:38 +0000</lastBuildDate>
-    <item>
-      <title>USB Device Tree Viewer 4.7.3</title>
-      <link>https://rsload.net/soft/cam/17042-usb-device-tree-viewer.html</link>
-    </item>
-    <item>
-      <title>TextPad 9.9.8 + x64 + Portable</title>
-      <link>https://rsload.net/soft/editor/15726-textpad.html</link>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 13:57:50 +0000</lastBuildDate>
     <item>
       <title>Wondershare PDFelement Pro  12.2.0.4408 + OCR + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/18941-wondershare-pdfelement-pro.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>addLEDs 2.0.0.1</title>
       <link>https://rsload.net/soft/desktop/37225-addleds.html</link>
+    </item>
+    <item>
+      <title>W10Privacy 6.2.0 + на Русском</title>
+      <link>https://rsload.net/soft/20427-w10privacy.html</link>
+    </item>
+    <item>
+      <title>Mozilla Firefox 154.0 + Portable + ESR + Repack</title>
+      <link>https://rsload.net/soft/browser/8342-mozilla-firefox.html</link>
     </item>
     <item>
       <title>Windows 11 25H2 Rus Enterprise LTSC 26200.8894 - компактная система 1.9 GB</title>
