@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 14:57:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 15:26:33 +0000</lastBuildDate>
     <item>
       <title>Xmanager Enterprise 6 Build 0143 + Power Suite 8.0.0021</title>
       <link>https://rsload.net/soft/manager/14024-xmanager-enterprise.html</link>
