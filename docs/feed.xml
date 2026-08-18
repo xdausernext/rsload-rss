@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 15:54:11 +0000</lastBuildDate>
-    <item>
-      <title>Xmanager Enterprise 6 Build 0143 + Power Suite 8.0.0021</title>
-      <link>https://rsload.net/soft/manager/14024-xmanager-enterprise.html</link>
-    </item>
-    <item>
-      <title>OCCT 17.0.16 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/10376-occt.html</link>
-    </item>
-    <item>
-      <title>Driver Magician 6.5 на Русском + Portable + Lite 5.83</title>
-      <link>https://rsload.net/soft/manager/10342-driver-magician-lite.html</link>
-    </item>
-    <item>
-      <title>WinScript 2.23.1 - оптимизация Виндовс</title>
-      <link>https://rsload.net/soft/optimization/40962-winscript.html</link>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 16:17:31 +0000</lastBuildDate>
     <item>
       <title>O&amp;O ShutUp10 ++ 3.4.1124 + Premium / 1.9.1443.424 на Русском + Portable + Repack</title>
       <link>https://rsload.net/soft/20213-o-o-shutup10.html</link>
@@ -46,6 +30,22 @@
     <item>
       <title>FastCopy 5.12.0 + Pro + Portable на Русском</title>
       <link>https://rsload.net/soft/cleaner-disk/20200-fastcopy.html</link>
+    </item>
+    <item>
+      <title>Movavi Video Suite 2026.1.1 + Portable + Repack + другие ОС</title>
+      <link>https://rsload.net/soft/editor/15926-movavi-video-suite.html</link>
+    </item>
+    <item>
+      <title>Evernote 11.30.6.61146 + x64 на Русском</title>
+      <link>https://rsload.net/soft/manager/10694-evernote.html</link>
+    </item>
+    <item>
+      <title>FxSound 2 1.0.5.0 + Pro 1.2.13 + Repack на Русском + 1.2.6</title>
+      <link>https://rsload.net/soft/optimization/34274-fxsound-2.html</link>
+    </item>
+    <item>
+      <title>AbsoluteTelnet 14.02</title>
+      <link>https://rsload.net/soft/manager/41203-absolutetelnet.html</link>
     </item>
     <item>
       <title>Windows 11 25H2 Rus Enterprise LTSC 26200.8894 - компактная система 1.9 GB</title>
