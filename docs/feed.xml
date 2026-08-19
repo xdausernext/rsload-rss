@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 21:14:47 +0000</lastBuildDate>
-    <item>
-      <title>reaConverter Pro 8.0.238 + Portable + Repack</title>
-      <link>https://rsload.net/soft/converter/27719-reaconverter.html</link>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 21:46:24 +0000</lastBuildDate>
     <item>
       <title>4K Image Compressor Pro 26.0.0.0300 на Русском + Repack</title>
       <link>https://rsload.net/soft/graphics/40225-4k-image-compressor-pro.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 Pro 26H2 x64 Rus Compact Clean - автоустановка, скорость - 1.8 GB</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41732-windows-11-pro-26h2-x64-rus-compact-clean-iso-torrent.html</link>
+    </item>
+    <item>
+      <title>Windows 11 23H2 Pro 22631.7517 - чистая стабильная сборка (Ru mini iso)</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41737-windows-11-23h2-pro-226317517-mini-os-iso.html</link>
     </item>
   </channel>
 </rss>
