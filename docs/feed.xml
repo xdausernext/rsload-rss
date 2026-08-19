@@ -6,7 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 02:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 03:21:51 +0000</lastBuildDate>
     <item>
       <title>Markdown Monster 4.5.0.8 + премиум</title>
       <link>https://rsload.net/soft/editor/32552-markdown-monster.html</link>
