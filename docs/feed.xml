@@ -6,27 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 17:52:33 +0000</lastBuildDate>
-    <item>
-      <title>TubeMate Downloader 6.5.5 + Portable на Русском</title>
-      <link>https://rsload.net/soft/manager/33682-tubemate-downloader.html</link>
-    </item>
-    <item>
-      <title>4K Downloader 6.5.10 + Repack + Portable на Русском</title>
-      <link>https://rsload.net/soft/manager/33704-4ksoftware-4k-downloader.html</link>
-    </item>
-    <item>
-      <title>Vallt Cleaner 1.0.4</title>
-      <link>https://rsload.net/soft/cleaner-disk/41736-vallt-cleaner.html</link>
-    </item>
-    <item>
-      <title>Macrium Reflect 10.0.8944 + 8.1.8854 на Русском x64 + WinPE</title>
-      <link>https://rsload.net/soft/cleaner-disk/11794-macrium-reflect-free.html</link>
-    </item>
-    <item>
-      <title>FileZilla 3.71.0 Pro + Repack + на Русском  + Server + Command Line</title>
-      <link>https://rsload.net/soft/manager/8449-filezilla.html</link>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 18:20:40 +0000</lastBuildDate>
     <item>
       <title>Internet Download Manager 6.43 Build 10 + Repack + Portable</title>
       <link>https://rsload.net/soft/manager/8294-internet-download-manager.html</link>
@@ -46,6 +26,26 @@
     <item>
       <title>Abyssmedia i-Sound Recorder for Windows 7.9.6.1 + на Русском</title>
       <link>https://rsload.net/soft/manager/26485-abyssmedia-i-sound-recorder.html</link>
+    </item>
+    <item>
+      <title>TablePlus 26.9.7 + Pro версия</title>
+      <link>https://rsload.net/soft/manager/34214-tableplus.html</link>
+    </item>
+    <item>
+      <title>JP Software Take Command 36.52.88 x64 с активацией</title>
+      <link>https://rsload.net/soft/editor/11985-take-command.html</link>
+    </item>
+    <item>
+      <title>JP Software CMDebug 36.52.88 + x64 + Премиум</title>
+      <link>https://rsload.net/soft/editor/32209-cmdebug.html</link>
+    </item>
+    <item>
+      <title>JP Software TCC 36.52.88 x64 + полная версия</title>
+      <link>https://rsload.net/soft/editor/11461-tcc-le.html</link>
+    </item>
+    <item>
+      <title>Illustrate dBpoweramp Asset UPnP Premium 2026.08.19 + Другие ОС</title>
+      <link>https://rsload.net/soft/manager/39387-illustrate-dbpoweramp-asset-upnp-premium.html</link>
     </item>
     <item>
       <title>Легендарная Windows 10 20H1 19041.7548 - максимальная скорость, лучшая оптимизация -  1.4 GB</title>
