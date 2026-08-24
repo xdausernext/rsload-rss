@@ -6,39 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 04:12:41 +0000</lastBuildDate>
-    <item>
-      <title>Artifact Interactive Garden Planner 3.8.88 + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/12113-garden-planner.html</link>
-    </item>
-    <item>
-      <title>Xplorer2 Ultimate 6.4.0  + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/11829-xplorer2.html</link>
-    </item>
-    <item>
-      <title>CoolUtils Total Audio Converter 6.1.0.311  + Portable + Repack</title>
-      <link>https://rsload.net/soft/converter/14042-coolutils-total-audio-converter.html</link>
-    </item>
-    <item>
-      <title>RadioCaster 3.7.4.0 - финальная версия</title>
-      <link>https://rsload.net/soft/35180-radiocaster.html</link>
-    </item>
-    <item>
-      <title>HTML5Point 4.1.76 - Multi x64</title>
-      <link>https://rsload.net/soft/converter/34312-html5point.html</link>
-    </item>
-    <item>
-      <title>App Builder 2026.24 + Portable + x64</title>
-      <link>https://rsload.net/soft/editor/23323-app-builder.html</link>
-    </item>
-    <item>
-      <title>W10Privacy 6.3.0 + на Русском</title>
-      <link>https://rsload.net/soft/20427-w10privacy.html</link>
-    </item>
-    <item>
-      <title>VueScan 9.8.57 + x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/document/8304-vuescan.html</link>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 05:07:25 +0000</lastBuildDate>
     <item>
       <title>Notepad++ 8.9.8 + Portable + x64 + на Русском</title>
       <link>https://rsload.net/soft/editor/8606-notepad.html</link>
@@ -46,6 +14,38 @@
     <item>
       <title>WinRepairSuite 2.2.0 - максимальная версия</title>
       <link>https://rsload.net/soft/optimization/41747-winrepairsuite.html</link>
+    </item>
+    <item>
+      <title>Symless Synergy Business 3.6.3</title>
+      <link>https://rsload.net/soft/desktop/41748-symless-synergy-business.html</link>
+    </item>
+    <item>
+      <title>CutBG AI Background Removal 1.1.0</title>
+      <link>https://rsload.net/soft/videourok/41749-cutbg-ai-background-removal.html</link>
+    </item>
+    <item>
+      <title>Manifold System 9.0.182.5 x64</title>
+      <link>https://rsload.net/soft/editor/38813-manifold-system.html</link>
+    </item>
+    <item>
+      <title>SimpleFixAI 1.7.42 Beta</title>
+      <link>https://rsload.net/soft/optimization/41665-simplefixai.html</link>
+    </item>
+    <item>
+      <title>Photo Organizer AI Premium 5.9.8</title>
+      <link>https://rsload.net/soft/manager/41750-photo-organizer-ai-premium.html</link>
+    </item>
+    <item>
+      <title>Spaqi Consulting PC Repair Suite 2.1.2 + x64</title>
+      <link>https://rsload.net/soft/optimization/41531-spaqi-consulting-pc-repair-suite.html</link>
+    </item>
+    <item>
+      <title>SecretDNS 4.0.0 + x64</title>
+      <link>https://rsload.net/soft/security/40712-secretdns.html</link>
+    </item>
+    <item>
+      <title>Балаболка 2.15.0.919 с Русскими голосами + Portable</title>
+      <link>https://rsload.net/soft/document/8298-balabolka.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 28000.2704 для игр - Phoenix Edition</title>
