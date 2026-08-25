@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 17:51:32 +0000</lastBuildDate>
-    <item>
-      <title>iTop Easy Desktop 4.5.0.349</title>
-      <link>https://rsload.net/soft/desktop/40845-itop-easy-desktop.html</link>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 18:21:27 +0000</lastBuildDate>
     <item>
       <title>iSumsoft USBCode 3.1.0.1</title>
       <link>https://rsload.net/soft/security/41753-isumsoft-usbcode.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>GerbView 11.40.0.648 + Portable</title>
       <link>https://rsload.net/soft/editor/33751-gerbview.html</link>
+    </item>
+    <item>
+      <title>Adobe Photoshop Lightroom 9.5.1 + 2026 15.5.1 Classic + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/10402-adobe-photoshop-lightroom.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 28000.2704 для игр - Phoenix Edition</title>
