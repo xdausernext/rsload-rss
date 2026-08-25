@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 04:05:19 +0000</lastBuildDate>
-    <item>
-      <title>Microsoft Edge 151.0.4129.10 + x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/browser/31127-microsoft-edge-7419624.html</link>
-    </item>
-    <item>
-      <title>PingPlotter Pro 5.27.13.1461 + Portable</title>
-      <link>https://rsload.net/soft/traffic/24571-pingplotter.html</link>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 05:00:31 +0000</lastBuildDate>
     <item>
       <title>YUMI Py 1.0.8 - новая версия</title>
       <link>https://rsload.net/soft/cleaner-disk/41706-yumi-py.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>Starus Office Recovery 5.2 - Unlimited версия</title>
       <link>https://rsload.net/soft/cleaner-disk/21354-starus-office-recovery.html</link>
+    </item>
+    <item>
+      <title>Starus Photo Recovery 7.2 - Unlimited версия</title>
+      <link>https://rsload.net/soft/cleaner-disk/21350-starus-photo-recovery.html</link>
+    </item>
+    <item>
+      <title>Starus Data Restore Pack 5.2 - Unlimited версия</title>
+      <link>https://rsload.net/soft/cleaner-disk/38585-starus-data-restore-pack.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 28000.2704 для игр - Phoenix Edition</title>
