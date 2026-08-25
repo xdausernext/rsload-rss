@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 11:18:56 +0000</lastBuildDate>
-    <item>
-      <title>IObit Smart Defrag 12.0.0.536 + Portable + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/10978-iobit-smartdefrag.html</link>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 11:50:25 +0000</lastBuildDate>
     <item>
       <title>YT Downloader 10.6.17 + Repack + Portable</title>
       <link>https://rsload.net/soft/manager/34972-yt-downloader.html</link>
@@ -46,6 +42,10 @@
     <item>
       <title>iSumsoft USBCode 3.1.0.1</title>
       <link>https://rsload.net/soft/security/41753-isumsoft-usbcode.html</link>
+    </item>
+    <item>
+      <title>AmoyShare BeeConverter Pro 3.3.1 x64 + Portable</title>
+      <link>https://rsload.net/soft/converter/38998-amoyshare-beeconverter-pro.html</link>
     </item>
     <item>
       <title>Windows 11 26H1 28000.2704 для игр - Phoenix Edition</title>
