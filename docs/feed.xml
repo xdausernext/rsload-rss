@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 08:28:20 +0000</lastBuildDate>
-    <item>
-      <title>VirtualDub 1.10.4 Stable + Portable / VirtualDub2 2.5.3.1197</title>
-      <link>https://rsload.net/soft/editor/11024-virtualdub.html</link>
-    </item>
-    <item>
-      <title>YT Geek YTDL Pro 12.5.7 + x64</title>
-      <link>https://rsload.net/soft/manager/39921-yt-geek-ytdl-pro.html</link>
-    </item>
-    <item>
-      <title>Q-Dir 12.77 на Русском + x64 + Portable</title>
-      <link>https://rsload.net/soft/manager/9471-q-dir-487-portable-x64.html</link>
-    </item>
-    <item>
-      <title>BackUp Maker Pro 8.409  + Repack + Portable</title>
-      <link>https://rsload.net/soft/cleaner-disk/15794-backup-maker.html</link>
-    </item>
-    <item>
-      <title>ExamDiff Pro 17.0.1.10 x64 + Repack + Portable</title>
-      <link>https://rsload.net/soft/document/10839-examdiff.html</link>
-    </item>
-    <item>
-      <title>Karaosoft Karma 2027.0.5  + Pro</title>
-      <link>https://rsload.net/soft/manager/38811-karaosoft-karma.html</link>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 09:10:21 +0000</lastBuildDate>
     <item>
       <title>MailWasher Pro 8.5.1  + Portable + Repack</title>
       <link>https://rsload.net/soft/browser/13880-mailwasher.html</link>
@@ -52,6 +28,26 @@
       <link>https://rsload.net/soft/manager/29780-grub2win-besplatnaya-programma-posledney-versii.html</link>
     </item>
     <item>
+      <title>XnConvert 1.116 + Portable + на Русском + Repack</title>
+      <link>https://rsload.net/soft/graphics/13230-xnconvert.html</link>
+    </item>
+    <item>
+      <title>3DF Zephyr 9.011 + Portable - новая версия</title>
+      <link>https://rsload.net/soft/graphics/29349-3df-zephyr-pro.html</link>
+    </item>
+    <item>
+      <title>Wondershare PDFelement Pro  12.2.2.4430 + OCR + Portable + Repack</title>
+      <link>https://rsload.net/soft/editor/18941-wondershare-pdfelement-pro.html</link>
+    </item>
+    <item>
+      <title>Adobe DNG Converter 18.6.0 + x64</title>
+      <link>https://rsload.net/soft/converter/17390-adobe-dng-converter.html</link>
+    </item>
+    <item>
+      <title>Adobe Camera Raw 18.6.0 +  x64 + другие ОС</title>
+      <link>https://rsload.net/soft/editor/16714-adobe-camera-raw.html</link>
+    </item>
+    <item>
       <title>Windows 11 26H1 28000.2704 для игр - Phoenix Edition</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41728-windows-11-26h1-280002704-game-phoenix-edition-torrent.html</link>
     </item>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 24H2 LTSC Full-Fast: легкая сборка без мусора (Ru x64 iso 1.7 GB)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41746-windows-11-24h2-ltsc-full-fast-super-lite-ru-x64-iso-17-gb-torrent.html</link>
+    </item>
+    <item>
+      <title>Виндовс 11 26H2 iso 26340.9233 - AirOS (x64 Rus до 11.2027)</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41754-windows-11-26h2-iso-263409233-airos-torrent.html</link>
     </item>
   </channel>
 </rss>
