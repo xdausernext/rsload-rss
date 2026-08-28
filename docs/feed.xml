@@ -6,35 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 17:00:42 +0000</lastBuildDate>
-    <item>
-      <title>Ashampoo Snap Pro 26.0.4 + 365 17.0.6 + 16.1.3 + 15.1 + Repack + Portable</title>
-      <link>https://rsload.net/soft/editor/9585-ashampoo-snap.html</link>
-    </item>
-    <item>
-      <title>CyberLink Screen Recorder Deluxe 4.4.1.31540 + на Русском + Repack</title>
-      <link>https://rsload.net/soft/graphics/29217-cyberlink-screen-recorder-deluxe.html</link>
-    </item>
-    <item>
-      <title>Ahnenblatt 4.51.0.2 + x64 на Русском</title>
-      <link>https://rsload.net/soft/manager/35130-ahnenblatt-322.html</link>
-    </item>
-    <item>
-      <title>Movavi Video Converter 24.5.1 + Repack + Premium</title>
-      <link>https://rsload.net/soft/converter/15921-movavi-video-converter.html</link>
-    </item>
-    <item>
-      <title>Bitvaerk File Juggler 3.1.6</title>
-      <link>https://rsload.net/soft/manager/40109-bitvaerk-file-juggler.html</link>
-    </item>
-    <item>
-      <title>Free YouTube Download Premium 4.5.18.825 + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/8366-free-youtube-download.html</link>
-    </item>
-    <item>
-      <title>Free YouTube to MP3 Converter Premium 4.5.18.825  + Portable</title>
-      <link>https://rsload.net/soft/converter/21334-free-youtube-to-mp3-converter.html</link>
-    </item>
+    <lastBuildDate>Fri, 28 Aug 2026 01:32:55 +0000</lastBuildDate>
     <item>
       <title>Mp3tag 3.36 + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/8573-mp3tag.html</link>
@@ -48,8 +20,32 @@
       <link>https://rsload.net/soft/cleaner-disk/12954-upx.html</link>
     </item>
     <item>
-      <title>Windows 11 26H1 28000.2704 для игр - Phoenix Edition</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41728-windows-11-26h1-280002704-game-phoenix-edition-torrent.html</link>
+      <title>XRecode III 1.188 + Repack + Portable + x64 на Русском</title>
+      <link>https://rsload.net/soft/converter/10136-xrecode.html</link>
+    </item>
+    <item>
+      <title>Topaz Photo Pro 1.7.0 + AI + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/38238-topaz-photo-ai.html</link>
+    </item>
+    <item>
+      <title>Waterfox Classic 2022.11 / 6.7.1.1 + Portable</title>
+      <link>https://rsload.net/soft/browser/12117-waterfox.html</link>
+    </item>
+    <item>
+      <title>VovSoft Log Analyzer 2.5 - рабочая версия</title>
+      <link>https://rsload.net/soft/manager/39672-vovsoft-log-analyzer.html</link>
+    </item>
+    <item>
+      <title>Personal Backup 6.4.13.0 + x64 + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/10133-personal-backup.html</link>
+    </item>
+    <item>
+      <title>WinMerge 2.16.58.2  + x64 + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/12664-winmerge.html</link>
+    </item>
+    <item>
+      <title>Tenorshare 4uKey Password Manager 2.0.10.3</title>
+      <link>https://rsload.net/soft/manager/39363-tenorshare-4ukey-password-manager.html</link>
     </item>
     <item>
       <title>Windows 11 23H2 Pro 22631.7517 - чистая стабильная сборка (Ru mini iso)</title>
@@ -66,6 +62,10 @@
     <item>
       <title>Виндовс 11 26H2 iso 26340.9233 - AirOS (x64 Rus до 11.2027)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41754-windows-11-26h2-iso-263409233-airos-torrent.html</link>
+    </item>
+    <item>
+      <title>Windows 11 Pro - игровая версия 26H1 28000.1719 на Русском без слежки и  TPM</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41588-windows-11-pro-game-os-26h1-280001719-rus-torrent.html</link>
     </item>
   </channel>
 </rss>
