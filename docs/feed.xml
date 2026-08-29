@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 11:14:30 +0000</lastBuildDate>
-    <item>
-      <title>Calibre 9.14.0 + x64 + Portable + Repack</title>
-      <link>https://rsload.net/soft/document/9183-calibre.html</link>
-    </item>
-    <item>
-      <title>TominLab WonderPen 3.2.3.8480 + x64 + другие ОС</title>
-      <link>https://rsload.net/soft/editor/38574-wonderpen.html</link>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 15:40:46 +0000</lastBuildDate>
     <item>
       <title>LDPlayer 14.0.25.1 - на Русском</title>
       <link>https://rsload.net/soft/desktop/32285-ldplayer.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>Prevent Restore Professional 2026.125</title>
       <link>https://rsload.net/soft/cleaner-disk/13178-prevent-restore.html</link>
+    </item>
+    <item>
+      <title>Crapfixer 2.01.41 - net framework 4.8</title>
+      <link>https://rsload.net/soft/optimization/41129-crapfixer.html</link>
+    </item>
+    <item>
+      <title>TexApi Plus 6.0.0  Pro</title>
+      <link>https://rsload.net/soft/manager/40162-texapi-plus-pro.html</link>
     </item>
     <item>
       <title>Windows 11 23H2 Pro 22631.7517 - чистая стабильная сборка (Ru mini iso)</title>
