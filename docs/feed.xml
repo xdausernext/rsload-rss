@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 17:29:31 +0000</lastBuildDate>
-    <item>
-      <title>TubeMate Downloader 6.5.8  + Portable на Русском</title>
-      <link>https://rsload.net/soft/manager/33682-tubemate-downloader.html</link>
-    </item>
-    <item>
-      <title>RightClickTools 2.0.0</title>
-      <link>https://rsload.net/soft/desktop/41761-rightclicktools.html</link>
-    </item>
-    <item>
-      <title>UltFone Windows Data Recovery 11.0.0.16 на Русском</title>
-      <link>https://rsload.net/soft/cleaner-disk/41348-ultfone-windows-data-recovery.html</link>
-    </item>
-    <item>
-      <title>BurnAware 19.3 Pro +  Premium + Portable + Repack</title>
-      <link>https://rsload.net/soft/cleaner-disk/8470-burnaware.html</link>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 20:03:06 +0000</lastBuildDate>
     <item>
       <title>Tenorshare 4DDiG 11.0.0.16 + Portable x64</title>
       <link>https://rsload.net/soft/cleaner-disk/35159-4ddig-76041.html</link>
@@ -46,6 +30,22 @@
     <item>
       <title>Audacity 3.7.9  + Portable + Repack</title>
       <link>https://rsload.net/soft/editor/9607-audacity.html</link>
+    </item>
+    <item>
+      <title>Vovsoft Contact Manager 2.2</title>
+      <link>https://rsload.net/soft/manager/40154-vovsoft-contact-manager.html</link>
+    </item>
+    <item>
+      <title>TimVer 0.14.2  - полная версия</title>
+      <link>https://rsload.net/soft/manager/40516-timver.html</link>
+    </item>
+    <item>
+      <title>MedCalc 23.7.1 + x64+ Full</title>
+      <link>https://rsload.net/soft/manager/31198-medcalc.html</link>
+    </item>
+    <item>
+      <title>TexSender Pro 9.2</title>
+      <link>https://rsload.net/soft/talk/39389-texsender-pro.html</link>
     </item>
     <item>
       <title>Windows 11 23H2 Pro 22631.7517 - чистая стабильная сборка (Ru mini iso)</title>
