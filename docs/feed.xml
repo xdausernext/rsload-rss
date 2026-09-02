@@ -6,15 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 05:12:47 +0000</lastBuildDate>
-    <item>
-      <title>FileCenter Professional 11.0.16 / Suite 12.5.40</title>
-      <link>https://rsload.net/soft/manager/12589-filecenter.html</link>
-    </item>
-    <item>
-      <title>Ultimate Settings Panel 8.0.4  + Portable + Repack+ Pro 3.1</title>
-      <link>https://rsload.net/soft/cam/19872-ultimate-settings-panel.html</link>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 09:45:09 +0000</lastBuildDate>
     <item>
       <title>Mozilla Thunderbird 155.0 + ESR  + Portable</title>
       <link>https://rsload.net/soft/browser/8341-mozilla-thunderbird.html</link>
@@ -46,6 +38,14 @@
     <item>
       <title>EaseUS Partition Master 20.8.0 Build 202609011518 + WinPE + Repack на Русском</title>
       <link>https://rsload.net/soft/cleaner-disk/8912-easeus-partition-master.html</link>
+    </item>
+    <item>
+      <title>NTWind Visual Subst  6.1 + Repack + Portable</title>
+      <link>https://rsload.net/soft/cleaner-disk/32146-visual-subst.html</link>
+    </item>
+    <item>
+      <title>MetaProducts Offline Explorer Enterprise 8.8.0.5016  +  Repack + Portable Offline Browser 8.8.0.5016</title>
+      <link>https://rsload.net/soft/browser/9307-offline-explorer.html</link>
     </item>
     <item>
       <title>Windows 11 23H2 Pro 22631.7517 - чистая стабильная сборка (Ru mini iso)</title>
