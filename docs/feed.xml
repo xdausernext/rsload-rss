@@ -6,31 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 09:45:09 +0000</lastBuildDate>
-    <item>
-      <title>Mozilla Thunderbird 155.0 + ESR  + Portable</title>
-      <link>https://rsload.net/soft/browser/8341-mozilla-thunderbird.html</link>
-    </item>
-    <item>
-      <title>PDFgear 2.1.20  + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/39347-pdfgear.html</link>
-    </item>
-    <item>
-      <title>PDF-XChange Editor Plus 11.0.1.0 + Pro  + Portable + Repack</title>
-      <link>https://rsload.net/soft/editor/15489-pdf-xchange-editor.html</link>
-    </item>
-    <item>
-      <title>Universal Tool Updater 2.6.0</title>
-      <link>https://rsload.net/soft/manager/40797-universal-tool-updater.html</link>
-    </item>
-    <item>
-      <title>DiskGeek 1.1.0</title>
-      <link>https://rsload.net/soft/cleaner-disk/41718-diskgeek.html</link>
-    </item>
-    <item>
-      <title>MusicBrainz Picard 2.13.3 + Portable</title>
-      <link>https://rsload.net/soft/editor/35786-musicbrainz-picard.html</link>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 13:56:12 +0000</lastBuildDate>
     <item>
       <title>AeroAdmin 4.93.3825</title>
       <link>https://rsload.net/soft/traffic/23031-aeroadmin.html</link>
@@ -46,6 +22,30 @@
     <item>
       <title>MetaProducts Offline Explorer Enterprise 8.8.0.5016  +  Repack + Portable Offline Browser 8.8.0.5016</title>
       <link>https://rsload.net/soft/browser/9307-offline-explorer.html</link>
+    </item>
+    <item>
+      <title>Ashampoo Snap Pro 26.0.5 + 365 17.0.6 + 16.1.3 + 15.1 + Repack + Portable</title>
+      <link>https://rsload.net/soft/editor/9585-ashampoo-snap.html</link>
+    </item>
+    <item>
+      <title>Radiant Photo 2.2.1.1042 + Portable + Rus + Repack</title>
+      <link>https://rsload.net/soft/graphics/38337-radiant-photo.html</link>
+    </item>
+    <item>
+      <title>ViewCompanion Premium 17.30.0.1215 + Pro + x64 + Repack + на Русском</title>
+      <link>https://rsload.net/soft/manager/15011-viewcompanion.html</link>
+    </item>
+    <item>
+      <title>Leawo Prof. Media 13.0.1.0  + другие ОС + Multi</title>
+      <link>https://rsload.net/soft/converter/18279-leawo-total-media-converter-ultimate.html</link>
+    </item>
+    <item>
+      <title>AIMP 5.40.2726  + Portable + Repack + Mega</title>
+      <link>https://rsload.net/soft/player/8429-aimp.html</link>
+    </item>
+    <item>
+      <title>W10Privacy 6.3.0.1 + на Русском</title>
+      <link>https://rsload.net/soft/20427-w10privacy.html</link>
     </item>
     <item>
       <title>Windows 11 23H2 Pro 22631.7517 - чистая стабильная сборка (Ru mini iso)</title>
