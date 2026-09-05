@@ -6,11 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Sep 2026 13:35:16 +0000</lastBuildDate>
-    <item>
-      <title>Youtube Downloader HD 6.1.1 + Portable + Repack на Русском</title>
-      <link>https://rsload.net/soft/manager/9484-youtube-downloader-hd.html</link>
-    </item>
+    <lastBuildDate>Sat, 05 Sep 2026 16:21:34 +0000</lastBuildDate>
     <item>
       <title>HttpMaster Pro 7.1.1 + Portable</title>
       <link>https://rsload.net/soft/editor/31765-httpmaster-pro.html</link>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 10 x64 Lite - высокая скорость IoT Enterprise Ru En 19045.6809 (1.7 GB)</title>
       <link>https://rsload.net/soft/windows/windows-10-sborka/41502-windows-10-x64-lite-max-speed-iot-ltsc-190456809-iso.html</link>
+    </item>
+    <item>
+      <title>Windows 11 26H2 Pro iso 1.7 ГБ (новая версия 26300.9278 на Русском - Lite)</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41768-windows-11-26h2-pro-iso-263009278-lite-torrent.html</link>
     </item>
   </channel>
 </rss>
