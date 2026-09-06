@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Sep 2026 15:57:13 +0000</lastBuildDate>
-    <item>
-      <title>VovSoft VCF Editor 3.1 - Премиум версия</title>
-      <link>https://rsload.net/soft/manager/40874-vovsoft-vcf-editor.html</link>
-    </item>
-    <item>
-      <title>Automatic Email Processor 1.15.0 / Ultimate Edition 4.7.4</title>
-      <link>https://rsload.net/soft/manager/23306-automatic-email-processor.html</link>
-    </item>
-    <item>
-      <title>Markdown Monster 4.5.0.17 + премиум</title>
-      <link>https://rsload.net/soft/editor/32552-markdown-monster.html</link>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 17:56:25 +0000</lastBuildDate>
     <item>
       <title>Syncovery Premium 12.7.0.73 + x64 + Full</title>
       <link>https://rsload.net/soft/cleaner-disk/16717-syncovery.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>Windows 10 Debloater 3.0.4 на Русском</title>
       <link>https://rsload.net/soft/36736-windows-10-debloater.html</link>
+    </item>
+    <item>
+      <title>Sandboxie 5.73.4 / Plus 1.18.4 + Repack + Portable</title>
+      <link>https://rsload.net/soft/security/15942-sandboxie.html</link>
+    </item>
+    <item>
+      <title>HyperBoot 0.1 Beta</title>
+      <link>https://rsload.net/soft/cleaner-disk/41770-hyperboot.html</link>
+    </item>
+    <item>
+      <title>Files Backup 1.4.23 - портативная версия</title>
+      <link>https://rsload.net/soft/cleaner-disk/41771-files-backup.html</link>
     </item>
     <item>
       <title>Windows 11 24H2 LTSC Full-Fast: легкая сборка без мусора (Ru x64 iso 1.7 GB)</title>
