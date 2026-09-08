@@ -6,23 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 01:52:07 +0000</lastBuildDate>
-    <item>
-      <title>Ferdium 7.2.3 + x64 + Portable</title>
-      <link>https://rsload.net/soft/talk/40734-ferdium.html</link>
-    </item>
-    <item>
-      <title>Bulk Crap Uninstaller 6.3 + x64</title>
-      <link>https://rsload.net/soft/cleaner-disk/19894-bulk-crap-uninstaller.html</link>
-    </item>
-    <item>
-      <title>Karaosoft Karma 2027.0.19 + Pro</title>
-      <link>https://rsload.net/soft/manager/38811-karaosoft-karma.html</link>
-    </item>
-    <item>
-      <title>Thimeo Stereo Tool 11.05 + x64 + ST-Enterprise 11.03</title>
-      <link>https://rsload.net/soft/optimization/18616-stereo-tool.html</link>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 06:41:05 +0000</lastBuildDate>
     <item>
       <title>Thimeo Relay 11.05 - версия с регистрацией</title>
       <link>https://rsload.net/soft/manager/41410-thimeo-relay.html</link>
@@ -48,8 +32,20 @@
       <link>https://rsload.net/soft/desktop/28631-wincam.html</link>
     </item>
     <item>
-      <title>Windows 11 24H2 LTSC Full-Fast: легкая сборка без мусора (Ru x64 iso 1.7 GB)</title>
-      <link>https://rsload.net/soft/windows/windows-11-sborka/41746-windows-11-24h2-ltsc-full-fast-super-lite-ru-x64-iso-17-gb-torrent.html</link>
+      <title>Directory Opus Pro 13.25.2 + x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/manager/8663-directory-opus.html</link>
+    </item>
+    <item>
+      <title>Blackmagic Design Fusion Studio 21.1 x64 + Repack + Portable</title>
+      <link>https://rsload.net/soft/editor/26084-blackmagic-design-fusion-studio.html</link>
+    </item>
+    <item>
+      <title>Blackmagic Design DaVinci Resolve Studio 21.1 x64 + Repack + Переходы</title>
+      <link>https://rsload.net/soft/editor/20845-davinci-resolve.html</link>
+    </item>
+    <item>
+      <title>MusConv Lifetime 4.10.479 + x64 + Full</title>
+      <link>https://rsload.net/soft/manager/41332-musconv-lifetime.html</link>
     </item>
     <item>
       <title>Windows 10 IoT LTSC 2021 Lite (19044.7663) - супер быстрая ОС для слабых ПК</title>
@@ -66,6 +62,10 @@
     <item>
       <title>Windows 11 26H2 Pro iso 1.7 ГБ (новая версия 26300.9278 на Русском - Lite)</title>
       <link>https://rsload.net/soft/windows/windows-11-sborka/41768-windows-11-26h2-pro-iso-263009278-lite-torrent.html</link>
+    </item>
+    <item>
+      <title>Windows 11 24H2 x64 Корпоративная LTSC сборка - Ru En для стабильной работы</title>
+      <link>https://rsload.net/soft/windows/windows-11-sborka/41310-windows-11-24h2-x64-enterprise-ltsc-iso-ru-en-102025.html</link>
     </item>
   </channel>
 </rss>
