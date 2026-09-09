@@ -6,19 +6,7 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 16:47:07 +0000</lastBuildDate>
-    <item>
-      <title>QueueExplorer Pro 5.0.92 + x64</title>
-      <link>https://rsload.net/soft/manager/40182-queueexplorer-pro.html</link>
-    </item>
-    <item>
-      <title>Office Tool Plus 11.7.9 + x64</title>
-      <link>https://rsload.net/soft/35125-office-tool-plus.html</link>
-    </item>
-    <item>
-      <title>OCCT 17.1.0.99  + Portable + Repack</title>
-      <link>https://rsload.net/soft/manager/10376-occt.html</link>
-    </item>
+    <lastBuildDate>Wed, 09 Sep 2026 19:32:51 +0000</lastBuildDate>
     <item>
       <title>Pepakura Designer 6.3.5 + Portable + Repack + на Русском</title>
       <link>https://rsload.net/soft/editor/9995-pepakura-designer-310a-serial.html</link>
@@ -46,6 +34,18 @@
     <item>
       <title>AIMP 5.40.2727   + Portable + Repack + Mega</title>
       <link>https://rsload.net/soft/player/8429-aimp.html</link>
+    </item>
+    <item>
+      <title>Light Image Resizer 7.6.6.178 + Portable + Repack</title>
+      <link>https://rsload.net/soft/graphics/9628-light-image-resizer.html</link>
+    </item>
+    <item>
+      <title>CyberLink PowerDirector Ultimate 2027 25.0.0904.0 + Repack на Русском</title>
+      <link>https://rsload.net/soft/big-programm/9393-powerdirector.html</link>
+    </item>
+    <item>
+      <title>mIRC 7.85 + Portable</title>
+      <link>https://rsload.net/soft/talk/9270-mirc.html</link>
     </item>
     <item>
       <title>Windows 10 IoT LTSC 2021 Lite (19044.7663) - супер быстрая ОС для слабых ПК</title>
