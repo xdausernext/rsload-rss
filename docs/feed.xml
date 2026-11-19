@@ -6,6 +6,6 @@
     <description>Custom-generated RSS from rsload.net</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 00:34:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 08:07:03 +0000</lastBuildDate>
   </channel>
 </rss>
